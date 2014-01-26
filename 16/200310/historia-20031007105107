@@ -1,0 +1,54 @@
+Six Degrees. The Science of a Connected Age.
+<a href="http://www.amazon.co.uk/exec/obidos/ASIN/0434009083/reflexionesei-21"><img src="http://images-eu.amazon.com/images/P/0434009083.02.MZZZZZZZ.jpg"></a>.  
+<a href="http://www.amazon.co.uk/exec/obidos/ASIN/0434009083/reflexionesei-21">Six Degrees. The Science of a Connected Age.</a> Duncan J. Watts.
+
+<quote>
+I read somewhere that everybody on this planet is separated by only six other people. Six degrees of separation. Between us and everybody else on this planet
+
+<div align="right">
+Ouisa, in Six Degrees of Separation,
+by John guare
+</div>
+</quote>
+
+Aviso: esto no es una crítica del libro, pero tampoco una reseña. Sólo trata de reflejar mis impresiones, sin profundizar demasiado.
+
+Este libro cayó en mis manos por casualidad, echando un vistazo en una biblioteca. Me sorprendió bastante encontrarlo porque tiene que ver con cosas que hemos estado trabajando últimamente y es bastante reciente (y la biblioteca esa, aunque tiene cosas interesantes, no puede presumir de estar en la cresta de la ola, claro).
+
+Empecé a leerlo con mucho interés y lo acabe con mucha rapidez, por una mezcla entre la atracción por el tema, ganas de avanzar para ver si más adelante el libro le metía más a uno en materia y que, en mi opinión, es bastante fácil de leer. 
+Está divido en diez capítulos. En ellos se va mezclando la vida laboral y académica del autor con una descripción más o menos cronológica de sus trabajos y colaboraciones, con algunos saltos hacia atrás en el tiempo para describir experimentos y trabajos de otros autores relevantes. Dicho así puede sonar un poco aburrido, pero lo cierto es que el libro, como ya dije más arriba, se lee muy bien y está escrito  en un estilo bastante claro y directo.
+
+Merece especial recuerdo en mi memoria (Desde que lo acabé han pasado ya un par de semanas, y no tomé notas mientras leía) el capítulo titulado 'Search in Networks' donde, entre otras cosas, se describen los experimentos originales de Milgran: entregó cartas a unos centenares de personas elegidas aletoriamente en Boston y Omaha, Nebraska. Las cartas debían enviarse a una sola persona, un corredor de bolsa (stockbroker) de Sharon, Massachusetts, que trabajaba en Boston. No podían enviarse directamente, sino que debían llegar a personas con las que hubiera una relación de tuteo (<em>first-name basis</em>), tratando de que el receptor fuera alguien más cercano del destinatario final. Naturalmente, si conocían al destinatario, podían enviarselas directamente. El experimento trataba de medir el número de pasos necesarios entre el origen y el destino de cada carta.
+Los conocidos de Milgram pensaban que harían falta cientos de pasos para alcanzar el objetivo, pero lo cierto es que el número se aproximaba a 6 (lo que dió lugar a la famosa frase de los 6 grados de separación).
+Lo curioso de este capítulo es que en él se cuenta como el experimento se llevó a cabo con cerca de 300 personas, 100 de las cuales estaban en Boston. De las otras, sólo la mitad fueron seleccionadas aleatoriamente, siendo la otra mitad gente relacionada con la bolsa (<em>blue chip stock investors</em>).
+De este modo, los famosos grados de separación variaban bastante entre los diferentes colectivos. Al final, resulta que de las 96 personas seleccionadas (más o menos) aletoriamente en Nebraska sólo 18 alcanzaron su objetivo (recuerden que la frase dice: cualquier persona puede alcanzar a cualquier otra ....). Más aún, ni siquiera había posteriores intentos de mejorar las condiciones del experimento, ni siquiera por parte de otros autores, y los otros experimentos realizados por Milgram eran incluso peores en cuanto a resultados. ¿Afecta esto a la idea de mundo pequeño (<em>small-world</em>) según el autor? Se afirma que no y la razón es la relajación en las condiciones del experimento: Milgra restringía su experimento a la elección de una sola persona próxima (sin hacer copias de la carta) pero los experimentos del autor permitirían enviar copias a todos los conocidos de uno, lo que modifica notablemente la transmisión de la famosa carta.
+
+El segundo hallazgo interesante (para mi) también se encuentra en el mismo capítulo y es uno relativo a las condiciones sociológicas de estas conexiones. La idea es, básicamente, que como seres sociales somos multidimensionales: conocemos gente gracias a nuestro trabajo, también por relaciones con nuestra familia o, por ejemplo, a través de nuestras relaciones en el gimnasio (los que vayan a sitios de esos, se entiende), así que gracias a algunas de estas múltiples dimensiones podemos dar saltos mucho más grandes en nuestras relaciones de lo que sería esperable si consideramos sólo nuestra posición social, trabajo o cualquier otro parámetro de forma individual.
+
+Finalmente, la tercera 'historia' que me llamó la atención tiene que ver con la fabricación de automóviles y la organización de Toyota, reflejada en el capítulo 'Innovation, adaptation, and recovery' donde se cuenta el sistema de producción de Toyota, como en un momento dado falla (por un incendio) un proveedor de un elemento crítico de sus automóviles y como la red social de producción se auto-re-organiza y vuelve a la actividad prácticamente normal con muy poco impulso de la dirección, trabajando de forma distribuida gracias a una cultura de conocimiento compartido, y de colaboración entre diferentes empresas a todos los niveles.
+
+Fíjense que hablo de historias y hechos curiosos, porque eso refleja uno de los fallos principales que encuentro en el libro: el autor narra con bastante habilidad diversas historias relacionadas con su investigación y el tema de las redes sociales, pero no profundiza en muchos detalles, dando escasas ideas técnicas del problema. Probablemente ese era el objetivo, y no hay nada que reprochar en eso, pero para mi queda en el debe de una obra que seguramente hubiera quedado más completa.
+En todo caso, la obra se lee con agrado y yo he aprendido bastante, aunque en muchos casos quede en nivel de anécdota. Al final aparece una bibliografía comentada, dando ideas de los textos que se pueden leer para alcanzar un conocimiento más profundo del tema.
+
+
+Algunas historias relacionadas
+El autor del libro y su grupo tienen una página en <a href="http://smallworld.columbia.edu/">SmallWorld</a> que ahora mismo no va, pero que contenía algo de información y la posibilidad de participar en el experimento de los seis grados de separación por correo.
+
+Recientemente se pudo leer sobre el experimento en la prensa, en una nota de agencias.  Por ejemplo en: <a href="http://www.galicia-hoxe.com/periodico/20030812/Sociedade/N9446.asp">A seis 'e-mails' de distancia</a>, en gallego. Yo lo lei en El Heraldo, pero no lo encuentro en su web.
+
+Otras historias
+<a href="http://www.blogosphere.us/index.php?p=51&c=1&tb=1&pb=1&more=1">The Small-World of the Blogosphere (blogosphere.us)</a>.
+
+<a href="http://www.camworld.com/archives/001187.html">Six Degrees of Weblogs</a>.
+
+Hace un año
+<a href="http://fernand0.blogalia.com/historias/2820">Las fronteras se diluyen en la blogosfera</a>.
+
+Además del <a href="http://notiblog.loquesea.org/">Notiblog</a>, puede que les interese saber que también existe algo parecido para Jabber <a href="http://barrapunto.com/article.pl?sid=03/09/02/2129227">Los titulares de Barrapunto en tu cliente Jabber</a> (también sirve para otros sitios que no sean barrapunto, basta con que tengan una fuente RSS).
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0.blogalia.com//historias/11761

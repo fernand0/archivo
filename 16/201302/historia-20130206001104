@@ -1,0 +1,25 @@
+¿El tiempo de las nubes personales?
+Es difícil que nuestros datos estén más seguros bajo nuestro control que en las múltiples nubes que se nos ofrecen por ahí: no tenemos los recursos ni la disciplina suficiente para gestionar todas las tareas desagradables asociadas con ello (copias de seguridad, cifrado, fallos diversos...).  
+
+Sin embargo, me parece muy sugerente la idea de las nubes personales (tomo
+prestado el término de Philip Windley en <a href="http://www.windley.com/liveweb/cloudos/cloudos.shtml">From Personal Computers to Personal Clouds</a>, aunque no hablamos exactamente de lo mismo).  
+
+¿Hay soluciones intermedias?
+
+Parece que sí, si miramos a proyectos como <a href="http://theopenphotoproject.org/">openphoto</a> donde la idea se parece a una nube personal: se trata de una capa almacenamiento de fotografías (hasta donde yo lo entiendo, no me gustaría confundir mis deseos con la realidad) que nos abstrae de la parte de donde están realmente las fotografías alojadas (se puede elegir entre varias 'nubes' de las disponibles por ahí) junto con una capa de presentación de las mismas.
+En un momento dado podríamos cambiar el alojamiento de los archivos a otra parte o incluso a nuestros propios servidores de manera (más o menos) transparente.  
+
+Enlaza este proyecto con otro que comentamos hace algún tiempo en <a href="http://fernand0.blogalia.com/historias/72360">De GitHub a los wikis federados (I)</a> y <a href="http://fernand0.beta.blogalia.com/historias/72367"> De GitHub a los wikis federados (y II)</a>.  
+En aquel caso lo que se podía pasar a nuestro propio sistema (nuevamente con nubes más o menos comerciales pero bajo nuestro control y no dependiendo de los creadores/gestores iniciales de los datos) era información almacenada en wikis.
+
+Finalmente otro proyecto (esta vez comercial) para el correo: <a href="http://www.smartertools.com/smartermail/mail-server-software.aspx">SmarterMail</a> que incluye herramientas para la migración de cuentas de correo entre diferentes sistemas y plataformas pero que, además, permite leer (no he profundizado en la característica pero no lo he visto en otros lectores) correo por imap de otras cuentas. 
+Entiendo yo: puedo tener mi correo almacenado donde sea, y leerlo con este webmail, con un programa de correo tradicional, desde el móvil.... ¿Se imaginan la interfaz de Gmail para leer el correo almacenado en nuestro propio servidor?
+
+El paso siguiente de (o paralelo, no se) al del software libre es cuando tenemos todo el control de nuestros datos con sistemas parecidos a los que nos ofrecen las nubes comerciales, sin depender de infraestructuras complicadas de mantener (para un usuario normal) pero sin quedar atado a la solución que se elija en algún momento concreto.  
+Y con características adecuadas de seguridad, robustez, confiabilidad...
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+nubes" rel="tag">nubes</a>, <a href="http://delicious.com/fernand0/rei+datos" rel="tag">datos</a>, <a href="http://delicious.com/fernand0/rei+información" rel="tag">información</a>, <a href="http://delicious.com/fernand0/rei+personales" rel="tag">personales</a>, <a href="http://delicious.com/fernand0/rei+gestión" rel="tag">gestión</a>, <a href="http://delicious.com/fernand0/rei+manejo" rel="tag">manejo</a>, <a href="http://delicious.com/fernand0/rei+herramientas" rel="tag">herramientas</a>, <a href="http://delicious.com/fernand0/rei+sistemas" rel="tag">sistemas</a></p>
+
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/72989

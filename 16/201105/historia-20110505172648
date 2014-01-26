@@ -1,0 +1,17 @@
+Humor con IPv6
+Las direcciones IP se llevan agotando desde que tengo memoria. Una búsqueda rápida me da un artículo de 2008 en <a href="http://www.taringa.net/posts/info/1642222/Se-terminan-las-direcciones-IP.html">Se terminan las direcciones IP</a>. Seguro que es fácil encontrar anteriores.
+
+De manera muy básica, la dirección IP es un numerito que sirve para identificar cada dispositivo conectado a la red Internet.
+Se compone de 32 bits, lo que significa que hay 2 elevado a 32 posibilidades, lo que da un total insuficiente de direcciones para todo lo que queremos (o querremos) conectar a la red.
+
+Lo que se propone es sustituir el protocolo por una nueva versión que permite (gracias a, adivinen: poner más bits) tener muchas más direcciones y algunas formas alternativas de representarlas.
+
+Denton Gentry juega con esa representación en <a href="http://codingrelic.geekhold.com/2011/04/ipv6-addresses-for-fun-and-profit.html">IPv6 Addresses for Fun and Profit</a> y hay algunos hallazgos de direcciones de las que se puede leer un significado (igual que podría ocurrir con las matrículas de los coches, aunque en este caso siempre trata de evitarse), eso sí, en idioma '<a href="http://en.wikipedia.org/wiki/Leet">Leet</a> (1337, donde se sustituyen algunas letras por dígitos): 
+
+'5ca1:ab1e',  'fa1:afe1', o 'ed1:f1ce', entre otras.
+Curioso.
+
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+internet" rel="tag">internet</a>, <a href="http://delicious.com/fernand0/rei+ipv4" rel="tag">ipv4</a>, <a href="http://delicious.com/fernand0/rei+ipv6" rel="tag">ipv6</a>, <a href="http://delicious.com/fernand0/rei+leet" rel="tag">leet</a>, <a href="http://delicious.com/fernand0/rei+1337" rel="tag">1337</a>, <a href="http://delicious.com/fernand0/rei+humor" rel="tag">humor</a>, <a href="http://delicious.com/fernand0/rei+palabras" rel="tag">palabras</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/69612

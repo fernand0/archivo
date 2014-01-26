@@ -1,0 +1,31 @@
+APIs para todos
+Ya saben ustedes que el API es la 'herramienta' que da acceso a utilizar las componentes o programas que hacen otros. Parece que es imparable la proliferación de esta forma de interactuar con sitios web, que siguen la máximas aquellas de  Dan Gillmor:
+
+<blockquote>
+My readers know more than I do
+</blockquote>
+
+(A lo mejor la gente que usa tus programas, sabe usarlos para cosas que a ti no se te habían ocurrido, o no tenías tiempo de desarrollar).
+
+Y la regla del 90%
+
+<blockquote>
+The first 90% of the code accounts for the first 90% of the development time. The remaining 10% of the code accounts for the other 90% of the development time.
+
+Attributed to Tom Cargill of Bell Labs.
+</blockquote>
+
+Mejor que el segundo 90% te ayuden a desarrollarlo fuera.
+
+En <a href="http://www.programmableweb.com/apis">Web 2.0 API Reference</a> recopilan un buen montón de sitios, y la idea parece ser recopilar información útil sobre los sitios, aunque de momento parece que hay poco más que las URLs y el listado.
+
+También tienen una <a href="http://blog.programmableweb.com/">bitácora</a> y la página web de <a href="http://www.programmableweb.com/">programmableweb</a>.
+
+Lo vi en <a href="http://nolimit-studio.com/dospuntocero/archivos/minipost/listado_de_apis_disponibles/index.php">Listado de APIs Disponibles</a>.  
+
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/32835

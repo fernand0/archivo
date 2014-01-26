@@ -1,0 +1,105 @@
+Cifras y letras (Versión 0.2)
+Con el lío que se montó con eso de que hay medios más digitales que otros, quise yo echar un ojo a los datos (datos, datos y datos ¿Se acuerdan de aquello de programa, programa y programa?). El lío está ahora entre los medios tradicionales con versión digital y los medios digitales 'puros'.  
+
+Todos ellos tienen una característica en común y es que, cuando pueden y de pasada nos dan a los bitacoreros algún palo (recuerden el antepenúltimo en <a href="http://barrapunto.com/journal.pl?op=display&uid=25&id=1898">Las bitácoras (o blogs, o weblogs) y la endogamia</a>, y el penúltimo en <a href="http://www.elsemanaldigital.com/articulos.asp?idarticulo=8788&tema=hechos">La importancia de los encuentros de Barcelona y Madrid</a>).
+
+¿Qué medir?
+Los enlaces, claro: cómo trata la blogocosa a los medios digitales (puros y sin pureza). Aquí me tienen tirando de <a href="http://blogometro.blogalia.com/">blogómetro</a> y haciendo cuentas.
+
+Metodología: elegimos una cadena que represente al sitio y la buscamos en los enlaces para hacer las cuentas correspondientes.
+
+Primero, cuántos enlaces manda la blogocosa a cada uno de los medios; como veremos más tarde, esta medida es un poco heterogénea, porque alguno de estos medios forman parte de la blogocosa.
+
+Segundo, a cuantos enlaces diferentes de de cada sitio apunta la blogocosa: no es lo mismo pegar un golpazo (¿scoop?) un día con alguna cosa concreta que ser enlazado constantemente con diferentes historias.
+
+Tercero, cuántos sitios enlazan a uno determinado: uno puede ser influyente de una manera homogénea, o puede haber casos en los que unos pocos sitios enlazando mucho a uno. 
+
+Finalmente, y dado que algunos de los nuevos medios digitales se reconocen (y los reconocemos, no basta con decirlo uno mismo) como bitácoras a su vez, convendrá ver que opina la blogocosa, excluyéndolos a ellos como (auto)-enlazadores.
+
+Si observan carencias obvias, o medios no incluidos, agradeceré su colaboración para mejorar esto.
+
+Los datos:
+<b>Actualización:</a> maese <a href="http://rvr.blogalia.com/">rvr</a> ha tenido la amabilidad de ordenar los datos por la última columna. Aquí están. También me han hecho notar discrepancias con los datos del abc y el mundo que no son correctas. Espero arreglarlo en la versión de mañana.
+
+<table border=1>
+<tr><th>Cadena buscada<td valign="center">Total<td valign="center">Distintas<td valign="center">Sitios<td valign="center">Exteriores 
+<tr><th>Medios Digitales
+<tr><th>hispanet         <td valign="right">2    <td valign="right">2    <td valign="right">2   <td valign="right">2
+<tr><th>vistazoalaprensa <td valign="right">4    <td valign="right">4    <td valign="right">2   <td valign="right">4
+<tr><th>jovepress        <td valign="right">11   <td valign="right">5    <td valign="right">8   <td valign="right">11
+<tr><th>prnoticias       <td valign="right">22   <td valign="right">14   <td valign="right">14  <td valign="right">22
+<tr><th>hispanidad       <td valign="right">17   <td valign="right">8    <td valign="right">12  <td valign="right">17
+<tr><th>diariodirecto    <td valign="right">27   <td valign="right">23   <td valign="right">15  <td valign="right">27
+<tr><th>elsemanaldigital <td valign="right">51   <td valign="right">35   <td valign="right">34  <td valign="right">51
+<tr><th>diariored        <td valign="right">668  <td valign="right">619  <td valign="right">33  <td valign="right">82
+<tr><th>enredando        <td valign="right">93   <td valign="right">49   <td valign="right">41  <td valign="right">93
+<tr><th>noticiasdot      <td valign="right">105  <td valign="right">85   <td valign="right">42  <td valign="right">105
+<tr><th>lasindias        <td valign="right">259  <td valign="right">88   <td valign="right">57  <td valign="right">182
+<tr><th>periodistadigital<td valign="right">347  <td valign="right">210  <td valign="right">117 <td valign="right">347
+<tr><th>iblnews          <td valign="right">607  <td valign="right">446  <td valign="right">166 <td valign="right">607
+<tr><th>Medios Tradicionales
+<tr><th>larazon          <td valign="right">172  <td valign="right">127  <td valign="right">63  <td valign="right">172
+<tr><th>elperiodico      <td valign="right">297  <td valign="right">237  <td valign="right">89  <td valign="right">297
+<tr><th>lavanguardia     <td valign="right">362  <td valign="right">239  <td valign="right">110 <td valign="right">362
+<tr><th>elpais           <td valign="right">479  <td valign="right">263  <td valign="right">237 <td valign="right">479
+<tr><th>abc              <td valign="right">536  <td valign="right">446  <td valign="right">194 <td valign="right">530
+<tr><th>clarin           <td valign="right">664  <td valign="right">520  <td valign="right">168 <td valign="right">664
+<tr><th>elmundo          <td valign="right">2126 <td valign="right">1393 <td valign="right">465 <td valign="right">2117
+</table>
+
+<!--
+<table border=1>
+<tr><th>Cadena buscada<td>Total<td>Distintas<td>Sitios<td>Exteriores 
+<tr><th>Medios Digitales
+<tr><th>prnoticias       <td>22   <td>14   <td>14  <td>22
+<tr><th>elsemanaldigital <td>51   <td>35   <td>34  <td>51
+<tr><th>lasindias        <td>259  <td>88   <td>57  <td>182
+<tr><th>diariored        <td>668  <td>619  <td>33  <td>82
+<tr><th>periodistadigital<td>347  <td>210  <td>117 <td>347
+<tr><th>jovepress        <td>11   <td>5    <td>8   <td>11
+<tr><th>noticiasdot      <td>105  <td>85   <td>42  <td>105
+<tr><th>enredando        <td>93   <td>49   <td>41  <td>93
+<tr><th>diariodirecto    <td>27   <td>23   <td>15  <td>27
+<tr><th>hispanidad       <td>17   <td>8    <td>12  <td>17
+<tr><th>iblnews          <td>607  <td>446  <td>166 <td>607
+<tr><th>hispanet         <td>2    <td>2    <td>2   <td>2
+<tr><th>vistazoalaprensa <td>4    <td>4    <td>2   <td>4
+<tr><th>Medios Tradicionales
+<tr><th>elpais           <td>479  <td>263  <td>237 <td>479
+<tr><th>abc              <td>536  <td>446  <td>194 <td>530
+<tr><th>elmundo          <td>2126 <td>1393 <td>465 <td>2117
+<tr><th>elperiodico      <td>297  <td>237  <td>89  <td>297
+<tr><th>lavanguardia     <td>362  <td>239  <td>110 <td>362
+<tr><th>clarin           <td>664  <td>520  <td>168 <td>664
+<tr><th>larazon          <td>172  <td>127  <td>63  <td>172
+</table>
+-->
+
+Para leer más sobre este lío, recomiendo (me van a excusar que no ponga el vía esta vez, pero va a ser mejor para no liarles más a ustedes):
+
+<a href="http://www.caspa.tv/archivos/000526.html">Sólo les falta montar un partido político</a>
+<a href="http://www.lasindias.com/articulos/negocios_septiembre.html">Periodista Digital: ¿Caza de brujas o piratería digital?</a>
+<a href="http://www.libertaddigital.com/opiniones/opi_desa_15483.html">Libertad Digital - Daniel Rodríguez Herrera - Enlazado profundo</a> 
+<a href="http://e-periodistas.blogspot.com/2003_10_01_e-periodistas_archive.html">Una polémica ayuda a redefinir el ecosistema de los cibermedios </a>.
+<a href="http://www.lasindias.com/articulos_2/ciberpolitica_octubre.html">Internet en DefCon 1</a>
+<a href="http://www.lasindias.com/articulos_2/prensa_digital_octubre.html">El dragón de las mil cabezas</a>
+<a href="http://www.elsemanaldigital.com/articulos.asp?idarticulo=8868">El debate sobre "periodismo en Internet"</a>
+<a href="http://www.lapaginadefinitiva.com/weblog/articulosglopez/archives/000147.html">Chapapote Discursivo: Follón digital</a> ¿borrado?
+<a href="http://www.europapress.es/europa2003/noticia.aspx?cod=20031013151005&tabID=1&ch=72"> Los medios digitales proponen constituirse como asociación...</a>
+<a href="http://www.escolar.net/MT/archives/000115.html">Escolar.net: A que te denuncio</a>
+<a href="http://enredando.com/cas/enredados/enredados317.html">Periodismo digital</a>
+Estaría bien ordenar todos estas notas (y algunas otras) cronológicamente y ver la historia mejor, pero eso lo dejo para otros (o para mejor ocasión).
+
+¿Qué he aprendido?
+No son tan diferentes: no pillan internet, lo siento. Mucho quejarse sobre el enlace profundo, mucho quejarse por la falta de interactividad, pero son tan parecidos que no se nota la diferencia (hay excepciones, claro). Un ejemplo: en muchos casos es hasta difícil encontrar el enlace profundo de una noticia para que quede constancia de ella de modo permanente.
+
+La blogocosa prefiere a los medios tradicionales. Habrá que esperar a que pase más tiempo, para ver si se consolidan los nuevos medios digitales.
+
+¿Mas?
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0.blogalia.com//historias/12049

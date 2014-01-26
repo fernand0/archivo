@@ -1,0 +1,13 @@
+Cuando el atacante eres tu
+Esto ya casi se está convirtiendo en una saga: después del fallido intento de saltar al honor y la glogia con aquel <a href="http://www.soitu.es/participacion/2008/01/04/u/fernand0_1199483681.html">El supercomputador mas potente: tú</a> en el que apuntábamos que es bastante probable que formemos parte de los problemas de la red actual, leía el otro día el artículo de Merce Molist en <a href="http://www.elpais.com/articulo/portada/routers/domesticos/convierten/objetivo/criminal/elpeputeccib/20080221elpcibpor_1/Tes">Los 'routers' domésticos se convierten en objetivo criminal</a>: paradójicamente, y a pesar de que la gente parece sentirse mas segura poniendo una clave para las conexiones inalámbricas, lo cierto es que eso no es un impedimento para la propagación de distintas amenazas, a través de (claro) nuestro propio PC. 
+
+Una vez infectado (típicamente a través de una <a href="http://research.google.com/archive/provos-2008a.pdf">página web maliciosa (pdf)</a>) ello (él) tiene acceso pleno a nuestro router (seguramente no protegido con clave, aunque la red esté cerrada y <a href="http://www.deltablog.com/2005/05/19/como-descifrar-una-clave-wep-en-3-minutos/">'protegida'</a>) y el gusano (o-lo-que-sea) invasor puede fácilmente modificar nuestros parámetros y configurarlo como mejor le convenga.  
+Seguramente es mas conveniente proteger el router con una buena clave y <a href="http://fernand0.blogalia.com/historias/51920">compartir nuestra WiFi</a> dejándola abierta que lo que hace tanta gente, que es justamente lo contrario, parece.
+O, en todo caso, proteger las dos cosas, claro.
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/wifi" rel="tag">wifi</a>, <a href="http://www.technorati.com/tag/routers" rel="tag">routers</a>, <a href="http://www.technorati.com/tag/malos" rel="tag">malos</a>, <a href="http://www.technorati.com/tag/malosos" rel="tag">malosos</a>, <a href="http://www.technorati.com/tag/amenazas" rel="tag">amenazas</a>, <a href="http://www.technorati.com/tag/seguridad" rel="tag">seguridad</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/55950

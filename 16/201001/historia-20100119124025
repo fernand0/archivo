@@ -1,0 +1,24 @@
+El GPS y la teoría de la relatividad
+Seguro que todo el mundo lo sabe ya pero me ha llamado la atención y lo pongo aquí: <a href="http://www.astronomy.ohio-state.edu/~pogge/Ast162/Unit5/gps.html">Real-World Relativity: The GPS Navigation System</a>.  
+
+<blockquote>
+Because an observer on the ground sees the satellites in motion relative to them, Special Relativity predicts that we should see their clocks ticking more slowly (see the Special Relativity lecture). Special Relativity predicts that the on-board atomic clocks on the satellites should fall behind clocks on the ground by about 7 microseconds per day because of the slower ticking rate due to the time dilation effect of their relative motion. 
+</blockquote>
+
+Básicamente, los satélites se mueven a suficiente velocidad con relación a un observador estático como para que la medición del tiempo sea ligeramente más lenta en el satélite.
+
+Sin embargo,
+
+<blockquote>
+Further, the satellites are in orbits high above the Earth, where the curvature of spacetime due to the Earth's mass is less than it is at the Earth's surface. A prediction of General Relativity is that clocks closer to a massive object will seem to tick more slowly than those located further away (see the Black Holes lecture). As such, when viewed from the surface of the Earth, the clocks on the satellites appear to be ticking faster than identical clocks on the ground. A calculation using General Relativity predicts that the clocks in each GPS satellite should get ahead of ground-based clocks by 45 microseconds per day. 
+</blockquote>
+
+La lejanía de los relojes con respecto a la tierra también tiene su influencia, lo que haría que las mediciones del tiempo los relojes en órbita sean más rápidas que en la tierra.
+
+Ambos efectos se compensan pero no lo suficiente así que hay que enviar relojes 'adecuados' para alcanzar la precisión necesaria.
+
+Lo vi en <a href="http://dev.upian.com/hotlinks/archives/2010/01/11/#item105009">GPS and relativity</a>.
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/gps" rel="tag">gps</a>, <a href="http://www.technorati.com/tag/relatividad" rel="tag">relatividad</a>, <a href="http://www.technorati.com/tag/teorí" rel="tag">teorí</a>, <a href="http://www.technorati.com/tag/práctica" rel="tag">práctica</a>, <a href="http://www.technorati.com/tag/satélites" rel="tag">satélites</a>, <a href="http://www.technorati.com/tag/velocidad" rel="tag">velocidad</a>, <a href="http://www.technorati.com/tag/masa" rel="tag">masa</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/65703

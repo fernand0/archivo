@@ -1,0 +1,20 @@
+Ciencia y programas disponibles
+A través de <a href="http://arstechnica.com/science/2012/02/science-code-should-be-open-source-according-to-editorial/">Nature Editorial: If you want reproducible science, the software needs to be open source</a> nos enterábamos de un editorial de la revista Nature, cuyos autores proponen que para favorecer la reproducibilidad de los artículos científicos el código de los programas informáticos implicados debería estar disponible. También que las revistas deberían tomar las medidas adecuadas para que esto sea así:
+
+<blockquote>
+The authors of the paper suggest a few steps that could help correct the problem. First, more journals should adopt standards for source code accessibility (such as full source code, partial source code, executable, or no code) and ensure researchers provide a sufficient description of software used.
+
+They also suggest that funding bodies could look into tools to integrate code with other elements of the paper. For example, the data and code used to generate a figure could be bundled with the figure itself.
+</blockquote>
+
+La revista no sigue sus propios consejos de apertura y no proporciona ni siquiera el acceso al editorial en cuestión de modo gratuito, pero para los que tengan acceso a la revista, se puede ver en <a href="http://www.nature.com/nature/journal/v482/n7386/full/nature10836.html">The case for open computer programs</a> (y, para el caso, con alguna búsqueda adecuada en la red parece estar disponible).
+
+No es raro que (pero tampoco se si tan habitual) que un científico pida a otro los datos para comparar aproximaciones, o que los genere por su propia cuenta (porque la descripción sea adecuada y suficiente, y porque sea posible en algunas disciplinas). Me viene a la cabeza ejemplos como los conjuntos de datos que proporcionan algunas empresas, investigadores junto con sus artículos, o incluso benchmarks más o menos estandarizados. Pero sería basntante diferente pensar que cuando se publica un artículo uno esté obligado a proporcionar los datos, los programas y todo lo necesario para reproducir y, en su caso, mejorar los resultados.
+
+<strong>Actualización</strong> esta historia se perdió en el desastre del ordenador que alojaba este sitio y ha sido recuperada de mi copia local. 
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+ciencia" rel="tag">ciencia</a>, <a href="http://delicious.com/fernand0/rei+investigación" rel="tag">investigación</a>, <a href="http://delicious.com/fernand0/rei+software" rel="tag">software</a>, <a href="http://delicious.com/fernand0/rei+programas" rel="tag">programas</a>, <a href="http://delicious.com/fernand0/rei+científicos" rel="tag">científicos</a>, <a href="http://delicious.com/fernand0/rei+artículos" rel="tag">artículos</a>, <a href="http://delicious.com/fernand0/rei+reproducibilidad" rel="tag">reproducibilidad</a></p>
+
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/72594

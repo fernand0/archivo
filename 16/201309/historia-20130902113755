@@ -1,0 +1,31 @@
+Publicación de datos delicados en investigaciones
+<a href="http://www.flickr.com/photos/fernand0/2344968277/" title="Coche y café"><img src="http://farm4.staticflickr.com/3178/2344968277_80c33bebd7_m.jpg" width="240"  alt="Coche y café" style="float:left; margin:5px"></a>
+Ya hace unos meses leíamos como algunas revistas recibían sugerencias de no publicar determinados detalles de investigaciones sobre la gripe aviar por su potencial uso como armas biológicas. Puede leerse, por ejemplo <a href="http://www.nytimes.com/2011/12/22/health/security-in-h5n1-bird-flu-study-was-paramount-scientist-says.html">Security in Flu Study Was Paramount, Scientist Says</a>. Se discutía sobre la cantidad de gente que sería apropiado que conociera los resultados, lo que podría hacer un 'malo' con ese conocimiento... Y, claro, lo difícil que es guardar un secreto en cuanto el número de gente que lo conoce es suficiente (aunque sean pocos).
+
+Se puede leer también un análisis interesante en <a hreF="http://www.sciencemag.org/content/336/6088/1527.full">Securing Medical Research: A Cybersecurity Point of View</a>.
+
+Traigo aquí esta historia porque este verano ha vuelto a suceder, esta vez con coches. En <a href="http://www.bbc.com/autos/story/20130621-car-hacking-gets-real">Car-hacking gets real</a> se comentaban los descubrimientos de algunos investigadores (serían capaces de detener un vehículo en marcha a distancia, por ejemplo):
+
+<blockquote>
+Further tests showed that they could render brakes useless, even while the car was running at 40mph, as well as keep a car running when it was turned off. Their testing culminated with a full system shutdown: the horn at full wail, doors locked, automatic-unlock buttons disabled and engine shut off.
+</blockquote>
+
+Para casos así, hay jueces que apoyan la censura y <a href="http://boingboing.net/2013/07/27/at-vws-request-english-cour.html">At VW's request, English court censors Usenix Security presentation on keyless entry systems for luxury cars</a> (o en <a href="http://www.theguardian.com/technology/2013/jul/26/scientist-banned-revealing-codes-cars"> Scientist banned from revealing codes used to start luxury cars</a>.
+
+Actúan en este caso como si la no publicación impidiera que otros sean capaces de obtener resultados similares y así se protege algún bien 'superior'. 
+
+Aunque las técnicas parecen bastante sofisticadas y el proceso de actualizar un coche para mejorar su seguridad no es tan sencillo como un ordenador, habrá que ver como evolucionan estos temas. 
+
+En un mundo en el que cada vez dependemos más de ordenadores y sistemas informáticos cada vez vamos a ver más situaciones de estas y habrá que estar atentos a cómo nos afectan.
+
+Por si hay alguien interesado, en mi blog más técnico, en <a href="http://mbpfernand0.wordpress.com/2012/03/21/seguridad-hogarena/">Seguridad hogareña</a> comentábamos sobre estos temas en distintos campos de la actividad.
+
+¿Dejaremos que sólo investiguen los malos? ¿Publicación restringida o amplia? 
+
+<b>Actualización (2013-09-02):</b> leíamos también en agosto como <a href="http://www.wptv.com//dpp/news/science_tech/samsung-smart-tv-security-flaw-let-hackers-turn-on-built-in-cameras">Samsung Smart TV security flaw let hackers turn on built-in cameras</a> que no es el mismo tipo de amenaza que hablámos arriba, pero está en la misma línea. A lo mejor hay a quién le asusta más esto: alguien podría encender la cámara de nuestra 'Smart TV' de manera remota.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+investigación" rel="tag">investigación</a>, <a href="http://delicious.com/fernand0/rei+publicación" rel="tag">publicación</a>, <a href="http://delicious.com/fernand0/rei+censura" rel="tag">censura</a>, <a href="http://delicious.com/fernand0/rei+resultados" rel="tag">resultados</a>, <a href="http://delicious.com/fernand0/rei+miedo" rel="tag">miedo</a>, <a href="http://delicious.com/fernand0/rei+secretos" rel="tag">secretos</a>, <a href="http://delicious.com/fernand0/rei+seguridad" rel="tag">seguridad</a>, <a href="http://delicious.com/fernand0/rei+industria" rel="tag">industria</a>, <a href="http://delicious.com/fernand0/rei+jueces" rel="tag">jueces</a></p>
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/73700

@@ -1,0 +1,21 @@
+RSS y los servidores. PageRank
+Según <a href="http://news.netcraft.com/archives/2004/07/19/rss_traffic_burdens_publishers_servers.html">RSS Traffic Burdens Publisher's Servers</a> publicado en el sitio de Netcraft el tráfico generado por los lectores de RSS estaría siendo excesivo en algunos casos.  La gente de Infoworld.com dice: 
+
+<blockquote>
+"Our hourly RSS surge has all the characteristics of a distributed DoS attack, and although the requests are legitimate and small, the sheer number of requests in that short time period creates some aggravating scaling issues." 
+</blockquote>
+
+Recuerden, en todo caso, que a los de <a href="http://fernand0.blogalia.com//historias/17324">Netcraft no les gustaban mucho las bitácoras</a>. La nota la saqué de <a href="http://www.caballe.com/2004/07/20.html#a3013">L'accés a les fonts RSS i la infraestructura de xarxa</a>.
+
+Descubro <a href="http://webmasterbrain.com/prog/">Prog</a>, el Page Rank Search Engine. Hace las búsquedas con Google, pero incluye el PageRank de una página. Lo he descubierto en el <a href="http://www.blogpocket.com/view.php?articulo=verpermalink&id=200407203">Tinto de verano (14)</a>.  
+
+<b>Actualización</b>: Jasp <a href="http://fernand0.blogalia.com/comentarios/20349#104983">nos recuerda</a> que él lo contó en <a href="http://jasp.bitacoras.com/archives/000273.html">PageRank de 6</a>.
+
+Hace un año
+<a href="http://fernand0.blogalia.com/historias/10001">e-mail no, courriel</a>
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0.blogalia.com//historias/20349

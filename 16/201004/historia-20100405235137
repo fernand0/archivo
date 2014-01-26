@@ -1,0 +1,12 @@
+Primer concurso internacional: el tuit más largo
+Como todos sabemos, twitter permite mensajes de 160 caracteres como máximo, de los cuales unos cuantos se dedican a nuestro propio identificador. 
+La duda que plantean en <a href="http://blog.ksplice.com/2010/03/longest-tweet/">The 1st International Longest Tweet Contest</a> (en el mejor espíritu de <a href="http://www.ioccc.org/">The International Obfuscated C Code Contest</a>, como nos recuerdan en <a href="http://developers.slashdot.org/story/10/03/25/2134228/International-Longest-Tweet-Contest-Seeks-Entries">International Longest Tweet Contest Seeks Entries</a>) es cuánta información seremos capaces de alojar en un tuit jugando con la forma en que se codifican de los caracteres.
+El concurso finaliza el 11 de abril.
+
+Bola extra: en <a href="http://www.securitybydefault.com/2010/04/cipher-twitter-20.html">Cipher Twitter 2.0</a>, suponiendo que nos conformemos con los caracteres al modo 'tradicional' pero queramos que el significado de los tuits permanezca oculto a los ojos de personas que no queramos que se enteren, nos explica cómo cifrarlos, con versión para Windows y para Linux.  
+A mi me ha recordado al <a href="http://www.jcea.es/programacion/bulletproof.htm">BulletProof</a> de Jesús Cea, que permitía establecer comunicaciones privadas y confidenciales en el IRC (u otros canales).
+
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+twitter" rel="tag">twitter</a>, <a href="http://delicious.com/fernand0/rei+codificación" rel="tag">codificación</a>, <a href="http://delicious.com/fernand0/rei+información" rel="tag">información</a>, <a href="http://delicious.com/fernand0/rei+cifrado" rel="tag">cifrado</a>, <a href="http://delicious.com/fernand0/rei+concurso" rel="tag">concurso</a>, <a href="http://delicious.com/fernand0/rei+seguridad" rel="tag">seguridad</a>, <a href="http://delicious.com/fernand0/rei+tamaño" rel="tag">tamaño</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/66476

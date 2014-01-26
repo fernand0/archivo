@@ -1,0 +1,41 @@
+El monedero biométrico: sangre y dinero
+<a href="http://www.flickr.com/photos/fernand0/20488756/" title="Biceberg. Teclado y pantalla."><img src="http://farm1.staticflickr.com/17/20488756_e6e8d7a62e_m.jpg" width="240" height="180" alt="Biceberg. Teclado y pantalla." style="float:left; margin:5px"></a> 
+Ahora se está hablando mucho del NFC y diversos sistemas de pago en el teléfono móvil, que se supone que todos lo llevamos encima todo el rato y tendría algunas ventajas interesantes. 
+Pero puestos a usar algo que llevamos todo el rato encima, otra opción es pensar en nosotros mismos y, en consecuencia, utilizar la biometría. De eso hablan en <a href="http://spectrum.ieee.org/biomedical/imaging/the-biometric-wallet/0"> The Biometric Wallet</a>.
+
+Somos muy malos gestionando claves:
+
+<blockquote>
+Then, while the golfers were out on the links, the thieves opened the lockers and used "skimming" devices to copy data off the magnetic stripes on club members' bank cards.
+
+The crooks transferred the data onto the mag stripes of blank cards. Then they started testing those cards in ATMs, checking to see how many of the golfers had used the same four-digit number for both their locker codes and their bank personal identification numbers (PINs). The answer: plenty.
+</blockquote>
+
+Más sobre esto, por ejemplo, en <a href="http://www.datagenetics.com/blog/september32012/">PIN analysis ("All credit card PIN numbers in the World leaked")</a>.
+
+El dinero es una abstracción de la realidad (aunque muchas veces lo veamos como una realidad en sí mismo) y también eso sucede con las tarjetas, cuentas bancarias...
+El siguiente paso podrían ser los telefonillos (que algunas empresas relacionadas parecen interesadas en ello) o saltárnoslo directamente:
+
+<blockquote>
+ But the fact that engineers are starting to tackle those challenges is yet another sign that we're approaching another milestone in human culture: a new level of abstraction in the centuries-old virtualization of money.
+</blockquote>
+
+Uno de los problemas de la biometría es la falta de seguridad de los dispositivos, por ejemplo replicando las huellas digitales con silicona o goma:
+
+<blockquote>
+The problem is that they're not secure enough. "Fingerprints are easy to fake," says Kitayama. The techniques for lifting prints from surfaces are known even to armchair detectives, and sophisticated crooks can make copies of a print in silicone or rubber.
+</blockquote>
+
+E incluso (y esto depende del valor de la cosa que se quiere robar) obteniendo el dedo 'real':
+
+<blockquote>
+And if all else fails, hardened criminals have been known to snatch the real fingerprint along with the finger. In a notorious case in Malaysia several years ago, a gang of thieves sliced off a man's finger in order to steal his Mercedes, which used a fingerprint-recognition system for ignition.
+</blockquote>
+
+Igual es mejor que nos roben el móvil, para esto.
+
+Pero la tecnología mejora y este es un futuro posible.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+pin" rel="tag">pin</a>, <a href="http://delicious.com/fernand0/rei+biometría" rel="tag">biometría</a>, <a href="http://delicious.com/fernand0/rei+claves" rel="tag">claves</a>, <a href="http://delicious.com/fernand0/rei+contraseñas" rel="tag">contraseñas</a>, <a href="http://delicious.com/fernand0/rei+seguridad" rel="tag">seguridad</a>, <a href="http://delicious.com/fernand0/rei+dinero" rel="tag">dinero</a>, <a href="http://delicious.com/fernand0/rei+bancos" rel="tag">bancos</a>, <a href="http://delicious.com/fernand0/rei+pagos" rel="tag">pagos</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/72461

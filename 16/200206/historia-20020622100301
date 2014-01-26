@@ -1,0 +1,20 @@
+El aspecto de esta páginaUn poco de auto-observación (con premio, si llegan casi al final).
+El aspecto de esta página cada vez se acerca más a al que a mi me gustaría que tuviese.  Si no es más bonita, es porque no se hacerlo mejor (secundariamente, tampoco tengo mucho tiempo para andar haciendo pruebas, pero eso sólo es secundario). Es cierto que me gustaría hacer algunas pruebas con los colores, pero esencialmente, lo que veo me parece razonable. También me gustaría mejorar el contenido del 'menú'.
+
+El diseño está basado en tablas; ya se que no es lo 'moderno', pero no se si estoy alcanzando ya mi punto de [{fatiga de versiones http://www.techcentralstation.com/1051/techwrapper.jsp?PID=1051-250&CID=1051-061902B}], o echarle la culpa al tiempo. Lo cierto es que la plantilla original estaba hecha con tablas, y no he cambiado eso.
+
+A lo que vamos: habrán observado que el <i>menú</i> (enlaces, calendario, etc.) aparecen a la derecha, en lugar de a la izquierda que es lo más habitual. Hay varias razones, dejénme explicarles: alguna vez leí (y me lo creí) que todos los navegadores tienen la barra de desplazamiento (para subir y bajar con el ratón por la página) a la derecha, con lo que es más fácil que alguien que visite nuestra página tenga el ratón por esa zona; tiene bastante sentido ponerle fácil la navegación dándole las opciones cerca de donde tiene el ratón (también tendría sentido, ponerlas a la izquierda; para que sea más difícil que se 'escape' a otro lado, claro). 
+Eso es una razón, pero dejénme seguir.
+
+Si visitan la página con algunos navegadores antiguos, o navegadores y lectores de páginas para invidentes, se encontrarán con que éstos no saben muy bien cómo mostrar las tablas y, simplemente, se dedican a mostrar lo que van encontrando en el código html, en el mismo orden en que lo encuentran: en muchos casos eso supone leer primero una lista de enlaces, calendarios, publicidad varia, ...  El formato adoptado por esta página, facilita la labor a las personas que acceden a esta página con estos dispositivos.
+
+¿Y todo este rollo para qué, se preguntarán?
+Pues bien, supongamos que, al menos, la segunda parte del razonamiento les convenció (hablaríamos de 'accesibilidad') pero la primera no tanto (un menú tiene que ir donde siempre ha ido, que caramba). Ayer vi que [{Mark Pilgrim http://diveintomark.org/}], un experto en estos temas, hablaba de esto mismo en [{Day 10: Presenting your main content first http://diveintomark.org/archives/2002/06/21.html#day_10_presenting_your_main_content_first}] dentro de una serie de artículos que está escribiendo sobre cómo organizar sitios como este. Además daba un pequeño truquillo para poder poner el menú a la izquierda (si es el gusto de uno), y que sin embargo, el contenido de la página aparezca antes que el menú en la tabla, de forma que mejoramos la accesibilidad de la página. Espero tener tiempo de leerlos todos algún rato.
+
+Para terminar, el dibujo. Alguien tal vez se haya fijado en el dibujito que hay en la parte izquierda, encima de la columna del menú. Alguien habrá pensado: 'vaya dibujo se ha cascado el tipo este, eso lo hace un niño de tres años'. Pues acertó (casi), le recorté a mi hija (4 años) un rectángulo de papel del tamaño de un <i>banner</i> y le dije que me pintara un dibujo. Ella lo hizo rápidamente, me gustó y lo puse. El sábado pasado se lo enseñé en el PC de casa y le gustó mucho, ya somos dos.
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+
+ URL:Reflexiones e irreflexiones 1665

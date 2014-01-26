@@ -1,0 +1,32 @@
+Las cifras de Youtube (y también las mías)
+Lo vi en <a href="http://www.ojobuscador.com/2008/02/01/estudio-sobre-youtube-cuanta-gente-ve-cuantos-videos/">Estudio sobre Youtube: cuánta gente ve cuántos vídeos</a> (y en mas sitios):
+
+<blockquote>
+* El 70% de los vídeos tiene al menos 20 visualizaciones
+* El 50% de los vídeos tiene al menos 100 visualizaciones
+* Menos del 20% de los vídeos tiene más de 500 visualizaciones
+* Menos del 10% de los vídeos tiene más de 1.500  visualizaciones
+* El 3% de los vídeos tiene más de 25.000 visualizaciones
+* Alrededor del 1% de los vídeos tiene más de 500,000 visualizaciones
+</blockquote>
+
+Echándole un ojo a mis propias cifras vi que tengo dos o tres vídeos que por razones misteriosas tienen mas de 1500 visualizaciones pero ya ninguno con mas de 25000 (ni cerca). La gráfica muestra porcentajes, como los datos Algunas cifras y datos sobre YouTube En <a href="http://online.wsj.com/public/article/SB115689298168048904-5wWyrSwyn6RfVfz9NwLk774VUWc_20070829.html?mod=rss_free">Will All of Us Get Our 15 Minutes On a YouTube Video?</a> hay mas cifras relacionadas, esta vez, con tamaño y demografía a la que llegué a partir de <a href="http://www.gadgetizer.com/2006/08/31/youtube-statistics-phenomenal/">YouTube Statistics - Phenomenal</a>, con un resumen: 45 terabytes de almacenamiento, 9305 años para verlos todos uno detrás de otro, ...  
+
+Como decía, yo hice mis propias cuentas (con la ayuda de la herramienta que me prestó Víctor y que ha hecho para analizar los vídeos de las elecciones.  El último en <a href="http://rvr.typepad.com/linotipo/2008/02/los-usuarios--1.html">Los usuarios de YouTube votan (III)</a>).  
+
+Los datos están en <a href="http://spreadsheets.google.com/ccc?key=pFQBCn-B1hMuHyzr1dLXSXQ&hl=en">datos vídeos YouTube fernand0</a>, y son de la semana pasada: había 99 vídeos, el que menos visitas tenía contaba con 5 (y había 14 con menos de 20, ligeramente por encima de la media esa que hemos puesto arriba) (y había 14 con menos de 20, ligeramente por encima de la media esa que hemos puesto arriba), y 7 con más de 1500 visitas esta vez por debajo de la media global.
+
+La gráfica que se ve en la hoja de cálculo parece seguir una ley de potencias (pero no he comprobado los números, que a veces estas cosas parecen pero no son). Y también aproveché para probar el ManyEyes de IBM (recuerden que lo comentamos en <a href="http://fernand0.blogalia.com/historias/52440">Mapas y otros gráficos</a>) y me entró el gustillo por probarlo después de escuchar el podcast <a href="http://itc.conversationsnetwork.org/shows/detail3504.html">Fernanda Viegas & Martin Wattenberg</a> donde dos de sus responsables hablaban del interés de la socialización de los datos.  
+
+El resultado gráfico está en <a href="http://services.alphaworks.ibm.com/manyeyes/view/ScwMDMsOtha6oUkWzj6HM2~">Visualizations :  Visitas en YouTube</a> (necesita Java, pueden ver <a href="http://picasaweb.google.es/ftricas/GrFicas/photo#5172161531385652994">la foto del Gráfico</a>. El grosor de los puntos corresponde a la cantidad de comentarios de los vídeos, si no me equivoco) y los datos 'crudos' están tanto en la hoja de cálculo enlazada arriba y en el propio sitio de many eyes <a href="http://services.alphaworks.ibm.com/manyeyes/data/ScwMDMsOtha6kUUBDh6HM2~">Visitas vídeos de fernand0 en YouTube (ordenadas por visitas)</a>.
+
+En cuanto al many eyes, de momento está bastante limitado aunque sigue una cierta tendencia de proporcionar herramientas para 'programar' sin tener demasiados conocimientos como la de <a href="http://pipes.yahoo.com/pipes/">Yahoo! pipes</a>, <a href="http://www.dapper.net/">dapper</a> y algunas otras. Y también la de dejar que otros jueguen con los datos de uno, a ver que pasa como en la reciente iniciativa del <a href="http://stuff.metafilter.com/infodump/">Metafilter Infodump</a> y algunas mas. 
+
+Por no alargarme, no hablaremos de las eternas preguntas sobre quién es el dueño de los datos, ni lo que significa ser abierto en los tiempos de la web, donde los programas están en un servidor, completamente fuera de nuestro control.
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/datos" rel="tag">datos</a>, <a href="http://www.technorati.com/tag/youtube" rel="tag">YouTube</a>, <a href="http://www.technorati.com/tag/vídeos" rel="tag">vídeos</a>, <a href="http://www.technorati.com/tag/cifras" rel="tag">cifras</a>, <a href="http://www.technorati.com/tag/internet" rel="tag">internet</a>, <a href="http://www.technorati.com/tag/gráficos" rel="tag">gráficos</a>, <a href="http://www.technorati.com/tag/programas" rel="tag">programas</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/55969

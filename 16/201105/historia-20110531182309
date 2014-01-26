@@ -1,0 +1,19 @@
+Anonimato, usos y costumbres
+Me ha gustado leer <a href="http://people.csail.mit.edu/msbernst/papers/4chan-icwsm2011.pdf">[PDF] 4chan and /b/: An Analysis of Anonymity and Ephemerality in a Large Onlice Community</a> porque aporta algunas claves sobre el comportamiento en internet. 
+
+<a href="http://www.4chan.org/">4chan</a> es un foro que se autodefine como el más grande para compartir imágenes en internet. En el artículo se han dedicado a observarlo (en particular el subforo /b/) durante una temporada, en particular los aspectos de anonimato y duración de las imágenes que se suben y extraen algunas conclusiones y medidas interesantes: 
+
+- La mayoría de los hilos duran 5 segundos en la página principal y menos de cinco minutos antes de desaparecer del sitios (porque los hilos con poca actividad se descartan).
+- Hay indicios de que la rápida desaparición de contenidos provoca una mayor participación.
+- La distribución del tiempo de vida de un hilo sigue una ley de potencias, así que la media no da mucha información: desde hilos que desaparecen en 28 segundos, hasta algunos que llegan a durar más de seis horas (que no es mucho si pensamos en el resto de la red).
+- Aunque es posible manipular la duración de una entrada (comentando pero haciéndolo de manera que no 'suba' arriba en el foro, de forma que se contribuye a su desaparición), no suele usarse esta característica.  
+- La mayor actividad se desarrolla por la tarde-noche usaniana.
+- Aunque es posible, es bastante raro publicar utilizando un nombre o seudónimo, parece que el anonimato es la ley no escrita (90.07% frente a, por ejemplo, un 18.6% de comentarios anónimos en Slashdot).
+- Sin embargo, sí que hay un cierto sentimiento de estatus e identidad, mediante elementos no tecnológicos (por ejemplo, publicar una auto-foto con fecha y hora).
+
+Hemos hablado de anonimato en vidas anteriores, en <a href="http://fernand0.blogalia.com/historias/33558">El anonimato como fuente beneficiosa para el debate</a>, <a href="http://fernand0.blogalia.com/historias/34195">Comentarios, gestión de comentarios, y otras cosas</a>, y también me viene a la cabeza el artículo del recién Doctor (¡Felicidades!) Adolfo Estalella, <a href="http://antalya.uab.es/athenea/num7/estalella.pdf">[PDF] Pobrecito hablador. Conflictos por la libre participación en una comunidad colaborativa</a>.
+
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+anonimato" rel="tag">anonimato</a>, <a href="http://delicious.com/fernand0/rei+foros" rel="tag">foros</a>, <a href="http://delicious.com/fernand0/rei+gente" rel="tag">gente</a>, <a href="http://delicious.com/fernand0/rei+participación" rel="tag">participación</a>, <a href="http://delicious.com/fernand0/rei+internet" rel="tag">internet</a>, <a href="http://delicious.com/fernand0/rei+4chan" rel="tag">4chan</a>, <a href="http://delicious.com/fernand0/rei+duración" rel="tag">duración</a>, <a href="http://delicious.com/fernand0/rei+velocidad" rel="tag">velocidad</a>, <a href="http://delicious.com/fernand0/rei+tiempo" rel="tag">tiempo</a>, <a href="http://delicious.com/fernand0/rei+efímero" rel="tag">efímero</a>, <a href="http://delicious.com/fernand0/rei+artículos" rel="tag">artículos</a>, <a href="http://delicious.com/fernand0/rei+papers" rel="tag">papers</a>, <a href="http://delicious.com/fernand0/rei+research" rel="tag">research</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/69792

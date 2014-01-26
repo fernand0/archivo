@@ -1,0 +1,24 @@
+¿Eres un pesado?
+Al menos, desde el punto de vista de la página web parece que mucha (demasiada) gente lo es: muchas imágenes, algunas muy grandes, diversos programitas (en forma de scripts) y mucha sobrecarga que alguien que consulte la página desde un sitio menos privilegiado que el nuestro puede sentir como algo poco agradable.
+
+De eso hablaban en <a href="http://royal.pingdom.com/2008/11/05/load-size-analysis-of-the-top-100-blogs/">Load size analysis of the top 100 blogs</a> y analizan el 'top 100 de Technorati' desde el punto de vista de 'peso' de las páginas correspondientes:
+
+<blockquote>
+* The average total size of the front page was 934 KB.
+* 35% had a front page larger than 1 MB.
+* 26% had a front page smaller than 500 KB.
+* 39% (the largest segment) had a front page between 500 KB and 1 MB.
+</blockquote>
+
+La culpa sería principalmente por las imágenes, seguidas de los scripts.  En media, las páginas tendrían 63 imágenes aunque parece que la mayoría tienen entre 26 y 100(!). También tendrían entre 6 y 15 scripts aunque los hay con más, claro. 
+Además, proporcionan la herramienta para hacer nuestra propia auditoría, en
+<a href="http://tools.pingdom.com/fpt/">Pingdom Tools - Full page test</a>.
+
+Por si alguien quiere comparar o echarle un ojo, el análisis de <a href="http://tools.pingdom.com/fpt/default.asp?url=http%3a%2f%2ffernand0.blogalia.com%2f&id=655078">pingdom Tools para Reflexiones e Irreflexiones</a>: tardaría en cargar 6.9 segundos con un 'peso' de 151.1 Kb de los cuales 103 Kb son externos (y que, es cierto, a veces no van tan rápidos como deberían. En una segunda prueba llega a tardar más de 20 segundos en cargar totalmente, con algunas partes fallidas).
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/peso" rel="tag">peso</a>, <a href="http://www.technorati.com/tag/tamaño" rel="tag">tamaño</a>, <a href="http://www.technorati.com/tag/html" rel="tag">html</a>, <a href="http://www.technorati.com/tag/web" rel="tag">web</a>, <a href="http://www.technorati.com/tag/rapidez" rel="tag">rapidez</a>, <a href="http://www.technorati.com/tag/velocidad" rel="tag">velocidad</a>, <a href="http://www.technorati.com/tag/pesado+pero+mazo+pesado" rel="tag">pesado+pero+mazo+pesado</a>, <a href="http://www.technorati.com/tag/peso+y+contenido" rel="tag">peso+y+contenido</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/61463

@@ -1,0 +1,13 @@
+Contratación algorítmica
+En este caso no se trata de contratación sino un ejercicio de prospectiva.
+¿Cómo saber qué personas son interesantes en un campo concreto cuando uno llega a una nueva ciudad?  
+Esa es la pregunta que se hacía Matt Biddulph en <a href="http://www.hackdiary.com/2010/02/10/algorithmic-recruitment-with-github/">Algorithmic recruitment with GitHub</a>.  
+
+Para elegir a las personas adecuadas (buscaba desarrolladores) eligió <a href="http://github.com/">GigHub</a> (un respositorio de programas) y hacer un análisis de redes sociales para ver los desarrolladores mejor situados (basándose en la centralidad y esas cosas): se trataba de hacer una buena mezcla entre habilidades técnicas (de ahí el lugar elegido) y sociales (poder llamar y/o preguntar a las personas adecuadas en los momentos claves).
+Curioso. Y con el <a href="http://github.com/mattb/flotsam/tree/master/github-recruitment/">código fuente para jugar</a>.  
+
+Seguro que la gente de <a href="http://libresoft.es/">LibreSoft</a> tendrían alguna pista que dar...
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/selección" rel="tag">selección</a>, <a href="http://www.technorati.com/tag/centralidad" rel="tag">centralidad</a>, <a href="http://www.technorati.com/tag/redes+sociales" rel="tag">redes+sociales</a>, <a href="http://www.technorati.com/tag/software" rel="tag">software</a>, <a href="http://www.technorati.com/tag/contratación" rel="tag">contratación</a>, <a href="http://www.technorati.com/tag/selección" rel="tag">selección</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/66033

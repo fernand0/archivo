@@ -1,0 +1,17 @@
+Seguridad para comprar por internet
+Un mínimo consejo para acceder a sitios web en los que puede ser delicado que nos roben los datos de entrada (aunque muchos de esos sitios es cierto que utilizan mecanismos adicionales de autentificación, la mayoría de las tiendas se conforman con correo, clave y tarjeta de crédito sin más) es no utilizar el ordenador con el que navegamos normalmente (o, al menos, cambiar de usuario, aunque la protección sería menor): hay una probabilidad bastante alta de que tengamos instalados programas espía y otros bichitos asociados a nuestra navegación habitual.
+
+Como no siempre disponemos de otro computador y lo de utilizar un usario alternativo puede no ser una buena solución (dependiendo del grado de compromiso del sistema), una propuesta es la de ejecutar un sistema diferente para acceder a este tipo de servicios, como comentan en <a href="http://blogs.computerworld.com/15815/can_ubuntu_save_online_banking">Can Ubuntu save online banking?</a>:
+
+<blockquote>
+Genes says using your regular home PC is acceptable for online banking so long as the bank supports two-factor authentication.
+</blockquote>
+
+Pero, insistimos, pocas tiendas utilizan sistemas de doble factor (la clave y un SMS, o una tarjeta de claves o algún 'invento' similar: el truco está en que aunque nos roben la clave no puedan realizar operaciones porque necesitan algo más que no tienen).
+
+Para estar razonablemente seguros (y siempre que el router con el que accedemos no esté comprometido) una solución nos dicen que puede ser utilizar una distribución 'live' de nuestro Linux favorito (sólo navegar y comprar, que nadie se 'agobie') en un CD, con el que arrancamos, hacemos lo que sea, y nos vamos.
+No es tan sencillo como nos gustaría, pero tampoco es un esfuerzo exagerado.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+seguridad" rel="tag">seguridad</a>, <a href="http://delicious.com/fernand0/rei+compras" rel="tag">compras</a>, <a href="http://delicious.com/fernand0/rei+internet" rel="tag">internet</a>, <a href="http://delicious.com/fernand0/rei+bancos" rel="tag">bancos</a>, <a href="http://delicious.com/fernand0/rei+distribución" rel="tag">distribución</a>, <a href="http://delicious.com/fernand0/rei+live" rel="tag">live</a>, <a href="http://delicious.com/fernand0/rei+linux" rel="tag">linux</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/68111

@@ -1,0 +1,17 @@
+Datos en internet e ideas: el caso de los calendarios
+En <a href="http://www.hyperorg.com/blogger/2010/12/07/berkman-jon-udell-on-community-calendars-and-computational-reasoning/">Jon Udell on community calendars and computational reasoning</a> David Weinberger hace un resumen de la charla de Jon Udell sobre <a href="http://elmcity.cloudapp.net/">Elmcity</a> un proyecto de mezcla, comisariado, y organización de calendarios: con un sistema más menos sofisticado el sistema permite agregar la información que guardan diferentes personas en sus agendas (normalmente, grupos de personas, organizaciones), seleccionar la que sea de interés desde un determinado punto de vista y republicarla en algún formato adecuado.  
+Los principio serían:
+
+<ol> <li>Datos estructurados</li> <li>Transformación de esos datos</li> <li>Publicados y republicables</li></ol>
+
+Aprovecha para introducir los conceptos de pensamiento computacional relacionados con este tipo de procesos:
+
+<ul> <li>Los datos con estructura se puede mostrar de muchas maneras</li> <li>Algunas representaciones son buenas para la gente, otras para las máquinas</li> <li>Los datos amigables para las máquinas pueden redistribuirse sin perder calidad</li> <li>las URL permiten la idea aquella de <q>pequeñas piezas débilmente acopladas</q></li> <li>Las URL pasan datos por referencia, no por valor (y eso tendría que ser fácil de entender para cualquiera, los nativos digitales en particular)</li> <li>Yo debería ser la autoridad y tener el control como fuente de mis propios datos</li> </ul>
+
+En <a href="http://blog.jonudell.net/2010/12/08/automatic-shifting-and-manual-steering-on-the-information-superhighway/">Automatic shifting and manual steering on the information superhighway</a> el propio Jon Udell proporciona enlaces a la presentación (también está disponible en vídeo, mp3, ...) y añade sus propios comentarios.
+
+Definitivamente interesante.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+datos" rel="tag">datos</a>, <a href="http://delicious.com/fernand0/rei+estructurados" rel="tag">estructurados</a>, <a href="http://delicious.com/fernand0/rei+calendarios" rel="tag">calendarios</a>, <a href="http://delicious.com/fernand0/rei+jon" rel="tag">jon</a>, <a href="http://delicious.com/fernand0/rei+udell" rel="tag">udell</a>, <a href="http://delicious.com/fernand0/rei+david" rel="tag">david</a>, <a href="http://delicious.com/fernand0/rei+weinberger" rel="tag">weinberger</a>, <a href="http://delicious.com/fernand0/rei+conferencias" rel="tag">conferencias</a>, <a href="http://delicious.com/fernand0/rei+charlas" rel="tag">charlas</a>, <a href="http://delicious.com/fernand0/rei+pensamiento" rel="tag">pensamiento</a>, <a href="http://delicious.com/fernand0/rei+computacional" rel="tag">computacional</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/68673

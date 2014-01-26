@@ -1,0 +1,29 @@
+Las políticas de creación de contraseñas son contraproducentes
+No se si habíamos hablado del tema por aquí pero el texto me pareció suficientemente breve y atractivo para traerlo. En <a href="http://www.net-security.org/secworld.php?id=12956">Password creation policies are the enemy of secure passphrases</a>.
+
+No he leido el estudio al que hacen referencia, pero es cierto que últimamente se está empezando a estudiar la usabilidad/amigabilidad de los sistemas de seguridad y aparecen algunas sorpresas.
+
+Dicen:
+
+<blockquote>
+... a security developer has concluded that password-creation policies are the enemy of secure passwords ...  
+</blockquote>
+
+Las contraseñas son difíciles de recordar y terminan siendo sencillas:
+
+<blockquote>
+"One of the other major issues we have observed is that people have great difficulty remembering more complex passwords than the six or eight alphabetic strings that most Internet users rely on. Because of this, they fall back on an eight digit passphrase that is usually a family member's name or place of birth, and which - unfortunately - are all too easy to hack using brute force password attacks," he added.
+</blockquote>
+
+Y, si se obliga a que sean muy complejas, terminan escritas en cualquier
+parte:
+
+<blockquote>
+The nett result of this is that users end up with a relatively complex passphrase that is difficult to remember and often results in the employee storing the passphrase on their mobile phone as an 'aide memoir' or - perhaps worse - writing it on a yellow sticky note which is then placed on their desktop monitor.
+</blockquote>
+
+Por si alguien está interesado en el tema, hace algún tiempo pusimos en mi bitácoras más técnica unos enlaces relacionados con las <a href="http://mbpfernand0.wordpress.com/2011/02/08/claves-y-usabilidad/">Claves y usabilidad</a>. Allí hay más enlaces para leer sobre temas relacionados.  
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+contraseñas" rel="tag">contraseñas</a>, <a href="http://delicious.com/fernand0/rei+claves" rel="tag">claves</a>, <a href="http://delicious.com/fernand0/rei+passwords" rel="tag">passwords</a>, <a href="http://delicious.com/fernand0/rei+seguridad" rel="tag">seguridad</a>, <a href="http://delicious.com/fernand0/rei+gente" rel="tag">gente</a>, <a href="http://delicious.com/fernand0/rei+usos" rel="tag">usos</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/72025

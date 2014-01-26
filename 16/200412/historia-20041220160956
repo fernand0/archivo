@@ -1,0 +1,17 @@
+La siguiente generación de agregadores
+En <a href="http://www.dlib.org/dlib/december04/hammond/12hammond.html">The Role of RSS in Science Publishing</a> hablan de RSS, y de agregadores. El artículo empieza hablando del formato y si uno no le dedica un poco mas de atención al leerlo, está tentado de abandonarlo antes de llegar a lo interesante.  
+
+Lo he encontrado en <a href="http://dannyayers.com/archives/2004/12/15/the-role-of-rss-in-science-publishing-syndication-and-annotation-on-the-web/">The Role of RSS in Science Publishing: Syndication and Annotation on the Web</a>, gracias a <a href="http://patricklogan.blogspot.com/2004/12/science-publishing-and-rss.html">Science Publishing and RSS</a> (hay un tercer nivel de indirección, porque a Patrick Logan le leo en uno de los planetas pythoneros que hay, pero no quiero aburrirles).
+
+Para mi lo interesante es que hablan de <a href="http://urchin.sourceforge.net/">Urchin</a> que es un agregador novedoso en cierto sentido, y hace cosas que venimos diciendo aquí desde hace tiempo, puesto que añade a la herramienta una cierta 'inteligencia' en sus sugerencias y presentación del contenido. Tal vez la <a href="http://www.dlib.org/dlib/december04/hammond/fig-5cr.jpg">figura</a> les de alguna idea.
+
+Una pega que tiene es que está escrito en Perl.
+
+Me recuerda a aquél de los japoneses, del que hablamos en <a href="http://fernand0.blogalia.com/historias/19112">WWW2004: los artículos</a>. A ver si puedo probarlo.
+
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/24545

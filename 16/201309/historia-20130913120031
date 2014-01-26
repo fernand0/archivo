@@ -1,0 +1,38 @@
+¿Podemos diferenciarte de un robot?
+<a href="http://instagram.com/p/OR2-IiwB-v/" title="Robot"><img src="http://distilleryimage11.ak.instagram.com/3d663e28e57811e1a4d022000a1d0cc7_7.jpg" width="240"  alt="Meseros" style="float:left; margin:5px"></a> 
+Leía con cierto desinterés el artículo <a href="http://journals.uic.edu/ojs/index.php/fm/article/view/4217/3700">You followed my bot! Transforming robots into influential users in Twitter</a> porque el tema de ganar seguidores o influencia es algo que me parece más numerología que otra cosa. 
+Hasta que llegué a la descripción de las estrategias que habían programado en los 'bots' para hacer los experimentos: 
+
+<blockquote>
+Scenario 1: Following users (fepesoinha bot): The fepessoinha bot followed the maximum limit of users allowed by Twitter (2,000) via API, trying to gain followers.
+Scenario 2: Following and keeping only those who followed it back (scarina bot): In this scenario scarina follows the maximum number of users allowed by Twitter and unfollows those who did not followed it back.
+Scenario 3: Posting tweets (scarina bot): In this scenario we evaluate what happens with influence scores as scarina begins to post tweets automatically.
+Scenario 4: Checking interruptions is posts (scarina bot): Lastly we evaluate what happens with the bot influence when scarina stop posting tweets and stays inactive for a certain period of time.
+</blockquote>
+
+Escenario 1: seguir usuarios sin más.
+Escenario 2: seguir usuarios y luego borrar a los que no nos siguen
+Escenario 3: Publicar tuits.
+Escenario 4: Parar durante un cierto periodo de tiempo.
+
+Seguro que a muchos les suena el escenario 2, que siguen muchas marcas y otros usuarios que quieren ganar seguidores rápidamente (de hecho, he comprobado que para mi fucniona bien como mecanismo de exclusión: cuando alguien nos sigue, esperar un par de días a ver qué pasa sin seguirlo de vuelta; en un par de días ves si el interés por la 'conversación' y la 'relación' era genuino o simplemente buscaba cuestiones numerológicas).
+
+En los resultados, durante los nueve primeros días parece que la estrategia primera es ligeramente mejor (unos 250 seguidores frente a alrededor de 200). 
+
+A partir de ese momento el bot del segundo escenario comenzó a publicar tuits y eso le hace ganar seguidores e influencia (incluso seguidores a los que no había empezado a seguir previamente). 
+
+Curiosamente, en el escenario cuatro (el bot deja de publicar tuits) empieza a ganar más seguidores aunque los 'medidores' de influencia reflejan un pequeño bajón.
+
+Sin embargo, lo que me parece más interesante (si es que alguien llegó hasta aquí) es lo que dicen los autores en sus conclusiones:
+
+<blockquote>
+Our results suggest that many Twitter users need to amass social capital, which is the ideal scenario for bots to infiltrate the system. The users who followed our bots might not be interested in the content they post.  They might be interested in reciprocating the follow link as an attempt to keep our bots as part of their audiences. Thus, our results not only highlight vulnerabilities of popular two influential score systems, but they also reveal aspects of the dynamics of user follower/followee behavior in Twitter.
+</blockquote>
+
+Esto es, parece que hay un número de usuarios de Twitter que estarían aplicando (sus propias) estrategias para ganar seguidores y que eso es un mecanismo que se realimenta.
+
+Dejo como ejercicio para el lector hacer su propio análisis pero el mío va en la línea del título: ¿para qué estamos en Twitter? ¿Utilizamos la herramienta para algo más que para cuestiones numerológicas?
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+twitter" rel="tag">twitter</a>, <a href="http://delicious.com/fernand0/rei+seguidores" rel="tag">seguidores</a>, <a href="http://delicious.com/fernand0/rei+followers" rel="tag">followers</a>, <a href="http://delicious.com/fernand0/rei+influencia" rel="tag">influencia</a>, <a href="http://delicious.com/fernand0/rei+klout" rel="tag">klout</a>, <a href="http://delicious.com/fernand0/rei+bots" rel="tag">bots</a>, <a href="http://delicious.com/fernand0/rei+robots" rel="tag">robots</a>, <a href="http://delicious.com/fernand0/rei+comportamiento" rel="tag">comportamiento</a>, <a href="http://delicious.com/fernand0/rei+usos" rel="tag">usos</a>, <a href="http://delicious.com/fernand0/rei+costumbres" rel="tag">costumbres</a></p>
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/73757

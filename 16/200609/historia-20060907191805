@@ -1,0 +1,26 @@
+¿De quién son mis datos?
+Tim O'Reilly me provoca esa pregunta con su <a href="http://radar.oreilly.com/archives/2006/08/open_source_licenses_are_obsol.html">Open Source Licenses are Obsolete</a> vista en <a href="http://barrapunto.com/article.pl?sid=06/08/02/1526252">Tim O'Reilly: ¿Están obsoletas las licencias libres?</a>. 
+
+Creo que el título le ha perjudicado porque parece que algunos lo han querido intrepretar como que este señor se quisiera cargar de un plumazo las licencias libres y entiendo que no es asi.
+
+Cuando utilizas una aplicación de software libre en tu PC, los datos son claramente tuyos (siempre puedes mirar el programa -o pagar a alguien para que lo mire- y ver qué es lo que almacena el programa; bueno, al menos nos gusta pensarlo, hay <a href="http://www.acm.org/classics/sep95/">matices</a>). 
+
+Cuando se utiliza una aplicación de software privatido, los datos los tienes tu, pero no son completamente tuyos, puesto que no sabes lo que hace el programa que los manipula (y es algo más difícil que en el caso anterior saberlo).
+
+¿Y cuándo tienes una aplicación web? Ni tienes los datos, ni sabes cómo están guardados o qué se guarda, ni tienes acceso directo a ellos (Pensemos, por ejemplo, en GMail: ¿guarda Google sólo mi correo?; horas de navegación, búsquedas, ...)
+
+<blockquote>
+And that, after all, was my message: not that open source licenses are unnecessary, but that because their conditions are all triggered by the act of software distribution, they fail to apply to many of the most important types of software today, namely Web 2.0 applications and other forms of software as a service.
+</blockquote>
+
+Por eso puede ser preocupante aquello del <a href="http://atalaya.blogalia.com/historias/40670">Derecho 2.0</a> que nos contaba JJ. ¿Qué pasa cuando los programas abusan de nosotros a través de nuestros datos?
+
+También tiene otra consecuencia que a O'Reilly no le afecta, pero tal vez nos pueda llegar a nosotros, vista nuestra historia pasada en regulaciones interneteras: ¿se imaginan yendo a consultar su sitio favorito web 2.0 a <a href="http://atalaya.blogalia.com/historias/42701">Biarritz</a> porque a la 'autoridad competente' le da por pensar que nuestro sitio web 2.0 favorito es malo maloso?
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/web2.0" rel="tag">web2.0</a>, <a href="http://www.technorati.com/tag/datos" rel="tag">datos</a>, <a href="http://www.technorati.com/tag/leyes" rel="tag">leyes</a>, <a href="http://www.technorati.com/tag/montilla" rel="tag">montilla</a></p>
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/42739

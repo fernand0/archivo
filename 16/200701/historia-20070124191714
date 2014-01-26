@@ -1,0 +1,20 @@
+Wikipedia y el nofollow
+Primero, una explicación pequeña de alguien que no ha seguido mucho el tema: el nofollow es un atributo que se añade a las direcciones y que indica a los buscadores que no deben tener en cuenta ese enlace a la hora de contar su importancia o influencia (mas o menos, no quiero poner aquí una definición precisa, lo explicó la gente de Google en <a href="http://googleblog.blogspot.com/2005/01/preventing-comment-spam.html">Preventing comment spam</a>).
+
+La cosa es que parece que la Wikipedia ha decidido poner ese atributo a todos los enlaces: <a href="http://www.searchenginejournal.com/?p=4288">All Wikipedia Links Are Now NOFOLLOW</a>.
+
+Me ha hecho gracia porque esa es, precisamente, una de las cosas que se comentaron en blogAUT: si tan preocupados están los bibliotecarios por 'recargar' con su influencia a webs que tal vez no lo merezcan, mi opinión era que  el problema no debería preocupar a la Wikipedia sino a los buscadores; y, si les preocupaba, había medidas técnicas (como el 'nofollow') para quitarle el atractivo a esos enlaces.
+
+El mensaje 'oficial' es este: <a href="http://lists.wikimedia.org/pipermail/wikien-l/2007-January/061137.html">Nofollow back on URL links on en.wikipedia.org articles for now</a> y parece sugerir que es una medida temporal.
+
+No podemos saber, de todas formas, cuál era la influencia de la wikipedia en los buscadores y, en todo caso, el atributo es una recomendación que los buscadores podrían decidir saltarse.
+
+A Antonio, de Error500 no le parece muy bien: <a href="http://www.error500.net/nofollow-wikipedia">Nofollow en la Wikipedia</a>; a Aniekto le parece un gran acierto: <a href="http://www.anieto2k.com/2007/01/22/la-wikipedia-se-suma-a-los-nofollow/">La wikipedia se suma a los nofollow</a>; y a Javier Casares que lo enfoca hacia los concursos de SEO (<a href="http://www.ojobuscador.com/2007/01/22/la-wikipedia-contra-los-concurso-de-seo/">La wikipedia contra los concurso de SEO</a> (optimización para motores de búsqueda).
+
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/wikipedia" rel="tag">Wikipedia</a>, <a href="http://www.technorati.com/tag/nofollow" rel="tag">nofollow</a>, <a href="http://www.technorati.com/tag/buscadores" rel="tag">buscadores</a>, <a href="http://www.technorati.com/tag/spam" rel="tag">spam</a>, <a href="http://www.technorati.com/tag/blogaut" rel="tag">blogAUT</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/46538

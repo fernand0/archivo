@@ -1,0 +1,21 @@
+Patentes, evolución y P2P
+En <a href="http://www.economist.com/science/tq/displaystory.cfm?story_id=9896323&retitled">Dont invent, evolve</a> se habla del uso de <a hreF="http://es.wikipedia.org/wiki/Algoritmos_gen%C3%A9ticos">algoritmos genéticos</a> y evolutivos, en particular refiriéndose (creo) al congreso que se celebró este verano: <a href="http://www.sigevo.org/gecco-2007/">Genetic and Evolutionary Computation Conference 2007</A> (y a la que asistió JJ, a contar lo de  la computación distrubida basada en el navegador: <a href="http://portal.acm.org/citation.cfm?id=1274000.1274083&coll=portal&dl=ACM,GUIDE&type=series&idx=SERIES11264&part=series&WantType=Proceedings&title=&CFID=15151515&CFTOKEN=6184618">Browser-based distributed evolutionary computation: performance and scaling behavior</a>).  Descubro en el resumen del Economist un uso curioso: 
+
+
+<blockquote>
+Perhaps the most cunning use of an evolutionary algorithm, though, is by Dr Koza himself. His team at Stanford developed a Wi-Fi antenna for a client who did not want to pay a patent-licence fee to Cisco Systems. The team fed the algorithm as much data as they could from the Cisco patent and told the software to design around it. It succeeded in doing so. The result is a design that does not infringe Ciscos patentand is more efficient to boot. A century and a half after Darwin suggested natural selection as the mechanism of evolution, engineers have proved him right once again.
+</blockquote>
+
+Para no pagar una patente, se introducen los datos de la patente en el algoritmo, se deja evolucionar el sistema y se obtiene algo parecido a lo de la patente, pero que no es igual. De hecho, lo mejora.
+
+Sobre las patentes P2P, una de nuestras <a href="http://comentaristasdispersas.blogalia.com/">convecinas dispersas</a>: en <a href="http://dotank.nyls.edu/communitypatent/index.php">The peer to patent project</a> se propone la participación del público en general en el proceso de aprobación de patentes. Entiendo que esa participación  ya era posible anteriormente, pero la idea de hacerlo explícitamente abierto y accesible a través de la web puede aportarle un giro y un valor interesante. El sitio en cuestión es <a href="http://www.peertopatent.org/">Peer to Patent</a>.
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/patentes" rel="tag">patentes</a>, <a href="http://www.technorati.com/tag/p2p" rel="tag">P2P</a>, <a href="http://www.technorati.com/tag/algoritmos+genéticos" rel="tag">algoritmos+genéticos</a>, <a href="http://www.technorati.com/tag/máquinas" rel="tag">máquinas</a>, <a href="http://www.technorati.com/tag/avances+modernos" rel="tag">avances+modernos</a></p>
+
+
+
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/52693

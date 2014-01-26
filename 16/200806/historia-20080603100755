@@ -1,0 +1,26 @@
+Bitacoras.com: ¿de qué habla la blogosfera?
+Nos avisaban el otro día pero no había podido mirarlo con un poco de calma hasta ahora: <a href="http://perdomo.bitacoras.com/archivos/2008/05/28/el-nuevo-filtro-social-de-bitacoras-com">El nuevo filtro social de Bitacoras.com</a>.
+
+Esencialmente, es un sistema que da relevancia a lo que se enlaza desde las bitácoras que <a href="http://bitacoras.com/ping">hacen ping a bitacoras.com</a> con la adición de la posibilidad de votarlas: se puede insertar un <a href="http://bitacoras.com/widgets/agregador">botón en cada historia</a> que modificará el 'peso' de las historias en el 'tope'.
+
+Creo que hasta ahora nadie había experimentando con un sistema de votación mixto como este: los enlaces como votos 'puros' (tanto te enlazan, tanto vales) y además la posibilidad de que los lectores del sitio voten (como en menéame o en digg y similares). De momento en la <a href="http://bitacoras.com/">portada de bitacoras.com</a> se ve que, ahora mismo, lo mas intersante serían los temas relacionados con Apple y el iphone, que no está alejado de la impresión que uno se lleva según por qué partes de la blogosfera pasee (<a href="http://picasaweb.google.es/ftricas/Sitios20/photo#5207561354707826002">foto</a>).
+
+Por poner una pega, echo de menos un enlace de texto, ya que todos los propuestos se basan en imágenes (aunque hay algunas realmente pequeñas).  
+
+¿Sabremos por fin qué piensa la blogosfera?
+
+Por cierto, para ponerlo en blogalia, el otro día estuvimos probando con José Luis Orihuela (que lo puso en su <a href="http://blogzine.blogalia.com/">blogzine</a>) el código sería (a ver si lo se poner que se vea bien) para el botón llamado 'mini':
+
+<blockquote>
+&lt;script src="http://bitacoras.com/votar/anotacion/boton/mini/&lt;!-- %blogalia.historiaEnlace --&gt;" type="text/javascript" &gt;&lt;/script&gt; 
+</blockquote>
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/bitacoras.com" rel="tag">bitacoras.com</a>, <a href="http://www.technorati.com/tag/votaciones" rel="tag">votaciones</a>, <a href="http://www.technorati.com/tag/portadas" rel="tag">portadas</a>, <a href="http://www.technorati.com/tag/rankings" rel="tag">rankings</a>, <a href="http://www.technorati.com/tag/topes" rel="tag">topes</a></p>
+
+
+
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/57766

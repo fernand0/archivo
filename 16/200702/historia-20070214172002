@@ -1,0 +1,24 @@
+A veces veo grafos blogosféricos
+Trabajar en informática gráfica es bastante agradecido (sobre todo si lo comparas con estudiar, digamos, las propiedades de las <a href="http://en.wikipedia.org/wiki/Petri_net">Redes de Petri</a>, por decir algo). Sin embarglo, hay grafos que si que tienen su faceta agradecida, y de ellos vamos a hablar, en cuanto a representaciones gráficas y visuales de entidades blogosféricas.  
+
+Primero, unos que ya tienen algunos días: nos lo contaba vanesa en <a href="http://www.deakialli.com/2006/12/21/surfing-delicious-network/">Surfing delicious network</a>. Se trata del <a href="http://www.twoantennas.com/projects/delicious-network-explorer/">del.icio.us network explorer</a> y no he podido probarlo  porque no tengo Java instalado. Ya vendrán tiempos mejores.  
+
+En todo caso en <a href="http://www.whatspop.com/blog/2006/03/visualizing-my-delicious-tags.cfm">Visualizing my del.icio.us tags</a> hay una alternativa en Python, aunque no nos da el programa, sino que se ofrece a elaborar el grafo si le mandamos los datos.
+
+Luego, en <a href="http://www.mvblogs.org/visual.php">la blogosfera de las Maldivas</a> podemos ver justamente eso: enlaces entre bitacoreros de aquella zona en una curiosa representación.
+
+Otra representación gráfica, esta vez de la blogosfera política francesa (en flash, si no me equivoco): <a href="http://www.observatoire-presidentielle.fr/?pageid=3">La blogosphère politique</a>. Se puede navegar (entiendo que como el primero de Vanesa).  La nombró José Luis Orihuela en <a href="http://www.ecuaderno.com/2006/12/23/la-blogopole-mapa-de-la-blogosfera-politica-francesa/">La blogopole: mapa de la blogosfera política francesa</a>.
+
+Finalmente, <a href="http://qix.it/archive/20061201/sei-gradi-separazione">Sei gradi di separazione</a>, de ludo (el desarrollador del tope blogosférico <a
+href="http://top.blogs.es/">top.blogs.es</a> y su equivalente italiano).  
+Me enteré por  <a href="http://www.visualcomplexity.com/vc/project.cfm?id=401">Mapping the Italian Blogosphere</a>. Creo que Julio Alonso también lo nombró, pero no lo encuentro ahora.
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/grafos" rel="tag">grafos</a>, <a href="http://www.technorati.com/tag/blogosfera" rel="tag">blogosfera</a>, <a href="http://www.technorati.com/tag/representación" rel="tag">representación</a>, <a href="http://www.technorati.com/tag/navegación" rel="tag">navegación</a></p>
+
+
+
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/47160

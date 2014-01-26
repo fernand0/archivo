@@ -1,0 +1,33 @@
+¿Cómo son las redes de gente en Facebook?
+Me gustó la entrada <a href="https://www.facebook.com/note.php?note_id=10150388519243859">Anatomy of Facebook</a>, donde se hacen algunos análisis de los datos de la gente que 'vive' en Facebook y cómo son.
+
+Se comentó bastante por ahí, sobre todo por la cuestión esa de los grados de separación: <a href="http://www.nytimes.com/2011/11/22/technology/between-you-and-me-4-74-degrees.html">Separating You and Me? 4.74 Degrees</a>.
+
+Pero también es interesante ver cómo la mediana (si ponemos todos los datos en una tira, la mediana es el que quedaría justo en la mitad) en el número de amigos es de 100 (y de paso se comenta la paradoja esa de que mis amigos suelen tener más amigos que yo).
+
+En particular, 
+
+<blockquote>
+As you can see above, only 10% of people have less than 10 friends, 20% have less than 25 friends, while 50% (the median) have over 100 friends.  Meanwhile, because the distribution is highly skewed, the average friend count is 190. An important finding from our study, however, is that the distribution is not nearly as skewed as earlier studies of social networks have suggested.
+</blockquote>
+
+solamente un 10% de la gente tiene menos de diez amigos, un 20% menos de 2 y la mitad tienen más de 100.  
+Contrasta con otros estudios donde aparecen leyes de potencia aunque, tal vez, la idea de la amistad en Facebook (que ha de ser recíproca) tenga alguna influencia en eso.
+
+En Facebook, la mediana del número de amigos es superior al propio número de amigos para el 84% de los usuarios (eso de que mis amigos tienen más amigos que yo,
+como decíamos antes).
+
+Sobre las distancias, lo de los seis grados de separación pasó a la historia (al menos, si estás en Facebook; pregunta: ¿la distancia cuando no estás en Facebook cuenta como infinito?):
+
+<blockquote>
+We found that six degrees actually overstates the number of links between typical pairs of users: While 99.6% of all pairs of users are connected by paths with 5 degrees (6 hops), 92% are connected by only four degrees (5 hops). And as Facebook has grown over the years, representing an ever larger fraction of the global population, it has become steadily more connected. The average distance in 2008 was 5.28 hops, while now it is 4.74.
+</blockquote>
+
+No queda muy claro si estos números son reales o fruto de algún análisis estadístico (puesto que no se explica cómo se calculó) pero seguramente es un estudio más amplio y completo que cualquiera de los que se han hecho basados en cartas (el experimento de Milgram) o cadenas en internet de sujetos auto-seleccionados.
+
+Finalmente, hay un análisis de las edades de los amigos y parece cumplirse la idea de que los grupos de amigos son de edades similares.
+También territorialmente cercanas.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+redes" rel="tag">redes</a>, <a href="http://delicious.com/fernand0/rei+sociales" rel="tag">sociales</a>, <a href="http://delicious.com/fernand0/rei+facebook" rel="tag">facebook</a>, <a href="http://delicious.com/fernand0/rei+sna" rel="tag">sna</a>, <a href="http://delicious.com/fernand0/rei+análisis" rel="tag">análisis</a>, <a href="http://delicious.com/fernand0/rei+social" rel="tag">social</a>, <a href="http://delicious.com/fernand0/rei+network" rel="tag">network</a>, <a href="http://delicious.com/fernand0/rei+analysis" rel="tag">analysis</a>, <a href="http://delicious.com/fernand0/rei+estudios" rel="tag">estudios</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/71111

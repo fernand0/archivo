@@ -1,0 +1,41 @@
+Los amigos de mis amigos ...Ya hace días que tengo por mi mesa un documento bastante interesante.  Habla sobre un nuevo uso del RDF, para mostrar relaciones dentro de comunidades virtuales. Ahora que andamos a la greña con los hermanos del sur, no vendrá mal hablar un poco de amistades y relaciones, aunque sea con máquinas por enmedio. 
+
+El invento en cuestión se llama FOAF (<em>Friend Of A Friend</em>) y está explicado en [{XML Watch: Finding friends with XML and RDF http://www-106.ibm.com/developerworks/xml/library/x-foaf.html}]. La idea es usar el RDF para describir personas y expresar relaciones entre ellas.  Un ejemplo de la descripción (adaptado del que sale en el listado 1 de developerWorks):
+<table border="1" cellspacing="0" cellpadding="5" width="60%" bgcolor="#CCCCCC">
+<tr><td><pre><code>
+&lt;rdf:RDF
+&nbsp;xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+&nbsp;xmlns:foaf="http://xmlns.com/foaf/0.1/"&gt;
+&lt;foaf:Person&gt;
+&nbsp;&lt;foaf:name&gt;Fernando&lt;/foaf:name&gt;
+&nbsp;&lt;foaf:mbox rdf:resource="mailto:fernand0ENhotpop.com"
+/&gt;
+&lt;/foaf:Person&gt;
+&lt;/rdf:RDF&gt;</code></pre></td></tr>
+</table>
+Vamos, que hay alguien que se llama Fernando, y su mail es el que aparece allí. La descripción de una persona puede contener más información (alias, trabajo, foto, ...).
+
+Lo interesante viene con la propiedad <em>knows</em>, que es la que sirve para hablar de los 'amigos'. Por ejemplo, podríamos añadir dentro del apartado anterior algo así como:
+<table border="1" cellspacing="0" cellpadding="5" width="60%" bgcolor="#CCCCCC">
+<tr><td><pre><code>
+&lt;foaf:Person&gt;
+     &nbsp;&lt;foaf:name&gt;Fernando&lt;/foaf:name&gt;
+     &nbsp;&lt;foaf:mbox rdf:resource="mailto:fernand0ENhotpop.com" /&gt;
+       &nbsp;...
+     &nbsp;&lt;foaf:knows&gt;
+          &nbsp;&lt;foaf:Person&gt;
+               <span class="boldcode">&nbsp;&lt;foaf:mbox rdf:resource="mailto:rvrENgulic.org" /&gt;
+               </span>&nbsp;&lt;foaf:name&gt;Víctor&lt;/foaf:name&gt;
+          &nbsp;&lt;/foaf:Person&gt;
+     &nbsp;&lt;/foaf:knows&gt;
+&lt;/foaf:Person&gt;
+</code></pre></td></tr>
+</table>
+
+Las descripciones se pueden mezclar, y establecer 'familias' de relaciones entre personas. ¿Tendrá éxito? el tiempo lo dirá. Para saber más, leer el artículo que he nombrado (del que se han adaptado los ejemplos). También se puede visitar [{FOAF: the 'friend of a friend' vocabulary http://xmlns.com/foaf/0.1/}], y jugar con el [{FOAF-a-matic http://www.ldodds.com/foaf/foaf-a-matic.html}] que nos ayuda en la creación de las descripciones.
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+
+ URL:Reflexiones e irreflexiones 1992

@@ -1,0 +1,29 @@
+De GitHub a los wikis federados (y II)
+El otro día hablábamos en la primera parte de esta serie, <a href="http://fernand0.blogalia.com/historias/72360"> De GitHub a los wikis federados (I)</a> de las características sociales de GitHub.
+Nos toca ahora hablar de los Wikis y de lo que se puede aprender de otros ecosistemas para incorporarlo a las herramientas disponibles.
+
+En este caso se trata de <a href="http://www.wired.com/wiredenterprise/2012/07/wiki-inventor/">Wiki Inventor Sticks a Fork in His Baby</a>. El diagnóstico es claro: aunque los wikis son herramientas democráticas para creación de contenidos, al final siempre hay alguien que administra la herramienta y que constituye un punto de fallo. Nuestra edición puede quedar en los <a href="http://es.wikipedia.org/w/index.php?title=Museo_Mar%C3%ADtimo_del_Cant%C3%A1brico&diff=prev&oldid=30188239">cambios que nunca llegaron a ser aceptados</a>. 
+Siempre se puede iniciar nuestro propio proyecto y en esa línea los indianos proponían las <a hreF="http://lasindias.net/wiki/index.php?title=Contextopedia">contextopedias</a> y Alfredo Romeo las <a href="http://www.aromeo.net/archives/000902.html">Locapedias</a>.
+Comentamos sobre ello en <a href="http://fernand0.blogalia.com/historias/44931"> Locapedias: entre las contextopedias y la Wikipedia</a> o <a href="http://fernand0.blogalia.com/historias/40920"> La relevancia en tiempos de abundancia</a>.
+
+Pero hay un problema: es difícil 'heredar' lo que sea valioso y que nos interese de la fuente original. Y allí es donde ataca el creador original de los wikis, Ward Cunningham: si queremos crear nuestra propia información a partir de la que hay en otro sitio bastaría con darle a un botón, copiando el contenido y a partir de allí modificando lo que nos interese (como sucede en GitHub).
+
+<blockquote>
+This new creation taps into the communal ethos fostered by GitHub, a place where software developers can not only collaborate on software projects but also instantly "fork" these projects, spawning entirely new collaborations. 
+</blockquote>
+
+Por lo que los wikis se convierten en federados, donde es extremandamente sencillo construir uno nuevo a partir de la información de uno pre-existente:
+
+<blockquote>
+The federated wiki is an attempt to solve these problems. As a starting point, he has built a new piece of software -- dubbed The Smallest Federated Wiki -- to demonstrate the concept. The radical idea of the wiki was to put an edit button on every page. The radical idea of the federated wiki is to put a "fork" button on every page.
+</blockquote>
+
+Uno de los momentos más 'dulces' en mi memoria de la histora de BarraPunto fue cuando en el sitio se introdujeron las 'ecoluciones': se podía pasar cualquier historia del sitio a nuestra bitácora y editarla o dejarla tal cual. No perduró por problemas de compatibilidad con el slashcode y, seguramente, porque los ususuarios no la pedimos con suficiente fuerza.
+
+Ahora ha sido reinventada con una granularidad menos fina, pero que tal vez le de una nueva y más útil vida a los wikis.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+github" rel="tag">github</a>, <a href="http://delicious.com/fernand0/rei+wikis" rel="tag">wikis</a>, <a href="http://delicious.com/fernand0/rei+federados" rel="tag">federados</a>, <a href="http://delicious.com/fernand0/rei+herramientas" rel="tag">herramientas</a>, <a href="http://delicious.com/fernand0/rei+contextopedias" rel="tag">contextopedias</a>, <a href="http://delicious.com/fernand0/rei+locapedias" rel="tag">locapedias</a>, <a href="http://delicious.com/fernand0/rei+información" rel="tag">información</a>, <a href="http://delicious.com/fernand0/rei+ecolución" rel="tag">ecolución</a>, <a href="http://delicious.com/fernand0/rei+compartir" rel="tag">compartir</a>, <a href="http://delicious.com/fernand0/rei+modificar" rel="tag">modificar</a>, <a href="http://delicious.com/fernand0/rei+colaboración" rel="tag">colaboración</a>, <a href="http://delicious.com/fernand0/rei+fork" rel="tag">fork</a>, <a href="http://delicious.com/fernand0/rei+difusión" rel="tag">difusión</a></p>
+
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/72367

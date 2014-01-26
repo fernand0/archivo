@@ -1,0 +1,18 @@
+Publicando en blogalia
+Algunos de ustedes ya saben que para enviar historias a blogalia (o a cualquier otro sitio) utilizar el formulario es una aventura: la conexión puede fallar, el navegador puede fallar, el sistema puede fallar .... y nosotros quedarnos sin esa magnífica historia que tan bonita nos había quedado. Ya habíamos hablado de nuestro programa y otros similares en [{Herramientas para publicar y visualización de contenidos http://fernand0.blogalia.com/historias/3450}]. 
+
+Aviso: Si usted no es un lector inclinado a los asuntos técnicos, probablemente no encuentre nada interesante a partir de aquí.
+
+He estado actualizando el programa y lo he colocado en [{blogalia.py http://cvs.sourceforge.net/cgi-bin/viewcvs.cgi/blogalia/ecolucionador/blogalia.py?rev=HEAD&content-type=text/vnd.viewcvs-markup}], en el repositorio que montó [{rvr http://rvr.blogalia.com/}] para guardar nuestros propios cacharritos bitacoreros: [{blogalia en Sourceforge.net http://sourceforge.net/projects/blogalia}].  Está escrito en Python, y utiliza la API de blogger que también se puede usar en blogalia. También hay funciones para 'pelearse' directamente con los formularios, que he dejado allí como referencia para el futuro [{ecolucionador universal http://fernand0.blogalia.com/historias/3252}].
+
+Me consta que hay blogalitas aficionados al lenguaje, asi que tal vez les sea de utilidad. Me consta que también hay blogalitas que no tienen (y posiblemente no tendrán próximamente) el intérprete de Python, así que experimentaré con [{Jython http://www.jython.org/}] (que haría que el programa funcione si uno tiene la máquina virtual de Java) y [{py2exe http://starship.python.net/crew/theller/py2exe/}] que debería generar un ejecutable para Windows. 
+
+El futuro inmediato de este programa es que 'sepa' hacer llamadas a las bitácoras que usan [{trackback http://fernand0.blogalia.com/historias/3033/}], utilizando la [{tblib: A TrackBack Library in Python http://postneo.com/projects/tblib/}] que es lo que voy a probar a continuación.
+
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0.blogalia.com//historias/6733

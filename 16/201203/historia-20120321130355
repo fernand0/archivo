@@ -1,0 +1,59 @@
+Arquitectura sin arquitectos y otras actividades sin profesionales
+En <a href="http://www.cs.uni.edu/~wallingf/blog/archives/monthly/2012-02.html#e2012-02-15T16_41_28.htm">Architecture Without Architects</a> un texto sobre cómo los no profesionales pueden hacer algunas cosas relacionadas con determinadas profesiones sin tener los títulos ni la educación formal correpondiente (y no necesitándolo), lo que no nos debe llevar a confundir unas cosas con otras.
+
+Sin embargo, algunas actividades que parecen obvias (decorar tu casa, pero haciendo cosas medio sofisticadas) no alcanzan su equivalente en el mundo informático (y, cuando lo hacen, son elevados a la categoría de los profesionales, que en algunos casos puede ser peligroso).  
+
+<blockquote>
+So, it turns out that Architecture Without Architects is not about the same sense of "without architect" that we in the software world usually mean.  Agile developers are, for the most part, professionals, not hobbyists or regular Joes cobbling together programs on the side.  Part of that is cultural. People who would never think of writing a program for themselves think nothing about diddling around their houses. Part of it is technological. It's pretty easy to go to the nearest home improvement center and buy modular components that non-professionals can use to change the shape and decoration of their houses. Programming, not so much.  
+</blockquote> 
+
+Y habla de un proyecto del que ya hemos hablado en otra parte, <a href="http://fernand0.blogalia.com/historias/68196">Los científicos programan mal</a>:
+
+<blockquote>
+In yet other cases, they retain their professional identity in another discipline and write code to help them do their jobs. Greg Wilson's Software Carpentry project is aimed at one such group of people: professional scientists who find themselves writing and maintaining software as an essential part of doing their science. Rudofsky may be right when he chides us for attributing exceptional insight to professional architects, and if so we are certainly right not to attribute exceptional insight to pedigreed software developers. But Wilson is building a brand by reminding us that, while it may not take exceptional insight to write programs, doing it well does require some skill and knowledge.
+</blockquote>
+
+Se trata de formar a unos profesionales (en este caso científico) en otra disciplina (informática) que utilizan y necesitan pero no lo hacen todo lo bien que debieran.
+
+Por ejemplo ¿un alcalde programando? <a href="http://www.bbc.co.uk/news/technology-16440126">New York Mayor Michael Bloomberg takes coding course</a>. En <a href="http://www.codecademy.com/">Codecademy</a>.
+
+Finalmente, algunos avisos, en <a href="http://software-carpentry.org/2011/12/what-ive-learned-so-far/">What I've Learned So Far</a>. El resumen: 
+
+- la enseñanza en línea no parece ser tan efectiva como la que se realiza en persona
+- las herramientas son un asco
+- si el contenido es el rey, la comunidad es la reina, papa, emperador y presidente para siempre
+- si no tienes una manera de medir si lo conseguiste o no, fracasarás 
+- si no inviertes tiempo en ver lo que hacen otros, fracasarás
+
+<blockquote>
+Online teaching isn't as effective as in-person teaching.
+Today's tools suck.
+If content is king, then community is queen, pope, emperor, and president-for-life.
+If you don't know how to tell if you succeeded, you're going to fail.
+If you don't take the time to explore what other people have done, you deserve to fail.
+</blockquote>
+
+Sobre las herramientas:
+
+<blockquote>
+If I spot a typo in a PowerPoint deck, I can fix it in a couple of minutes.
+If I want to patch a video, though, it'll take at least half an hour;
+that's a fifteen-fold increase, which is a powerful disincentive to
+incremental improvement.
+</blockquote>
+
+Arreglar un vídeo es muy costoso, por ejemplo.
+
+Sobre medir lo que se consigue:
+
+<blockquote>
+The only way to tell if we've accomplished that would be to observe them before and after the course [3]. Surveys and other kinds of self-reporting can't tell us, not unless they've been calibrated by exactly this kind of before-and-after observation. The problem is, no-one seems to want to fund it: they'll spend millions on supercomputers, and millions more on salaries for faculty and grad students, but not a penny to figure out whether those investments are working, or how to make them pay higher dividends.
+</blockquote>
+
+Naturalmente, podríamos ser arquitectos caseros de la maldita cosa que se nos pueda ocurrir, pero uno encuentra ejemplos en las cosas que va leyendo en su día a día.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+arquitectura" rel="tag">arquitectura</a>, <a href="http://delicious.com/fernand0/rei+arquitectos" rel="tag">arquitectos</a>, <a href="http://delicious.com/fernand0/rei+profesiones" rel="tag">profesiones</a>, <a href="http://delicious.com/fernand0/rei+profesionales" rel="tag">profesionales</a>, <a href="http://delicious.com/fernand0/rei+aficionados" rel="tag">aficionados</a>, <a href="http://delicious.com/fernand0/rei+amateurs" rel="tag">amateurs</a>, <a href="http://delicious.com/fernand0/rei+aprendizaje" rel="tag">aprendizaje</a>, <a href="http://delicious.com/fernand0/rei+enseñanza" rel="tag">enseñanza</a>, <a href="http://delicious.com/fernand0/rei+otros" rel="tag">otros</a>, <a href="http://delicious.com/fernand0/rei+formas" rel="tag">formas</a></p>
+
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/71517

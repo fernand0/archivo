@@ -1,0 +1,25 @@
+Buscador TIC aragonés
+Nos escribe Luis de <a href="http://www.asesoresticaragon.org/default.aspx">Asesores TIC de proximidad</a> para avisarnos: 
+
+<blockquote>
+Se ha detectado en Aragón un movimiento importante relacionado con la Web 2.0 y este proyecto quiere ponerlo de relevancia, así como tratar de fomentar el uso de esta tecnología por parte de empresas y particulares.
+
+La aplicación desarrollada está alojada en nuestra web  y puedes acceder a través del link "Buscador TIC" o directamente en la dirección: <a href="http://www.asesoresticaragon.org:8500/buscadortic/">Buscador TIC</A>.
+</blockquote>
+
+Creo que es interesante que se desarrollen este tipo de iniciativas y que se saque partido de algo que, aparentemente, representa a bastante gente que avanza en una misam dirección pero sin mucha coordinación (que tampoco se si es malo, claro).
+En la url se puede dar de alta una bitácora o una empresa y clasificarla según unas categorías que ofrecen y nos proporcionan una 'ficha' en un microformato para colocar todos los datos recolectados en nuestra página, cuya parte visible se muestra a continuación:
+
+
+<blockquote>
+<div id="hcard" class="vcard"> <div class="fn">Reflexiones e Irreflexiones</div> <div class="org"></div> <a class="url" id="url" href="http://fernand0.blogalia.com/">http://fernand0.blogalia.com/</a> <a class="url" id="microformato" href="http://fernand0.blogalia.com/">http://fernand0.blogalia.com/</a> <div class="adr"> <div class="street-address">María de Luna, 1</div> <div class="locality">Zaragoza,Zaragoza,Zaragoza</div> <div class="region">Aragón</div> <div class="postal-code">50018</div> <div class="country-name">España</div> </div> <a class="email" href="mailto:reflexioneseirreflexiones@gmail.com"><div class="email">reflexioneseirreflexiones@gmail.com</div></a> <div class="tel"> <span class="type">Work</span> </div> <div class="tel"> <span class="type">Fax</span> </div> <img class="photo" src="" alt=""> <div class="geo"> <div class="latitude"></div> <div class="longitude"></div> </div> <div class="note" id="Descripción"><pre>Internet, cultura, cibercultura, ...</pre></div> <div class="category"><pre>Internet</pre></div><div class="category"><pre>Sociedad</pre></div><div class="category"><pre>Tecnología</pre></div> <div class="rev">2008-08-07T13:03:39+02:00</div> <a class="url" id="asesores" title="Asesores TIC Aragón" href="http://www.asesoresticaragon.org">http://www.asesoresticaragon.org</a> </div>
+</blockquote>
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/asesorestic" rel="tag">asesorestic</a>, <a href="http://www.technorati.com/tag/buscador+tic" rel="tag">buscador+tic</a>, <a href="http://www.technorati.com/tag/aragón+2.0" rel="tag">aragón+2.0</a></p>
+
+
+
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/58856

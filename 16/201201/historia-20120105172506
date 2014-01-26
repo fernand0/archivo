@@ -1,0 +1,28 @@
+Servicios de localización y por qué importan
+En <a href="https://www.facebook.com/notes/facebook-engineering/interning-at-facebook-who-goes-where-when-and-why-it-matters/10150282681968920">Interning at Facebook: Who Goes Where When (and Why It Matters)</a> se habla del tema de los 'checkins' y para qué pueden usarlos los que tienen acceso a ese tipo de información de manera suficientemente global.
+
+En este caso se trata de Laney Kuenzel que describe su trabajo temporal en Facebook, explorando estos servicios y lo que se podía hacer con ellos.
+
+Por ejemplo, facilitar a tus usuarios encontrar negocios abiertos, horarios de oficina fíables:
+
+<blockquote>
+In particular, our check-in data was extremely useful to me during my internship as I worked on several projects intended to help users find open businesses: writing an algorithm to predict hours of operation, building crowd-sourcing tools to obtain actual hours, and developing rules for validating user-suggested hours.
+</blockquote>
+
+Ayudar a la gente en las búsquedas:
+
+<blockquote>
+If it's 11am, you're more likely to be looking for Izzy's Brooklyn Bagels than Illusions Nightclub, whereas the opposite is true if it's 11pm. We use the hour predictions to help you find the right place more quickly in situations like this.  
+</blockquote>
+
+Fíabilidad de los datos proporcionados por los usuarios:
+
+<blockquote>
+If you try suggesting hours for a place, you might find that your suggested hours don't appear right away on the Place Page. Like all of our user suggestions, they must go through a validation process. In general, to decide whether to accept a suggestion as fact, we consider all of the suggestions we have for that field and determine whether there is agreement on a single value. We trust suggestions more if they come from users who have made accurate suggestions in the past.
+</blockquote>
+
+Interesante.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+facebook" rel="tag">facebook</a>, <a href="http://delicious.com/fernand0/rei+horas" rel="tag">horas</a>, <a href="http://delicious.com/fernand0/rei+lugares" rel="tag">lugares</a>, <a href="http://delicious.com/fernand0/rei+gente" rel="tag">gente</a>, <a href="http://delicious.com/fernand0/rei+checkin" rel="tag">checkin</a>, <a href="http://delicious.com/fernand0/rei+localización" rel="tag">localización</a>, <a href="http://delicious.com/fernand0/rei+servicios" rel="tag">servicios</a>, <a href="http://delicious.com/fernand0/rei+algoritmos" rel="tag">algoritmos</a>, <a href="http://delicious.com/fernand0/rei+crowdsourcing" rel="tag">crowdsourcing</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/71044

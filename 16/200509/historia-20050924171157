@@ -1,0 +1,84 @@
+Ricardo Baeza-Yates en el CEDI
+'Conocía' a <a href="http://www.dcc.uchile.cl/~rbaeza/">Ricardo Baeza-Yates</a> por uno de sus  libros (creo que <a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/0134638379&amp;link_code=as2&amp;camp=1789&amp;tag=reflexionesei-20&amp;creative=9325">Information Retrieval: Data Structures and Algorithms</a><img src="http://www.assoc-amazon.com/e/ir?t=reflexionesei-20&amp;l=as2&amp;o=1&amp;a=0134638379" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />, no lo tengo a mano ahora).  Más recientemente vi citas a uno de sus trabajos en otro libro que lei recientemente (y del que no les hablé aún), <a href="http://www.amazon.com/exec/obidos/redirect?path=ASIN/0120885530&amp;link_code=as2&amp;camp=1789&amp;tag=reflexionesei-20&amp;creative=9325">Link Analysis: An Information Science Approach (Library and Information Science)</a><img src="http://www.assoc-amazon.com/e/ir?t=reflexionesei-20&amp;l=as2&amp;o=1&amp;a=0120885530" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />.  
+
+Ahora JJ <a href="http://atalaya.blogalia.com/historias/33240">nos recuerda</a> que estuvo en el CEDI, y eso me sirve para recordar que tomé unos cuantos datos de su excelente presentación.
+
+Son, como siempre, datos y notas sueltas, sin ninguna ligadura entre sí. No he encontrado en su web la presentación que usó (todo el rato con el navegador).
+
+Sus investigaciones se basan en la observación de los usuarios del buscador que han creado en Chile, <a href="http://www.todocl.cl/">TodoCL</a>, y son una mezcla de minería de datos, ergonomía (usabilidad), y otras técnicas y teorías.
+
+Las  notas:
+
+El 60% de los sitios de chile forman parte de la internet oculta En España, tienen estimado un 30%, pero no tienen una lista completa de sitios.
+
+Minería de uso: qué hace la gente, y reutilizarlo para mejorar los sitios.  
+Que sean encontrables y usables.
+
+Algunos datos de su buscador
+
+Muchas preguntas poco frecuentes y pocas preguntas muy frecuentes (ley de potencias).
+
+No importa el idioma, las preguntas son las mismas.
+
+De sus datos, la palabra mas buscada no es la que mas aparece en la web. La correlación entre lo que busca la gente y lo que pregunta la gente es muy baja.
+
+Nadie usa la búsqueda avanzada.
+
+Con el 20% del índice en la memoria, se responde al 50% de las consultas.
+Con el 80% se pueden responder todas.
+
+¿Qué hace la gente con las consultas?
+Pregunta, va al sitio, tal vez refina la búsqueda. No se usa la búsqueda avanzada y de los que la usan, muy pocos terminan mirando y usando el resultado.
+
+Los 'clicks' de los usuarios están sesgados por el 'tope': más arriba, más clicks. Lo mismo con la 'barrera' artificial de los resultados de 10 enlaces por página.
+
+'Topes' de consultas: usar a los 'mejores' usuarios para mejorar los resultados de las búsquedas.
+
+Las preguntas mas interesantes (mas cercanas a la respuesta) no tienen similitud con las mas frecuentes, o más genéricas.
+
+Sustituyen las búsquedas originales de las personas por otras que creen que son mejores. De esta forma mejoran los resultados.
+
+Las taxonomías ayudan a generar recursos semánticos.
+
+También se estudian partes de la consulta que dominan a otras Fiat -> Fiat 600 -> ....
+
+Capturar la esencia de la información: ¿qué palabras representan mejor la información de los documentos?
+
+¿Qué es mejor poner en el sitio de un banco: crédito o préstamo?
+
+Es fácil saber qué enlaces deberían estar en la portada (Yahoo! lleva años haciéndolo). No es tan fácil saber cuál es el texto adecuado.
+
+Hay palabras que se buscan con frecuencia, y que llevan a páginas fáciles de encontrar desde la portada. También hay palabras que son relevantes, pero que ni siquiera están en nuestro sitio.
+Otras palabras son usadas, pero a la gente no le gusta lo que encuentra.
+
+Utilizando estas aproximaciones, las visitas han aumentado un 30%.
+
+Si uno nace como una isla, muere como una isla. La estrategia correcta es intercambiar enlaces: mejor que nos visiten a los dos, que a ninguno.
+
+Muchos sitios 'viven' un año, luego desaparecen.
+
+Minería social de la web. Las mujeres son mucho más estables en las búsquedas (personas famosas).
+
+Observaciones sobre las búsquedas de algunos términos:
+
+SARS. Cuando se da en Asia, poco interés. Cuando se detecta el primer caso en Canadá, se dispara el interés.
+
+También se puede ver cómo va triunfando el 'Aserejé' en distintos países.
+
+La gente no pregunta mejor con el tiempo, y por lo tanto las respuestas de los buscadores también son peores.
+El modelo de enlaces ha dejado de funcionar. Los espamers han contaminado mucho la web. 
+
+Pregunta: ¿hay vida después de Google? 
+Respuesta: ¿había vida después de Microsoft?
+
+Luego tuvimos la oportunidad de saludarle y hablar un poco de bitácoras (parece que le gustan y le interesan), de espám y de otras cosas. Se mostró interesado por nuestros artículos blogosféricos.  Además ahora trabaja parte del año en la Pompeu Fabra de Barcelona.  Hice un par de fotos de su conferencia, y tal vez JJ nos consiga la que nos hicieron mientras charlábamos. 
+
+<a href="http://www.flickr.com/photos/fernand0/43497970/">Foto de Ricardo Baeza-Yates</a>.
+
+<a href="http://www.flickr.com/photos/fernand0/43498032/in/photostream/">Ricardo Baeza-Yates ya la estructura de la web</a>.
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/33249

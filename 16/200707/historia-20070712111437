@@ -1,0 +1,17 @@
+Las tuberías (pipes) de Yahoo: algunos ejemplos
+Me sorprende que en la blogosfera hispana las <a href="http://pipes.yahoo.com/">Yahoo! Pipes</a> han pasado bastante desapercibidas: permiten programar cosas a personas que no tengan tiempo o ganas de programar de otra forma, en el servidor de Yahoo! y de manera mas o menos gráfica.
+
+Supongo que si el RSS ya es algo suficientemente sofitiscado y minoritario, poder hacer cosas con ello complica la vida demasiado como para ni siquiera intentarlo.
+
+El otro día puse un enlace a un tutorial en mi bitácora barrapuntera: <a href="http://barrapunto.com/~fernand0/journal/26698">Pipes de Yahoo: un tutorial</a> que pasó sin pena ni gloria.
+
+Ahora enlazo aquí una entrada de Jeremy Zawodny en <a href="http://developer.yahoo.net/blog/archives/2007/06/digg_those_pipes.html">Digg Those Pipes</a>. Muestra una serie de tres entradas sobre ejemplos de uso de las tuberías: <a href="http://www.searchenginejournal.com/yahoo-pipes-analyzing-digg-part-1-by-submitter/5066/">Yahoo Pipes: Analyzing Digg, Part 1: By Submitter</a>, <a href="http://www.searchenginejournal.com/yahoo-pipes-analyzing-digg-part-2-by-category-and-submitter/5082/">Yahoo Pipes: Analyzing Digg, Part 2: By Category and Submitter</a>, y <a href="http://www.searchenginejournal.com/yahoo-pipes-analyzing-digg-part-3-filter-by-votes/5109/">Yahoo Pipes: Analyzing Digg, Part 3: Filter by Votes</a>.
+
+Yo llevo unos días probando <a href="http://pipes.yahoo.com/pipes/pipe.info?_id=rgdimKLj2xGXviyxqGIyXQ">My flickr contact's faves</a> que muestra justamente eso, las fotos favoritas de mis contactos en Flickr.
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/pipes" rel="tag">pipes</a>, <a href="http://www.technorati.com/tag/yahoo!" rel="tag">Yahoo!</a>, <a href="http://www.technorati.com/tag/tuberías" rel="tag">tuberías</a>, <a href="http://www.technorati.com/tag/rss" rel="tag">RSS</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/50823

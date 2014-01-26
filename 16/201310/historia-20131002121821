@@ -1,0 +1,34 @@
+En Heraldo hablando de cookies y comercio electrónico
+<a href="http://instagram.com/p/e4oUekQB_7/" title="Heraldo 2013-09-29, sobre cookies"><img src="http://distilleryimage3.ak.instagram.com/3b01be6029cd11e3867a22000a9f1266_7.jpg" width="240"  alt="Heraldo, sobre cookies" style="float:left; margin:5px"></a>
+Hace unos días me contactó Jacobo Valentín del Heraldo para hablar un rato sobre la web, cookies, privacidad, comercio electrónico ...
+
+El resultado salió publicado el domingo y puede verse pinchando en la foto de aquí al lado (creo que Heraldo no publica estos suplementos en la web).
+
+La conversación empezó hablando sobre las cookies que me parece que son las grandes desconocidas de la web (y últimamente re-encontradas gracias a leyes absurdas que obligan a determinados sitios web a poner letreros que nadie leerá ni mucho menos comprenderá demasiado bien).  
+
+Esencialmente el problema es que la web utiliza un mecanismo sin estado; esto es, cuando pedimos una página con el navegador, nos la dan y el servidor se 'olvida' de nosotros. Cuando pedimos la siguiente, nos la da y ya está. Si queremos tener en la web el concepto de programa (hago algo, como consecuencia recibo una respuesta, decido algo y hago otro paso...) necesitamos que el servidor sea capaz de 'reconocernos' y 'saber' lo que hemos hecho antes.
+Para eso se propuso el mecanismo de las cookies, que es un documentito (o varios) que nos envía el servidor y que nosotros le envíamos de vuelta en cada petición. Allí puede ir desde nuestro 'carrito de la compra' hasta una etiqueta que el servidor utiliza para identificar nuestra información almacenada en sus dominios y que le sirve para saber dónde estábamos y que hemos hecho hasta el momento (conocer el estado de nuestras transacciones).
+
+Por lo tanto, si queremos tener en la web la idea de programas (el webmail, Faceboo, Twitter, ...), necesitamos las cookies. En ese sentido, su existencia es positiva.
+
+El problema viene cuando las empresas utilizan esas cookies para 'conocernos' mejor: qué tipo de anuncios vemos, qué tiendas visitamos, qué cosas nos gustan... 
+De hecho, hay un cierto comercio de ese tipo de información de cara a ofrecernos 'mejor' publicidad y quién sabe para qué cosas más.
+
+Afortunadamente, el navegador tiene mecanismos para que podamos bloquear las cookies (no aceptar algunas de ellas, por ejemplo. En <a href="https://support.mozilla.org/es/kb/impedir-que-los-sitios-web-guarden-sus-preferencia">Impedir que los sitios web guarden sus preferencias o estados de sesión en Firefox</a> cuentan como para este navegador).  
+Y para simplificar nuestra tarea existen extensiones como <a href="https://addons.mozilla.org/es/firefox/addon/cookie-whitelist-with-buttons/">Cookie Whitelist, With Buttons</a> que nos permiten manejar la cuestión de manera más amigable: el mecanismo sería tener bloqueadas todas las cookies excepto las que queramos habilitar porque realmente estamos interesados en algún servicio de alguna página concreta.
+
+Si le añadimos un bloqueador de JavaScript como <a href="https://addons.mozilla.org/es/firefox/addon/noscript/">NoScript</a> nuestra navegación será mucho más segura (y en algunos casos, desagradable.  Todo  hay que decirlo: la web de hoy en día se basa tanto en este lenguaje que hace cosas en nuestro navegador que puede ser un auténtico dolor navegar si lo desactivamos).  
+
+Ya hemos estado <a href="http://fernand0.blogalia.com/historias/73348"> En diversos sitios hablando de seguridad informática doméstica</a> y también hemos hecho presentaciones sobre el tema: <a href="http://fernand0.blogalia.com/historias/72630"> En las VI Jornadas de Turismo rural en Riodeva hablando de seguridad</a>.
+Luego hablamos de las compras por internet y el miedo que puede seguir teniendo la gente. En general, si compramos en sitios conocidos y reconocidos nuestras compras son muy seguras: tienen políticas de devolución muy beneficiosas para los usuarios, buenos mecanismos de seguridad y es difícil que tengamos problemas. Si alguien usa nuestro número de tarjeta podemos ir al banco y deberían devolvernos el dinero si no hemos hecho la compra.
+
+Pero, si alguien quiere estar todavía más tranquilo, los bancos proporcionan tarjetas para compras en internet (en diferentes formatos: prepago, activadas cuando vamos a comprar...) que  podemos gestionar mejor que las clásicas tarjetas de crédito: tener dinero sólo cuando hacemos una compra, tener poco dinero de forma que el riesgo sea menor...
+Si hacemos muchas compras por internet podría tener sentido tener una cuenta dedicada a eso (de manera que todavía acotamos más los posibles problemas) y, finalmente, puede ser una buena idea dedicar alguna cuenta de correo diferente de la nuestra más personal a este tipo de transacciones por si nos preocupa que alguien pueda incluirnos en listas de envío de correo, y otras situaciones molestas.
+
+A todo esto se añaden los consejos clásicos de mantener nuestros sistemas actualizados: sistema operativo, navegador .... Y otra que también digo siempre: por qué no, utilizar un usuario diferente dentro de nuestro ordenador para las compras por internet.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+informática" rel="tag">informática</a>, <a href="http://delicious.com/fernand0/rei+seguridad" rel="tag">seguridad</a>, <a href="http://delicious.com/fernand0/rei+cookies" rel="tag">cookies</a>, <a href="http://delicious.com/fernand0/rei+comercio" rel="tag">comercio</a>, <a href="http://delicious.com/fernand0/rei+electrónico" rel="tag">electrónico</a>, <a href="http://delicious.com/fernand0/rei+prensa" rel="tag">prensa</a>, <a href="http://delicious.com/fernand0/rei+heraldo" rel="tag">heraldo</a>, <a href="http://delicious.com/fernand0/rei+egorías" rel="tag">egorías</a>, <a href="http://delicious.com/fernand0/rei+yo" rel="tag">yo</a></p>
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/73851

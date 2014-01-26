@@ -1,0 +1,17 @@
+Numeración romana y multiplicación a la rusa
+Me gustó la historia sobre la multiplicación romana y las operaciones que referenciaban en <a href="http://www.microsiervos.com/archivo/ciencia/numeracion-roman.html">Numeración romana: su carencia de practicidad resulta molesta</a> porque despertó mi 'corazoncito' algorítmico.  
+
+Se trata de <a href="http://scienceblogs.com/goodmath/2006/08/roman_numerals_and_arithmetic.php">Roman Numerals and Arithmetic</a> y <a href="http://www.phy6.org/outreach/edu/roman.htm">A Different Kind of Multiplication</a>.
+
+Es forma de multiplicar es lo que suele llamarse el algoritmo de multiplicación 'a la rusa', y lo contó hace una temporada el Tío Petros en <a href="http://tiopetrus.blogia.com/2005/042501-multiplicacion-a-la-rusa-1-.php">Multiplicación a la rusa (1)</a> y en <a href="http://tiopetrus.blogia.com/2005/042601-multiplicacion-a-la-rusa-2-de-2-.php">Multiplicación "a la rusa" (2 de 2)</a>. 
+
+Es un método muy eficiente para multiplicar en microprocesadores puesto que sólo necesita saber multiplicar y dividir por dos (desplazar a la derecha o a la izquierda un número representado en binario) y sumar, sin necesidad de espacio adicional en memoria.
+
+Algo más sobre esto puede verse en <a href="http://www.revistaarabe.com.ar/noticias_matematicas_egipto.asp">Las matematicas del antiguo egipto<a>.
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/matemáticas" rel="tag">matemáticas</a>, <a href="http://www.technorati.com/tag/multiplicación" rel="tag">multiplicación</a>, <a href="http://www.technorati.com/tag/rusa" rel="tag">rusa</a>, <a href="http://www.technorati.com/tag/romanos" rel="tag">romanos</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/44629

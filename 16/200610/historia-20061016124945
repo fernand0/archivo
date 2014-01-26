@@ -1,0 +1,27 @@
+Fuentes RSS completas
+Lo vi en <a href="http://www.microsiervos.com/archivo/weblogs/fullfeeds.html"> FullFeeds.com: campaña a favor de los feeds RSS completos</a> y apunta a: <a href="http://www.fullfeeds.com/">fullfeeds.com a petition against intentionally disabled rss feeds</a>.
+
+Algunos puede ser que los pongan 'recortados' pensando que asi su sitio gana visitas: lo cierto es que muchas veces no hacemos ese esfuerzo 'extra' y nos quedamos sin saber lo que quería decir el dueño de la fuente recortada (y él sin la visita).
+
+Copio y pego de Microsiervos:
+
+<blockquote>
+Siendo prácticos: ¿Cómo publicar feeds completos en tu blog? Normalmente se puede configurar, dependiendo del sistemas de contenidos para blogs que uses, en:
+
+* Blogger: Opciones > Feed del Sitio > Descripciones > Completo
+* Movable Type: En la plantilla index.xml cambiar <MTEntriesExcerpt> por <MTEntriesBody> 
+* WordPress: Opciones > Lectura > Feeds de Sindicación >  Mostrar > Texto Completo
+</blockquote>
+
+Hace un año (varios días, me estoy volviendo perezoso)
+<ul> <li class="historiaListado"><a href="/historias/33746">Probando el buscador de noticias de Yahoo!</a></li> <li class="historiaListado"><a href="/historias/33775">El hombre es un lobo para el hombre</a></li> <li class="historiaListado"><a href="/historias/33765">Cursos sobre bitácoras</a></li> <li class="historiaListado"><a href="/historias/33808">Bitacorero usa-maño</a></li> <li class="historiaListado"><a href="/historias/33807">Otra encuesta bitacorera</a></li> <li class="historiaListado"><a href="/historias/33805">Bitácoras, modas y otras cosas</a></li> <li class="historiaListado"><a href="/historias/33797">RSS: diga agregador (o no)</a></li> <li class="historiaListado"><a href="/historias/33824">Coloquio en Zaragoza: El hombre, entre simios y cyborgs</a></li> <li class="historiaListado"><a href="/historias/33854">El blogómetro en El País Semanal</a></li> </ul>
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/fullfeeds" rel="tag">fullfeeds</a>, <a href="http://www.technorati.com/tag/rss" rel="tag">rss</a>, <a href="http://www.technorati.com/tag/fuentes" rel="tag">fuentes</a>, <a href="http://www.technorati.com/tag/completas" rel="tag">completas</a>, <a href="http://www.technorati.com/tag/campañas" rel="tag">campañas</a>, <a href="http://www.technorati.com/tag/peticiones" rel="tag">peticiones</a></p>
+
+
+
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/43768

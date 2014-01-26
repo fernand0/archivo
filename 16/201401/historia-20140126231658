@@ -1,0 +1,49 @@
+Y esta semana ... (Empieza 27/I)
+Selección propia y personal de actividades para esta semana.
+<a href="http://www.flickr.com/photos/fernand0/1324275396/" title="Planificando"><img src="http://farm2.staticflickr.com/1235/1324275396_1a9af0e9ef_m.jpg" width="240" height="180" alt="Iglesia" style="float:left; margin:5px"></a>
+
+
+<div class='h-event'><time class='dt-start' datetime='2014-00-27 19:00'>2014-01-27, 19:00</time> <a class='u-url' href='http://www.fundacionzcc.org/27-de-enero-conferencia-de-cesar-rendueles-sociofobia-y-ciberfetichismo/'><span class='p-name'>Conferencia de César Rendueles Sociofobia y ciberfetichismo</span> <span class='p-location'>Lugar: Auditorio del Centro de Arte y Tecnología Etopia (Av. Ciudad de Soria, 8  junto a la Estación Zaragoza Delicias)</span></a>
+<span class='p-description'>
+Sociofobia y ciberfetichismo. Acción política, cambio social y
+ciudadanía en la era de la utopía digital. 
+Por César Rendueles. Profesor de Sociología en la Universidad Complutense de Madrid y autor de Sociofobia, elegido por Babelia como uno de los diez mejores libros de 2013
+Tras el derrumbe de la utopía neoliberal, el gran consenso ideológico de nuestro tiempo es la capacidad de las tecnologías de la comunicación para inducir dinámicas sociales positivas. La economía del conocimiento se considera unánimemente como la solución al deterioro especulativo de los mercados; las redes sociales son el remedio a la fragilización de nuestras vidas nómadas y globalizadas; la ciberpolítica aspira a regenerar nuestras democracias exhaustas Nos gusta imaginar Internet como una especie de ortopedia tecnológica que ha transformado hasta el punto de su virtual superación los dilemas prácticos heredados de la modernidad.
+Sociofobia (editado por Capitán Swing) cuestiona, en primer lugar, este dogma ciberfetichista. La ideología de la red ha generado una realidad social disminuida, no aumentada. Sencillamente ha rebajado nuestras expectativas respecto a lo que cabe esperar de la intervención política o las relaciones personales. Por eso Sociofobia, en segundo lugar, realiza una ambiciosa reevaluación crítica de las tradiciones políticas antagonistas para pensar el postcapitalismo como un proyecto factible, cercano y amigable.
+César Rendueles es profesor de sociología en la Universidad Complutense de Madrid. Es autor de Sociofobia. El cambio político en la era de la utopía digital (2013). También ha editado dos antologías de Karl Marx (El capital: una antología y Escritos de materialismo histórico) y otra de Walter Benjamin (Escritos políticos), así como ensayos sobre cuestiones relacionadas con las ciencias sociales, la filosofía y la crítica cultural.
+</span>
+</div>
+
+
+<div class='h-event'><time class='dt-start' datetime='2014-30-27 19:30'>2014-01-27, 19:30</time> <a class='u-url' href='https://plus.google.com/u/1/events/ctubven5n144oltsaj1f5sstju4'><span class='p-name'>PUG Enero. Python y la Web Semántica.Share event 2</span> <span class='p-location'>Lugar: Dlabs, Camino la Mosquetera, Zaragoza, España</span></a>
+</div>
+
+
+<div class='h-event'><time class='dt-start' datetime='2014-00-31 20:00'>2014-01-31, 20:00</time> <a class='u-url' href='http://betabeers.com/event/xii-betabeers-zaragoza-1471/'><span class='p-name'>XII Betabeers zaragoza</span> <span class='p-location'>Lugar: Calle Ramón Berenguer IV, 1, Zaragoza, Zaragoza, España</span></a>
+<span class='p-description'>
+Este BetaBeers contaremos con:
+PagoBit ( twitter | fb | google+ ) - Manuel Polo (@mrmx) y Jorge Abascal (@abascual) de Pagobit
+ANSTE (ohloh) - Jose Antonio Calvo (@jacalvo_zentyal) de Zentyal
+Betabeers es un evento para desarrolladores de aplicaciones web y app en sus diferentes perfiles: emprendedor, diseñador, programador, legal, márketing, etc.
+Betabeers es una asociación sin ánimo de lucro.
+El formato del evento:
+- Presentaciones de los asistentes mediante juegos
+- Presentaciones de proyectos y equipos (aportando su experiencia de cómo lo han hecho).
+- Charla o taller práctico.
+- Cervezas gratis patrocinadas por AMBAR en el mismo centro.
+- Posteriores cervezas en un bar de la zona.
+Pagobit nace como una solución para procesar pagos con bitcoin. Convierte automáticamente los bitcoins a euros adaptando cualquier negocio a la nueva tecnología.  Manuel Polo y Jorge Abascal - PagoBit
+ANSTE es una herramienta de codigo abierto diseñada para reproducir escenarios complejos y simplificar la ejecucion de tests en varias maquinas.
+ANSTE utiliza libvirt (KVM) para virtualizar redes y maquinas y correr tests escritos en cualquier lenguaje de scripting. Esto permite que pruebes varios escenarios distintos con diferentes configuraciones de forma sencilla.
+Esta preparado para correr tests WebDriver adicionales para probar interfaces web. Por ejemplo, ha sido usado para probar el cluster MySQL o escenarios OpenVPN complejos con Zentyal
+Jose Antonio Calvo (jacalvo) - Zentyal
+</span>
+</div>
+
+Este calendario se rellena casi todas las semanas basándome en algunos que se publican por ahi y mi propia búsqueda de actividades que me parecen interesantes. 
+Incluye microformatos (hCalendar) y se genera de manera (más o menos) automática con <a href="https://github.com/fernand0/gcalcli">gcalcli</a>, que está basado en el proyecto de Brian Hartvigsen, <a href="https://github.com/insanum/gcalcli">gcalcli</a>.
+Como dice al principio, se incluyen proyectos y actividades que me parecen interesantes, pero se admiten sugerencias.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+semana" rel="tag">semana</a>, <a href="http://delicious.com/fernand0/rei+calendario" rel="tag">calendario</a>, <a href="http://delicious.com/fernand0/rei+actividades" rel="tag">actividades</a>, <a href="http://delicious.com/fernand0/rei+jornadas" rel="tag">jornadas</a>, <a href="http://delicious.com/fernand0/rei+encuentros" rel="tag">encuentros</a>, <a href="http://delicious.com/fernand0/rei+zaragoza" rel="tag">Zaragoza</a>, <a href="http://delicious.com/fernand0/rei+aragón" rel="tag">Aragón</a></p>
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/74279

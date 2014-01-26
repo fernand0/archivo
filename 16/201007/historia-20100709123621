@@ -1,0 +1,30 @@
+Más sobre datos abiertos y gobiernos
+El reciente anuncio del primer ministro británico sobre transparencia (<a href="http://www.number10.gov.uk/news/speeches-and-transcripts/2010/05/pms-podcast-on-transparency-51171">PM's podcast on transparency</a> para ver la transcripción. No está mal, un gobernante de ese nivel con podcast) ha provocado comentarios interesantes por ahí.
+
+Dice que un paso importante para dar poder a la ciudadanía es darle más información:
+
+<blockquote>
+A big part of giving people more power is giving them more information. And this coming week, we're going to be making a start on that too.
+</blockquote>
+
+También hay razones económicas:
+
+<blockquote>
+Now I think that's going to do great things. It's certainly going to save us money.
+</blockquote>
+
+En <a href="http://www.rfahey.org/2010/06/13/a-flood-of-data-to-create-a-data-literate-citizenry/">A flood of data to create a data-literate citizenry</a> comentan sobre la necesidad de gente que dote de sentido a esos datos que van a estar disponibles para el 'resto de nosotros' y también sobre la necesidad de educación para la ciudadanía en el manejo de estos datos, como ya comentábamos el otro día en <a href="http://fernand0.blogalia.com/historias/67146">Más sobre datos abiertos y gente</a>.
+
+En el contrapunto (y en la línea de Danah Boyd, también comentada anteriormente por aquí), en <a href="http://www.internetartizans.co.uk/open_data_does_not_empower">open data doesn't empower communities</a> dicen que es otro paso más de 'pan y circo': parece que se da algo, pero en realidad lo que se da es difícil de manejar o está adecuadamente 'masajeado' para ocultar lo que sea necesario, sin olvidar la escasa habilidad del público en general para manejar estos datos.
+
+Yo creo que muchas de estas iniciativas olvidan a la gente. Ayer asistíamos a una conferencia <a href="http://www.zaragoza.es/ciudad/noticias/detalleM_Noticia?id=107356">sobre 'La ciudad amplificada y los dispositivos multimedia en el espacio público urbano'</a> a cargo de Namita Kambli y echaba de menos que se hable más de la gente, en todos esos proyectos de ciudades digitales que vienen casi siempre montados de arriba a abajo (de la mano de gobiernos o empresas) y en los que lo tienen que 'disfrutar' no aparecen demasiadas veces más que como muñequitos dibujados en entornos más o menos digital-idílicos.  
+
+En el panorama local la iniciativa del Gobierno vasco, <a href="http://www.irekia.euskadi.net/">irekia</a>, ha sido rediseñada (en principio la idea me gusta: primero lo lanzamos, aunque no sea aún bonito y luego lo vamos adecentando).
+
+Y, en esa dirección, ayer nos enterábamos también de la <a href="http://zaragoza.uservoice.com/forums/64643-datos-que-me-gustar-a-reutilizar">Consulta Ciudadana sobre Reutilización del Ayuntamiento de Zaragoza</a>:  ya se sabe que los datos a lo mejor no están muy utilizables de momento (en el sentido de fáciles de manipular por las máquinas, puede que al principio sólo haya pdf's') así que conviene fijar prioridades a la hora de decidir cuáles se mejoran primero.
+
+Finalmente, en aspectos más técnicos, algo de lo que no se habla mucho tampoco alrededor de estas iniciativas (seguramente porque se da por supuesto), me gustó leer <a href="http://33bits.org/2010/07/06/what-every-developer-needs-to-know-about-public-data-and-privacy/">What Every Developer Needs to Know About "Public" Data and Privacy</a> sobre los problemas de publicar datos: se almacenan (demasiado rápido, a veces); no hay 'deshacer' (sobre todo con modelos tipo 'push') y los errores se pagan en formas desagradables; la posibilidad de búsqueda afecta claramente a nuestra intimidad (algunas cosas que podrían pasar desapercibidas de pronto, son fáciles de encontrar); la agregación de datos no siempre defiende  nuestra intimidad (datos únicos, raros, 'adivinables', ...); y, finalmente, la conexión y recolección de datos de sitios diferentes sobre alguien puede proporcionar información bastante amplia.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+datos" rel="tag">datos</a>, <a href="http://delicious.com/fernand0/rei+abiertos" rel="tag">abiertos</a>, <a href="http://delicious.com/fernand0/rei+internet" rel="tag">internet</a>, <a href="http://delicious.com/fernand0/rei+gente" rel="tag">gente</a>, <a href="http://delicious.com/fernand0/rei+organización" rel="tag">organización</a>, <a href="http://delicious.com/fernand0/rei+uk" rel="tag">uk</a>, <a href="http://delicious.com/fernand0/rei+consecuencias" rel="tag">consecuencias</a>, <a href="http://delicious.com/fernand0/rei+necesidades" rel="tag">necesidades</a>, <a href="http://delicious.com/fernand0/rei+aprendizaje" rel="tag">aprendizaje</a>, <a href="http://delicious.com/fernand0/rei+gestion" rel="tag">gestion</a>, <a href="http://delicious.com/fernand0/rei+manejo" rel="tag">manejo</a>, <a href="http://delicious.com/fernand0/rei+intimidad" rel="tag">intimidad</a>, <a href="http://delicious.com/fernand0/rei+privacidad" rel="tag">privacidad</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/67310

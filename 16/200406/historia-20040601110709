@@ -1,0 +1,93 @@
+WWW2004: los artículos
+En esta historia vamos a hacer un pequeño resumen y algunos comentarios sobre los artículos de la conferencia <a href="http://www.blogpulse.com/www2004-workshop.html">WWW 2004 Workshop on the Weblogging Ecosystem: Aggregation, Analysis and Dynamics</a> a la que no envíamos nada en su día por problemas financieros, pero que claramente hubiera sido una apuesta interesante.
+
+<a href="http://www.blogpulse.com/papers/upflux-www2004.pdf">Upflux: An open index for weblogs (pdf, sólo las transparencias)<a>.
+Primero, la presentación de Maciej Ceglowski (conocido por su <a href="http://www.blogcensus.net/">NITLE Blog Census </a> y su interesante <a href="http://www.idlewords.com/">Idle Words</a>) y Cameron Marlow (conocido por <a href="http://blogdex.net">Blogdex</a>, también bitacorea en <a href="http://overstated.net/">overstated</a>).  Proponen una nueva infraestructura para las arañas bitacoreras, <a href="http://upflux.net/">upflux.net</a>. Todos sabemos que hay un montón de cacharritos por ahí, y un montón de arañas visitando nuestras bitácoras.  De las transparencias de la  presentación (lamentablemente no hay artículo explicando estas cosas) deducimos que la idea es crear una infraestructura común, tal vez con una estructura distribuida de arañas que almacenarían sus resultados en un repositorio común. Me parece una idea muy interesante.  
+
+<a href="http://faculty.washington.edu/kegill/pub/www2004_blogosphere_gill.pdf">How can we measure the influence of the blogosphere? (pdf)</a>.
+Kathy E. Gill.
+Se trata de una revisión de diferentes formas de medir la influencia de la blogocosa en la opinión pública y los medios de comunicación de masas.  Con respecto a los medios se habla de que el punto de inflexión podría establecerse al principio del 2002 cuando los medios empezaron a hablar de bitacoreo, aunque algunos ya llevaban tiempo experimentando con ello.  Además, muchos periodistas han adoptado esta forma de publicar dentro de su rutina diaria (bien dentro de sus propios medios, bien de forma individual e independiente). Aporta un dato curioso sobre la adopción de tecnologías bitacoreros, que no se si habíamos referenciado aquí: en marzo de 2004 <a href="http://www.variety.com/">Variety.com</a> fue el primer periódico en adoptar el 'trackback' para todos sus artículos y revisiones. 
+
+Por otra parte, informa acerca del uso por parte de los políticos; desde su incursión en la web, ya hace unos cuantos años, a la creación de una bitácora por parte de Howard Dean (con comentarios y 'trackback') y la comparación ofrecida por <a href="http://www.coollame.org/bushkerry.php">Cool/Lame</a> donde se ponen frente a frente los contenidos de las bitácoras de los candidatos a presidente para las próximas elecciones usanianas.
+
+Para la autora, la influencia de la blogocosa es clara, pero compara la dificultad de la medición de esa influencia a la de la medición que se hace en ambientes académicos de la influencia de sus trabajos, mediante el recuento de citas.
+
+En todo caso, notar que la autora no pasa de proporcionar datos anecdóticos y no hace lo que anunciaba en el título, sino que proporciona datos sueltos ligados con un discurso adecuado.
+
+Empieza nombrando el caso de la historia de <a href="http://en.wikipedia.org/wiki/Trent_Lott">Trent Lott</a>, que fue prácticamente ignorada por los medios tradicionales, un par de bitacoreros importantes lo nombraron e hicieron que los medios recuperaran la historia y Lott tuvo que dimitir. 
+
+También cuenta como Microsoft utilizó la historia de un usuario de Mac que se había pasado ('switch') a Windows. Resultó ser falsa y el descubrimiento se produjo entre los comentaristas de la nota en Slashdot. <a href="http://news.bbc.co.uk/1/hi/technology/2329519.stm">Web users turn tables on Microsfoft</a> es donde se cuenta la historia.
+
+Dentro de la orbitácora la autora comenta sobre algunos de los cacharritos bitacoreros, basados principalmente en el recuento de enlaces. En particular habla sobre <a href="http://www.blogosphere.us/">Blogosphere.us</a>, <a href="http://www.blogrunner.com/">Blogrunner</a>, <a href="http://www.blogstreet.com/">BlogStreet</a>, y <a href="http://www.technorati.com/">Technorati</a>, comentando sobre las diversas medidas de influencia proporcionadas por cada uno de los sitios.  
+
+Todo bastante usa-céntrico, como el congreso que albergaba estos artículos.  Hace algunos comentarios sobre los sitios más influyentes, incluyendo la fecha de creación y algunos datos de visitas.
+
+<a href="http://www.blogpulse.com/papers/www2004nanno.pdf">Automatic Collection and Monitoring of Japanese Weblogs (pdf)</a>.
+Tomoyuki Nanno, Yasuhiro Suzuki, Toshiaki Fujiki, Manabu Okumura.
+¿Dije usa-céntrico? También hubo participación japonesa. 
+Este artículo me pareció bastante interesante por lo que aporta en cuanto a propuestas para identificar sitios web: la idea es tratar de diferenciar bitácoras de cosas que no lo son, supuesto que ya uno tiene una lista de sitios web japoneses. 
+
+El método se basa en la extracción de fechas (y la posterior observación de si aparecen secuencias de fechas ordenadas); el segundo paso sería la extracción de entradas fechadas, basándose en las fechas obtenidas en el paso anterior. Finalmente, se establecen unas cuantas reglas para filtrar páginas que no son bitácoras, primero basadas en palabras contenidas en la URL ('bbs', 'chat', 'session') y también en palabras contenidas en el título ('bbs', 'email magazine'); segundo, basadas en reglas aplicadas a las entradas individuales (fechas en el futuro, entradas muy espaciadas en el tiempo, fechas repetidas, fechas desordenadas, entradas demasiado breves, fechas que no están al principio, palabras -'admin', 'reply', 're:' ...-, entradas sin predicados -verbos, adjetivos, ...-). Finalmente, también se controla la evolución de las páginas aceptadas como bitácoras. En este caso, se sigue descargando la página y aplicando las reglas a las entradas posteriores, con algunas adicionales (las nuevas fechas deberían estar entre la última fecha de descarga y la actual, por ejemplo).
+
+Tengo mis dudas en cuanto a la cuestión de las fechas, pero me parece un esfuerzo muy interesante.
+
+<a href="http://www.blogpulse.com/papers/www2004adar.pdf">Implicit Structure and the Dynamics of Blogspace (pdf)</a>.
+Eytan Adar, Li Zhang, Lada A. Adamic, Rajan M. Lukose.
+
+Yo creía que de este ya habíamos hablado, pero debo de tenerlo en la pila de pendientes...
+
+Este artículo presenta algo de lo que ya hemos hablado en vidas anteriores: la <a href="http://lavidadelosmemes.bloxus.com/">evolución de las ideas en la blogocosa</a>. Trata de extraer información acerca de la propagación de la información, con una herramienta gráfica, cuyos resultados pueden verse en <a href="http://www.hpl.hp.com/research/idl/projects/blogs">Memes, Blogs, and iRank</a>. 
+
+Muestran diferentes patrones de difusión de la información, desde la que corresponde al interés sostenido, o a un pico de un par de días con decrecimiento lento, o picos de un día con un decrecimiento muy rápido, o también picos de un día con decrecimiento lento. Creo que deberíamos reproducir este estudio en la orbitácora, a ver qué sale. De particular interés (y discutibles, como todo) son los números que se utilizan como umbral para seleccionar determinadas URLs.  
+
+Finalmente hacen una comparación de los resultados de su algoritmo (iRank) frente al conocido (y famoso) PageRank de Google.  
+
+<a href="http://www.blogpulse.com/papers/www2004glance.pdf">BlogPulse: Automated Trend Discovery for Weblogs</a>.
+Natalie S. Glance, Matthew Hurst, Takashi Tomokiyo.
+
+Este artículos habla sobre <a href="http://www.blogpulse.com/">BlogPulse</a> que es una herramienta para descubrir  de qué cosas se habla en la blogosfera. Publican a diario una lista de personas, frases, párrafos, ... que aparecieron en diferentes bitácoras.
+
+Contiene algunos errores graves en la introducción, al decir que el primer congreso bitacórico fue el <a href="http://blogs.law.harvard.edu/bloggerCon/">BloggerCon</a> cuando <a href="http://blogtalk.net">BlogTalk</a> fue antes, pero bueno ....
+
+Posteriormente cuenta cómo extraen enlaces, frases, temas, personas y otros datos de las bitácoras que vigilan (alrededor de 10000, pararon de añadir nuevas a su lista al llegar a esta cifra).
+
+Creo que esto también es algo que deberíamos hacer en la blogocosa.  
+
+
+<a href="http://www.blogpulse.com/papers/www2004ohmukai.pdf">Personal Knowledge Publishing Suite with Weblogs (pdf)</a>.
+Ikki Ohmukai, Hideaki Takeda, Kosuke Numa.
+En este artículo se habla de <a href="http://www.semblog.org/">Semblog</a>, una herramienta de publicación personal de conocimiento, que proporciona un entorno para gestionar la recepción y publicación de información, así como las relaciones con otros.
+
+Por un lado, proponen el procesado de información mediante técnicas de la web semántica (sea lo que sea eso) que todavía no han desarrollado. En segundo lugar, ofrecen las bitácoras como herramientas para  la creación/publicación de contenido. En tercer lugar, proponen su herramienta, basada en la lectura de contenido de fuentes RSS y su clasificación y re-distribución según diferentes modelos, desde simples enlaces, a extractos o incluso extractos con comentarios editados manualmente. 
+
+Para ello, hay disponibles varias herramientas: el <a href="http://www.semblog.org/wiki/?rna">RNA (RSS Aggregation Service)</a> (en japonés, aviso) que permite: suscripción a fuentes RSS, construcción de un árbol global con toda la información integrada, construcción de subárboles según ciertas reglas, re-distribución del contenido de estos subárboles (¿<a href="http://fernand0.blogalia.com//historias/16163">planetas</a> temáticos?), extracto de información de algunos temas, actualización, seguimiento de 'trackbacks', y otras tareas relacionadas con las fuentes RSS.
+
+Otra herramienta es <a href="http://glucose.dip.jp/">Glucose</a> (también en japonés), un agregador independiente. Permite la gestión de fuentes RSS, gestión de trackbacks, envío de notas a una bitácora, extracción de textos ('clipping'), y recomendaciones a otros mediante un modelo P2P.
+
+Esta gente no sólo ha hecho el <a href="http://fernand0.blogalia.com/historias/3252">ecolucionador universal</a>, sino que le han añadido características.
+
+Finalmente, con toda esta infraestructura pueden hacer sistemas de recomendación basados en la información de gente de nuestra confianza (usando <a href="http://fernand0.blogalia.com/historias/1992">FOAF</a>). En particular, permite la recomendación colaborativa, pero también por similaridad temática, o filtrado relacional basado en la red social de cada usuario.  
+
+Por otra parte, también se proponen herramientas egóricas, creando redes relativas al contenido de las historias de un autor, permitiendo búsquedas de gente que habla de lo mismo, palabras clave, y cosas así.
+
+Estoy deseando echarle un ojo y probarlo con detenimiento. 
+
+En realidad, estoy deseando programar algo así.
+
+<a href="http://www.blogpulse.com/papers/www2004linhalavais.pdf">Mapping the Blogosphere in America (pdf)</a>.
+Jia Lin, Alexander Halavais.
+
+Este artículo se centra en la detección de características geográficas
+relativas a las bitácoras y, nuevamente, centrándose en USA. Es un tema que
+no me apasiona, aunque reconozco que tiene su interés. Pero como esto ya va quedando suficiéntemente largo, no diré mas.
+
+<a href="http://www.blogpulse.com/papers/www2004gumbrecht.pdf">Blogs as "Protected Space" (pdf)</a>.
+Michelle Gumbrecht.
+
+De un antecesor de este hablamos en <a href="http://fernand0.blogalia.com//historias/17293">Encuestas bitacoreras</a> y creo que no aporta novedades, así que les remito al otro, si todavía les quedan fuerzas.
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0.blogalia.com//historias/19112

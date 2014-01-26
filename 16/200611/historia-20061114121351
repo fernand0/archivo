@@ -1,0 +1,21 @@
+Redes sociales y telefonillos
+En <a href="http://arxiv.org/abs/physics/0610104">Structure and tie strengths in mobile communication networks</a> vemos un estudio que han hecho  J.-P. Onnela, J. Saramaki, J. Hyvonen, G. Szabo, D. Lazer, K. Kaski, J. Kertesz y A.-L. Barabasi. Han estudiado las llamadas entre teléfonos de un operador usaniano: 18 semanas de registros de llamadas que cubren el 20% de la población. 
+
+Naturalmente, esto supone una parte de la realidad: no se incluyen otro tipo de contactos diferentes de los del teléfono. Curiosamente, no se dice nada (y parece que no está incluida) la información proporcionada por la transmisión de SMSs (aunque eso puede tener que ver con su escaso uso en los EEUU).
+
+Se establece que dos usuarios están conectados si ha habido, al menos, un par de llamdas recíprocas entre ellos y la fortaleza de la relación se basa en la duración de las llamadas.
+
+Como resultados interesantes: hay una componente conexa que incluye al 84.1% de los usuarios (se puede llegar entre ellos a través de llamadas de unos a otros).  La distribución de llamadas tiene una cola muy plana: sólo unos pocos (muy pocos) usuarios tienen una cantidad grande de contactos; la mayoría de estos contactos corresponden a comunicaciones de unos pocos minutos, y unos pocos usuarios pasan horas hablando entre ellos.
+
+De todas formas, y frente a lo que ocurre con otro tipo de redes, eliminar a los enlaces mas débiles hace que la conectividad de la red desaparezca muy rápidamente (porque son las que sirven, fundamentalmente, para relacionar distintas comunidades entre si), mientras que si se eliminan primero los enlaces más fuertes no se afecta tan claramente al a estructura de la red.
+
+En cuanto a la difusión de información (simulada, en este caso) parece que es rápida en las redes 'locales' que corresponderían a las comunidades fuertes, pero difícilmente atraviesa los lazos débiles, saliendo al exterior; para mejorar esta transimisión uno tiene que forzar esa transmisión intencionadamente, a través de los enlaces débiles. 
+
+También parece cierto que el coste asociado con esa difusión de la información frenaría su avance, justo al revés de lo que pasa en internet, que una vez que estás dentro, da igual mandar un mensaje que unas decenas.
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/redes+sociales" rel="tag">redes+sociales</a>, <a href="http://www.technorati.com/tag/teléfonos" rel="tag">teléfonos</a>, <a href="http://www.technorati.com/tag/móviles" rel="tag">móviles</a>, <a href="http://www.technorati.com/tag/celulares" rel="tag">celulares</a>, <a href="http://www.technorati.com/tag/enlaces" rel="tag">enlaces</a>, <a href="http://www.technorati.com/tag/difusión" rel="tag">difusión</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/44579

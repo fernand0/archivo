@@ -1,0 +1,15 @@
+¿Han sido comprometidos tus datos?
+De vez en cuando algún servicio web o de otro estilo se ve comprometido y alguien roba los datos de un montón de usuarios. En muchas ocasiones esos datos terminan volcados en la red de una u otra forma (de hecho, estos días anda circulando por ahí esa lista de los <a href="http://splashdata.com/splashid/worst-passwords/">25 worst passwords of 2011</a> que también sale de este tipo de datos).
+
+En <a href="https://pwnedlist.com/">PwnedList</a> recopilan esos datos (los referentes al identificador de usuario y la cuenta de correo, si les hacemos caso) y nos permite saber si figuran en alguna de esas bases de datos comprometidas (y por lo tanto, son potencialmente susceptibles de ser atacados por alguien que también tenga o haya tenido acceso a esos datos).  
+
+¿Qué hacer si el resultado es positivo?
+Sencillo. Cambiar la clave de esa cuenta y todas las relacionadas y esperar que nadie le haya prestado mucha atención a nuestra humilde cuenta.
+
+El sitio nos permite poner nuestro usuario o nuestra cuenta de correo para comprobarlo.
+
+Visto en <a href="http://krebsonsecurity.com/2011/11/are-you-on-the-pwnedlist/">Are You on the Pwnedlist?</a>.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+seguridad" rel="tag">seguridad</a>, <a href="http://delicious.com/fernand0/rei+datos" rel="tag">datos</a>, <a href="http://delicious.com/fernand0/rei+claves" rel="tag">claves</a>, <a href="http://delicious.com/fernand0/rei+passwords" rel="tag">passwords</a>, <a href="http://delicious.com/fernand0/rei+usuario" rel="tag">usuario</a>, <a href="http://delicious.com/fernand0/rei+identificador" rel="tag">identificador</a>, <a href="http://delicious.com/fernand0/rei+robos" rel="tag">robos</a>, <a href="http://delicious.com/fernand0/rei+pwnedlist" rel="tag">pwnedlist</a>, <a href="http://delicious.com/fernand0/rei+información" rel="tag">información</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/70818

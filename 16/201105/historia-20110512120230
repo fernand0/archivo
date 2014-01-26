@@ -1,0 +1,48 @@
+Sensores móviles
+Ya habíamos hablado del tema pero en el podcast <a href="http://itc.conversationsnetwork.org/shows/detail4752.html">Technometria with Phil Windley. Mobile Sensing</A> hay una entrevista interesante con Andrew Campbell, el director del Grupo de sensores móviles de Darmouth (<a hreF="http://sensorlab.cs.dartmouth.edu/index.html">Mobile Sensing Group</a>). En la entrevista hablan del tema, detallan los problemas y las cuestiones a las que hay que prestar más atención ...
+
+La idea es utilizar los sensores que llevan incorporados nuestros teléfonos (sonido, movimiento, orientación, lo-que-sea... ) para que el teléfono nos ayude a tomar decisiones, estar mejor informados ....
+
+Se pueden leer cosas interesantes, por ejemplo, en <a hreF="http://www.cs.dartmouth.edu/~niclane/pubs/ieee_coms10.pdf">[PDF] A Survey of Mobile Phone Sensing</a>.
+
+Se nombra a <a hreF="http://sensenetworks.com/">SenseNetworks</a> que trata de detectar qué 'tribus' puedenestar interesadas en determinados acontecimientos a través de las trazas GPS de los teléfonos.  También de otras iniciativas.
+
+Ya hemos hablado de estos temas en <a hreF="http://fernand0.blogalia.com/historias/68613">Sensores con nosotros: ¿nos harán la vida algo mejor?</a>, <a href="http://fernand0.blogalia.com/historias/64603">¿Quiénes son tus amigos? Tu teléfono lo sabe</a> y <a href="http://fernand0.blogalia.com/historias/69278">Lo que tu teléfono sabe de ti (II)</a>.
+
+Y supongo que viene al caso en estos días en los que tanto se habló de si nuestros teléfonos guardan (y en algunos casos, envían) las localizaciones aproximadas por las que nos movemos.
+
+Hay también un resumen más divulgativo en <a href="http://online.wsj.com/article/SB10001424052748704547604576263261679848814.html">The Really Smart Phone</a>, que referencian a algunas de las inicitivas que ya comentamos en su día:
+
+Patrones de comunicación y de transmisión de enfermedades:
+
+<blockquote>
+And back at MIT, scientists who tracked student cellphones during the latest presidential election were able to deduce that two people were talking about politics, even though the researchers didn't know the content of the conversation. By analyzing changes in movement and communication patterns, researchers could also detect flu symptoms before the students themselves realized they were getting sick
+</blockquote>
+
+Los teléfonos 'pueden saber':
+
+<blockquote>
+"Phones can know," said Dr. Pentland, director of MIT's Human Dynamics Laboratory, who helped pioneer the research. "People can get this god's-eye view of human behavior."
+</blockquote>
+
+Y otra brecha (esta vez por el idioma), en Bélgica:
+
+<blockquote>
+Split by linguistic differences between a Flemish-speaking north and a French-speaking south, voters in Belgium set a world record this year, by being unable to agree on a formal government since holding elections last June. Belgium's political deadlock broke a record previously held by Iraq.  
+
+The calling patterns from 600 towns revealed that the two groups almost never talked to each other, even when they were neighbors.
+
+This social impasse, as reflected in relationships documented by calling records, "had an impact on the political life and the discussions about forming a government," said Dr. Blondel at the Catholic University of Louvain near Brussels, who led the research effort.
+</blockquote>
+
+La pregunta es: ¿haremos leyes que <strong>nos hagan creer</strong> que nadie utiliza esa información  o haremos lo posible para que esa información se utilice de manera razonable y en beneficio de todos?
+
+O, como decían en <a href="http://www.wired.com/gadgetlab/2011/04/iphone-location/">Why You Should Care About the iPhone Location-Tracking Issue</a>:
+
+<blockquote>
+With that said, the chances are small that your iPhone is going to get hacked or stolen, or that you're going to be suspected of a crime (we would hope). So there's no reason to freak out. But we should care about the implications of a rich file of geographic data living on our iOS devices offering no customer benefit, creating digital footprints that we can't erase.
+</blockquote>
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+móviles" rel="tag">móviles</a>, <a href="http://delicious.com/fernand0/rei+sensores" rel="tag">sensores</a>, <a href="http://delicious.com/fernand0/rei+gente" rel="tag">gente</a>, <a href="http://delicious.com/fernand0/rei+átomo" rel="tag">átomo</a>, <a href="http://delicious.com/fernand0/rei+social" rel="tag">social</a>, <a href="http://delicious.com/fernand0/rei+información" rel="tag">información</a>, <a href="http://delicious.com/fernand0/rei+datos" rel="tag">datos</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/69656

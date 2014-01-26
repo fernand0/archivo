@@ -1,0 +1,26 @@
+Día Internacional de la Privacidad
+Hoy se celebra el <a href="http://thepublicvoice.org/">Día Internacional de la Privacidad</a>.
+
+La forma de celebrarlo es tratando de concienciar e informar a la gente y yo he decidido hacerlo con un juguetito que vi en <a href="http://www.microsiervos.com/archivo/hackers/como-detectar-sexo-visitantes-web.html">Cómo detectar el sexo de los visitantes a tu web, por su historial</a>.  
+
+Básicamente, en <a href="http://www.mikeonads.com/2008/07/13/using-your-browser-url-history-estimate-gender/">Using your browser URL history to estimate gender</a> y pinchando en el botón se mira nuestro historial de navegación (tranquilos, no se mira directamente, se utiliza un truco que consiste en ver el color de enlace, que es algo que si que se puede mirar: visitado o sin visitar para que el navegador pueda mostrarlo de manera adecuada) y se compara con una serie de ideas sobre quién visita más unos y otros y se saca un dato acerca de si el visitante es hombre o mujer.
+
+En una versión reducida del experimento, si han visitado alguno de los sitios que hay en mi lista (y si entran aquí con un navegador, no vale el lector de RSS, y si todo funciona bien, que podría ser que no), debería salir en: 
+
+<script src="http://ra-amon.cps.unizar.es/SocialHistory.js"></script> 
+<script> user = SocialHistory(); var visitsDigg = user.doesVisit("Digg"); var visitsSlashdot = user.doesVisit("Slashdot"); var listOfVisitedSites = user.visitedSites(); var len = listOfVisitedSites.length; document.write("<br />De los que me interesan, has visitado:<ul>"); for (var i = 0; i < len -1 ; i++) { document.write("<li>"+user.checkedSites()[i]+"</li>"); } document.write("</ul>"); </script>
+
+Si el experimento falló (no se ve nada aquí arriba) tal vez otra forma de convencernos de que estas cosas son importantes (o, al menos, deberíamos pensarlas un rato) es la historia que publicaba Paco Barranco en <a href="http://www.pacobarranco.blogspot.com/2009/01/ten-cuidado-te-pueden-googlear.html">Ten cuidado: te pueden "googlear"</a>.
+
+Una revista francesa (cuyo nombre no citaré) ha elegido a unos cuantos internautas más o menos anónimos, ha hecho un resumen de su vida visitando distintos sitios sociales y ha publicado la información a modo de artículo.  Ya tardaba alguien en hacer eso y aprovecharlo para meterse con alguien (más allá de las entrevistas de trabajo) aunque tengo mis dudas sobre si eso es legal y/o ético:
+
+<blockquote>
+El primer artículo publicado empezaba diciendo "Te deseamos un feliz cumpleaños" y añadía "Podemos tratarte de tú, Marc, ¿verdad? Seguro que no nos conoces, pero nosotros sabemos muchas cosas de ti". Así se dirigía esta revista francesa a "Marc", un internauta anónimo que tuvo la mala suerte de protagonizar el primer capítulo de la serie.
+...
+</blockquote>
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/privacidad" rel="tag">privacidad</a>, <a href="http://www.technorati.com/tag/intimidad" rel="tag">intimidad</a>, <a href="http://www.technorati.com/tag/día+internacional+de+la+privacidad" rel="tag">día+internacional+de+la+privacidad</a>, <a href="http://www.technorati.com/tag/el+día+que+se+sepa+todo" rel="tag">el+día+que+se+sepa+todo</a>, <a href="http://www.technorati.com/tag/el+día+que+todo+se+sepa" rel="tag">el+día+que+todo+se+sepa</a></p>
+
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/61698

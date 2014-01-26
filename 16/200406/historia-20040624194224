@@ -1,0 +1,47 @@
+Entrevista sobre RSS y servicios RSS-eros
+Se ha publicado una entrevista a Scott Rafer, de <a href="http://www.feedster.com/">Feedster</a>,  en dos partes: <a href="http://rss.weblogsinc.com/entry/3249247480381114">An Interview With Feedsters Scott Rafer, Part I</a>, y <a href="http://rss.weblogsinc.com/entry/1872334022377545">An Interview With Feedsters Scott Rafer, Part II</a>. Feedster es un buscador especializado en bitácoras (utilizando las fuentes RSS) y en este momento tienen 615000 fuentes para buscar.
+
+Interesante:
+
+<blockquote>
+Well, you need to separate here. Most of our business is web pages. You have an RSS aggregator and I have an RSS aggregator. A lot of the people we talk to everyday have RSS aggregators. That makes us weird. Its still unusual. We are still early adopters.
+</blockquote>
+
+Quién entiende mejor lo del RSS:
+
+<blockquote>
+The first group that will make a successful move, as a company, I believe, is Yahoo. It is the quickest way for them to get real revenue around this stuff. Yahoo! News being the biggest news site on the planet has a lot to do with that.
+</blockquote>
+
+Y, hacia el final, hablan de RSS y software social:
+
+<blockquote>
+HC: Which of the social networking sites is making the best use of RSS?
+
+SR: Tribe is the only one thats making use of RSS right now. All this semantic web stuff is derived from a file format called RDF. RSS is a very simple version of that. The next one to gain any popularity is FOAF, which stands for friend of a friend. Under the hood, several of the social networks, LinkedIn, Tribe, maybe a couple of the others, are FOAF-based, and its very easy for them to start turning all those relationships into feeds, if they want. And thats what I personally want, given my own habits.  I know a lot of people in my second degree in LinkedIn. If I could have a feed of my second degree, as it increases, so I could go into my RSS aggregator and just hit links for Yes, I know that guy or No, dont know him, they would end up with a much richer database, knowing more about me and my network. It would be really time efficient, and Id be even more likely to pay for their service when they start charging.
+</blockquote>
+
+De Feedster ya habíamos hablado en <a href="http://fernand0.blogalia.com/historias/11244">Buscador de RSS y otras cosas</a>, y en <a href="http://fernand0.blogalia.com//historias/14004">¿Niño o niña? y agregación</a>.
+
+Mientras tanto, siguen apareciendo servicios como <a href="http://www.izynews.com/">IzyNews</a> que ofrece el contenido de las fuentes RSS en el programa de correo favorito de uno. Parece que lo hacen mediante IMAP (como si fuera una carpeta mas de correo, pero en el servidor de ellos) por lo que es accesible mediante cualquier cliente que admita este protocolo (que son casi todos). Por ahora es gratis, pero no renuncian a la posibilidad de cobrar en un futuro próximo.
+
+De la integración entre RSS y correo electrónico habíamos hablado en <a href="http://fernand0.blogalia.com/historias/3005">¿Cómo lees tus bitácoras favoritas?</a>, <a href="http://fernand0.blogalia.com/historias/4539">Más sobre micro-contenidos</a>, y en alguno mas que no encuentro ahora.
+
+En otro orden de cosas, estos días ha habido bastante discusión sobre el RSS como sustituto de los boletines publicitarios. En <a href="http://www.corante.com/many/archives/2004/06/18/reid.php/">Re-ID</a> hacen un resumen de las ideas fundamentales.
+
+<blockquote>
+Obviously, RSS isn't e-mail. But what might it bring to email that isn't there now? In a word, relationship.
+</blockquote>
+
+Interesante.
+
+Para terminar, uno en nuestro idioma: <a href="http://www.dosdoce.com/pagina_nueva_1.htm">Sindicación de contenidos: di adiós a tu navegador</a>, por Esteban Trigos. Me van a perdonar ustedes, pero ahora no se donde lo lei.  
+
+Por cierto, descubro <a href="http://www.uatsap.com/">Uats'ap.com</a> que parece un directorio de información sobre RSS en nuestro idioma, que me recuerda (aunque no parece lo mismo) al que ponía José Luis el otro día en <a href="http://blogzine.blogalia.com/historias/19389">Addfeeds: contenidos RSS en español</a>, el <a href="http://www.brokerlist.net/addfeeds/main.html">ADDFEEDS: contenidos RSS en español</a>.
+Bueno. Salvo por la idea de que ya empieza a haber gente que quiere posicionarse en un tema que puede tener mucho futuro ...  
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0.blogalia.com//historias/19758

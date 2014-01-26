@@ -1,0 +1,49 @@
+Y  esta semana ... (26/I - 1/II)
+Selección propia y personal de actividades para esta semana.
+
+Primero, uno fuera de Aragón  pero cerquita (física y moralmente):
+
+<div id="hcalendar-2009-30-26T18:30" class="vevent"><abbr title="2009-30-26T18:30" class="dtstart">Lunes 26, 18:30 </abbr><a href="http://www.itsasontzibaten.net/?p=260" class="url"><span class= "summary">Constitución del Grupo de Software Libre en la UPNA </span><span class= "location">Lugar: Sala de actos del edificio de los Tejos (Universidad Pública de Navarra)
+ </span></a><span class= "description">
+
+Orden previsto:
+- Creación de la asociación.
+- Elegir nombre.
+- Fijar una misión.
+- Definir medio de comunicación interna. </span></div>
+
+<div id="hcalendar-2009-30-26T19:30" class="vevent"><abbr title="2009-30-26T19:30" class="dtstart">Lunes 26, 19:30 </abbr><a href="https://www.ibercaja.es/obrasocial/ficha_centro.php?id=a213529ee2bffcb2030f33519471afcbb9154c95c12c8a4b" class="url"><span class= "summary">Javier Hernández. Profesor de la Universidad Europea de Madrid. Incidencia de las tecnologías avanzadas y de la animación digital en el cine contemporáneo </span><span class= "location">Lugar: Zentrum. Lunes Tecnológicos en Ibercaja.  </span></a></div>
+
+<div id="hcalendar-2009-00-27T19:00" class="vevent"><abbr title="2009-00-27T19:00" class="dtstart">Martes 27, 19:00 </abbr><a href="http://camyna.com/2009/01/20/15%C2%BA-bloggellon/" class="url"><span class= "summary">15º Bloggellón </span><span class= "location">Lugar: Master Pool. Conde Aranda, 136 Zaragoza </span></a><span class= "description">
+<a href="http://www.bloggellon.com/wiki/doku.php">Wiki para apuntarse</a>.
+ </span></div>
+
+<div id="hcalendar-2009-00-28T00:00" class="vevent"><abbr title="2009-00-28T00:00" class="dtstart">Miércoles 28, 00:00 </abbr><a href="http://www.intel.com/policy/dataprivacy.htm" class="url"><span class= "summary">International Privacy Day </span></a></div>
+
+Y el toque 'festivo':
+
+<div id="hcalendar-2009-00-30T00:00" class="vevent"><abbr title="2009-00-30T00:00" class="dtstart">Viernes 30,31 y 1 </abbr><a href="http://www.zaragozatattooconvention.com/" class="url"><span class= "summary">Zaragoza Tattoo Convention </span><span class= "location">Lugar: Feria de Zaragoza </span></a><span class= "description"> </span></div>
+
+Además, vemos como el <a href="http://www.congresoperiodismo.com/ponencias/programa.asp">Programa del X Congreso Nacional de Periodismo Digital</a> que se celebrará en Huesca los días 12 y 13 de marzo se va poblando de nombres :).
+
+Esta entrada contiene <a href="http://es.wikipedia.org/wiki/Microformato">microformatos</a> para las fechas, horas, etc. Eso puede ocasionar que en algún caso algo se vea mal por aquí (se agradecerá información sobre el tema). Para hacerlo usé el <a href="http://microformats.org">wiki de los microformatos</a>, el <a href="http://microformats.org/code/hcalendar/creator">hCalendar Creator</a>.  
+
+Además, para poder manejar la agenda mejor, he estado jugueteando con <a href="http://code.google.com/p/gcalcli/">Google Calendar Command Line Interface (gcalcli)</a>, que he estado modificando (aunque ya él solo tiene muchas posibilidades interesantes) para que genere como salida la lista en el formato adecuado.
+
+Haré público el calendario (como otra forma de tener esa información) tan pronto como le de un pequeño repaso a las pruebas que he ido haciendo y añadiré.
+
+Para sacar partido de la metainformación puede utilizarse, por ejemplo, la extensión <a href="https://addons.mozilla.org/es-ES/firefox/addon/2240">Tails Export</a>. También <a href="http://labs.mozilla.com/2006/12/introducing-operator/">Operator</a>.
+
+
+Antonio Novo también pone información en el <a href="http://www.antonionovo.com/blog/calendario-tic-de-aragon/">Calendario TIC de Aragón</a>.  
+
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/calendario" rel="tag">calendario</a>, <a href="http://www.technorati.com/tag/encuentros" rel="tag">encuentros</a>, <a href="http://www.technorati.com/tag/jornadas" rel="tag">jornadas</a>, <a href="http://www.technorati.com/tag/aragón" rel="tag">aragón</a>, <a href="http://www.technorati.com/tag/zaragoza" rel="tag">zaragoza</a>, <a href="http://www.technorati.com/tag/pamplona" rel="tag">pamplona</a>, <a href="http://www.technorati.com/tag/navarra" rel="tag">navarra</a>, <a href="http://www.technorati.com/tag/actividades" rel="tag">actividades</a></p>
+
+
+
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/61633

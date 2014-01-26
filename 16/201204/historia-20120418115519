@@ -1,0 +1,57 @@
+Hablando de Software libre en la entrega de premios local del CUSL
+Hace algún tiempo me invitaron a formar parte del jurado de la fase local del <a href="http://www.concursosoftwarelibre.org/">Concurso Universitario de Software Libre</a> (la fase local anunciada, por ejemplo, en <a href="http://osluz.unizar.es/content/entrega-del-premio-local-del-vi-concurso-universitario-de-software-libre">Entrega del Premio Local del VI Concurso Universitario de Software Libre</a>).
+
+El premio se lo llevó Enrique Matías con su proyecto <a href="https://forja.rediris.es/projects/cusl6-nela/">nela</a> que es una herramienta para enseñar a niños con discapacidad visual en el aprendizaje del código Braille.
+El otro proyecto, <a href="https://forja.rediris.es/projects/cusl6-grasscms/">GrassCMS</A> aportaba algunas ideas bastante interesantes a la hora de gestionar una página web más o menos sencilla.
+
+Los organizadores pensaron que estaría bien tener una pequeña introducción/charla sobre software libre y después de varias negativas de gente más relevante (debido a la premura de la solicitud, no a la falta de interés, que conste) al final la he preparado yo.
+
+Me sorprendo viendo que hay que seguir hablando de estas cosas porque aunque ya las dábamos por supuestas, mucha gente no piensa/cae en estos detalles y proyectos e iniciativas muy importantes terminan pasando desapercibidas porque están allí, se usan y ya está, sin cuestionar nada demasiado.
+
+Es de agradecer el esfuerzo de la <a href="http://osluz.unizar.es">Oficina de Software Libre</a> de la Universidad de Zaragoza para que se haya producido por fin la normalización, haciendo que en nuestra universidad exista un premio local. También la implicación del Servicio de Informática (SICUZ).
+
+Cuando hablamos de software libre conviene recordar que hablamos de las
+cuatro libertades:
+
+- La libertad de usar el programa, con cualquier propósito (libertad 0).
+- La libertad de estudiar cómo funciona el programa, y adaptarlo a tus necesidades (libertad 1). El acceso al código fuente es una condición previa para esto.  
+- La libertad de distribuir copias, con lo que puedes ayudar a tu vecino (libertad 2).  
+- La libertad de mejorar el programa y  hacer públicas las mejoras a los demás, de modo que toda la comunidad se beneficie. (libertad 3). El acceso al  código fuente es un requisito previo para esto.  
+
+Creo que en sociedades tecnológicamente menos avanzadas como en la que estamos son especialmente relevantes la segunda y la cuarta, por las posibilidades que abren a mucha gente de aprender, compararse con los mejores y aspirar (y conseguir en muchos casos) desarrollar con el nivel de los mejores del mundo.
+
+Recientemente se publicaba el <a href="http://osl.ugr.es/2012/01/18/decalogo-de-granada-sobre-el-estado-del-software-libre/">Decálogo de Granada sobre el estado del software libre</a> en cuya realización colaboré (recordar <a href="http://fernand0.blogalia.com/historias/71096">Decálogo de Granada sobre el Estado del Software Libre en España</a>). 
+Allí se hablaba del buen estado del software libre en nuestro país, lo que no quiere decir que ese estado no sea mejorable ni que no debamos aspirar a mejorarlo. Sobre todo, por parte de las administraciones públicas, fomentando la industria local y beneficiándose del conocimiento generado.
+
+Aragón y Zaragoza han demostrado ser activas en estas cuestiones: las instituciones, principalmente el Ayuntamiento; la Universidad con su declaración institucional e iniciativas muy tímidas; seguimos esperando al Gobierno de Aragón.  En la parte empresarial hay un buen número de empresas, algunas de ellas agrupadas en torno  <a href="http://cesla.info/">Cluster de entidades pro software libre de Aragón</a>.
+
+Todas estas buenas noticias no pueden ocultar que tenemos que seguir hablando de software libre: para cualquier producto de software privativo habrá una fuerza comercial y de ventas, una estrategia de comunicación y notas de prensa que en muchos casos no estará disponible para muchos programas libres
+
+Estando (como estábamos) en un centro de incubación empresarial había que dar algunas notas de por qué puede interesar el software libre a los emprendedores:
+
+- Costes: si estamos dispuestos a asumir algunas tareas (instalación, configuración, adaptación...) el software libre puede suponer un ahorro de costes. 
+  
+- Sinergias: podemos establecer mecanismos de colaboración con empresas proveedoras cercanas que se ocupen de esos temas por nosotros a cambio de nuestros servicios. Empresas en red.
+
+- Innovación abierta: ser más abiertos en la medida en que sea posible, siguiendo los modelos y todo lo que se puede aprender del crecimiento y organización de los proyectos de software libre.  También de la colaboración con los usuarios (nuestros clientes).
+
+- Control: nuestros datos y activos controlados por programas que nosotros controlamos, que respetan los estándares, que no nos bloquean ni nos impiden los cambios. Con posibilidad de escalar a soluciones más complicadas en caso de necesidad.
+
+Finalmente, y con el dibujo que hizo mi hijo primero de este <a href="http://www.flickr.com/photos/fernand0/7087405233/">peculiar penitente</a> (a mi lo de los pantalones y las botas me sugiere una persona dispuesta a trabajar y lo de los palillos que parecen maracas me sugiere alguien dipuesto a divertirse; la diversión es importante), hablé de las diversas formas de colaborar con el software libre: 
+
+- Hacer código libre (o encargarlo, o comprarlo) y usarlo.
+- Probar versiones beta, informar de fallos, comentar con los desarrolladores.
+- Ayudar con la documentación, traducciones, ...
+- Ayudar en la difusión y conocimiento de estas posibilidades
+
+También <a href="http://fernand0.blogalia.com/historias/71448">Las lecciones de Mark Zuckerberg</a> porque creo que muchas veces dejamos las cosas sin hacer por miedo a hacerlas mal o esperando a que las podamos hacer más perfectas, y al final se quedan sin hacer.
+
+Sigue quedándome la duda de si esta era la charla adecuada para el contexto, pero tuvo la virtud de no ser muy larga, que siempre se agradece cuando estás en el otro lado.
+
+La presentación utilizada fue bastante minimalista, dadas las circunstancias.  La incrusto a continuación por si alguien quiere echarle un ojo. Ya aviso que aporta poco y que es más bien visual.
+
+<div style="width:425px" id="__ss_12585805"> <strong style="display:block;margin:12px 0 4px"><a href="http://www.slideshare.net/fernand0/concurso-universitario-de-software-libre-premio-local" title="Concurso Universitario de Software Libre. Premio Local" target="_blank">Concurso Universitario de Software Libre. Premio Local</a></strong> <iframe src="http://www.slideshare.net/slideshow/embed_code/12585805" width="425" height="355" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe> <div style="padding:5px 0 12px"> View more <a href="http://www.slideshare.net/" target="_blank">presentations</a> from <a href="http://www.slideshare.net/fernand0" target="_blank">fernand0</a> </div> </div>
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+cusl" rel="tag">cusl</a>, <a href="http://delicious.com/fernand0/rei+software libre" rel="tag">software libre</a>, <a href="http://delicious.com/fernand0/rei+presentaciones" rel="tag">presentaciones</a>, <a href="http://delicious.com/fernand0/rei+yo" rel="tag">yo</a>, <a href="http://delicious.com/fernand0/rei+premios" rel="tag">premios</a>, <a href="http://delicious.com/fernand0/rei+concursos" rel="tag">concursos</a>, <a href="http://delicious.com/fernand0/rei+universidad" rel="tag">universidad</a>, <a href="http://delicious.com/fernand0/rei+osluz" rel="tag">osluz</a>, <a href="http://delicious.com/fernand0/rei+sicuz" rel="tag">sicuz</a>, <a href="http://delicious.com/fernand0/rei+pulsar" rel="tag">pulsar</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/71672

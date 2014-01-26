@@ -1,0 +1,36 @@
+La difusión de contenidosEn <a href="http://www.livejournal.com/talkread.bml?journal=jwz&itemid=126859">routing around RSS damage</a>, Jamie Zawinski habla de la publicación de contenidos mediante RSS y de la prevención que algunos sitios tienen a ofrecerlos (¿me robaran el contenido?) o a utilizarlos (¿estaré robandole visitas a alguien?). Su conclusión es pesimista: cada vez habrá menos sitios que ofrezcan estos servicios públicamente, y cada cual tendrá que apañárselas localmente.
+
+<blockquote>
+My prediction: LiveJournal in particular, and RSS-aggregation sites in general, will cease to be useful as a tool for combining the updates from many different sites. It's the late-90s ``portal'' game all over again, but in reverse: where it used to be that people like Netscape and Yahoo and Alta Vista were trying to prevent you from ever visiting anyone else's server, now all the little guys are trying to get you to hit their server instead of viewing a cached copy elsewhere (which is mystifying, in these days of zero banner-ad revenue.) 
+</blockquote>
+
+Interesante la cita de Gilmore, en estos días en que todo lo que se les ocurre a los gobiernos (no hablo ya de RSS, sino de información circulando libremente por la red) es prohibir:
+<blockquote>
+The Internet treats censorship as damage, and routes around it.
+</blockquote>
+
+Lo cierto es que tengo para mi, que si uno tiene una página en la red, debería proporcionarla de forma que pueda leerla/usarla/acceder a ella el mayor número de personas posibles, del mayor número de formas posibles (es cierto que si uno genera contenidos, debería tener control sobre el uso que se hace de ellos, pero eso es independiente de los formatos de publicación y todo eso).  Por eso, me sorprendieron gratamente algunos usos 'creativos' de estos (no tan) nuevos formatos de publicación.  Por ejemplo, Russel Beatie nos contaba hace algún tiempo en <a href="http://www.russellbeattie.com/notebook/20021122.html#131237 ">Java Blogs Portal - I'm Backing Out...</a> que las listas de Yahoo son accesibles mediante RSS con el siguiente formato: http://groups.yahoo.com/group/Group_name/messages?rss=1 Por ejemplo, el <a href="http://groups.yahoo.com/group/blogalia/messages?rss=1">RSS de la lista de blogalia</a> (ojo, el contenido del enlace no es para verlo en el navegador -por lo menos no en todos- sino en un agregador).  Pero hay más, <a href="http://bostonworks.boston.com/">BostonWorks.com</a>, una empresa que sirve de punto de encuentro entre empresarios que necesitan gente, y gente que quiere trabajar, también ofrecen sus listas en este formato: <a href="http://bostonworks.boston.com/browse/jobs/engineer_software_rss.xml">fuente RSS de la categoría engineer software</a>.
+
+Por cierto, si su sitio favorito no ofrece los contenidos en RSS, pueden utilizar <a href="http://www.myrss.com/">myRSS.com</a> que hará la generación por ustedes.
+
+Ahora un pequeño salto mortal. ¿Se acuerdan de aquello que hablamos de proporcionar la información mediante NNTP? (en <a href="http://fernand0.blogalia.com/historias/4113">El idioma en las bitácoras (y más cosas)</a>, y <a href="http://fernand0.blogalia.com/historias/4527">Leer bitácoras como si fueran news y otras cosas</a>. 
+
+No tanto salto. 
+
+¿La idea es difundir contenidos o no?  Cuando hacemos una web, ¿para que la hacemos? ¿para que admiren el bello diseño? ¿para difundir información (aunque sea acerca de nuestra angustia vital y los granos)?  
+
+En esa línea tratamos de ir por aquí, gracias a los servicios que ofrecen <a href="http://www.bloglet.com/">Bloglet</a> (envío de las historias cuando salen; el blogómetro 'conoce' a otras 6 bitácoras hispanas que lo usan), y <a href="http://www.blogarithm.com/">blogarithm</a> (aviso cuando hay nuevas historias; sólo otra bitácora hispana que conozca el blogómetr lo usa). También JJ tiene una lista de correo para su atalaya en <a href="http://www.egroups.com/group/atalaya/">e-Groups Atalaya</a> (por cierto, <a href="http://groups.yahoo.com/group/blogalia/messages?rss=1">fuente RSS de la lista</a>), y con toda seguridad más gente utiliza sistemas similares.
+
+Se trata de llegar a más gente, y para eso lo mejor es dar facilidades (supongo), sobre todo cuando cuesta poco.  Tengan en cuenta que no todo el mundo tiene la misma facilidad a la hora de conectarse a la red, ni las mismas costumbres que uno. Por eso, es muy sorprendente, curioso y lamentable cuando ciertos sitios se empeñan no sólo en decirnos qué navegadores debemos utilizar para acceder a sus contenidos, sino también en negarnos dichos contenidos cuando no les hacemos caso. Eso de 'use X para tener una mejor experiencia en su visita' suena patético, y además la mayoría de las veces es simplemente mentira.
+
+
+En <a href="http://orihuela.blogspot.com/2003_02_01_orihuela_archive.html#90339248">Bitácoras: una bibliografía básica</a> ha hecho una recopilación de bibliografía sobre el asunto bitacorero. Todavía no hay textos en nuestro idioma, ¿tal vez pronto?.
+
+
+Hablando de todo un poco: ¿qué sucede cuando entras a los servicios y encuentras a alguien con coleta, pantalón de cuadros grandes, y piensas que te has equivocado de puerta?: que él es un moderno y tu no. Esta es una nota-trampa para ver si alguien llega hasta el final ;).  
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+
+ URL:Reflexiones e irreflexiones 5606

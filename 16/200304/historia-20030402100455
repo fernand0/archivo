@@ -1,0 +1,30 @@
+Orden, desorden, y sus usos creativos
+Esta entrada está motivada por [{Spam Filtering with gzip http://www.kuro5hin.org/story/2003/1/25/224415/367}] en Kuro5hin, y por [{GZipping Life Forms: Deflate Reveals Bare-Bones http://science.slashdot.org/article.pl?sid=03/03/31/1232209}] en Slashdot, donde se hacía referencia al artículo [{File Compression: New Tool for Life Detection?  http://www.astrobio.net/news/article415.html}].
+
+Ustedes que son gente culta ya lo sabían pero déjenme ponerlo por si algún despistado no lo recuerda. Algunos programas que comprimen basan su estrategia en encontrar patrones que se repiten; a cada uno de estos patrones le ponen un identificador, guardan el patrón la primera vez que aparece (o la que convenga, no me hagan mucho caso), y en sucesivas apariciones simplemente tienen que anotar el identificador, con el ahorro de espacio que eso supone, si el patrón es suficientemente grande.
+
+Esa característica de búsqueda de patrones es la que usan los experimentos a los que hago referencia. El primero, para buscar correo basura (spam): tenemos un montón de mensajes que son spam (guardados con un compresor de estos), y otro montón de mensajes que no lo son (guardados comprimidos). Ante la llegada de un nuevo mensaje, lo comprimimos con el fichero de spam, y con el de no spam. ¿Con cuál se obtiene una mejor tasa de reducción del tamaño? Acertaron. Con el spam.
+
+El segundo ejemplo será más del agrado de algunos blogalitas. Tiene que ver con la biología. En este caso se trata de ciertas estructuras fósiles de microorganismos (stromatolites, no se el nombre en nuestro idioma). El problema al que se enfrentan los estudiosos es al de distinguir los verdaderos stromatolites de ciertas rocas que tienen un aspecto similar. La solución viene de una estrategia similar al caso anterior: se pasan las imágenes a un formato adecuado para el computador (TIFF), se comprimen y ....
+Acertaron otra vez. Las correspondientes a los microorganismos se comprimen más, por la presencia de patrones comunes.
+
+Para más información sobre el algoritmo de compresión utilizado pueden echar un vistazo en [{gzip algorithm http://www.gzip.org/algorithm.txt}]
+
+Y ahora ... algo completamente diferente.
+
+El lenguaje de los políticos
+
+Anoche había un debate en la 2 sobre la sociedad de la información donde, entre otros, estaba el ministro del ramo, Piqué. Vaya, interesante, piensa uno: en un ambiente no hostil, de debate y reflexión, se dirán cosas interesantes. 
+
+La desilusión: cuando los políticos hablan de 'sociedad de la información' no hablan de gente y conocimiento (que es lo que yo entiendo por sociedad e información, respectivamente) para ellos sociedad son las empresas e información tiene que ver con compras por internet y dinero.
+Que pena.
+
+¿Estamos todos locos?
+Ante todo, mucha calma. Frente una actuación como la de nuestro gobierno actual, el nombre más amable que se me ocurre para ellos es menos agradable que el del puerco. Todavía más, creo que los ciudadanos (y ciudadanas, que diría un político) deberíamos poder hacer algo contra eso. Pero de allí a que en algún pueblo, lejos de donde habitualmente pasa eso, aparezcan las fotos de los políticos del PP con una diana encima hay un trecho, se mire como se mire. 
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0.blogalia.com//historias/6761

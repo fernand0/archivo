@@ -1,0 +1,11 @@
+Análisis de redes sociales de la Wikipedia
+En esta ocasión se trata de un análisis de los enlaces entre páginas, que se puede ver en <a href="http://www.netsoc.tcd.ie/~mu/wiki/">Six Degrees of Wikipedia</a>.
+
+El centro de la Wikipedia sería <a href="http://en.wikipedia.org/wiki/2007">2007</a> (lo que creo que tiene que ver con que en la red hay mucha información reciente, pero menos del pasado; al final, hay una gran cantidad de información que ni siquiera está digitalizada, otra que lo está pero no está disponible en la web y finalmente, la actualidad manda. Lo comentábamos en <a href="http://fernand0.blogalia.com/historias/41058">No todo está en la red </a>). La media del camino de cualquier página al centro (quitando años, listas y cosas de esas) que es <a href="http://en.wikipedia.org/wiki/United_Kingdom">United Kingdom</a> sería de 3.67 clics. Y a la página de <a href="http://en.wikipedia.org/wiki/Kevin_Bacon">Kevin Bacon</a> pasa a ser de 3.98 clics.  La media de clics para llegar de un artículo a otro, medida para cualquier par de artículos es un poco mayor, de 4.573.
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/wikipedia" rel="tag">wikipedia</a>, <a href="http://www.technorati.com/tag/6+degrees" rel="tag">6+degrees</a>, <a href="http://www.technorati.com/tag/redes+sociales" rel="tag">redes+sociales</a>, <a href="http://www.technorati.com/tag/caminos" rel="tag">caminos</a>, <a href="http://www.technorati.com/tag/paths" rel="tag">paths</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/57917

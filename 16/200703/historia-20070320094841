@@ -1,0 +1,22 @@
+El ancho de banda de un camión cargado de cintas
+El otro día bromeábamos sobre ello en <a href="http://fernand0.blogalia.com/historias/47190">Matemáticas elementales</a>.
+La frase del título estaba en el libro Computer Networks, de <a href="http://www.cs.vu.nl/~ast/">Andrew S. Tanenbaum<a>.
+
+Me llama la atención que en pocos días he visto hablar de esa idea en mas sitios. 
+
+Google tiene un programa de recogida y envío de datos (cantidades masivas) y lo que utilizan es un sistema de discos que le envían a uno por correo para que copie los datos. Lo contaban en <a hreF="http://newsvote.bbc.co.uk/mpapps/pagetools/print/news.bbc.co.uk/2/hi/technology/6425975.stm"> Google helps terabyte data swaps</a>.
+
+Ahora veo en Menéame (o no era allí?) un enlace a una nota de Jonathan Schwartz, de Sun: <a href="http://blogs.sun.com/jonathan_es/entry/mover_un_petabyte_de_datos">Mover un petabyte de datos</a>.
+
+<blockquote>
+Un petabyte son mil terabytes, lo que equivale a un millón de gigabytes o mil millones de megabytes. U ocho mil millones de megabits. ¿Me siguen hasta ahora?
+
+Así pues, si tenemos una conexión a Internet de medio megabit por segundo, lo que sería relativamente alto en EE. UU. (aunque relativamente bajo comparado con el ancho de banda disponible en zonas residenciales de Korea, por ejemplo), nos llevaría dieciséis mil millones de segundos, o 266 millones de minutos, o 507 años transmitir esa cantidad de datos. ¿A que se puede llegar a Hong Kong en velero en menos tiempo? Si doblamos el ancho de banda a un megabit, el tiempo se divide por dos. Incluso a cien megabits (poco más o menos la cifra más alta para una conexión a Internet de que tengo noticia), la transferencia llevaría unos cuantos años. 
+</blockquote>
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/ancho+de+banda" rel="tag">ancho+de+banda</a>, <a href="http://www.technorati.com/tag/transmisión" rel="tag">transmisión</a>, <a href="http://www.technorati.com/tag/datos" rel="tag">datos</a>, <a href="http://www.technorati.com/tag/terabytes" rel="tag">terabytes</a>, <a href="http://www.technorati.com/tag/petabytes" rel="tag">petabytes</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/48068

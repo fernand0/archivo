@@ -1,0 +1,34 @@
+De GitHub a los wikis federados (I)
+Conocí GigHub cuando empecé una bitácora en WordPress y descubrí un <a href="https://github.com/fernand0/vimblog.vim">'plugin' para publicar artículos desde mi editor favorito</a>: no funcionaba bien la parte de las etiquetas, le mandé un mail al autor y me dijo cómo hacerlo. Cuando le envié los cambios me sugirió que hiciera mi propio proyecto a partir del suyo y allí me di de alta (<a href="https://github.com/fernand0">fernand0 en GigHub</a>.
+
+Tengo que decir que a pesar de eso no pillé de que iba GigHub hasta hace no mucho, y que el motivo fue leer <a href="http://www.cs.cmu.edu/~xia/resources/Documents/cscw2012_Github-paper-FinalVersion-1.pdf">[PDF] Social Coding in GitHub: Transparency and Collaboration in an Open Software Repository</a> que me abrió los ojos a que la herramienta estaba consiguiendo un nivel de colaboración y establecimiento de relaciones que inciativas anteriores no habían conseguido (al menos, no de la misma forma).
+
+Como decía arriba, a partir de un proyecto en ese sitio web es casi trivial copiarlo en nuestra zona de trabajo, hacer cambios, enviárselos al autor original y tejer una red social de las que a mi me gustan: basadas en la colaboración y en lo que se hace en lugar de lo que se dice sobre quién es o no nuestro amigo.
+
+<blockquote>
+There is a potential for this transparency to radically improve collaboration and learning in complex knowledge-based activities. Based on a series of in-depth interviews with central and peripheral GitHub users, we examined the value of transparency for large-scale distributed collaborations and communities of practice.
+</blockquote>
+
+El secreto está en dar visibilidad a estas actividades de los usuarios:
+
+<blockquote>
+This site integrates a number of social features that make unique information about users and their activities visible within and across open source software projects.
+</blockquote>
+
+Y las consecuencias, a veces, de esa observación 'social':
+
+<blockquote>
+One developer contrasted his heavily watched project with a niche project, noting that he could be more experimental in the niche project because no one was watching (P21).
+</blockquote>
+
+En las conclusiones, tres temas aparecen como relevantes: un ecosistema que origina una cadena de pequeñas aportaciones entre proyectos y personas; el valor de la observación directa frente a la comunicación (emitimos señales sin que nos tengan que preguntar; a alguna gente eso le basta para saber qué hacemos sin tener que gastar tiempo ni energía en interactuar; a alguna gente le interesan cosas nuestras que nosotros no pensaríamos que son suficientemente interesantes...); la interpretación de la señales del sistema y nuestro contexto producen valor, tanto para encontrar otros proyectos interesantes como para recibir o expresar reconocimiento por el trabajo realizado. 
+
+<blockquote>
+Three interesting themes cross-cut the observations in our data about the value of visibility and transparency in the GitHub community: the micro-supply chain ecosystem on GitHub, the value of observation versus direct interaction, and the affordances of attention signals.  Visibility across micro-supply chains
+</blockquote>
+
+Pensaba haber escrito esto de un tirón pero veo que ya está quedando suficientemente largo y no quiero que quede como pequeño el valor de GitHub en sí mismo y del artículo sobre él, así que seguiremos en una segunda parte.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+github" rel="tag">github</a>, <a href="http://delicious.com/fernand0/rei+colaboración" rel="tag">colaboración</a>, <a href="http://delicious.com/fernand0/rei+wikis" rel="tag">wikis</a>, <a href="http://delicious.com/fernand0/rei+programación" rel="tag">programación</a>, <a href="http://delicious.com/fernand0/rei+programadores" rel="tag">programadores</a>, <a href="http://delicious.com/fernand0/rei+desarrollo" rel="tag">desarrollo</a>, <a href="http://delicious.com/fernand0/rei+colaboración" rel="tag">colaboración</a>, <a href="http://delicious.com/fernand0/rei+fork" rel="tag">fork</a>, <a href="http://delicious.com/fernand0/rei+difusión" rel="tag">difusión</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/72360

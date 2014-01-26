@@ -1,0 +1,50 @@
+Y  esta semana ... (17/I - 25/I)
+Selección propia y personal de actividades para esta semana.
+
+<blockquote>
+<div id="hcalendar-2009-00-17T10:00" class="vevent"><abbr title="2009-00-17T10:00" class="dtstart">Sábado 17, 10:00 </abbr><a href="http://www.aragoneame.com/pirena/" class="url"><span class= "summary">Empieza Pirena </span><span class= "location">Lugar: Avda. Cesáreo Alierta </span></a><span class= "description"> 
+El mushing es un deporte de invierno que consiste en desplazarse sobre la nieve con un trineo movido por perros, originariamente, nórdicos. Es un deporte de orígenes antiguos porque los trineos de perros se han usado desde siempre para transportar bienes y personas en las zonas cubiertas de nieve del planeta. 
+
+Desde <a href="http://www.aragoneame.com/">Aragonéame</a> (en la URL de arriba) hacen un seguimiento especial.  </span></div>
+
+
+<div id="hcalendar-2009-00-19T19:00" class="vevent"><abbr title="2009-00-19T19:00" class="dtstart">Lunes 19, 19:00 </abbr><a href="https://www.ibercaja.es/obrasocial/ficha_centro.php?id=a213529ee2bffcb2030f33519471afcbb9154c95c12c8a4b" class="url"><span class= "summary">Pedro Medina. Director de Animadrid. Panorama de la animación contemporánea </span><span class= "location">Lugar: Zentrum. Lunes Tecnológicos en Ibercaja.  </span></a></div> 
+
+
+<div id="hcalendar-2009-00-19T19:00" class="vevent"><abbr title="2009-00-19T19:00" class="dtstart">Lunes 19, 19:00 </abbr><a href="http://www.medicosdelmundo.org/PLTS/GCNT/pagina/plantillas/DESED_01F_00002.jsp?IDENTIFICADOR_CONTENIDO=897&TIPO_CONTENIDO=EDITORIAL&FECHA_CONTENIDO=16/01/2009&IDIOMA_CONTENIDO=01" class="url"><span class= "summary">Inauguración de la Exposición del XII Premio Internacional de Fotografía Humanitaria Luis Valtueña </span><span class= "location">Lugar: Centro Joaquín Roncal, C. San Braulio 5-7. Zaragoza </span></a><span class= "description"> Médicos del Mundo presenta la exposición formada por las mejores fotografías del XII Premio Internacional de Fotografía Humanitaria Luis Valtueña.  </span></div>
+
+
+<div id="hcalendar-2009-00-22T09:00" class="vevent"><abbr title="2009-00-22T09:00" class="dtstart">Jueves 22, 09:00 </abbr><a href="http://www.forotecnologicoyempresarial.com/index.php?option=com_content&view=article&id=103&Itemid=50" class="url"><span class= "summary">Foro Tecnológico y Empresarial. La Inteligencia ambiental en entornos urbanos </span><span class= "location">Lugar: Salón de Actos de CREA (Edificio CREA, Avda. Ranillas Nº 20, 50018 Zaragoza) </span></a><span class= "description"> Más información en <a href="http://i3a.unizar.es/blog/2009/01/08/foro-tecnologico-y-empresarial-la-inteligencia-ambiental-en-entornos-urbanos/">Programa del Foro Tecnológico y Empresarial. La Inteligencia ambiental en entornos urbanos</a>. </span></div>
+
+
+<div id="hcalendar-2009-00-22T18:00" class="vevent"><abbr title="2009-00-22T18:00" class="dtstart">Jueves 22, 18:00 </abbr><a href="http://www.cps.unizar.es/cargar_ateneo.php?modulo=ateneo/ateneo2.php&modo=1" class="url"><span class= "summary">Ateneo del CPS. Sesión 172. El largo viaje del universo: desde el Big Bang a nuestros días </span><span class= "location">Lugar: Sala de Grados, Edificio Torres Quevedo, CPS C/ María de Luna, 3.  ZARAGOZA </span></a><span class= "description">
+
+Ponente: Xavier Barcons Jáuregui (Doctor en Ciencias Físicas por la Universidad de Cantabria Profesor de Investigación del CSIC en el Instituto de Física de Cantabria (ICT). Jefe de la Delegación Española en el European Southern Observatory, ESO). 
+
+Presentador: Antonio Elipe Catedrático de Matemática Aplicada de la Universidad de Zaragoza Director del Instituto Universitario de Matemáticas y Aplicaciones (IUMA) </span></div>
+
+
+<div id="hcalendar-2009-30-23T19:30" class="vevent"><abbr title="2009-30-23T19:30" class="dtstart">Viernes 23, 19:30 </abbr><a href="http://zaragozame.com/elculturaldenerea/2009/01/15/japon-universo-de-contrastes-fotografia/" class="url"><span class= "summary">Japón, universo de contrastes - fotografía </span><span class= "location">Lugar: Ámbito Cultural de El Corte Inglés Paseo Independencia, 11, segunda planta - Zaragoza </span></a><span class= "description">Fotografías de <a href="http://www.carlosmanzano.net/"> Carlos Manzano</a></span></div>
+</blockquote>
+
+Esta entrada contiene <a href="http://es.wikipedia.org/wiki/Microformato">microformatos</a> para las fechas, horas, etc. Eso puede ocasionar que en algún caso algo se vea mal por aquí (se agradecerá información sobre el tema). Para hacerlo usé el <a href="http://microformats.org">wiki de los microformatos</a>, el <a href="http://microformats.org/code/hcalendar/creator">hCalendar Creator</a>.  
+
+Además, para poder manejar la agenda mejor, he estado jugueteando con <a href="http://code.google.com/p/gcalcli/">Google Calendar Command Line Interface (gcalcli)</a>, que he estado modificando (aunque ya él solo tiene muchas posibilidades interesantes) para que genere como salida la lista en el formato adecuado.
+
+Haré público el calendario (como otra forma de tener esa información) tan pronto como le de un pequeño repaso a las pruebas que he ido haciendo y añadiré.
+
+Para sacar partido de la metainformación puede utilizarse, por ejemplo, la extensión <a href="https://addons.mozilla.org/es-ES/firefox/addon/2240">Tails Export</a>. También <a href="http://labs.mozilla.com/2006/12/introducing-operator/">Operator</a>.
+
+
+Antonio Novo también pone información en el <a href="http://www.antonionovo.com/blog/calendario-tic-de-aragon/">Calendario TIC de Aragón</a>.  
+
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/calendario" rel="tag">calendario</a>, <a href="http://www.technorati.com/tag/semana" rel="tag">semana</a>, <a href="http://www.technorati.com/tag/actividades" rel="tag">actividades</a>, <a href="http://www.technorati.com/tag/aragón" rel="tag">aragón</a>, <a href="http://www.technorati.com/tag/zaragoza" rel="tag">zaragoza</a></p>
+
+
+
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/61541

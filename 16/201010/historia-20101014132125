@@ -1,0 +1,22 @@
+Sensores como nosotros
+Leía este verano un artículo sobre la 'detección' de terremotos en Twitter: cuando la tierra tiembla, la gente empieza a hablar de ello y (claro) también lo escribe en Twitter. Se puede leer en <a href="http://ymatsuo.com/papers/www2010.pdf">[PDF] Earthquake Shakes Twitter Users: Real-time Event Detection by Social Sensors</a>. Los investigadores son capaces de detectar esos 'tuits', también en que dirección se mueve el terremoto (gracias a que algunos tuits vienen geoposicionados) y avisar a los que están en la trayectoria. El sistema puede verse en <a href="http://toretter.com/">Toretter</a> (principalmente en japonés).
+
+Lo recordé porque vi en <a href="http://gizmologia.com/2010/09/los-servidores-podrian-ayudar-a-identificar-terremotos">Los servidores podrían ayudar a identificar terremotos</a>: en este caso utilizan los sensores de los discos duros como sensores sísmicos baratos (en el sentido de que ya los tienes). El problema en este caso es que, seguramente, no hay tantos centros de datos como tuiteros.
+
+En todo caso, y en la línea del <a href="http://www.google.org/flutrends/">Google Flu Trends</a> (que habíamos comentado en <a href="http://fernand0.blogalia.com/historias/60614">Los resfriados y la red</a>), en <a href="http://podcastfera.com/profesorbacterio/?p=252">Usar Twitter para predecir los brotes de gripe</a> nos hablan de un método que mezclaría ambas aproximaciones, en lugar de las búsquedas de Google (que sólo las tienen ellos) utilizarían los tuits con la ventaja de que ese procesado lo puede hacer más gente (con algunas prevenciones, ver <a href="http://www.barriblog.com/index.php/2010/10/01/como-hacer-mineria-de-datos-de-twitter-y-no-morir-en-el-intento/">Como hacer minería de datos de Twitter y no morir en el intento</a>) y la granularidad, parece que hay más gente que dice que están malitos, que gente que busque las soluciones en Google.
+
+Finalmente, leíamos el otro día sobre el nuevo proyecto de <a href="http://www.ft.com/cms/s/2/deeb985e-d55f-11df-8e86-00144feabdc0.html">Google to map inflation using web data</a>: con la información de las tiendas en la red Google estaría definiendo el 'Google Price Index', que sería un análogo digital al 'Índice de Precios de Consumo' (pero, claro, lo digital y lo analógico cada vez están más cerca en muchos países).
+
+Termino dejando, a título de inventario, <a href="http://www.readwriteweb.com/archives/3_sensor_data_platforms_to_watch.php">3 Sensor Data Platforms to Watch</a>. También una iniciativa local, de la que me entero por los medios, <a href="http://www.europapress.es/aragon/noticia-universidad-zaragoza-busca-400-colaboradores-participar-estudio-europeo-ahorro-energia-20101011180013.html">La Universidad de Zaragoza busca 400 colaboradores para participar en un estudio europeo de ahorro de energía</a> en la línea de sensores humanos; en este caso:
+
+<blockquote>
+Los voluntarios deberán responder a una encuesta sobre sus hábitos de uso de la energía cada dos meses, en la que compararán los modelos tradicionales, como el teléfono o el correo postal, con las nuevas tecnologías como Internet.
+</blockquote>
+
+Por cierto, <a href="http://www.google.com/powermeter/">Google powermeter</a> va también en esa línea.
+
+Y, si alguien llegó hasta aquí, a lo mejor le interesa ver la presentación sobre <a href="http://www.slideshare.net/fernand0/datos-internet">Datos e Internet</a> que preparé este verano y que se podría actualizar con algunas de estas cosas.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+datos" rel="tag">datos</a>, <a href="http://delicious.com/fernand0/rei+internet" rel="tag">internet</a>, <a href="http://delicious.com/fernand0/rei+resfriados" rel="tag">resfriados</a>, <a href="http://delicious.com/fernand0/rei+gripe" rel="tag">gripe</a>, <a href="http://delicious.com/fernand0/rei+encuestas" rel="tag">encuestas</a>, <a href="http://delicious.com/fernand0/rei+demoscopía" rel="tag">demoscopía</a>, <a href="http://delicious.com/fernand0/rei+tendencias" rel="tag">tendencias</a>, <a href="http://delicious.com/fernand0/rei+trends" rel="tag">trends</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/67938

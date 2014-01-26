@@ -1,0 +1,52 @@
+Conferencia de Hugo Zaragoza. Lo que vi/entendí
+Hugo Zaragoza es un investigador de Yahoo! así que comenzó explicando en qué consiste el trabajo de un investigador: se pasa la mayor parte del tiempo pensando, en problemas que él solo conoce y que sólo él es capaz de resolver.
+
+Yahoo! tienen 20 petabytes almazenados y procesan diariamente 10 terabytes.
+
+Un buen buscador tiene unaparte de algoritmia, pero también tiene una parte importante de sociología, sicología ...
+
+¿Dónde debe llevarnos un buscador? ¿A la página mas relacionada o a la que haga de punto de acceso a unas cuantas muy relacionadas?
+
+Hoy en día la inteligencia artificial es una herramienta mas.
+
+Los buscadores también pagan a usuarios para que hagan búsquedas y determinen la validez de los resultados que obtienen.
+De esta forma se obtienen parejas de indicadores (los que determina el buscador y los que proporciona la opinión de los usuarios). Esto sirve al buscador para el aprendizaje.
+
+Los buscadores cada vez entienden un poco mas: si buscamos en Yahoo! el nombre de un Hotel 'se da cuenta' de que lo es y aporta información adicional. Lo mismo hace Google con los artículos científicos.  
+
+Además ahora saben identificar sujetos, objetos, verbos. Si son personas, animales o cosas ...
+
+De todas formas el aprendizaje basado en usuarios pagados no esacala bien: es muy caro. Conviene buscar medidas alternativas para que el buscador aprenda, por ejemplo con juegos, como el <a href="http://varoon.stanford.edu/wordgame/">Free-Association Game</a> (necesita Java, no lo he probado).
+
+También nos mostró <a href="http://www.textbiz.org/">Textbiz</a> que analiza lo que se dice en la red de los valores y proporciona información bastante interesante. Por ejemplo, en <a href="http://www.textbiz.org/stocks/YHOO.html">Yahoo!</a>. Uno similar sería <a href="http://www.textmap.com/">Textmap</a> o  <a href="http://www.textblg.com/">Textblog</a> que no conocía y habrá que explorar con mas calma.
+Relacionado con temas que ya habíamos comentado aquí (y sobre los que volveremos, espero): <a href="http://www.mediasentiment.com/">MediaSentiment</a>.
+
+
+Luego pasó a buscar de lo que llamó búsqueda social. Tal vez el buscador debería tener en cuenta también lo que la gente hace con el texto (o lo que se esté buscando).
+
+Internet sería el mayor y mas complejo artefacto jamás creado por el hombre.
+
+La gente siempre se ha comunicado. Para Hugo Zaragoza la característica fundamental de la web 2.0 es que la comunicación se queda dentro de la web.
+
+En sitios como <a href="http://answers.yahoo.com/">Yahoo! Answers</a> hay un 1% de grandes generadores de contenido, un 30% de grandes consumidores y el resto de la gente.
+
+Sin embargo, la gente no sólo hace preguntas. Hay conversación, preguntas, búsquedas, necesidades,  tomas de posición (análisis de opinión) ...
+
+El reto es crear herramientas para que la gente haga lo que quiere hacer.
+
+Luego nos mostró las <a href="http://pipes.yahoo.com/">Pipes</a> que describió como una herramienta de juguete (a mi me sirvió para la columna de comentarios de la derecha, creo que añadieron operadores últimamente) y mostró <a href="http://in.ourcity.yahoo.com/">In our city</a> como un ejemplo de integración de información que se puede hacer con este tipo de herramientas y algunas mas.  
+
+Al final las pregunta serían: ¿cómo aplicar las tecnologías a la web? ¿cómo facilitar el contacto entre la gente y la información? ¿qué nuevas cosas podemos saber?
+
+En definitiva, creo que valió la pena el 'sprint' para organizar la conferencia y las cosas que aprendimos.
+
+También se puede leer la crónica de Daniel Torres Burriel, en <a href="http://www.torresburriel.com/weblog/2007/05/17/cronicas-de-las-conferencias-de-david-de-ugarte-y-hugo-zaragoza/">Crónicas de las conferencias de David de Ugarte y Hugo Zaragoza</a>.  
+
+Ademas este jueves se publicó una entrevista a Hugo Zaragoza en El Periódico de Aragón: <a href="http://www.elperiodicodearagon.com/suplementos/idear/noticia.asp?pkid=324114">La búsqueda de una web más comprensible y participativa</a>, <a href="http://www.elperiodicodearagon.com/suplementos/idear/noticia.asp?pkid=324115">Tuberías para la información</a>, <a href="http://www.elperiodicodearagon.com/suplementos/idear/noticia.asp?pkid=324116">Empresas globales</a>, <a href="http://www.elperiodicodearagon.com/suplementos/idear/noticia.asp?pkid=324117">Retos tecnológicos</a>, <a href="http://www.elperiodicodearagon.com/suplementos/idear/noticia.asp?pkid=324119">Especializados y personales</a>  que ofrece un resumen amplio de lo expuesto arriba.
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/conferencias" rel="tag">conferencias</a>, <a href="http://www.technorati.com/tag/hugo+zaragoza" rel="tag">Hugo+Zaragoza</a>, <a href="http://www.technorati.com/tag/yahoo!" rel="tag">Yahoo!</a>, <a href="http://www.technorati.com/tag/zaragoza" rel="tag">Zaragoza</a>, <a href="http://www.technorati.com/tag/cps" rel="tag">CPS</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/49751

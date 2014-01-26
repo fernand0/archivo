@@ -1,0 +1,16 @@
+Medir y no medir
+En este momento parece que lo que hay que hacer siempre es medir: cada vez hay más herramientas y hay que usarlas. En <a href="http://simpleprogrammer.com/2013/02/11/we-cant-measure-anything-in-software-development/">We Can't Measure Anything in Software Development</a> habla de medidas en proyectos de desarrollo informático. Como otras veces, creo que se puede aplicar a cosas más generales.
+
+Medir es difícil (sobre todo medir bien, y medir lo adecuado/correcto): en cuanto empezamos a medir algo normalmente mejora. El problema es que eso no significa que mejore el proceso completo o el sistema del que forma parte esa medida:
+
+<blockquote>
+One of the biggest issues with measuring something is that as soon as you start measuring it, it does start improving. 
+
+What I mean by this is that if I tell you that I am going to start looking at some metric, you are going to try and improve that metric.  You won't necessarily improve your overall productivity or quality, but you'll probably find some way--intentional or not--to "game the system." 
+</blockquote>
+
+Eso no quiere decir que no midamos, claro, sólo que hay que tener cuidado con lo que medimos y si eso servirá para que mejore algo más que la medida que tomemos (¿he oido visitas? ¿<a href="http://fernand0.tumblr.com/post/48043759203/moby-dick-un-libro-extraordinario-cuaderno-de">variedad</a>?, ...). 
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+medidas" rel="tag">medidas</a>, <a href="http://delicious.com/fernand0/rei+desarrollo" rel="tag">desarrollo</a>, <a href="http://delicious.com/fernand0/rei+proyectos" rel="tag">proyectos</a>, <a href="http://delicious.com/fernand0/rei+autoayuda" rel="tag">autoayuda</a>, <a href="http://delicious.com/fernand0/rei+mejora" rel="tag">mejora</a></p>
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/73275

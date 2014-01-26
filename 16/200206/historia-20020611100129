@@ -1,0 +1,29 @@
+Difundiendo contenidosPara todos los miembros de esta comunidad debería estar claro lo que es la sindicación de contenidos, puesto que nuestro presidente decidió asociar [{un canal RSS a cada bitácora http://www.blogalia.com/?/documentos/Guía/A01-apendice.html}].  En [{Compartiendo contenidos http://barrapunto.com/article.pl?sid=02/05/29/1012208}], se hablaba un poco más sobre el tema.
+
+Si alguna vez han usado un programa de los que sirven para utilizar esta información se habrán encontrado con un problema: ¿ofrecerá este sitio que me gusta tanto sus contenidos en el formato adecuado? (bueno, dos problemas); ¿cuál será el enlace? (backend.rdf, rdf.xml, xml,rdf, ...). 
+Pues bien, para solucionar esto, los sabios sabiondos, [{Mark Pilgrim http://diveintomark.org}],  han creado la [{etiqueta LINK http://diveintomark.org/archives/2002/06/02.html}]. Se trata de una etiqueta que se incluye en las cabeceras de la página web sobre la que queremos informar, y que incluye información sobre el enlace adecuado para obtene el canal RSS correspondiente a la página.
+
+La manera de escribirlo es:
+<blockquote>
+<p><tt><code>&lt;link rel="alternate" type="application/rss+xml" 
+title="RSS" href="url/to/rss/file"&gt;</code></tt></p>
+</blockquote>
+
+(No es obligatorio que el título sea RSS, pero algunos navegadores pueden
+mostrarlo, asi que mejor que tenga sentido.)
+Por ejemplo, para un blogalita cualquiera, eso quedaría como:
+
+<blockquote>
+<p><tt><code>&lt;link rel="alternate" type="application/rss+xml" 
+title="RSS" href="http://fernand0.blogalia.com/rdf.xml"&gt;</code></tt></p>
+</blockquote>
+
+Perdonen que me ponga como ejemplo, pero espero que así quede más claro cuál es la parte que tienen que cambiar. Esto debería ir en la cabecera del html (después de &lt;head&gt; y antes de &lt;/head&gt;).
+
+La idea está clara: a partir de ahora los <i>robots</i> que surcan la red en busca de nuevos contenidos, 'sabrán' que ud. tiene un canal RSS, y lo anotarán convenientemente. Más aún, algunos de los programas para gestionar bitácoras e importar canales como estos ya lo usan. Por último, para amantes de las novedades: si siguen [{este enlace LINK http://diveintomark.org/archives/2002/06/02.html}], verán que la última versión del invento tiene sólo unos días; la idea tiene sólo unos pocos más. ¿Puede permitirse su bitácora perder la cresta de la ola?
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+
+ URL:Reflexiones e irreflexiones 1504

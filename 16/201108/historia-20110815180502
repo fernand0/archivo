@@ -1,0 +1,121 @@
+Diseñando el futuro digital
+Cuando lei este informe hace unas semanas pensé que era obligatorio comentarlo, por su novedad. Luego, charlando con mi amigo <a href="http://www.pepecerezo.com/">Pepe Cerezo</a> pensamos que podría ser una buena idea publicar una entrada 'pareada' en nuestras bitácoras. Su parte está en <a href="http://www.pepecerezo.com/1321/disenando-el-futuro-digital/">Diseñando el futuro digital</a> y la mía puede leerse a continuación. Creo que se complementan y que, en cualquier caso, vale la pena leer el informe y que cada cual saque sus propias conclusiones. 
+
+Como lectura veraniega, y ahora que (a lo mejor) hay alguien pensando en lo que van a prometer en los programas electorales del año que viene dejó aquí un informe que se publicó hace unos meses y que hasta ahora no había encontrado el momento de comentar. 
+
+Se trata del informe del consejo de asesores sobre Ciencia y Tecnología del Presidente de los Estados Unidos <a href="http://www.whitehouse.gov/sites/default/files/microsites/ostp/pcast-nitrd-report-2010.pdf">[PDF] Designing a Digital Future:  Federally Funded Research and Development in Networking and Information Technology</a>.  
+
+Lo que más me llamó la atención es la práctica desaparición del término ICT (aquí llamadas TIC), no porque no se piense en ellas, sino porque se dan por supuesto y se empieza a hablar en serio de lo que va sobre ellas (¿cuándo daremos ese paso aquí?). Las nuevas siglas son NIT (Networking and Information Technology. Esto es, redes y tecnologías de la información, en lugar de Tecnologías de la Información y Comunicaciones).  
+
+Selecciono algunos párrafos que me llamaron la atención, sobre todo porque muchos están en sintonía con temas que se tratan aquí de vez en cuando.
+Es un informe de 148 páginas que vale la pena leer y estaría bien ver algún análogo por aquí.
+
+Se habla de e-Salud:
+
+<blockquote>
+- to make possible comprehensive lifelong multi-source health records for individuals;
+- to enable both professionals and the public to obtain and act on health knowledge from diverse and variedsources as part of an interoperable health IT ecosystem; and
+- to provide appropriate information, tools, and assistive technologies that empower individuals to take charge of their own health and healthcare and to reduce its cost.
+</blockquote>
+
+Electricidad en redes inteligentes:
+
+<blockquote>
+ DoE and NSF should be major sponsors of research for achieving dynamic power management in applications ranging from single devices to buildings to the power grid.
+</blockquote>
+
+Investigación básica y no siempre útil:
+
+<blockquote>
+Investment
+in those areas must include funding for high risk/high reward research with the potential to move these areas in unanticipated directions.
+</blockquote>
+
+En un mundo de datos, protección de la intimidad:
+
+<blockquote>
+NSF and DARPA, with the participation of other relevant agencies, should invest in a broad, multiagency research program on the fundamentals of privacy protection and protected disclosure of confidential data. Privacy and confidentiality concerns arise in virtually all uses of NIT.  
+</blockquote>
+
+Y almacenamiento:
+
+<blockquote>
+NSF should expand its support for fundamental research in data collection, storage, management, and automated large-scale analysis based on modeling and machine learning. Our ever-increasing use of computers, sensors, and other digital devices is generating huge amounts of digital data, making it a pervasive NIT-enabled asset.
+</blockquote>
+
+Aumentar los titulados en tecnologías relacionadas:
+
+<blockquote>
+Increasing the number of graduates in NIT fields at all degree levels must be a national priority. Fundamental changes in K-12 education are needed to address this shortage. Here too the Federal Government must take the lead.
+</blockquote>
+
+Apoyar nuevas aproximaciones an análisis de los datos:
+
+<blockquote>
+Automated analysis techniques such as data mining and machine learning facilitate the transformation of data into knowledge, and of knowledge into action. Every Federal agency needs to have a 'big data' strategy.  
+</blockquote>
+
+Seguridad:
+
+<blockquote>
+Engineering large software systems to ensure that they are secure (behaving as expected in the presence of an adversary) and trustworthy (behaving as expected in the absence of an adversary) remains a daunting challenge.  
+</blockquote>
+
+
+Crowdsourcing y colaboración en la red:
+
+<blockquote>
+The emergence of social computing, communication, and interaction: social networks, crowdsourcing, coordination at a distance. The way people interact has been transformed, the data we have from and about people is transformational, and the ability to crowdsource knowledge creates tremendous new opportunities.
+</blockquote>
+
+Sensores, internet de las cosas:
+
+<blockquote>
+Enormous numbers of tiny but powerful sensors are being deployed to gather data deployed on the sea floor, in the forest canopy, in gene sequencers, in buildings and bridges, in living organisms (including ourselves!), in telescopes, in point-of-sale terminals, in social networks, in the World Wide Web. These sensors (and, indeed, simulations too) produce huge volumes of data that must be captured, transported, stored, organized, accessed, mined, visualized, and interpreted in order to extract knowledge.
+</blockquote>
+
+Mejorar las posibilidades para que los usuarios finales puedan desarrollar
+sus propias soluciones:
+
+<blockquote>
+Research into ways of empowering domain experts or end-users (people whose expertise is in the purposeful use of the software) to create or customize software for themselves has not received sufficient attention.
+</blockquote>
+
+La importancia de lo abierto: interfaces (APIs) y programas:
+
+<blockquote>
+Open interfaces and open source. The importance of interoperable and open interfaces has been emphasized in a sidebar on page 15, and specifically noted in relation to areas such as smart transportation, smart grid, and electronic health records.
+</blockquote>
+
+Harán falta matemáticos e informáticos:
+
+<blockquote>
+Computer and mathematical occupations are expected to add 785,700 new jobs from 2008 to 2018, and, as a group, they will grow more than twice as fast as the average for all occupations in the economy, according to projections. It is anticipated that computer specialists will account for the vast majority of this growth, increasing by 762,700 jobs.
+</blockquote>
+
+Pensamiento computacional:
+
+<blockquote>
+But fluency also involves a set of concepts and capabilities that have little to do directly with the use of a computer, but rather have to do with 'computational thinking'. Basic concepts of computational thinking include abstraction, modeling, algorithmic thinking, algorithmic efficiency and analysis, stepwise fault isolation, and universality.
+</blockquote>
+
+Cuidado, estamos hablando de conocimientos básicos y no sólo tecnológicos:
+
+<blockquote>
+Computer-related courses should aim not just for technological literacy, which includes such utilitarian skills as keyboarding and the use of commercial software packages and the Internet, but for a deeper understanding of the essential concepts, methods and wide-ranging applications of computer science.
+</blockquote>
+
+Esto es, conocimiento más profundo de los conceptos esenciales, métidos y aplicaciones amplias de la informática.
+
+Y hay que contar con los profesores, y prepararlos:
+
+<blockquote>
+To teach computing either as a separate discipline or as content infused across the curriculum, we will need better prepared teachers. As a Nation we must undertake an aggressive, and perhaps unprecedented, effort to prepare teachers who can effectively teach computing. We should support all of this with state-of-the-art online learning and social communities both for the teachers and their students.
+</blockquote>
+
+El que quiera entender, que entienda.
+
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+futuro" rel="tag">futuro</a>, <a href="http://delicious.com/fernand0/rei+digital" rel="tag">digital</a>, <a href="http://delicious.com/fernand0/rei+informes" rel="tag">informes</a>, <a href="http://delicious.com/fernand0/rei+usa" rel="tag">USA</a>, <a href="http://delicious.com/fernand0/rei+eeuu" rel="tag">EEUU</a>, <a href="http://delicious.com/fernand0/rei+redes" rel="tag">redes</a>, <a href="http://delicious.com/fernand0/rei+no" rel="tag">no</a>, <a href="http://delicious.com/fernand0/rei+más" rel="tag">más</a>, <a href="http://delicious.com/fernand0/rei+tic" rel="tag">tic</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/70260

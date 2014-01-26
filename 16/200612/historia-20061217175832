@@ -1,0 +1,29 @@
+Libro: The code book
+<a href="http://www.amazon.com/gp/product/0385495323?ie=UTF8&tag=reflexionesei-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0385495323">The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography</a><img src="http://www.assoc-amazon.com/e/ir?t=reflexionesei-20&l=as2&o=1&a=0385495323" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />. Simon Singh.
+
+Es un libro de códigos, como su título indica y habla fundamentalmente de criptografía, aunque también de otras formas de codificar. El punto de vista es, casi todo el rato, el del criptoanalista, el especialista en descifrar los códigos y, en general, es un libro que me ha gustado mucho (y que he leido bastante rápido).
+
+El primer capítulo presenta una introducción motivadora, contando la historia de Mary, la reina de los escoceses y como fue ejecutada por confiar en un cifrado excesivamente débil. Aprovecha para introducir los primeros sistemas de cifrado, los primeros criptoanalistas (los árabes) y algo de la terminología.
+
+El segundo capítulo presenta el <a href="http://es.wikipedia.org/wiki/Cifrado_de_Vigen%C3%A8re">cifrado de Vignère</a> y las estrategias para romperlo y aprovecha para contar la historia del <a href="http://codecripto.blogspot.com/2006/07/el-cifrado-indescifrable-el-cifrado-de.html">cifrado de Beale</a>.
+
+El tercer y cuarto capítulos (seguramente el que mas me gustó) habla de la mecanización del cifrado y descifrado y las dos guerras mundiales: cómo los alemanes perdieron la primera guerra mundial porque no se dieron cuenta de que su método ya no proporcionaba el secreto y cómo durante la segunda, los aliados pudieron llegar a descifrar gracias a la intervención de los criptoanalistas polacos (con una interesante reflexión sobre el miedo y la necesidad como motor del conocimiento). También como el cifrado producido por la máquina <a href="http://es.wikipedia.org/wiki/Enigma_(m%C3%A1quina)">Enigma</a> era mucho más sencillo de romper en algunas ocasiones por el mal uso y gestión de las claves y los mecanismos.  También como la necesidad de cálculo asociada a estos criptoanalistas empezaron a surgir los primeros computadores.
+
+En el siguiente capítulo se habla de la barrera del lenguaje y como algunos lenguajes poco conocidos y suficientemente diferentes del resto han servido para proporcionar seguridad a las comunicaciones (se habla de los Navajos en la II guerra mundial y también de los códigos antiguos; esta segunda parte del capítulo es probablemente la que menos me gustó).  De todas formas, es altamente enriquecedora la narración de como un <a href="http://fernand0.blogalia.com/historias/30248">proficionado</a>, Michael Ventris ayudó a los profesionales (principalmente John Chadwick que fue el que le prestó atención) a encontrar el camino para resolver y descifrar '<a href="http://es.wikipedia.org/wiki/Lineal_B">Lineal B</a>', el sistema de escritura usado para escribir griego en la época micénica.
+
+El capítulo sexto se dedica a la criptografía de clave pública y su invención (en duplicado); por un lado, Diffie y Hellman que propusieron el método para intercambiar las claves, seguidos de Rivest, Shamir y Adleman que propusieron un algoritmo para hacer el cifrado.  Termina hablando de los  otros inventores, James Ellis, Clifford Cocks, y Malcolm Williamson que trabajaban para la agencia de inteligencia británica y que no pudieron publicar sus resultados por restricciones de la propia agencia.
+
+El capítulo séptimo está dedicado al <a href="http://www.rediris.es/pgp/">PGP</a> como método de proporcionar herramientas criptgráficas a la gente y la preocupación de Zimmermann, su creador de que efectivamente cualquiera pudiera tener accdeso a las mejores herramientas disponibles.
+
+Finalmente, en el octavo capítulo se habla de criptografía cuántica (que no se si es que me pilló ya cansado, o que simplemente me dejó bastante frío).
+
+El libro me lo regaló <a href="http://www.caballe.com/">Xavier Caballé</a> (lo contaba en <a href="http://fernand0.blogalia.com/historias/41518">Libros recibidos</a>.  La <a href="http://www.flickr.com/photos/fernand0/187913744/">foto del libro</a>. 
+
+El autor tiene una página en <a href="http://www.simonsingh.net/">Simon Singh Homepage</a> y ademas permite descargar el <a href="http://www.simonsingh.net/Shop_-_Crypto_CD-ROM.html">CD-ROM version of The Code Book</a> (sólo para PC). También tiene una página sobre <a href="http://www.simonsingh.net/The_Code_Book.html">The code book</a>.
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/the+code+book" rel="tag">The+code+book</a>, <a href="http://www.technorati.com/tag/libros" rel="tag">libros</a>, <a href="http://www.technorati.com/tag/criptografía" rel="tag">criptografía</a>, <a href="http://www.technorati.com/tag/criptoanálisis" rel="tag">criptoanálisis</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/45502

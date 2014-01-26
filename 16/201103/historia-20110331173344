@@ -1,0 +1,42 @@
+Gestión de Talento
+Una de las cosas que las nuevas empresas de internet (las grandes y exitosas, que de todo habrá) es la gestión de sus trabajadores. Es bastante interesante la lectura de <a href="http://algeri-wong.com/yishan/engineering-management.html">Engineering Management</a> donde habla de su trabajo en Facebook y su orientación a los ingenieros y sus desarrollos (igualito que en otras partes).
+
+Contra el establecimiento de procesos excesivamente formales:
+
+<blockquote>
+First, the harmless suggestion to write down "the steps we go through to do X" is taken up (where X might be "launch a product" or "take an idea from conception to delivery" or "request a new desk"), and the process is described in a document and posted onto (perhaps) an intranet page.
+
+Then one day, a new person asks, "How do we do X?" In reply, instead of an old-timer explaining to them informally how they individually might go about doing X, they are referred to the document. After all, it's easier than explaining verbally. In a fast-growing organization, new people join rapidly; soon, this new person becomes an old-timer. Another new person happens to ask them, and they in turn are referred to the document. This cycle repeats merely a couple of times, and the document itself becomes viewed as the authority on how something is done. 
+</blockquote>
+
+Y la velocidad se alcanza por no encorsetar demasiado:
+
+<blockquote>
+At Facebook, there was a cultural resistance to process, to the point where the pattern around introducing process typically went "new process is reluctantly introduced only right before the point where things tip into chaos." Push this point as far as humanly possible, and then some, because what you receive in return is high organizational speed. If your organization has less process than another one of equivalent size, you will innovate and execute faster, taking ideas from conception to market more rapidly. Managers may need to psychologically contend with more chaos than they are comfortable with, but there is a huge difference between chaos that makes one uncomfortable and chaos that actually threatens the business. Stepping as close to the latter as possible confers one of the greatest advantages in the technology business: execution speed
+</blockquote>
+
+Un fallo frecuente en la industria del software: los jefes no son ingenieros, ni tienen mucha idea del tema.
+¿Cómo se puede gestionar talento sin tener ni idea de la materia de trabajo? ¿Se puede vender todo igual? ¿Se dirige lo mismo?
+
+<blockquote>
+There is an odd misconception that this is not a necessary requirement for an executive or manager, as though programming were just a fancy form of typing. No other specialized industry seems to feel this way: banking executives are expected to be able to read a balance sheet; an automotive executive would never be hired if they didn't know what a catalytic converter did. 
+</blockquote>
+
+Y, sobre las competencias técnicas de los desarrolladores, no vale cualquiera.
+
+<blockquote>
+For example, one particularly low bar includes the <a href="http://imranontech.com/2007/01/24/using-fizzbuzz-to-find-developers-who-grok-coding/">fizzbuzz</a> question. Many readers here may assume that this is a test that any programmer could pass, but this is not true. There are numerous, numerous programmers who cannot do this (not that being able to do this means you're a good programmer, but not being able to do it definitely means you're NOT) and early in their careers, they found they weren't good programmers, and because they happened to be in an organization without strong technical rigor, they were promoted because they happened to be good with people (or good at using people). Many of these people fill the ranks of technical management and executive candidates today.  
+
+Furthermore, they are usually very skilled at talking a good game and sounding like they know what they're doing (or they wouldn't have gotten there). The only way to determine if a candidate has real technical competence is to either (1) subject them directly to a simple coding test of the nature I described or (2) find some open-source code they've written which you can directly evaluate. [Example] 
+</blockquote>
+
+(Jeje. Aún estoy joven. He hecho la prueba del fizz-buzz y en un par de minutos tenía un programita -creo que- correcto en Python. Se podría hacer mejor, seguro, pero la cosa era hacerlo).
+
+
+Me gusta de este párrafo la cuestión de como algunas empresas valoran los desarrollos en software libre, a modo de porfolio digital. Espero que nadie mire mi código liberado ningún día porque sería bastante vergonzante (por poco y por malo).
+
+Definitivamente, una lectura interesante.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+facebook" rel="tag">facebook</a>, <a href="http://delicious.com/fernand0/rei+trabajo" rel="tag">trabajo</a>, <a href="http://delicious.com/fernand0/rei+ingenieros" rel="tag">ingenieros</a>, <a href="http://delicious.com/fernand0/rei+software" rel="tag">software</a>, <a href="http://delicious.com/fernand0/rei+desarrollo" rel="tag">desarrollo</a>, <a href="http://delicious.com/fernand0/rei+gestión" rel="tag">gestión</a>, <a href="http://delicious.com/fernand0/rei+trabajo" rel="tag">trabajo</a>, <a href="http://delicious.com/fernand0/rei+empleo" rel="tag">empleo</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/69341

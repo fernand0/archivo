@@ -1,0 +1,16 @@
+¿Cómo lees tus bitácoras favoritas?Reconozcámoslo. Recorrer todos los días un montón de bitácoras para saber quién actualizó la suya y leer sus historias es un poco incómodo.
+Para remediar este problema (en algunos casos) están gozando de bastante éxito los agregadores. Se trata de programas que acceden a las fuentes RSS que publican algunas bitácoras, y nos ofrecen el contenido como si de un programa de correo o de news se tratara.  
+De eso habla el artículo <a href="http://www.bayarea.com/mld/mercurynews/business/technology/personal_technology/4203205.htm">News-reader software can do your Web surfing for you</a>, donde además se nombran algunos de los agregadores principales.  Aunque pueda parecer que las opciones disponibles para Linux son limitadas, no hay que olvidar que el gestor personal de información <a href="http://www.ximian.com/products/evolution/">Ximian Evolution</a> lleva, entre otras cosas, un agregador.
+
+Parece que por ahí afuera la gente los utiliza (mal, pero los utiliza: consultan las actualizaciones demasiado frecuentemente -ya hay quien <a href="http://philringnalda.com/archives/002359.php">se quejó</a>-).  ¿Por aquí? ¿Alguno de los amables lectores utiliza un agregador?  
+Servidor usa uno 'chapuzeado' a partir del <a href="http://www.w3.org/2002/09/rss2email/">Aaron's RSS to Email Aggregator</a>, que utiliza el <a href="http://diveintomark.org/projects/rss_parser/">ultra-liberal RSS parser</a> de Mark Pilgrim (por cierto, justo hoy <a href="http://diveintomark.org/archives/2002/10/21.html#ultraliberal_rss_parser_20">sacó la versión 2.0</a>).  El programita recorre las fuentes y envía un mensaje de correo electrónico con cada nueva entrada. La modificación consiste  en generar una página web (estática, no hace falta servidor) donde ir leyendo, en lugar de enviar mensajes. Además utiliza un código de grises para diferenciar los mensajes antiguos.  
+Pensaba haberlo ofrecido hoy para el que le quiera echar un ojo. Pero el cambio de versión del analizador de RSS justamente hoy retrasará un poco esto, porque han 'roto' la compatibilidad hacia atrás, y hay que ver como queda.
+
+Otra historia sobre el crecimiento en el uso de las fuentes RSS en <a href="http://www.bayarea.com/mld/mercurynews/business/technology/personal_technology/4203633.htm">RSS feeds are catching on with Web community </a>
+Un sitio con mucha información sobre el formato RSS es (Creo que ya lo hemos puesto alguna vez, está un poco antiguo ya): <a href="http://gils.utah.gov/rss/">RSS Workshop</a>
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+
+ URL:Reflexiones e irreflexiones 3005

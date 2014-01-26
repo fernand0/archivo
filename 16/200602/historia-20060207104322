@@ -1,0 +1,34 @@
+La conversación: seguimiento de comentarios.
+Estas son las instrucciones para utilizar la herramienta de seguimiento de comentarios de Blogia, Au d'asti.  
+
+
+Paso 1: registrarse en <a href="http://www.blogia.com/">Blogia</a> (esto puede parecer un inconveniente, por ahora no es posible hacerlo sin tener bitácora en blogia, pero igualmente habría que registrarse en algún lado, ¿no?).
+
+Paso 2: Activar audasti
+- Pinchar el botón de 'Administrar'
+- Pinchar el botó 'Mi cuenta' (arriba, hacia la derecha)
+- En 'Tipo de usuario y versión de Blogia', seleccionar 'Avanzado, Blogia
+  Plus' y darle a aceptar.
+
+Paso 3: Ahora abajo, en Extras, aparece el enlace 'Au d'asti' (en beta, claro, bienvenidos a la web 2.0 ;) )
+
+Paso 4: Una vez en la página, darle a 'Configuración', marcar 'Activar', y poner el nombre ('Nick') que solemos usar para dejar comentarios. Por el momento no vamos a usar la 'Configuración avanzada'. Darle a 'Guardar'.
+
+Una vez instalado, ¿cómo se usa? 
+
+Cada vez que hacemos un comentario, hay que 'avisar' al sistema. Se puede hacer de dos formas: 
+
+1. Pinchando en la url de nuestro nombre en el comentario, para ir a 'Au d'asti' (sólo funciona con blogianos).
+2. La que me parece más cómoda, usar el 'bookmarklet'. En 'Audasti', en ayuda, se puede encontrar el 'ayudante' (lo pinchan con el ratón y lo arrastran a la barra de herramientas).
+
+Cuando hayamos puesto el comentario, le damos al botón de audasti de nuestro navegador, y el sistema registrará el comentario.
+
+El sistema genera una fuente RSS, que podemos usar para seguir nuestros comentarios (en otra historia, consejos sobre como incluirlos en nuestra web; yo los tengo en la columna de la derecha). También pueden seguirlos en la administración del sitio, claro.
+
+Hay comptencia, si les gusta mas: <a href="http://www.error500.net/cocomment-seguir-comentarios-blogs">coComment para seguir tus comentarios en los blogs</a>. No lo he probado todavía, aunque en esa historia se habla de algunas de sus limitaciones.
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/37234

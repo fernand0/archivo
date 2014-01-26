@@ -1,0 +1,39 @@
+Adiós Webstats4u (II)
+Ya se acordarán que hace unos meses <a href="http://fernand0.blogalia.com/historias/33089">eliminé el contador de Nedstat</a> porque enviaba publicidad molesta. De hecho, <a href="http://www.google.com/search?q=adi%C3%B3s+nedstat">bastante gente lo hizo</a>.
+
+Sin embargo, sigue siendo un contador popular y sigo sufriendo los efectos de la cada vez mas molesta publicidad que envía el contador ese, de la mano de muchas bitácoras que no lo han quitado.
+
+Llevaba unos días cortando el acceso a los sitios que lanzan esos popups, uno por uno, sin darme cuenta de que la solución es mas sencilla: bloquear el infame webstats4u. 
+
+Por si alguien lo quiere evitar también,  hay que añadir una línea como:
+
+<blockquote>
+127.0.0.1       www.webstats4u.com
+</blockquote>
+
+En Unix/Linux al fichero 
+
+<blockquote>
+/etc/hosts
+</blockquote>
+
+Y, si es Windows, la misma línea al fichero:
+
+<blockquote>
+c:\windows\system32\drivers\etc\hosts
+</blockquote>
+
+
+(puede variar ligeramente, según como se tenga el sistema, creo, pero casi todo el mundo lo debería tener allí)
+
+En Mac supongo que será parecido a Unix/Linux, pero no tengo ninguno a mano para mirarlo.
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/publicidad" rel="tag">publicidad</a>, <a href="http://www.technorati.com/tag/spam" rel="tag">spam</a>, <a href="http://www.technorati.com/tag/webstats4u" rel="tag">webstats4u</a>, <a href="http://www.technorati.com/tag/popups" rel="tag">popups</a></p>
+
+
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/41836

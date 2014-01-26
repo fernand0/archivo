@@ -1,0 +1,27 @@
+Documentación colaborativa: según
+En mi opinión, es un debate que se puede aplicar a cosas muy técnicas como la documentación informática,  a otras tan técnicas o más; y también, creo,  a muchos otros modelos de negocio como pueden ser la elaboración de noticias, etc.
+
+En <a href="http://blog.ninlabs.com/2012/05/crowd-documentation/">Crowd Documentation</a> un resumen del artículo <a href="http://www.cc.gatech.edu/~vector/papers/CrowdDoc-GIT-CS-12-05.pdf">[PDF] Crowd Documentation: Exploring the Coverage and the Dynamics of API Discussions on Stack Overflow</a>. 
+
+Se exploran tres comunidades alrededor del sitio de preguntas y respuestas <a href="http://stackoverflow.com/">stackoverflow</a> alrededor de tres APIs (esencialmente son conjuntos de instrucciones adicionales para simplificar el acceso para los programadoers a determinadas capacidades de los lenguajes de programación).
+
+Se observa un desvío de Google hacia ciertas respuestas en estos sitios (recordemos que hace no mucho -y sigue siendo así en muchos casos- eran los foros lo que salía, ocasionalmente páginas de la wikipedia, bastantes blogs...). Esto es, salen en la primera página del buscador para determinadas cuestiones.
+Google les va concediendo relevancia.
+
+<blockquote>
+For example, we found at least one blog post on the first page of the search results for 88% of the methods in jQuery; and for 84% of the methods, we found at least one question on Stack Overflow on the first page of the search results.
+</blockquote>
+
+Al final, a la gente hay cosas que le interesan y otras no tanto:
+
+<blockquote>
+API designers cannot completely rely on the crowd to provide questions and answers for an entire API. While there is at least one Q&A thread on Stack Overflow for about 80% of the classes of the Java and Android APIs, some areas (such as accessibility) are ignored by the crowd. Also, the crowd takes time to discuss all classes of an API at a linear rate, focusing on API elements that are frequently used.
+</blockquote>
+
+Esto es, dependiendo del proyecto se puede encontrar aficionados (o no tanto, proficionados o directamente profesionales) que harán el trabajo mejor incluso que gente dedicada expresamente al tema. 
+Pero también dejarán huecos y habrá partes a las que no dediquen tiempo: eso puede ser un medida del desinterés en su contexto por esos temas, falta de actualidad, o que el tiempo que usan en eso no se valora dentro de su organización, así que directamente no entra en sus perspectivas.
+Y, entiendo, allí es donde pueden surgir nichos de negocio para gente que se dedique a cubrir esas necesidades.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+documentación" rel="tag">documentación</a>, <a href="http://delicious.com/fernand0/rei+api" rel="tag">api</a>, <a href="http://delicious.com/fernand0/rei+estudios" rel="tag">estudios</a>, <a href="http://delicious.com/fernand0/rei+stackoverflow" rel="tag">stackoverflow</a>, <a href="http://delicious.com/fernand0/rei+voluntarios" rel="tag">voluntarios</a>, <a href="http://delicious.com/fernand0/rei+genet" rel="tag">genet</a>, <a href="http://delicious.com/fernand0/rei+gente" rel="tag">gente</a>, <a href="http://delicious.com/fernand0/rei+masa" rel="tag">masa</a>, <a href="http://delicious.com/fernand0/rei+crowdsourcing" rel="tag">crowdsourcing</a>, <a href="http://delicious.com/fernand0/rei+trabajo" rel="tag">trabajo</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/72114

@@ -1,0 +1,37 @@
+La definición de la geografía por la tecnología
+<a href="http://www.paristechreview.com/2011/11/15/voice-border-cellphones-redraw-maps/"><img src="https://lh5.googleusercontent.com/-Gx636Cvpo38/T-F5IgnccqI/AAAAAAAACQ8/syFfuyxnxe0/s483/telefonosFrancia.jpg" height="232" alt="Mapa de llamadas de Francia" style="float:left; margin:5px"></a> 
+Hace unos meses veíamos como las relaciones telefónicas pintaban un nuevo mapa de Francia que era muy parecido al de siempre: <a href="http://www.paristechreview.com/2011/11/15/voice-border-cellphones-redraw-maps/"> Voice on the Border: Do Cellphones Redraw the Maps?</a> y parecía mostrar que las relaciones mediadas por tecnología (los teléfonos lo son) terminan reproduciendo, al final, las relaciones físicas y sus limitaciones.
+
+<blockquote>
+Figure 3 demonstrates the structure of telephone communications organized according to the parameters of the study, and while lacking some of the finer details, data produced through application of the modularity maximization algorithm gives definitive proof of the tendency for communities to organize themselves spatially according to pre-defined administrative frontiers. Each community is represented by colors onto which the borders of France's 22 régions have been overlaid for comparison.
+</blockquote>
+
+Nombran aquel estudio parecido que se hizo en Gran Bretaña y que comentamos en su día en <a href="http://fernand0.blogalia.com/historias/68567">Mapas humanos: por la interacción hacia la geografía</a>.
+
+En <a href="http://www.technologyreview.com/news/427650/using-foursquare-data-to-redefine-a-neighborhood/">Using Foursquare Data to Redefine a Neighborhood</a> nos aportan una perspectiva ligeramente diferente. Una herramienta como foursquare nos permite conocer cuál es el uso que realmente le da la gente al espacio:
+
+<blockquote>
+With this in mind, a research project called Livehoods, from Carnegie Mellon University's School of Computer Science, aims to shed some light on how people really inhabit their cities--and how this changes over time--by mapping data collected from 18 million Foursquare check-ins that have been sent out via Twitter.
+</blockquote>
+
+Con el valor de que ya no se ligan solamente llamadas entre particulares, sino el uso que éstos hacen del espacio:
+
+<blockquote>
+As more people use smart phones and services that log their location data, interest in mining this information is likely to grow--both for the cultural insights it could show and the possibilities for advertising and other moneymaking opportunities. 
+</blockquote>
+
+Y aparecen algunas sorpresas:
+
+<blockquote>
+"It's a really interesting way to see a snapshot of the structure of the city," says Livehoods team member and Carnegie Mellon graduate student Justin Cranshaw.
+
+Sometimes there are surprises, too. I live in Livehood #44 in San Francisco, which covers much more ground than what I usually think of as my neighborhood, near the famous intersection of Haight and Ashbury. And the neighborhoods most related to mine aren't exactly what I figured, either.
+</blockquote>
+
+Interesante.
+
+Ya hablamos hace unos días de <a href="http://fernand0.blogalia.com/historias/71527">Foursquare como sistema de recomendación</a> aunque Antonio Ortíz dudaba el otro día sobre su capacidad recomendadora: <a href="http://www.error500.net/articulo/el-nuevo-foursquare-suficiente-para-ser-recomendador-local-para-gran-publico">El nuevo Foursquare, ¿suficiente para ser el recomendador local para el gran público?</a>.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+foursquare" rel="tag">foursquare</a>, <a href="http://delicious.com/fernand0/rei+gps" rel="tag">gps</a>, <a href="http://delicious.com/fernand0/rei+localización" rel="tag">localización</a>, <a href="http://delicious.com/fernand0/rei+espacio" rel="tag">espacio</a>, <a href="http://delicious.com/fernand0/rei+urbanismo" rel="tag">urbanismo</a>, <a href="http://delicious.com/fernand0/rei+uso" rel="tag">uso</a>, <a href="http://delicious.com/fernand0/rei+gente" rel="tag">gente</a>, <a href="http://delicious.com/fernand0/rei+descubrimiento" rel="tag">descubrimiento</a>, <a href="http://delicious.com/fernand0/rei+geografía" rel="tag">geografía</a>, <a href="http://delicious.com/fernand0/rei+mapas" rel="tag">mapas</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/71994

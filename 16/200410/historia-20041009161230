@@ -1,0 +1,21 @@
+Auto-enlazando
+Con el título ya se creían que era una de esas historias egóricas que están tan mal vistas (lean <a href="http://atalaya.blogalia.com/historias/22062">Carne de blog</a> y disfruten). Pero no, en este caso se trata de enlaces generados automáticamente.
+
+Lo cuentan en <a href="http://www.cadenaser.com/articulo.html?xref=20041006csrcsrtec_3&type=Tes">Un filtro añade nuevos enlaces a las noticias de la 'web' de la BBC</a>  (oh, vaya. Acabo de enlazar a la SER, ¿seré uno de esos peligrosos izquierdosos?) y la idea es tan sencilla que sorprende que no haya más sitios que la estén usando. Se trata de un robot que lee la información de una noticia publicada en el sitio web y añade información relevante a la noticia, mediante enlaces de términos relevantes a su definición en la <a href="http://wikipedia.org/">Wikipedia</a>. No sólo eso, sino que también se pueden añadir enlaces a bitácoras (y supongo que otros sitios) con información relevante para la noticia. 
+
+Naturalmente, eso no se pude ver en el sitio de la BBC, no ha sido aprobado. Casualmente, en la nota de la cadena SER tampoco hay ni un sólo enlace (ni al sitio, ni a la BBC, lo que hace la noticia doblemente curiosa), y hay que busar el sitio para adivinar donde está el sitio que hace de filtro del original.
+(Oh, vaya. Ahora le di caña a la SER, ¿seré uno de esos peligrosos liberales-facciosos? ¡Y a la BBC! Definitivamente, soy peligroso.)
+
+Por si acaso (y aunque Google no es nuestro amigo ahora), es fácil encontrar el sitio:
+
+El sitio de la <a href="http://www.whitelabel.org/wp/wikiproxy.php">BBC modificado</a>, la bitácora de <a href="http://www.whitelabel.org/">Stef Magdalinski </a> y <a href="http://www.whitelabel.org/wp/wikiproxy.php?url=http://news.bbc.co.uk/1/hi/technology/3727692.stm">Top 20 computer threats unveiled</a>, que muestra que la adición de enlaces es bastante discreta.
+
+Naturalmente, también pueden ver el <a href="http://news.bbc.co.uk/1/hi/default.stm">sitio de la BBC sin modificar<a>, aunque justamente ahora parece que la BBC ha decidido comenzar a enlazar: <a href="http://news.bbc.co.uk/1/hi/help/3676692.stm">BBC links to other news sites</a>, según cuenta el propio Stef en <a href="http://www.whitelabel.org/archives/002248.html#002248">Don't get me wrong, I really like BBC News Online</a>, donde habla un poco de todo esto.
+
+Leido en <a href="http://www.bitacoras.com/noticias/archivos/un_filtro_anade_nuevos_enlaces_a_las_noticias_de_la_web_de_la_bbc_en_cadena_ser.php">Un filtro añade nuevos enlaces a las noticias de la BBC</a>.
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/22070

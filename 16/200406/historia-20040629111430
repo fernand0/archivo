@@ -1,0 +1,49 @@
+DRM es malo, y las empresas se equivocan
+Yo quería hablarles hoy de otra cosa, pero ayer lei un artículo muy chulo de Cory Doctorow y no puedo dejar de ponerlo aquí hoy. Tal vez mas tarde lo otro.
+
+Cory Doctorow dio una charla sobre DRM (digital rights management - gestión digital de derechos) a la gente de Microsoft interesada por estos temas. 
+
+La charla está en <a href="http://www.craphound.com/msftdrm.txt">Microsoft Research DRM talk</a> y se basa en cinco puntos.  Si se sienten más cómodos, hay una traducción al italiano en <a href="http://www.wikilab.net/banditi/tiki-index.php?page=MicrosoftDrmTalk">MicrosoftDrmTalk</a> y seguro que aparecerán traducciones en otros idiomas pronto.
+
+Es muy interesante.
+
+<ol>
+<li>Los sistemas DRM no funcionan</li>
+
+<blockquote>
+DRM systems are broken in minutes, sometimes days. Rarely, months. It's not because the people who think them up are stupid.  It's not because the people who break them are smart. It's not because there's a flaw in the algorithms. At the end of the day, all DRM systems share a common vulnerability: they provide their attackers with ciphertext, the cipher and the key. At this point, the secret isn't a secret anymore.
+</blockquote>
+
+<li>Los sistemas DRM son malos para la sociedad</li>
+
+<blockquote>
+His no-fooling, real and physical property has been expropriated by the weird, notional, metaphorical intellectual property on his DVD: DRM only works if your record player becomes the property of whomever's records you're playing.
+</blockquote>
+
+
+<li>Los sistemas DRM son malos para los negocios</li>
+
+<blockquote>
+It's a bad business. DVD is a format where the guy who makes the records gets to design the record players. Ask yourself: how much innovation has there been over the past decade of DVD players?
+</blockquote>
+
+<li>Los sistemas DRM son malos para los artistas</li>
+
+<blockquote>
+Technology that disrupts copyright does so because it simplifies and cheapens creation, reproduction and distribution. The existing copyright businesses exploit inefficiencies in the old production, reproduction and distribution system, and they'll be weakened by the new technology. But new technology always gives us more art with a wider reach: that's what tech is *for*.
+</blockquote>
+
+<li>Meterse en el campo de DRM será malo para <a href="http://www.google.com/search?hl=en&lr=&ie=UTF-8&prev=/search%3Fq%3DMSFT%2B%26hl%3Den%26lr%3D%26ie%3DUTF-8&q=stocks:MSFT+">Microsoft</a></li> 
+
+<blockquote>
+Because if you don't do it, someone else will. 
+</blockquote>
+
+(Si tu no haces un sistema cómodo para la gente, y que les proporcione valor añadido, alguien lo hará)
+</ol>
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0.blogalia.com//historias/19842

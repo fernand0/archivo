@@ -1,0 +1,19 @@
+GeoRSS y tagzania
+Lo cuenta Luitxo Fernández en <a href="http://www.mapamovil.net/georss">GeoRSS y contenidos abiertos</a>.  Google ha anunciado que la API de Google Maps se integra con GeoRSS: <a href="http://googlemapsapi.blogspot.com/2007/03/kml-and-georss-support-added-to-google.html">KML and GeoRSS Support Added to the Google Maps API</a>.
+
+<a href="http://www.georss.org/">GeoRSS</a> es una forma de incluir información geográfica (cuando tenga sentido e interés) en las fuentes RSS.
+
+La gente de Tagzania facilita la georeferenciación:
+
+<blockquote>
+Esto es interesante, para desarrolladores, porque pueden con un par de líneas de código integrar un GeoRSS de Tagzania y crearse su propio mashup, su mapa propio. Para Tagzania también es bueno. Copiadnos, usadnos.
+</blockquote>
+
+<a href="http://earth.google.com/kml/">KML</a> por su parte es un formato que se utiliza para mostrar información geográfica para incluirla en un navegador geográfico (como Google Maps y otros). Por ejemplo, acabo de subir unas fotos allí y el <a href="http://www.panoramio.com/kml/?user=7034">kml (cuidado, código)</a> se supone que incluye la información geográfica.
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/georss" rel="tag">GeoRSS</a>, <a href="http://www.technorati.com/tag/kml" rel="tag">KML</a>, <a href="http://www.technorati.com/tag/google" rel="tag">Google</a>, <a href="http://www.technorati.com/tag/mapas" rel="tag">mapas</a>, <a href="http://www.technorati.com/tag/tagzania" rel="tag">tagzania</a>, <a href="http://www.technorati.com/tag/panoramio" rel="tag">panoramio</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/48209

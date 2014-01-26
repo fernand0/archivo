@@ -1,0 +1,27 @@
+Meneado
+Creo que ha sido la primera vez que está bitácora ha sido <a href="http://meneame.net/story.php?id=1484">meneada</a>, gracias a la contribución de <a href="http://nauscopio.coolfreepages.com/">maty</a> y eso me sirve para hablar del sitio (que vengo observando desde que uno de sus autores, Ricardo Galli, <a href="http://mnm.uib.es/gallir/posts/2005/12/03/531/">empezara a nombrarlo</a>).  Los otros son <a href="http://weblog.bitassa.net/">Benjamí Villoslada</a> y <a href="http://lliure.info/">Guillem Cantapalos</a>.
+Ha sido un 'meneo' tentativo, teniendo en cuenta que muchas de sus historias andan con facilidad alrededor de los 20 votos, y por lo tanto no tiene pintas de ir a pasar el corte. 
+
+Y estaba esperando porque no termino de pillar la idea: parece claro que se trata de un nuevo intento de <a href="http://www.sifry.com/alerts/archives/000115.html">romper las leyes de potencias</a>, proporcionando formas alternativas de alcanzar visibilidad a historias que de otra forma tal vez no la alcanzasen.
+
+En ese sentido, el funcionamiento de este tipo de sitios es sencillo: hay un mecanismo para enviar enlaces (con un pequeño resumen) y se permite votar sobre ellos, de forma que los más votados alcanzan relevancia, publicándose en la portada del sitio: se trataría de una aproximación parecida a la de sitios como <a href="http://slashdot.org/">Slashdot</a> y <a href="http://barrapunto.com/">Barrapunto</a>, donde se sustituye a los editores por los propios visitantes del sitio (selección de noticias distribuida). Esto ya lleva tiempo haciéndose en sitios como <a href="http://www.kuro5hin.org/">K5</a> y <a href="http://libertonia.escomposlinux.org/">libertonia</a>; la diferencia es que ahora el sitio no alberga las historias, sino que éstas están en la blogosfera (o donde sea, supongo que no hay restricciones para publicar enlaces a otros sitios). 
+
+Como añadido interesante <a href="http://meneame.net/">meneame</a> y otros sistemas similares, en principio, tratan de romper la tendencia a votar a los que ya están mas votados mostrándolos en un orden independiente del número de votos; otro mérito del sitio es que contempla la posibilidad de votos anónimos (aunque ya han tenido que <a href="http://mnm.uib.es/gallir/posts/2005/12/25/557/">deshabilitarlo</a> en alguna ocasión). Además es software libre, lo que abre la posibilidad de mejorarlo, utilizarlo de fomas diferentes de las que preveían sus creadores, ...  También permiten hacer trackbacks aunque no se si se utilizan como votos.
+En el apartado negativo: no se puede usar sin javascript activado; esto es lo que me ha impedido, de momento, practicar el auto-meneo (que es una forma de auto-erotismo, supongo).
+
+Parece que el 'inspirador' fue <a href="http://digg.com/">digg</a> (que ya tiene alguna evolución, como <a href="http://diggdot.us/">diggdot</a>, que trata de incluir además de los votos de la gente, los de <a href="http://del.icio.us/">del.ico.us</a> y los de <a href="http://slashdot.org/">Slashdot</a>). 
+
+En nuestro idioma hay unos cuantos más, aunque creo que no son tan exitosos: <a href="http://www.populicias.com/">populicias</a> y <a href="http://blogocracia.no-ip.org/blogocracia/">blogocracia</a> (que va a ratos).
+
+¿Por qué no termino de pillarlo? 
+Para mi este tipo de sistemas tienen dos pegas: una, hay que votar explícitamente; esto significa que hay que ir a la lista de pendientes, ver un montón de enlaces y decidir si nos gustan o no. Eso requiere cierta dedicación que no siempre se alcanza; recuerden <a href="http://libertonia.escomposlinux.org/">otros</a> <a href="http://www.kuro5hin.org/">ejemplos</a> cuya salud es regular (aunque en este caso el esfuerzo de generación de contenido es mínimo, asi que no habrá el efecto de desánimo que se puede producir en los ejemplos que cito). La segunda, es que es un sistema de votación (no es broma): todos sabemos que lo más votado normalmente es lo más llamativo, pero no siempre lo más interesante; dependerá de la comunidad que se forme alrededor de un sitio de este tipo el que lo que se vote sea de nuestro gusto (o, yéndonos al otro extremo, que consigan una base de usuarios tan amplia que efectivamente extraigan el 'jugo de la blogosfera'). 
+
+Uno de los que yo tengo por fracasos (aparte de su estancia en dique seco, en estos momentos) de nuestro <a href="http://www.blogometro.com/">blogómetro</a> era precisamente que la lista de los 'mas votados' no solía ser demasiado interesante.  
+
+Me pregunto si la solución definitiva podría estar basada en las ideas de usar las redes sociales (seleccionar yo cuáles son los votos que más valen para crear mi listado de preferencias) junto con sistemas que que aprenden (al estilo de <a href="http://www.neoyet.com/">NectaRSS</a>.
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/36061

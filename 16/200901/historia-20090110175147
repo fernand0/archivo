@@ -1,0 +1,25 @@
+Y  esta semana ... (12/I - 18/I)
+Selección propia y personal de actividades para esta semana.
+Poca actividad. 
+
+<div id="hcalendar-2009-00-14T09:00" class="vevent"><abbr title="2009-00-14T09:00" class="dtstart">Wednesday 14, 09:00 </abbr><a href="http://msevents.microsoft.com/CUI/EventDetail.aspx?EventID=1032398445&EventCategory=1&culture=es-ES&CountryCode=ES" class="url"><span class= "summary">Microsoft Technet & Security: Up to Secure </span><span class= "location">Lugar: Edificio CREA: Avda. Ranillas, 20 (Zaragoza) </span></a><span class= "description"> </span></div>
+
+<div id="hcalendar-2009-30-14T17:30" class="vevent"><abbr title="2009-30-14T17:30" class="dtstart">Wednesday 14, 17:30 </abbr><a href="http://www.zaragoza.es/ciudad/actividades/juvenil/fichaAJ_Agenda?codigo=47868" class="url"><span class= "summary">Quedada en el Cipaj </span><span class= "location">Lugar: CIPAJ, Centro de Información Juvenil. Casa de los Morlanes. Plaza San Carlos, 4.  </span></a><span class= "description"> Dirigido a:  jóvenes entre 15 y 29 años. </span></div>
+
+Esta entrada contiene <a href="http://es.wikipedia.org/wiki/Microformato">microformatos</a> para las fechas, horas, etc. Eso puede ocasionar que en algún caso algo se vea mal por aquí (se agradecerá información sobre el tema). Para hacerlo usé el <a href="http://microformats.org">wiki de los microformatos</a>, el <a href="http://microformats.org/code/hcalendar/creator">hCalendar Creator</a>.  
+
+Además, para poder manejar la agenda mejor, he estado jugueteando con <a href="http://code.google.com/p/gcalcli/">Google Calendar Command Line Interface (gcalcli)</a>, que he estado modificando (aunque ya él solo tiene muchas posibilidades interesantes) para que genere como salida la lista en el formato adecuado.
+
+Haré público el calendario (como otra forma de tener esa información) tan pronto como le de un pequeño repaso a las pruebas que he ido haciendo y añadiré.
+
+Para sacar partido de la metainformación puede utilizarse, por ejemplo, la extensión <a href="https://addons.mozilla.org/es-ES/firefox/addon/2240">Tails Export</a>. También <a href="http://labs.mozilla.com/2006/12/introducing-operator/">Operator</a>.
+
+
+Antonio Novo también pone información en el <a href="http://www.antonionovo.com/blog/calendario-tic-de-aragon/">Calendario TIC de Aragón</a>. 
+
+
+<p class="tags">Etiquetas: <a href="http://www.technorati.com/tag/calendario" rel="tag">calendario</a>, <a href="http://www.technorati.com/tag/aragón" rel="tag">aragón</a>, <a href="http://www.technorati.com/tag/actividades" rel="tag">actividades</a>, <a href="http://www.technorati.com/tag/jornadas" rel="tag">jornadas</a>, <a href="http://www.technorati.com/tag/encuentros" rel="tag">encuentros</a></p>
+<!-- Publicado mediante blogalia.py -->
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/61445

@@ -1,0 +1,40 @@
+Análítica social de las noticias en la red
+O algo así es como se titula el informe de Yahoo! publicado a finales del año pasado: <a href="http://research.yahoo.com/files/YL-2010-008.pdf">[PDF] Ediscope: social analytics for online news</A>.
+
+Se trata de una herramienta de seguimiento de noticias en la red a través de diversos sitios de redes sociales y da algunos datos intersantes:
+
+<blockquote>
+Our first results indicate that less than 20% of activity happens to an article after its first 24 hours. In average a story has 5-20 social actions per 1000 pageviews. For most feeds, top 7 stories a week capture 65% Facebook actions and 25% retweets. The correlation between pageviews and social signals is surprisingly low. Our measurements indicate a double digit improvement potential for social
+optimizations.
+</blockquote>
+
+Sobre la 'sociabilidad' de diversos sitios famosos:
+
+<blockquote>
+In our temporal study we track 20 articles from each of the following sources: Washington Post, Gizmodo, CNN, MSNBC, HuffingtonPost, Yahoo News, New York Times, Engadget, Mashable, and TechCrunch. On average, every story has 901 Facebook actions (likes, shares and Facebook comments), 221 retweets and 660 clicks on from Bitly-shortened links. The following table represents percentages of activities for the first, second, third, forth and fourth interval of 24 hours after publication. Note that the total share of activity is significantly less than 100%. This is due to activity in the interval between the time a story was published and the time Ediscope has discovered it. Out of all sources, Engadget articles have the slowest decay of activity and Yahoo News has the sharpest decay.
+</blockquote>
+
+Principales observaciones:
+
+<blockquote>
+- Majority (typically, over 80%) of social activity happens during the first 24 hours.
+- Monotonicity. Majority of shapes are monotone or monotone after daytime correction (bumpnext-morning effect).
+- Twitter is geeky. While mainstream sources like NYT, Yahoo, CNN, MSNBC and Washington Post have up to 10 Facebook actions for one retweet, TechCrunch and Mashable have more retweets than Facebook signals. The Facebook advantage over Twitter in mainstream news indicates that it can be a more reliable signal for content optimization solutions.
+- Non-original content has lower activity. HuffingtonPost has two patterns: one for original posts, another for aggregated content. Five links from TechCrunch feed are re-posts from CrunchGear and TechCrunch.EU and have much lower counts than TC-proper articles.
+- User experience flaws. The sharing functionality can have serious affect on total amount of activity. In particular, at New York Times Twitter buttons do not directly tweet the story, but instead ask reader to use Twitter for logging into NYT.
+</blockquote>
+
+Esto es, la mayoría de la actividad se produce pronto, Twitter es más técnico y Facebook más generalista, el contenido no original tiene menos actividad y la facilidad de uso es importante.
+
+Había retrasado comentar el informe por pereza, pero viene bien ahora que Bitly acababa de publicar su propio estudio, <a href="http://blog.bitly.com/post/9887686919/you-just-shared-a-link-how-long-will-people-pay">You just shared a link. How long will people pay attention?</a>  en el que se sugerirían resultados similares de vida corta de los enlaces (en este caso, hay que señalar que se trata ya de pura vida social, puesto que los propios sitios no usan el acortador y por lo tanto lo que se estaría midiendo es la vida de cada tuitero-facebookero-o-lo-que-sea como medio individual.
+Lo vi en <a href="http://www.microsiervos.com/archivo/internet/vida-media-enlaces.html">La vida media de los enlaces</a>.
+
+Desde otro punto de vista (sólo numérico, sin la componente temporal), Enrique Dans también hablaba del tema en <a href="http://www.enriquedans.com/2011/09/redes-sociales-viralidad-y-conversacion-mas-datos.html">Redes sociales, viralidad y conversación: más datos</a>.
+
+Y, por azares de la memoria, me acabo de acordar de aquél <a href="http://fernand0.blogalia.com/historias/30558">15 minutos de fama: la dinámica del acceso a la información en la web</a> de cuando no había Facebook, ni Twitter ni esas cosas.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+visitas" rel="tag">visitas</a>, <a href="http://delicious.com/fernand0/rei+sitios" rel="tag">sitios</a>, <a href="http://delicious.com/fernand0/rei+redes" rel="tag">redes</a>, <a href="http://delicious.com/fernand0/rei+sociales" rel="tag">sociales</a>, <a href="http://delicious.com/fernand0/rei+dinámica" rel="tag">dinámica</a>, <a href="http://delicious.com/fernand0/rei+enlaces" rel="tag">enlaces</a>, <a href="http://delicious.com/fernand0/rei+información" rel="tag">información</a>, <a href="http://delicious.com/fernand0/rei+difusión" rel="tag">difusión</a>, <a href="http://delicious.com/fernand0/rei+estudios" rel="tag">estudios</a>, <a href="http://delicious.com/fernand0/rei+pdf" rel="tag">pdf</a></p>
+
+
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/70363

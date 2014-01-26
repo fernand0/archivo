@@ -1,0 +1,18 @@
+Los científicos programan mal
+Aunque sería bastante realista decir que eso es ampliable a un porcentaje alto de los que programan como actividad secundaria (necesitan resolver un problema y hacen un programa para ello). Se podría decir que hacer un programa sencillo está al alcance de casi cualquiera, pero programar bien y llevar adelante proyectos de programación no es lo mismo. 
+
+Al menos, eso  es lo que parece que detectan en la revista Nature, donde hablan de ello en <a href="http://www.nature.com/news/2010/101013/full/467775a.html">Computational science: ...Error (...why scientific programming does not compute.)</a> donde se comenta como algunos resultados científicos pueden ponerse en duda porque están basados en programas que no estaban muy bien hechos y sus resultados no son reproducibles (uno de los requisitos de la ciencia; yo, por mi parte, insisto en que eso se da en muchas otras ramas de la actividad humana, donde se funciona o ha funcionado muchas veces con programas menos-que-óptimos desarrollados con buena fe y buena voluntad y poco más). 
+
+Hacia el final se incide en la necesidad de que los científicos que lo necesiten tengan algo de formación en esos temas (en la línea de lo que proponíamos en <a href="http://fernand0.blogalia.com/historias/68150">Una cultura ingenieril</a> y en <a href="http://fernand0.blogalia.com/historias/68071">Programadores y gente</a>) y también contratar a profesionales (que para eso están): 
+
+<blockquote>
+In the long term, though, Barnes says that there needs to be a change in the way that science students are trained. He cites Wilson's online Software Carpentry course as a good model for how this can be done, to equip students with coding skills. Wilson developed the week-long course to introduce science graduate students to tools that have been software-industry standards for 30 years -- such as 'version control', which allows multiple programmers to make changes to the same code, while keeping track of all changes.
+</blockquote>
+
+Vale la pena echarle un ojo al proyecto <a href="http://software-carpentry.org/">Software Carpentry</a> que trata de acercar a los científicos los conocimientos necesarios en desarrollo de programas y lo que les rodea.
+
+Vi la nota en <a href="http://ciencia.barrapunto.com/ciencia/10/11/11/2322233.shtml">Las consecuencias de los errores en la computación científica</a>.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+programación" rel="tag">programación</a>, <a href="http://delicious.com/fernand0/rei+desarrollo" rel="tag">desarrollo</a>, <a href="http://delicious.com/fernand0/rei+ciencia" rel="tag">ciencia</a>, <a href="http://delicious.com/fernand0/rei+informática" rel="tag">informática</a>, <a href="http://delicious.com/fernand0/rei+conocimientos" rel="tag">conocimientos</a>, <a href="http://delicious.com/fernand0/rei+necesidades" rel="tag">necesidades</a>, <a href="http://delicious.com/fernand0/rei+competencias" rel="tag">competencias</a>, <a href="http://delicious.com/fernand0/rei+ingeniería" rel="tag">ingeniería</a>, <a href="http://delicious.com/fernand0/rei+errores" rel="tag">errores</a>, <a href="http://delicious.com/fernand0/rei+bugs" rel="tag">bugs</a>, <a href="http://delicious.com/fernand0/rei+fallos" rel="tag">fallos</a></p>
+ Dónde:Reflexiones e irreflexiones
+ URL:http://fernand0//historias/68196
