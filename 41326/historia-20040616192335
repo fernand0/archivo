@@ -1,0 +1,10 @@
+Discovering communities, and blogosphere
+The other paper accepted at <a href="http://blogtalk.net/">BlogTalk</a> is entitled 'Blogosphere community formation, structure and visualization' and it is related to discovery and visualization of communities in the blogosphere. Looking for references I found this one, <a href="http://portal.acm.org/citation.cfm?id=313082">Trawling the Web for emerging cyber-communities</a> that provides interesting ideas about detection of communities, based on the detection of some cores, and then adding other members using graph techniques.  <a href="http://www8.org/w8-papers/4a-search-mining/trawling/trawling.html">Trawling emerging cyber-communities automatically</a> seems to be a previous version.
+
+We use Sel-organizing maps, and I have found another paper, <a href="http://www.atlasofscience.net/textos/IPM-04.pdf">Self-organizing maps of Web spaces based on formal characteristics</a> which does a similar study, but based on formal characteristics as links, metadata, and so on...
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:With A Little Help From My Friends
+ URL:http://fernand0.typepad.com/whatd_i_say//historias/1603029
