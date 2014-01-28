@@ -1,0 +1,243 @@
+Blogómetro (y bienvenida)Hoy verán los resultados del blogómetro un poco revolucionados: el desorden puede ser síntoma de descontrol, pero también de alegría, y por eso he preferido dejarlo hoy así (de paso, igual conocen algúna bitácora nueva que añadir a su lista de preferencias). La razón es la siguiente: Guillermo Bertossi, de [{<b>weblogs</b>.com.ar http://www.weblogs.com.ar/}] ha tenido la amabilidad de enviarnos un listado de cerca de 90 bitácoras.  
+
+El blogómetro en su estado actual no es capaz de diferenciar entre enlaces correspondientes a historias y enlaces de esos que se ponen a otros sitios de modo permanente (en los menús de los lados, normalmente). La solución adoptada es muy simple: guarda en la base de datos pares (bitácora, enlace), de forma que no pueden aparecer repetidos en la base de datos.
+
+La consecuencia es que el primer día todos los enlaces de una bitácora aparecen como relevantes (por eso todo ese ruido que se observa en la 'excursión' de esta noche), y en los días sucesivos sólo aparecen como relevantes los enlaces que se van añadiendo. 
+
+¿Ventajas? es muy simple, y bastante robusto. 
+
+¿Inconvenientes? los pueden ver hoy: cuando se añaden muchas bitácoras de golpe, aparecen no sólo sus historias, sino también sus enlaces a otros sitios (que es fácil que, además, se repitan). Todavía hay un par más; primero, un problema de escalabilidad: la base de datos puede ir creciendo muy deprisa, almacenando datos ¿innecesarios?; el segundo, una vez que alguien enlaza a un sitio en una noticia, aunque vuelva a enlazarlo no volverá a aparecer en la cuenta de sitios referenciados. 
+
+Creo que eso es fácil de solucionar, pero creo que no vale la pena meterse con ello (todavía).
+
+Damos la bievenida a todas las bitácoras añadidas, y esperamos que contribuyan a ampliar la variedad de sitios referenciados y noticias apuntadas.
+
+
+<ol>
+<li><a href="http://www.weblogs.com.ar">weblogs.com.ar | La comunidad de weblogs argentinos</a> (46 > 0)</li>
+<li><a href="http://imgserv.adbutler.com/go2/;ID=129334;size=468x60;setID=45398;aff=on;loc=0">http://imgserv.adbutler.com/go2/;ID=129334;size=468x60;setID=45398;aff=on;loc=0</a> (45 > 0)</li>
+<li><a href="http://www.blogger.com/blogspot_ad_buy.pyra">BLOGGER - Put your ad on Blog*Spot</a> (45 > 0)</li>
+<li><a href="http://www.blogspot.com/">blog*spot</a> (45 > 0)</li>
+<li><a href="http://www.blogspot.com/ad_free.html">blog*spot ad-free hosting</a> (45 > 0)</li>
+<li><a href="http://www.blogger.com">BLOGGER </a> (37 > 0)</li>
+<li><a href="http://">http://</a> (30)  Tiene algún problema</li>
+<li><a href="http://www.blogger.com/">BLOGGER </a> (14 > 0)</li>
+<li><a href="http://www.elcipresenelpatio.com.ar/blog/">el ciprés en el patio</a> (10 > 0)</li>
+<li><a href="http://sonrisadetequila.enk3.com/"> .:: SoNRiSa De TeQuiLa ::. </a> (9 > 0)</li>
+<li><a href="http://www.movabletype.org">movabletype.org</a> (9 > 0)</li>
+<li><a href="http://www.korochi.com.ar">korochi industrias</a> (9 > 0)</li>
+<li><a href="http://www.blip.barrysworld.net/">// BLIP // o diario de distancias relativas...</a> (9 > 0)</li>
+<li><a href="http://correveydile.blogspot.com">Corre, ve y... dile!</a> (9 > 0)</li>
+<li><a href="http://coso.pitas.com/">nadakedecir*</a> (8 > 0)</li>
+<li><a href="http://paulamoyano.blogspot.com/">® paulanet</a> (8 > 0)</li>
+<li><a href="http://www.rominatrix.com/blog.html">Casita de Sueos: memoria diaria en formato digital</a> (7 > 0)</li>
+<li><a href="http://mundial.weblogs.com.ar/">mundial.weblogs.com.ar | El Weblog del Mundial</a> (7 > 0)</li>
+<li><a href="http://bitacoras.net/ring.shtml">bitacoras.net >> recursos</a> (7 > 0)</li>
+<li><a href="http://www.ringsurf.com/netring?ring=bitacoras;action=list">NetRing: .:: bitácoras</a> (7 > 0)</li>
+<li><a href="http://www.minid.net">http://www.minid.net</a> (7)  Tiene algún problema</li>
+<li><a href="http://www.inbsas.com/">InBuenosAires . Proyecto gutural relacionista</a> (7 > 0)</li>
+<li><a href="http://www.minid.net/">http://www.minid.net/</a> (6)  Tiene algún problema</li>
+<li><a href="http://www.uberbin.net/">denken überdenken über</a> (6 > 0)</li>
+<li><a href="http://cortitasyalpie.blogspot.com/">Cortitas y al pie... El weblog de SuperBet...</a> (6 > 0)</li>
+<li><a href="http://www.magicaweb.com/weblog/">La mgica Web (mi weblog), por Eduardo Abel Gimenez</a> (6 > 0)</li>
+<li><a href="http://www.korochi.com.ar/">korochi industrias</a> (6 > 0)</li>
+<li><a href="http://worcel.com/roxanova/">:: ROXANOVA ::</a> (6 > 0)</li>
+<li><a href="http://pezpalo.blogspot.com/">pezpalo</a> (6 > 0)</li>
+<li><a href="http://noctu.pitas.com/">> el log del ninio nocturno °_° !!!</a> (6 > 0)</li>
+<li><a href="http://anae.pitas.com/">caja negra</a> (6 > 0)</li>
+<li><a href="http://mundial.weblogs.com.ar">mundial.weblogs.com.ar | El Weblog del Mundial</a> (5 > 0)</li>
+<li><a href="http://www.uberbin.net">denken überdenken über</a> (5 > 1)</li>
+<li><a href="http://www.open.com.ar/log/">La Bitacora Digital</a> (5 > 0)</li>
+<li><a href="http://www.shellshock.blogspot.com/">filters</a> (5 > 0)</li>
+<li><a href="http://standards.blogspot.com/">argentino standard</a> (5 > 0)</li>
+<li><a href="http://www.movabletype.org/">movabletype.org</a> (5 > 0)</li>
+<li><a href="http://www.minid.net/life/">http://www.minid.net/life/</a> (5)  Tiene algún problema</li>
+<li><a href="http://www.memorias.org/">El Diario de Ally - Welcome to my mind</a> (5 > 0)</li>
+<li><a href="http://www.alojaguay.blogspot.com/">Toldo+Error404: Alojaguay</a> (5 > 0)</li>
+<li><a href="http://www.worcel.com/roxanova/">:: ROXANOVA ::</a> (5 > 0)</li>
+<li><a href="http://www.hjg.com.ar/blog/">fotos del apocalipsis (weblog catlico)</a> (5 > 0)</li>
+<li><a href="http://www.elcipresenelpatio.com.ar">el ciprés en el patio</a> (5 > 0)</li>
+<li><a href="http://www.elcipresenelpatio.com.ar/metele/">metele</a> (5 > 0)</li>
+<li><a href="http://paulamoyano.blogspot.com">® paulanet</a> (4 > 0)</li>
+<li><a href="http://www.telecinco.es/">http://www.telecinco.es/</a> (4 > 0)</li>
+<li><a href="http://unchabon.blogspot.com">500 Internal Server Error</a> (4 > 0)</li>
+<li><a href="http://www.google.com/">Google</a> (4 > 0)</li>
+<li><a href="http://griego.blogspot.com/">Griego Kukalis, Rey de Reyes.</a> (4 > 0)</li>
+<li><a href="http://www.griego.blogspot.com">Griego Kukalis, Rey de Reyes.</a> (4 > 0)</li>
+<li><a href="http://www.griego.blogspot.com/">Griego Kukalis, Rey de Reyes.</a> (4 > 0)</li>
+<li><a href="http://www.cosassueltas.blogspot.com">Cosas Sueltas: Cosas sueltas, frases hechas, pensamientos, citas, fragmentos, ocurrencias, acontecimientos, sucesos, dudas, preguntas sin respuesta, preguntas con respuesta, respuestas sin preguntas;
+Cosas sueltas, mías, tuyas, de él, nuestras, vuestras, de ellos, de todos o de ninguno, fuera o dentro de contexto, descolgadas, con sentido, sin sentido, en serio y en broma. 
+</a> (4 > 0)</li>
+<li><a href="http://www.ilhn.com/filosofitis">Filosofitis</a> (4 > 0)</li>
+<li><a href="http://www.correveydile.blogspot.com">http://www.correveydile.blogspot.com</a> (4 > 0)</li>
+<li><a href="http://coso.pitas.com">nadakedecir*</a> (4 > 0)</li>
+<li><a href="http://papito.pitas.com/">cartucho</a> (4 > 0)</li>
+<li><a href="http://frustrateddreams.blogspot.com/">Frustrated Dreams</a> (4 > 0)</li>
+<li><a href="http://vidaargenta.blogspot.com/">depressing Life</a> (4 > 0)</li>
+<li><a href="http://lunesfelices.blogspot.com/">Lunes Felices</a> (4 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/26/0857227">Barrapunto | </a> (4 > 0)</li>
+<li><a href="http://telex.pitas.com/">TELEX (guia para el amateur)</a> (4 > 0)</li>
+<li><a href="http://www.marciaefernando.com/">Márcia & Fernando</a> (4 > 0)</li>
+<li><a href="http://darktide-baires.blogspot.com/">Marea Negra: diario personal</a> (4 > 0)</li>
+<li><a href="http://www.worcel.com/korochi/">korochi industrias</a> (4 > 0)</li>
+<li><a href="http://jazzido.freezope.org/">Jazzido's Web Extravaganza</a> (4 > 0)</li>
+<li><a href="http://ctsdigital.com/blog/">CTS-Blog</a> (4 > 0)</li>
+<li><a href="http://gopop.blogspot.com/">bloggopop</a> (4 > 0)</li>
+<li><a href="http://rockola.blogspot.com/">Rockola</a> (4 > 0)</li>
+<li><a href="http://superbet.blogspot.com/">Diario de una PC</a> (4 > 0)</li>
+<li><a href="http://www.pitas.com/">pitas.com - the fresh, healthy and delicious home of free, easy to update weblogs, newslogs, all that junk.</a> (4 > 0)</li>
+<li><a href="http://www.pablocorral.com.ar/">Pablo Corral</a> (4 > 0)</li>
+<li><a href="http://www.mutantes.com.ar/">Mut@ntes | primer weblog tirabombas de la Argentina</a> (4 > 0)</li>
+<li><a href="http://txema.antville.org/">kaoscity</a> (4 > 0)</li>
+<li><a href="http://silogismo.pitas.com/">my pitas page!</a> (3 > 0)</li>
+<li><a href="http://alatardecer.blogspot.com">al atardecer</a> (3 > 0)</li>
+<li><a href="http://neurus74.blogspot.com/">http://neurus74.blogspot.com/</a> (3 > 0)</li>
+<li><a href="http://literaria.blogspot.com">Novedades Literarias</a> (3 > 0)</li>
+<li><a href="http://www.memorias.org">El Diario de Ally - Welcome to my mind</a> (3 > 0)</li>
+<li><a href="http://felisamemuero.blogspot.com/">felisa me muero</a> (3 > 0)</li>
+<li><a href="http://www.worcel.com/korochi">korochi industrias</a> (3 > 0)</li>
+<li><a href="http://www.silvialarroca.com.ar/">sitio personal de Silvia Larroca</a> (3 > 0)</li>
+<li><a href="http://cosassueltas.blogspot.com">Cosas Sueltas: Cosas sueltas, frases hechas, pensamientos, citas, fragmentos, ocurrencias, acontecimientos, sucesos, dudas, preguntas sin respuesta, preguntas con respuesta, respuestas sin preguntas;
+Cosas sueltas, mías, tuyas, de él, nuestras, vuestras, de ellos, de todos o de ninguno, fuera o dentro de contexto, descolgadas, con sentido, sin sentido, en serio y en broma. 
+</a> (3 > 0)</li>
+<li><a href="http://www.deadbrains.org/">Dead Brains</a> (3 > 0)</li>
+<li><a href="http://www.elcipresenelpatio.com.ar/">el ciprés en el patio</a> (3 > 0)</li>
+<li><a href="http://naranjal.multitask.com.ar/">El Pobre naranjo nada</a> (3 > 0)</li>
+<li><a href="http://bigbsas.blogspot.com/">Big Buenos Aires</a> (3 > 0)</li>
+<li><a href="http://www.frustrateddreams.blogspot.com/">Frustrated Dreams</a> (3 > 0)</li>
+<li><a href="http://mikrocentro.blogspot.com/">http://mikrocentro.blogspot.com/</a> (3 > 0)</li>
+<li><a href="http://gatito.blogspot.com/">elgatitoqueleianoticias</a> (3 > 0)</li>
+<li><a href="http://www.soulseek.org">Soulseek</a> (3 > 1)</li>
+<li><a href="http://www.rockola.blogspot.com">Rockola</a> (3 > 0)</li>
+<li><a href="http://slashdot.org/">Slashdot: News for nerds, stuff that matters</a> (3 > 1)</li>
+<li><a href="http://tudopalhaco.furninha.net/">Homem É Tudo Palhaço</a> (3 > 0)</li>
+<li><a href="http://www.palabrasenactos.blogspot.com/">pensamientoenaccion</a> (3 > 0)</li>
+<li><a href="http://uberbin.net/">denken überdenken über</a> (3 > 0)</li>
+<li><a href="http://emsuspensao.blogspot.com">Maria Em Suspensão</a> (3 > 0)</li>
+<li><a href="http://rateyourmusic.com/yaccs/">YACCS: Commenting made simple.</a> (3 > 0)</li>
+<li><a href="http://webs.ono.com/usr043/paginadecaballero">Pgina Web de A. Caballero</a> (3 > 0)</li>
+<li><a href="http://puracultura.blogspot.com/">PURA CULTURA - recoleta.BA</a> (3 > 0)</li>
+<li><a href="http://feo.blogalia.com/">Diario de un Feo</a> (3 > 0)</li>
+<li><a href="http://www.unchabon.blogspot.com">Un Chabón Normal</a> (3 > 0)</li>
+<li><a href="http://www.weblogs.com.ar/">weblogs.com.ar | La comunidad de weblogs argentinos</a> (3 > 0)</li>
+<li><a href="http://planetadreams.blogspot.com">Planeta Dre@mS!</a> (3 > 0)</li>
+<li><a href="http://yapaitu.blogspot.com/">yapaitu.org</a> (3 > 0)</li>
+<li><a href="http://www.atomicrose.blogspot.com/">http://www.atomicrose.blogspot.com/</a> (3 > 0)</li>
+<li><a href="http://www.audiogalaxy.com">Audiogalaxy</a> (3 > 0)</li>
+<li><a href="http://www.bitacoras.net/">bitacoras.net >> comunidad de weblogs en espaol</a> (3 > 1)</li>
+<li><a href="http://www.blip.barrysworld.net">// BLIP // o diario de distancias relativas...</a> (3 > 0)</li>
+<li><a href="http://pitas.com/">pitas.com - the fresh, healthy and delicious home of free, easy to update weblogs, newslogs, all that junk.</a> (3 > 0)</li>
+<li><a href="http://cortitasyalpie.blogspot.com">Cortitas y al pie... El weblog de SuperBet...</a> (3 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/26/0634206">Barrapunto | Linex en la tele</a> (3 > 0)</li>
+<li><a href="http://palabrasenactos.blogspot.com/">pensamientoenaccion</a> (3 > 0)</li>
+<li><a href="http://palabrasenactos.blogspot.com">pensamientoenaccion</a> (3 > 0)</li>
+<li><a href="http://www.linex.org/">http://www.linex.org/</a> (3)  Tiene algún problema</li>
+<li><a href="http://www.worcel.com/roxanova">:: ROXANOVA ::</a> (3 > 0)</li>
+<li><a href="http://www.cab.ca.tc/">.::Fruits, Passion, et Deplacements de curseurs depuis l'amerique - Redirect by ulimit.com</a> (3 > 0)</li>
+<li><a href="http://www.webugger.com/">WEBUGGER - plug & play's usability</a> (3 > 0)</li>
+<li><a href="http://mandiyu.blogspot.com">Mandiyu</a> (3 > 0)</li>
+<li><a href="http://www.correveydile.blogspot.com/">http://www.correveydile.blogspot.com/</a> (3 > 0)</li>
+<li><a href="http://www.deadbrains.com">Dead Brains</a> (3 > 0)</li>
+<li><a href="http://www.informativostelecinco.com/">http://www.informativostelecinco.com/</a> (3 > 0)</li>
+<li><a href="http://www.deadbrains.com/">Dead Brains</a> (3 > 0)</li>
+<li><a href="http://inered.net">iNERED.NET>>>>>>>>>>>>>>>>>>>> esto es lo que hay</a> (2 > 0)</li>
+<li><a href="http://www.4colors.net/">.:: 4Colors * blog sin criterio ::. </a> (2 > 0)</li>
+<li><a href="http://benicetobears.com/">bn2b</a> (2 > 0)</li>
+<li><a href="http://www.palabrasenactos.blogspot.com">pensamientoenaccion</a> (2 > 0)</li>
+<li><a href="http://http://www.wired.com/">http://http://www.wired.com/</a> (2)  Tiene algún problema</li>
+<li><a href="http://lady_k.blogspot.com/">http://lady_k.blogspot.com/</a> (2)  Tiene algún problema</li>
+<li><a href="http://neurosistotal5.blogspot.com/">Neurosistotal</a> (2 > 0)</li>
+<li><a href="http://www.deviantart.com">deviantART; where ART meets application!</a> (2 > 0)</li>
+<li><a href="http://babel61.pitas.com/">Alkimia</a> (2 > 0)</li>
+<li><a href="http://www.htmllife.com/">Html Life v3.0</a> (2 > 0)</li>
+<li><a href="http://www.guestbook.nu">Free Guestbooks - Guestbook.nu</a> (2 > 0)</li>
+<li><a href="http://milayadevochka.blogspot.com/">::News from the Moon::</a> (2 > 0)</li>
+<li><a href="http://www.worcel.com/roxanova/archivos/002059.php">Roxanova | archivo</a> (2 > 0)</li>
+<li><a href="http://www.gratisweb.com/toldo/Un_TOLDO_para_cubrirte_de_la_realidad.">Un_TOLDO_para_cubrirte_de_la_realidad.</a> (2 > 0)</li>
+<li><a href="http://msea.digitalrice.com/">http://msea.digitalrice.com/</a> (2)  Tiene algún problema</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/25/0751200">Barrapunto | ¿Quieres probar GNOME 2.0?</a> (2 = 2)</li>
+<li><a href="http://www.gnome.org/~jdub/garnome/">GARNOME</a> (2 = 2)</li>
+<li><a href="http://www.iespana.es/jardin1003/index2.html">jardn 1003 - principal</a> (2 > 0)</li>
+<li><a href="http://www.ilhn.com">INTERLINK HEADLINE NEWS No 2679</a> (2 > 0)</li>
+<li><a href="http://www.escomposlinux.org/jcantero/">http://www.escomposlinux.org/jcantero/</a> (2)  Tiene algún problema</li>
+<li><a href="http://www.es.gnome.org/documentacion/articulos/gnome2_debian/gnome2_debian/">Instalación de GNOME 2 en Debian</a> (2 = 2)</li>
+<li><a href="http://www.enredando.com">Enredando.com, S.L.</a> (2 > 0)</li>
+<li><a href="http://matotuonda.blogspot.com/">Mató Tu Onda!</a> (2 > 0)</li>
+<li><a href="http://www.elcipresenelpatio.com.ar/blog">el ciprés en el patio</a> (2 > 0)</li>
+<li><a href="http://www.inaes.gov.ar/blog/subte2.asp">Weblogs y Subtes en la Ciudad</a> (2 > 0)</li>
+<li><a href="http://free.freespeech.org/primeralinea/">La Bitacora de LunaticoBitacora de lunatico con la dosis diaria de critica, comentarios y 
+opinion</a> (2 > 0)</li>
+<li><a href="http://www.eckell.com/">http://www.eckell.com/</a> (2 > 0)</li>
+<li><a href="http://www.dmoz.org/">ODP - Open Directory Project</a> (2 > 0)</li>
+<li><a href="http://www.inbsas.com">InBuenosAires . Proyecto gutural relacionista</a> (2 > 0)</li>
+<li><a href="http://noahgrey.com/greysoft/">Greymatter - Weblog/Journal Software</a> (2 > 0)</li>
+<li><a href="http://maria_c.blogspot.com/">http://maria_c.blogspot.com/</a> (2)  Tiene algún problema</li>
+<li><a href="http://www.infonomia.com">Infonomia.com</a> (2 > 0)</li>
+<li><a href="http://mandiyu.blogspot.com/">Mandiyu</a> (2 > 0)</li>
+<li><a href="http://obscuridad.blogspot.com/">Para ser sincera, le tengo miedo a la obscuridad</a> (2 > 0)</li>
+<li><a href="http://www.koralin.com/">DCpcion</a> (2 > 1)</li>
+<li><a href="http://maderfaker.blogspot.com/">apatia</a> (2 > 0)</li>
+<li><a href="http://outsider.bitako.com/">Outsider</a> (2 > 0)</li>
+<li><a href="http://www.ciudad.com.ar">Ciudad Internet</a> (2 > 0)</li>
+<li><a href="http://www.cienpalabras.blogspot.com/">Cuentos de Cien Palabras</a> (2 > 0)</li>
+<li><a href="http://www.latex-project.org/">LaTeX Project Home page</a> (2 < 4)</li>
+<li><a href="http://www.letsvamos.com/letsblogar/">:: let's blogar ::</a> (2 > 0)</li>
+<li><a href="http://loslentesdenat.blogspot.com/">Mis Anteojos</a> (2 > 0)</li>
+<li><a href="http://www.blogpocket.com/">Tramontana :::blog:::</a> (2 > 0)</li>
+<li><a href="http://www.mandiyu.blogspot.com">Mandiyu</a> (2 > 0)</li>
+<li><a href="http://pete_bear.blogspot.com/">http://pete_bear.blogspot.com/</a> (2)  Tiene algún problema</li>
+<li><a href="http://www.worcel.com">worcel.com</a> (2 > 0)</li>
+<li><a href="http://www.worcel.com/25segundos/">25 segundos</a> (2 > 0)</li>
+<li><a href="http://www.worcel.com/antiblog">Antiblog</a> (2 > 0)</li>
+<li><a href="http://www.worcel.com/antiblog/">Antiblog</a> (2 > 0)</li>
+<li><a href="http://www.marciaefernando.com/text_relatos/saudade.htm">Saudade</a> (2 > 0)</li>
+<li><a href="http://www.blip.barrysworld.net/index.htm">// BLIP // o diario de distancias relativas...</a> (2 > 0)</li>
+<li><a href="http://blacksun.box.sk/acro.html">Black Sun Research Facility</a> (2 > 0)</li>
+<li><a href="http://kerimeblue.blogspot.com/">Suave es la noche</a> (2 > 0)</li>
+<li><a href="http://www.minid.net/life">http://www.minid.net/life</a> (2)  Tiene algún problema</li>
+<li><a href="http://www.bitacoras.net">bitacoras.net >> comunidad de weblogs en espaol</a> (2 > 0)</li>
+<li><a href="http://www.b52.com.ar">
+b52.com.ar
+</a> (2 > 0)</li>
+<li><a href="http://www.avioncitosdepapel.com">Avioncitos de Papel</a> (2 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/26/070247">Barrapunto | Miguel de Icaza en el curso de la UAM (Madrid, España)</a> (2 > 0)</li>
+<li><a href="http://www.atomz.com/">Atomz - Enterprise Web Site Content Management and Site Search Engine Solutions.</a> (2 > 0)</li>
+<li><a href="http://enganiapichanga.blogspot.com/">engania pichanga</a> (2 > 0)</li>
+<li><a href="http://www.arrakis.es/~egambin/blogger.htm">TiemposBlog</a> (2 > 0)</li>
+<li><a href="http://yahoo.com/">http://yahoo.com/</a> (2)  Tiene algún problema</li>
+<li><a href="http://www.alojaguay.blogspot.com">Toldo+Error404: Alojaguay</a> (2 > 0)</li>
+<li><a href="http://www.mundial2002.ciudad.com.ar/hoy/index.html">Mundial 2002</a> (2 > 0)</li>
+<li><a href="http://www.uam.es/cultura/cultura/linux.html">http://www.uam.es/cultura/cultura/linux.html</a> (2 > 0)</li>
+<li><a href="http://fernand0.blogalia.com/">Reflexiones e irreflexiones</a> (2 > 0)</li>
+<li><a href="http://www.ole.com.ar">http://www.ole.com.ar</a> (2 > 0)</li>
+<li><a href="http://www.tintachina.com/">..::tintachina::..  -  Anotaciones acerca de la Nueva Economa</a> (2 > 0)</li>
+<li><a href="http://www.oreilly.com/homepages/jasper/texhelp/BibTeX.html">Help On BibTeX</a> (2 < 4)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/25/1522206">Barrapunto | Organizadores de bibliografía ¿hay opciones libres?</a> (2 < 4)</li>
+<li><a href="http://www.swatch.com/alu_beat/fs_itime.html">Alien - Alu Beat - Swatch</a> (2 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/26/0712254">Barrapunto de JuanjoAI | Sistema antipiratería desarrollado por un español</a> (2 > 0)</li>
+<li><a href="http://estrambotica.com/lenguacalva/"> Lengua Calva ... Páginas en español con algo que decir </a> (2 > 0)</li>
+<li><a href="http://3arco.blogspot.com/">3 ARCO</a> (2 > 0)</li>
+<li><a href="http://altavista.com/">AltaVista - The Search Company</a> (2 > 0)</li>
+<li><a href="http://rvr.blogalia.com/">Cuaderno de bitácora</a> (2 > 0)</li>
+<li><a href="http://cienpalabras.blogspot.com/">Cuentos de Cien Palabras</a> (2 > 0)</li>
+<li><a href="http://signmyguestbook.com/">guestbooks free from SignMyGuestbook.com</a> (2 > 0)</li>
+<li><a href="http://standards.blogspot.com">argentino standard</a> (2 > 0)</li>
+<li><a href="http://www.patriagrande.net">Patria Grande</a> (2 > 0)</li>
+<li><a href="http://www.rominatrix.com/clique/">   :: querido diario  (clique) ::</a> (2 > 0)</li>
+<li><a href="http://www.soulseek.org/">Soulseek</a> (2 > 0)</li>
+<li><a href="http://www.ringsurf.com/netring?ring=bitacoras;id=83;action=rand">Sunflower Ind. : The Waste Company</a> (2 > 0)</li>
+<li><a href="http://www.ringsurf.com/netring?ring=bitacoras;id=83;action=prev">Memorabilis</a> (2 > 0)</li>
+<li><a href="http://www.ringsurf.com/netring?ring=bitacoras;id=83;action=next">infinityarea.net</a> (2 > 0)</li>
+<li><a href="http://www.porloschicos.com/servlet/PorLosChicos?comando=donar">por los chicos - donaciones gratuitas</a> (2 > 0)</li>
+<li><a href="http://www.riaa.com">Recording Industry Association of America</a> (2 > 0)</li>
+<li><a href="http://hosting.weblogs.com.ar">http://hosting.weblogs.com.ar</a> (2 > 0)</li>
+<li><a href="http://tremendo.com/bitacora/">Bitácora Tremendo. Anotaciones de un internáuta.</a> (2 > 0)</li>
+<li><a href="http://www.microsiervos.org/">Microsiervos.org</a> (2 > 0)</li>
+<li><a href="http://fastcounter.bcentral.com/fc-join">Microsoft bCentral - FastCounter</a> (2 > 0)</li>
+</ol>
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+
+ URL:á é í ó ú 1740

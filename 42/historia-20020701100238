@@ -1,0 +1,72 @@
+Blogómetro
+Domingo veraniego ... no estamos tan enganchados a la red como dicen.
+Una curiosidad: si se fijan, el primero de todos aparece nuestro
+presidente, rvr y su bitácora. La explicación es (creo) simple: últimamente
+anda el hombre empeñado en que todo el mundo le enlace a su bitácora en
+este bloque de apartamentos, en lugar de sus otras múltiples páginas. 
+Debió cambiar su información en [{barrapunto http://barrapunto.com}] de
+forma que en cualquier referencia a su alias allí aparezca el enlace a
+blogalia. Súmenle a eso el hecho de que allí es editor, y tendrán un nuevo
+enlace en montones de páginas de bp, lo que hace que aparezca en el
+blogómetro.
+
+No se me ocurre muy bien cómo eliminar problemas similares a este, aunque
+una posibilidad trivial es eliminar 'subidones' como este. Otra, eliminarlo
+a mano, y algunas más. Otro problema que aparece de vez en cuando es el que
+aparece en la posición 16 (no es una url) ¿conocen algún validador de
+url's (preferiblemente en Python)?
+
+Otra curiosa: el enlace 10. Se trata de una noticia del New York Times.
+Tendrá su título, pero para acceder a la información hay que registrarse.
+De este modo, aunque el enlace está bien, la información no.
+
+<ol>
+<li><a href="http://rvr.blogalia.com/">Cuaderno de bitácora</a> (45 > 3)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/28/1630252">Barrapunto | La moderación, de nuevo operativa</a> (4 > 1)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/29/2150230">Barrapunto | ¿Mejor proveedor de hosting?</a> (4 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/28/1612254">Barrapunto | Nueva web oficial de Java</a> (3 > 0)</li>
+<li><a href="http://www.lavanguardia.es/web/20020629/30427915.html">LA VANGUARDIA DIGITAL</a> (3 > 0)</li>
+<li><a href="http://www.washingtonpost.com/wp-dyn/articles/A64109-2002Jun28.html">Xerox Restates 5 Years of Revenue (washingtonpost.com)</a> (3 > 0)</li>
+<li><a href="http://elpais.es/articulo.html?d_date=20020629&xref=20020629elpepieco_8&type=Tes&anchor=elpepieco">elpais.es - Edición Impresa - Economía - La compañía Xerox protagoniza otro fraude contable en Estados Unidos</a> (3 > 0)</li>
+<li><a href="http://www.sun.com/"> Sun Microsystems </a> (3 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/29/2359214">MiBarrapunto de rvr | Enlace 'wireless' de 10 kilómetros en Tenerife</a> (3 > 0)</li>
+<li><a href="http://www.nytimes.com/2002/06/28/business/28WIRE-XEROX.html">Register at NYTimes.com</a> (3 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/30/0022208">Barrapunto | Human Interfaces</a> (3 > 0)</li>
+<li><a href="http://www.gameonweb.co.uk/room_14.htm">Game On</a> (3 > 0)</li>
+<li><a href="http://www.gameonweb.co.uk">Game On</a> (3 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/29/125253">Barrapunto | Xerox infla también sus ingresos</a> (3 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/27/1259248">Barrapunto | WorldCom se hunde</a> (3 > 0)</li>
+<li><a href="http://dordokaARROBAterraPUNTAZOes">http://dordokaARROBAterraPUNTAZOes</a> (3)  Tiene algún problema</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/28/1445213">Barrapunto | Nueva web oficial de Java</a> (3 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/28/1940256">Barrapunto de Tarrio | MiniFAQ sobre la moderación de Barrapunto</a> (3 > 1)</li>
+<li><a href="http://sindominio.net/biblioweb/telematica/para_can.htm">La Web como memoria organizada</a> (2 > 1)</li>
+<li><a href="http://www.businesswire.com/cgi-bin/f_headline.cgi?bw.061902/221702107">Fujitsu Software Corporation Expands NetCOBOL Support to Linux Operating System; Fujitsu Software's NetCOBOL Product Will Meet the Increasing Demand for COBOL on Linux</a> (2 > 1)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/30/0758252">Barrapunto de poncho | Simulación de agua</a> (2 > 0)</li>
+<li><a href="http://www.sciam.com/article.cfm?articleID=000B39CC-B7DF-1D07-8E49809EC588EEDF&catID=2">Scientific American: Legal Circumvention</a> (2 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/29/2143246">Barrapunto | De cómo producir material bioquímico patentado sin infringir patentes</a> (2 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/28/1436245">Barrapunto | Introducción a los servicios web y a .Net</a> (2 > 1)</li>
+<li><a href="http://linuxandmain.com/modules.php?name=News&file=article&sid=90">Linux and Main - KOBOL hopes to aid Linux migration worldwide</a> (2 > 1)</li>
+<li><a href="http://tabletalk.salon.com/webx?13@@.4a8591c1">Table Talk | "It is WEEEE who are your Fire Dogs!"  The return of Ren & Stimpy!</a> (2 > 0)</li>
+<li><a href="http://geneura.ugr.es/~jmerelo/ws">http://geneura.ugr.es/~jmerelo/ws</a> (2)  Tiene algún problema</li>
+<li><a href="http://geneura.ugr.es/NEW/www/CUR/NET/">http://geneura.ugr.es/NEW/www/CUR/NET/</a> (2)  Tiene algún problema</li>
+<li><a href="http://www.thenewtnn.com/">The New TNN</a> (2 > 0)</li>
+<li><a href="http://www.slashdot.org">Slashdot: News for nerds, stuff that matters</a> (2 > 0)</li>
+<li><a href="http://www.sciam.com/">Scientific American</a> (2 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/28/1011207">Barrapunto de JJ | Introducción a los servicios web y a .Net</a> (2 > 1)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/29/0013236">Barrapunto | La Generalitat de Catalunya fomentará el Software Libre</a> (2 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/28/1138218">Barrapunto | COBOL y Linux</a> (2 > 1)</li>
+<li><a href="http://www.elpais.es/suple/ciberpais/articulo.html?d_date=20020627&xref=20020627elpcibenr_9&type=Tes&anchor=elpcibred">elpais.es - ciberpas - en red</a> (2 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/30/0754217">Barrapunto | El grupo M.C.D. vende más discos desde que regala canciones en MP3</a> (2 > 0)</li>
+<li><a href="http://www.elmundo.es/navegante/2002/06/28/softlibre/1025289060.html">El Parlamento de Cataluña obliga a la Generalitat a fomentar el software libre</a> (2 > 0)</li>
+<li><a href="http://barrapunto.com/article.pl?sid=02/06/30/1428217">MiBarrapunto de valis | Internet, de mal en peor</a> (2 > 0)</li>
+<li><a href="http://www.worldcom.com/main.phtml">WorldCom : Global Home</a> (2 > 0)</li>
+<li><a href="http://jazzido.freezope.org/jazzido//1025461742">Jazzido's Web Extravaganza</a> (2 > 0)</li>
+<li><a href="http://java.sun.com">The Source for Java(TM) Technology</a> (2 > 0)</li>
+</ol>
+
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+
+ URL:á é í ó ú 1799

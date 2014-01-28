@@ -1,0 +1,58 @@
+El blogómetro en WebDosBeta
+Ya se ha publicado el <a href="http://www.webdosbeta.net/2005/programa.html">programa</a> (todavía sin detallar) de la jornada <a href="http://www.webdosbeta.net/">WebDosbeta</a>, y la <a href="http://www.webdosbeta.net/2005/ponencias_presenciales_y_congr.html">lista de ponencias admitidas</a>. Finalmente se han recibido 22 y han seleccionado 10 (me pregunto si hubiera sido posible prescindir de alguna de las mesas redondas y admitir alguna más, que me consta que las había interesantes).  
+
+A continuación, y por si tiene interés para alguien, publicamos nuestra propuesta:
+
+<blockquote>
+<H3 ALIGN="CENTER">Blog&#243;metro: pasado, presente y futuro</H3>
+
+
+<P ALIGN="CENTER"><STRONG>JJ Merelo, F. Tricas, V&#237;ctor R. Ruiz</STRONG></P>
+
+<H3>Resumen:</H3>
+
+<H3>Pret&#233;rito imperfecto</H3>
+
+<P>
+El <a href="http://www.blogometro.com">blog&#243;metro</a> naci&#243; a partir de la necesidad de crear un servicio que rastreara de forma exhaustiva la blogosfera hispana, y que presentara un r&#225;nking diario de las historias m&#225;s enlazadas, de dentro o fuera de la blogosfera. Se trataba de hacer un servicio similar a <A HREF="http://blogdex.net/">http://blogdex.net/</A> y <A HREF="http://popdex.com/">http://popdex.com/</A> (y, m&#225;s tarde, <A HREF="http://technorati.com/">http://technorati.com/</A>), que no cubr&#237;an suficientemente todos los blogs hispanos, ni ten&#237;an flexibilidad suficiente como para a&#241;adir exhaustivamente todos los blogs contenidos en alojamientos locales.  
+<P>
+A partir de esa base de datos, los autores pretend&#237;an ahondar en el conocimiento de la estructura a gran escala de la blogosfera hispana y sus mecanismos de difusi&#243;n de informaci&#243;n y observar su evoluci&#243;n; tambien favorecer que la propia blogosfera hispana fuera consciente de su existencia y favorecer el contacto entre `bitacoreros' hispanos.  
+<P>
+De los datos del blog&#243;metro surgieron varios estudios, que son una cr&#243;nica de lo acontecido hasta el momento, y que permitieron en parte cubrir los objetivos planteados m&#225;s arriba; muchos otros estudios parciales se publicaron en nuestras respectivas bit&#225;coras (como el primer mapa del <EM>  top-100</EM> de la blogosfera, publicado en <a href="http://atalaya.blogalia.com/historias/15216">Atalaya</a>, o el estudio de la presencia de medios tradicionles en la blogosfera, publicado en <a href="http://rvr.typepad.com/linotipo/2005/09/estudio_blogomt.html">Linotipo</a>.
+
+<P>
+
+<H3>
+Presente `tenso'
+</H3>
+
+<P>
+El blog&#243;metro fue creciendo con el tiempo, hasta experimentar problemas de escala similares a los que atenazan a Technorati y, a veces a los otros servicios, tales como <A HREF="http://feedster.com">http://feedster.com</A>. La base de datos crece, hasta que finalmente crece por encima de las posibilidades de la m&#225;quina que lo aloja, hasta el punto de que, hoy en d&#237;a, fuera de la labor diaria de rastreo de nuevos URLs y alguna consulta agregada (n&#250;mero de historias, por ejemplo), es dif&#237;cil llevar a cabo estudios de m&#225;s complejidad.  
+<P>
+A pesar de sus limitaciones se ha convertido en una referencia a la hora de evaluar el tama&#241;o de la blogosfera, puesto que no existen otros esfuerzos similares continuados en el tiempo que permitan hacer estudios an&#225;logos.  
+<P>
+Tambien es cierto que hemos recibido la colaboraci&#243;n de varias personas a t&#237;tulo personal, asi como algunos alojamientos, que facilitan sus datos  (o la forma de obtenerlos) de forma c&#243;moda y conveniente.
+
+<P>
+
+<H3>
+Futuro indefinido</A>
+</H3>
+
+<P>
+Creemos que el futuro  <EM>necesita</EM> una base de datos completa de la blogosfera, que permita elucidar no s&#243;lo qui&#233;n enlaza a qui&#233;n, sino tratar de determinar din&#225;micas de enlazado, tasa de abandonos, estructura de subcomunidades y respuesta a acontecimientos extraordinarios.  Y es <EM>necesaria</EM> porque mientras Technorati no cubra suficientemente esta zona, y Google no proporcione herramientas m&#225;s potentes como lo hace Technorati, no existe nada similar.  Es  tambi&#233;n <EM>pertinente</EM> porque la irrupci&#243;n de los intereses comerciales, y la creaci&#243;n de herramientas de filtrado de informaci&#243;n de un nivel superior, necesita una base de datos completa y accesible.  
+<P>
+Y tambi&#233;n libre. Nos gustar&#237;a que el blog&#243;metro 2.0 no no solo fuera un sitio web, sino que deber&#237;a publicar su API (sin limitaciones como el de Technorati), e incluso su base de datos completa, de forma que cualquiera pueda crear aplicaciones sobre &#233;l; una API que incluya funciones para agregaci&#243;n (personal o tem&#225;tica), b&#250;squeda, y otras m&#225;s avanzadas como recomendaci&#243;n. En la elaboraci&#243;n de este API es conveniente que act&#250;e la comunidad, diciendo qu&#233; es lo que querr&#237;a y qu&#233; es lo que necesita; y en esta comunidad deber&#237;an estar tanto los usuarios de pie, como las universidades y las empresas que lo quieran usar para investigaci&#243;n.
+
+<P>
+Por eso nos gustar&#237;a oir la opini&#243;n de la comunidad de usuarios sobre posibles soluciones que asegurara su permanencia e incluso, al presente, su existencia. 
+
+<p>
+Los autores: <a href="http://atalaya.blogalia.com/">JJ. Merelo</a>, <a href="http://rvr.typepad.com/linotipo">Víctor Ruíz</a>, y <a href="http://fernand0.blogalia.com/">Fernando Tricas</a>.
+
+
+<!-- Publicado mediante blogalia.py -->
+<!--¿Interesado en conseguirlo? Deje un mensaje en la última historia.-->
+<!--Contacto: fernand0 (en) hotpop.com-->
+ Dónde:Blogómetro
+ URL:http://blogometro//historias/33802
