@@ -1,0 +1,126 @@
+Post     : [22]
+Title    : My second bot
+Date     : 06/15/2014 21:44:15 UTC
+Link     : http://makingfernand0.wordpress.com/2014/06/15/my-second-bot/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Sin categoría
+Tags     : bot, gtalk, interaction, pi, raspberry, talk, xmpp
+ 
+ 
+In <a href="http://mbpfernand0.wordpress.com/2013/03/28/raspberry-pi-que-temperatura-hace-en-mi-casa/">Raspberry Pi: ¿qué temperatura hace en mi casa?</a> (only in Spanish, sorry) we presented our first attempt at doing a bot. It allowed us to interact with the Raspberry Pi from our location, provided we had an internet connection.  In this video we can see that interaction using IRC.
+
+http://www.youtube.com/watch?v=GfB0VRBRp2E
+<br />
+<br />
+I tested <a href="https://github.com/fritzy/SleekXMPP/">SleekXMPP</a> and <a href="https://github.com/sbp/phenny">phenny</a> but I found some limits and continued my search. When I found  <a href="https://github.com/gbin/err">err</a> I discovered that it was in that moment under develoment and that it has a somewhat active community in  Google+, <a href="https://plus.google.com/communities/117050256560830486288">Err</a>.  It provides a modular architecture for adding features to the bot.
+<br />
+<br />
+My first steps were to adapt some tests I programmed for phenny and to add the possibility to take pictures with my cameras and sending them by email The code is at: <a href="https://github.com/fernand0/err-plugins/">err-plugins</a> (it will change in the future, so we will pay atention to the current version):
+<br />
+The first one is <a href="https://github.com/fernand0/err-plugins/blob/9632743c4a856554e19b126e0d43d8ba5f77b2ec/pruebas.plug">pruebas.plug</a>.  It contains some meta-information needed to define the module following the bot syntax:
+<code>
+[Core]
+Name = Pruebas
+Module = pruebas
+
+[Documentation]
+Description = let's try things !
+</code>
+<br />
+<br />
+And the file <a href="https://github.com/fernand0/err-plugins/blob/8e4d337fa5d85a8705bd68c50b91f333577ad268/pruebas.py">pruebas.py</a> contains the actual code for the programmed actions. For example, the following code takes a pictures and then sends it by mail:
+[sourcecode]
+@botcmd
+def foto(self, msg, args):
+"""Take a picture"""
+quien=msg.getFrom().getStripped()
+yield "I'm taking the picture, wait a second "
+if(args):
+try:
+cam=int(args)
+except:
+cam=0
+else:
+cam=0
+yield "Camera %s"%cam
+self.camera("/tmp/imagen.png",cam)
+yield "Now I'm sending it"
+self.mail("/tmp/imagen.png", quien)
+my_msg = "I've sent it to ... %s"%quien
+yield my_msg
+[/sourcecode]
+The first line indicates that this funcion defines an instruction for the bot.  The name of the funcion will be the command that we will need to send by IM (we will need a configurable prefix, that serves to differenciate among instructions for the bot and other strings),
+<br />
+<br />
+In our case, the instruction
+<code>
+.foto
+</code>
+would execute a function that is almost the same as the one commented in <a href="http://makingfernand0.wordpress.com/2014/06/03/sending-an-image-by-mail-in-python/">Sending an image by mail in Python</a>.
+<br />
+The main differences are:
+<ul>
+<li>It gets its parameters from the function call (Err manages this)
+<code>
+def foto(self, msg, args):
+</code>
+<br />
+</li>
+<li>It replies to the mail of the person who sent the order:
+<code>
+quien=msg.getFrom().getStripped()
+</code>
+<br />
+</li>
+<li>The argument can be 0, 1 or no argument (no validation is done) because we have two cameras attached to our raspi. By default (no parameters provided or some uninterpretable paramenter proviede) it uses camera 0.  </li>
+<li>Now it replies telling us the chosen camera:
+<code>
+yield "Camera %s"%cam
+</code>
+<br />
+</li>
+<li>And now it calls the actual funciont in charge of taking the picture; its parameters are very similar to the ones commented in a previous post (the name of the file and the chosen camera):
+<code>
+self.camera("/tmp/imagen.png",cam)
+</code>
+<br />
+</li>
+<li>Now it calls the funciont that will send the picture to the previously defined mail address, so the parameters are the name of the file and this address.
+<code>
+self.mail("/tmp/imagen.png", quien)
+</code>
+<br />
+</li>
+<li>Finally, it uses again yield to reply, finishin the process.</li>
+</ul>
+If we look at the code, the main difference for these two functions are that they do not have a @bootcmd line; they are internal funcions, and they are not available as bot commands. They need some configuration options (as presented in <a href="http://makingfernand0.wordpress.com/2014/06/03/sending-an-image-by-mail-in-python/"> Sending an image by mail in Python </a>).
+<br />
+<br />
+Errbot manages this by means of:
+[sourcecode]
+def get_configuration_template(self):
+return{'ADDRESS' : u'kk@kk.com', 'FROMADD' : u'kk@kk.com',
+'TOADDRS' : u'kk@kk.com', 'SUBJECT' : u'Imagen',
+'SMTPSRV' : u'smtp.gmail.com:587', 'LOGINID' : u'changeme',
+'LOGINPW' : u'changeme'}
+[/sourcecode]
+It is a dictionary with the parameters we need to configure.
+<br />
+<br />
+If we send the order via IM:
+<code>
+.config Pruebas
+</code>
+<br />
+In this case, Pruebas is the name of the module and we have selected the dot (.) as the indicator that the following string is an instruction for the bot.  The config instruction returns the current configuration (if it has not been configured it returns the defined template; if it is configured it returns the actual values). These values can be used as a template for the module configuration.
+<code>
+.config Pruebas {'TOADDRS': u'mydir@mail.com', 'SMTPSRV':
+u'smtp.gmail.com:587', 'LOGINPW': u'mypassword',
+...
+}
+</code>
+We are almost done, soon we will be able to show the whole thing.
+

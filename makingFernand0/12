@@ -1,0 +1,139 @@
+Post     : [12]
+Title    : Sending an image by mail in Python
+Date     : 03/06/2014 13:51:19 UTC
+Link     : http://makingfernand0.wordpress.com/2014/03/06/sending-an-image-by-mail-in-python/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Sin categoría
+Tags     : camera, image, pi, programming, python, raspberry, raspi
+ 
+ 
+Once we are able to take a picture with our webcam (<a href="http://mbpfernand0.wordpress.com/2014/05/17/una-camara-en-la-raspberry-pi/">A camera for my Raspberry Pi </a>) the next step is to see the picture from wher we are.
+<br />
+<br />
+There are lots of texts explaining how to configure a web server for this
+but I didn't want to publish a web server with my raspi to the internet.
+You'd need to setup the server, open some ports in the router and take into
+account the problem of not having a fixed IP.
+It found this approach not very robuts.
+There is also the possibility of somebody cracking your server and
+accessing our network in some way (maybe difficult, but not impossible).
+<br />
+I also evaluated the possibility of sending the images by means of an
+instant messaging app but I'm not sure if this can be done, or maybe it is
+just that I've not been able to find the adequate documentantion, so I
+discarded this option.
+<br />
+<br />
+The final election was the old and reliable email. My bot is going to be
+able to get petitions by different ways (XMPP, IRC, ...) and it will send
+the images as a reply by email.
+<br />
+<br />
+There are lots of documents explaining how to prepare a message with an
+attachment. In fact, I had a program from previous experiments and this was
+the one I decided to use.
+It can be seen at <a href="https://github.com/fernand0/utils/blob/master/mail.py">mail.py</a>.
+<br />
+<br />
+It basically constructs a message from its components (From, To, Subject, Attachments, ...)
+<br />
+<br />
+It needs some parameters, that need to be configured. The way to do this
+is by means of an auxiliar module that is imported at the beginning of the program.
+<code>
+import <a href="https://github.com/fernand0/utils/blob/master/mailConfig-sample.py">mailConfig</a>
+</code>
+<br />
+The only content for this file are the variables whose values need to be
+adapted. Our program just reads them (it could of course use them
+directly).
+<code>
+destaddr = mailConfig.ADDRESS
+fromaddr = mailConfig.FROMADD
+toaddrs = mailConfig.TOADDRS
+subject = mailConfig.SUBJECT
+smtpsrv = mailConfig.SMTPSRV
+loginId = mailConfig.LOGINID
+loginPw = mailConfig.LOGINPW
+
+imgFile = '/tmp/imagen.png'
+</code>
+<br />
+We are selecting also a default filename for the image, and we can choose a
+different one from the command line.
+<br />
+We also setup a default address for sending emails to (destaddr) but we can
+also include a different one in the command line (not very robust, there is
+not validation of the email address).
+<br />
+<br />
+From this, we can construct the message.
+<br />
+Detection and filling the parameters for the object we are sending:
+<code>
+format, enc = mimetypes.guess_type(imgFile)
+main, sub = format.split('/')
+adjunto = MIMEBase(main, sub)
+</code>
+<br />
+Notice that in this way, the program can be used for sending other files
+that need not to be just images.
+<br />
+<br />
+Now we construct the attachment, with the adequate condification and we
+attach it to the message:
+<code>
+adjunto.set_payload(open(imgFile,"rb").read())
+Encoders.encode_base64(adjunto)
+adjunto.add_header('Content-Disposition', 'attachment; filename="%s"' % imgFile)
+mensaje.attach(adjunto)
+</code>
+<br />
+Finally, we add the other parameters:
+<code>
+mensaje['Subject'] = subject
+mensaje['From'] = fromaddr
+mensaje['To'] = destaddr
+mensaje['Cc'] = toaddrs
+</code>
+<br />
+The message is empty, it does not contain text (Exercice for the reader:
+can you add some text? Something like: 'This picture was taken on day
+xx-xx-xxxx at hh:mm').
+<br />
+<br />
+And finally, we send the message (direct negotiation with the smtp server):
+<code>
+server = smtplib.SMTP()
+
+server.connect(smtpsrv)
+server.ehlo()
+server.starttls()
+server.login(loginId, loginPw)
+server.sendmail(fromaddr, [destaddr]+[toaddrs], mensaje.as_string(0))
+server.quit()
+</code>
+<br />
+In this way we have a small Python program that will send by mail a file.
+We can provide the name of the file in the command line and we can also
+provide an email address.
+By default it will send a image with the fixed name to the pre-configured
+address.
+As a sort of backup and logging system the program will always send a copy of the mail to the 'toaddrs'.
+<br />
+<br />
+On the configuration side, we need 'destaddr', 'fromaddr' and 'toaddrs' to be valid email addresses.
+<br />
+The server 'smtpsrv' can be any server that we can use and the program uses
+authenticated sending (and this is the reason for needing the user and
+password). For example, we can use the Google servers, and the
+configuration would be:
+<code>
+smtpsrv='smtp.gmail.com:587'
+</code>
+<br />
+And we could use some user and password for a pre-existing account.
+

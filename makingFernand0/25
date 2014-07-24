@@ -1,0 +1,88 @@
+Post     : [25]
+Title    : Smooth movement with servos
+Date     : 30/06/2014 01:44:59 UTC
+Link     : http://makingfernand0.wordpress.com/2014/06/30/smooth-movement-with-servos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Sin categoría
+Tags     : motor movement pi raspberry raspi servo
+ 
+ 
+One of the main problems of servos is that they move quite fast, as it can be seen in the video we included in <a href="http://makingfernand0.wordpress.com/2014/06/08/adding-movement-servos/"> Adding movement: servos </a>.
+With the setup I had imagined this was a problem. The camera has some non negligible weight and if we put something over the servo all of this can become unstable. See, for example:
+
+http://instagram.com/p/nQkfL3QB1_/
+
+The solution for this problem is quite simple: when we want to move to a certain position, we can reach it by means of a set of small steps. We can indicate a set of succesive positions for the servo, each one a bit more close to the final destination. In this way, even with fast movements, the camera is more or less stable.
+
+The code could be similar to the one we can see here:
+
+[sourcecode language="python" wraplines="false" collapse="false"]
+def move(self, servo, pos, posIni=MIN, inc=10):
+
+	servoGPIO=18
+	servoGPIO=17
+	posFin=posIni + (MAX-MIN)*pos
+	steps=abs(posFin - posIni) / inc
+
+	print "Pos ini", posIni
+	print "Pos fin", posFin
+	print "Steps", steps
+	print int(steps)
+
+	if pos &lt; 0:
+		pos = -pos
+		sign = -1
+	else:
+		sign = 1
+
+	for i in range(int(steps)):
+		servo.set_servo(servoGPIO,posIni+10*i*sign)
+		time.sleep(VEL)
+
+	print &quot;Pos ini&quot;, posIni
+	print &quot;Pos fin&quot;, posFin
+	print &quot;Steps&quot;, steps
+	print int(steps)
+
+	servo.stop_servo(servoGPIO)
+[/sourcecode]
+
+That is, if we start at position (posIni) and we want to move a certain percentage of the available range (a real number between 0 and 1) we can compute the final position if we know the total range (MAX - MIN):
+
+<code>
+posFin=posIni + (MAX-MIN)*pos
+</code>
+
+And then, we can compute the needed steps to reach this destination; if we use increments of 10 (inc=10):
+
+<code>
+steps=abs(posFin - posIni) / inc
+</code>
+
+We are using the absolute value because the movement can be forward and backward (depending on the starting point for the movement). This is solved by means fo this conditional:
+
+<code>
+if pos &lt; 0:
+...
+</code>
+
+Finally, we use a for loop to reach the destination:
+
+[sourcecode language="python" wraplines="false" collapse="false"]
+for i in range(int(steps)):
+	servo.set_servo(servoGPIO,posIni+10*i*sign)
+	time.sleep(VEL)
+[/sourcecode]
+
+The result can be seen in the following video:
+
+http://instagram.com/p/nTOyr_wB_b/
+
+There we can observe a forward and backward movements (to recover the initial position) with an improvised model.
+The speed can be controlled with the time between steps (VEL value).
+
+Maybe we should have chosen other type of motor, but we could solve the problem with this approach.
+

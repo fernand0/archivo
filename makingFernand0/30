@@ -1,0 +1,73 @@
+Post     : [30]
+Title    : Who is in my network?
+Date     : 16/07/2014 15:45:37 UTC
+Link     : http://makingfernand0.wordpress.com/2014/07/16/who-is-in-my-network/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : scripts
+Tags     : auditing, fing, network, programs, python, scripts
+ 
+ 
+It can be useful to know which devices are connected to our home network:
+you always can assign fixed ips for each device but it is a process than can be
+painful (if you are not used to manage these things) and does not scale
+well when new devices appear (a frequent thing nowadays).
+
+For this reason I enjoyed very much when I discovered  <a href="http://www.overlooksoft.com/fing">Fing</a> which is a tool for discovering devices in our network (it can be installed on android devices, iOS devices, and desktop computers). I wanted to have it in my latptop (now this work  would not be necessary since they have released the tool for several operating systems) and I was looking for a solution.
+
+The suggestion where twofold: nmap and arp should help with this, but I'm not familiar with them. When I found the project <a href="https://github.com/mpescimoro/WiFinder">WiFinder</a> I decided to try to adapt it for my purposes. I <a href="https://github.com/fernand0/WiFinder">forked the project</a> and started to adapt it.  
+
+The result is a small program <a href="https://github.com/fernand0/scripts/blob/6cf7bfbc6d84238cd830fa3f5b0c95f58cea96e2/macfinder.py">macfinder.py</a> (link to the commented version, in <a href="https://github.com/fernand0/scripts/blob/master/macfinder.py">macfinder.py</a> there can be further evolutions). It should have a better input/output system and I would like to add some features but the main ideas are there.
+First of all, code related to the port scannning:
+[code language="python"]
+import nmap # import nmap.py
+
+...
+nm = nmap.PortScanner() # creates an'instance of nmap.PortScanner
+[/code]
+Here the actual instruction for code scanning:
+[code language="python"]
+nm.scan(hosts='192.168.1.0/24', arguments='-n -sP -PE -T5')
+# executes a ping scan
+
+hosts_list = [(nm[x]['addresses']) for x in nm.all_hosts()]
+[/code]
+From the obtained list we will keep the information using as an index the MAC address (which is the part that will remain constant for each device), and including the new discovered devices:
+[code language="python"]
+if not ipList.has_key(addresses['mac']):
+	ipList[addresses['mac']] = ("", addresses['ipv4'])
+[/code]
+The data structure is a hash indexed by the MAC address that contains the IP (than can change at any time) and a name that we will assign to each device (in a similar way as done in Fing).
+
+We are using pickle for persistence
+Reading:
+[code language="python"]
+ipList=pickle.load(fIP)
+[/code]
+Writing:
+[code language="python"]
+fIP = open(fileName,"w")
+pickle.dump(ipList,fIP)
+[/code]
+
+Finally, I have some doubts about Fing's inner working: it does not need special privileges (or it should not need them, since the origin is a mobile app). But nmap needs to be run as root for obtaining MAC addresses (the program must be executed with sudo and the user needs to have the adequate permisssions).
+Since it is dangerous to have a program running with root privileges, I dediced to try to learn the way to drop them when they were not needed anymore. I found: <a href="http://stackoverflow.com/questions/2699907/dropping-root-permissions-in-python">Dropping Root Permissions In Python</a> and I included the function drop_privileges:
+[code language="python"]
+user_name = os.getenv("SUDO_USER")
+pwnam = pwd.getpwnam(user_name)
+[/code]
+Here we are obtaining the user's data.
+With:
+[code language="python"]
+# Try setting the new uid/gid
+os.setgid(pwnam.pw_gid)
+os.setuid(pwnam.pw_uid)
+[/code]
+We are assignig their privileges to the process, and in consequence dropping root privileges.
+
+This has to be done in the program when we do not need these high privileges anymore (that is, in our case, when we do not need nmap anymore).
+
+If you have ideas for improvement, comments, questions...
+

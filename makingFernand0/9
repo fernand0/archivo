@@ -1,0 +1,117 @@
+Post     : [9]
+Title    : A camera for my Raspberry Pi
+Date     : 05/25/2014 21:36:00 UTC
+Link     : http://makingfernand0.wordpress.com/2014/05/25/a-camera-for-my-raspberry-pi/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Sin categoría
+Tags     : camera, image, pi, raspberry, raspi, webcam
+ 
+ 
+This post was originally published at: <a href="https://medium.com/@fernand0/6db9be191a51">A camera for my Raspberry Pi</a>. Not many visits later, and given the fact that I did not enjoy writing there (I'm a xmlrpc man), I'm trying to give that post a second life here.
+<br />
+<br />
+My first idea was to attach a webcam to my Raspberry Pi and to further use it for a more complex project. This post is for reporting the initial steps with my
+camera.
+<br />
+<br />
+The main reference for buying a camera for the Raspberry was <a href="http://elinux.org/RPi_USB_Webcams">RPi USB Webcams</a>. From the models shown there (and that where available in a local store near home) I selected the Logitech C270. As it was my understanding by that time, it should work directly connected to the USB port. Unfortunately this was not correct (it needs an USB powered HUB; it is not more clearly stated in the info now) and this made me some headaches and frustration.
+<br />
+During the tests I also bought another camera (second hand, this time), that is sold for the Playstation PS4 (if I’m correct). I had read that it did not need a powered hub and it was really cheap (5 euro) so it was worth a try.
+<br />
+<br />
+We can see a picture of the cameras:
+<br />
+http://instagram.com/p/fr__VlQB4a
+<br />
+While it is true that this camera was working better directly connected to
+the USB port of the raspi, the machine was not behaving correctly (it is
+important to notice that I also had a USB Wifi adapter. I’m using WiFi to
+connect via SSH to the computer, and also to have it connected almost
+permanently to the Internet).
+<br />
+<br />
+Image quality with this camera is worse than with the Logitech one. It has
+two positions (zoom) that need to be managed by hand (you cannot access
+this feature from a program, as far as I know). I’ve kept it as a secondary
+camera.
+<br />
+<br />
+So, after a lot o days testing the cameras I decided to buy a powered USB
+HUB, the EasyConnect 7 Port USB2 Powered Hub made by Trust.
+<br />
+http://instagram.com/p/lAHWuewBwc
+<br />
+During this time I was trying the different available options for the camera. It is worth remembering that there exist a camera supported by the project. It is supposed to work perfectly well directly connected to our machine: for me it was a bit expensive (I had bought the Logitech previously), and the connection seems not be very adequate to reuse the camera in other projects. For more information, you can have a look at <a href="http://www.raspberrypi.org/product/camera-module/">Raspberry Pi Camera Module</a>.
+<br />
+<br />
+Some programs for the camera:
+<br />
+<ul>
+<li>motion (see <a href="http://raspberryparatorpes.net/instalacion/conectar-una-webcam-con-motion-en-raspberry-pi/">Conectar una Webcam con Motion en Raspberry Pi</a> -in Spanish-; I have left pending for the future the motion-detection
+capacity).</li>
+<li>fswebcam (see <a href="http://geekytheory.com/timelapse-24-horas-con-raspberry-pi-webcam-usb/">Timelapse 24 horas con Raspberry Pi + Webcam USB</a> -in Spanish-). You can see a selfie taken with this tool:
+
+http://instagram.com/p/j7OFLgQBw_
+</li>
+<li>webcam (see <a href="http://www.epingle.info/?p=2682">Comment transformer votre Raspberry Pi en serveur webcam?</a> -this time in French-)</li>
+</ul>
+<br />
+Of course, there are more.
+<br />
+<br />
+But I also discovered the <a href="http://opencv.org/">OpenCV</a> project; with it you can access a camera from your programs (in Python, for example): manage several cameras, their parameters, …
+<br />
+<br />
+You can have a look at an small example, <a href="https://github.com/fernand0/utils/blob/master/cam.py">cam.py</a>. The program takes a picture with the camera and stores it in a file whose name is pre-configured. You can provide a name for the file where the image will be stored.
+<br />
+<br />
+We can comment here some lines of the code:
+<br />
+<br />
+Definition of the name of the file:
+<code>
+imgFile = ‘/tmp/imagen.png’
+</code>
+<br />
+It is always the same. We could use something like this:
+<code>
+imgFile = time.strftime(“%Y-%m-%dT%H:%M:%S”, time.gmtime())+’.png’
+</code>
+<br />
+in order to have several images stored without worrying about the name (be careful with the storage capacity!).
+<br />
+<br />
+Then, there is code to check if you have provided a filename from the command line (not very robust: it does not validate anything). Later it initializes the camera:
+<code>
+cam=cv2.VideoCapture(0)
+</code>
+<br />
+For capturing the image we use a small function:
+<code>
+def get_image():
+retval, im = cam.read()
+return im
+</code>
+<br />
+Again, no validation is done, it just hopes that everything was ok.
+<br />
+<br />
+The function is used by this sentence:
+<code>
+img=get_image()
+</code>
+<br />
+And, finally, the image is written to the file:
+<code>
+cv2.imwrite(imgFile, img)
+</code>
+<br />
+Hopefully, I will continue writting more things I have done with the camera
+soon.
+<br />
+<br />
+This text is a (sort of) translation of the original one, that has been published at: <a href="http://mbpfernand0.wordpress.com/2014/05/17/una-camara-en-la-raspberry-pi/">Una cámara en la Raspberry Pi</a> (in Spanish).
+

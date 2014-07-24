@@ -1,0 +1,43 @@
+Post     : [34]
+Title    : A mobile camera
+Date     : 07/20/2014 22:40:28 UTC
+Link     : http://makingfernand0.wordpress.com/2014/07/20/a-mobile-camera/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Raspberry pi
+Tags     : camera, mobile, pi, raspberry, raspi, xmpp
+ 
+ 
+Once we have a bot which allows us to control our project remotely (<a href="http://makingfernand0.wordpress.com/2014/06/15/my-second-bot/">My second bot</a>) and we know how to move our servos (<a href="http://makingfernand0.wordpress.com/2014/06/30/smooth-movement-with-servos/">Smooth movement with servos</a>) it is now the time to put the camera over them (<a href="http://makingfernand0.wordpress.com/2014/05/25/a-camera-for-my-raspberry-pi/">A camera for my Raspberry Pi</a>).
+Let us remember that the control is done using XMPP (for example with programs such as Pidging, Google Talk or our preferred IM client); the idea was to avoid opening ports in the router but with the objective of being able to send instructions to the camera from anywhere.
+
+We selected a couple of boxes for the project (they are cheap and it is quite simple to adapt them for our needs). In a bigger box we made two holes (in this way we can put two servos, even if at the end we only used one of them):
+
+http://instagram.com/p/n3ll2UQB_t/
+
+Inside the box we made the connections (batteries for the servos, and
+connections for the control from the Raspberry Pi, which is outside of the
+box).
+
+http://instagram.com/p/nL6GeLQB8i/
+
+The camera goes in a smaller box that will be attached to the selected servo.
+
+http://instagram.com/p/n3lsbuQB_-/
+
+When we send the adequate instructions, the camera goes to the selected position, it stops for taking the picture and it sends it by mail. Finally, it returns to the initial position.
+We can see all the sequence in the following video.
+
+https://www.youtube.com/watch?v=LutgJAGDgbo
+
+The project's code can be found at <a href="https://github.com/fernand0/err-plugins">err-plugins</a> (it can have further evolutions; the main code in its current state can be seen at <a href="https://github.com/fernand0/err-plugins/blob/07e4248ea0fd387bf11a89a9810576ba4140f366/pruebas.py">pruebas.py</a>).
+
+In the last weeks it has been published a similar proyect, <a href="http://makezine.com/projects/raspberry-eye-remote-servo-cam/">“Raspberry Eye” Remote Servo Cam</a>. It has two main differences: it can move the camera in two axis (our project only can move left and right) and it is controlled using a web interface.
+
+So, what's next?
+I have several ideas, but I haven't decided what to do: it would be nice having some autonomy for the camera (motion detecion? detection of changes in the scene?); I woudln't mind adding also some more movement (maybe adding wheels such that the camera can take pictures in different parts of the house? this <a href="http://stubby.digitalcave.ca/stubby/assembly.jsp">hexapod</a> really impressed me). Going further, maybe we could think about other control devices (wearables?).
+
+Of course, please feel free to comment, discuss and making suggesions... All comments are welcome.
+

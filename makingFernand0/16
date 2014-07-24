@@ -1,0 +1,78 @@
+Post     : [16]
+Title    : Adding movement: servos
+Date     : 08/06/2014 18:29:45 UTC
+Link     : http://makingfernand0.wordpress.com/2014/08/06/adding-movement-servos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Sin categoría
+Tags     : motor,, movement,, pi, python, raspberry, raspi, servo,
+ 
+ 
+Once we have a camera (or two) attached to our raspi helps us to discover one of the annoying limitations they have: they cannot move!
+Fortunately, there are plenty of options for doing this. I decided to buy a couple of servos.
+
+http://instagram.com/p/nDX8KKwBzu/
+
+They are cheap, small and noisy.
+<br />
+<br />
+There are lots of pages explaining the theory behind their inner working so we only will remind here just a couple of things: they have some rotation constraints (the ones I bought can just move 180 degrees) and the way to control them is by sending some pulses whose duration determines the angle (for interested people, you can have a look at <a href="http://www.servocity.com/html/how_do_servos_work_.html">How do servos work?</a> -in English- or at <a href="http://www.superrobotica.com/Servosrc.htm">Trabajar con Servos</a> -in Spanish-).
+<br />
+<br />
+From our program our mission will be to find the way to send the adequate pulses to the selected pin where we have connected the servo (remember: physical world-computer connection).
+<br />
+There are lots of examples in the net.
+<br />
+<br />
+For example, the programs : <a href="https://github.com/fernand0/utils/blob/master/servo/servo.py">servo</a>, <a href="https://github.com/fernand0/utils/blob/master/servo/servo2.py">servo2</a>, <a href="https://github.com/fernand0/utils/blob/master/servo/servoYT.py">servoYT</a>, and <a href="https://github.com/fernand0/utils/blob/master/servo/servoYT2.py">servoYT2</A> are based on what we can see in the video <a href="http://www.youtube.com/watch?v=N5QmZ92uvUo">Servo control  using Raspberry pi</a> (and also in this one <a href="http://www.youtube.com/watch?v=ddlDgUymbxc"> Servo Control with the Raspberry Pi</a>).
+<br />
+<br />
+As usual, we are commenting on the main steps here, following the third program.
+<br />
+First the python modules that we need:
+<code>
+import RPi.GPIO as GPIO
+import time
+</code>
+The first one is used for sending instructions through the pins to our raspi. The second one is for managing time related data.
+<br />
+Now, some setup: we will make reference to the pins by their number and we configure the 11 pin as output.
+<code>
+GPIO.setmode(GPIO.BOARD)
+
+GPIO.setup(11,GPIO.OUT)
+</code>
+Now, we are going to define the controller with a frequency of 50Hz and we'll start it in the central position:
+<code>
+p = GPIO.PWM(11,50)
+
+p.start(7.5)
+</code>
+Finally, a bit more of code changing the position each second:
+[sourcecode language="python" wraplines="false" collapse="false"]
+try:
+    while True:
+        print "Uno"
+        p.ChangeDutyCycle(7.5)
+        time.sleep(1)
+        print "Dos"
+        p.ChangeDutyCycle(12.5)
+        time.sleep(1)
+        print "Tres"
+        p.ChangeDutyCycle(2.5)
+        time.sleep(1)
+[/sourcecode]
+That is, it starts at the central position and moves to both extremes. From the center it goes to one side, then to the contrary one and finally it returns to the initial position.  You can see this movements in the following video:
+[youtube http://www.youtube.com/watch?v=s7OeCBT0vVE&amp;w=420&amp;h=315]
+By the end of the video you can see that we can control more than one servo (with the only limitation of the number of available pins). The code for this can be seen at:
+<a href="https://github.com/fernand0/utils/blob/master/servo/servoYT2.py">servoYT2</a>).
+We have added pin number 12 and we use two controllers (p1 and p2). Then, we just send instructions to each one in sequence.  You can have a look at this mini-video:
+<br />
+http://instagram.com/p/nJA3YkwB3s/
+<br />
+We will see soon how to manage all the parts we have commented until now in order to finish the project.
+<br />
+This post has been posted originally in Spanish at: <a href="http://mbpfernand0.wordpress.com/2014/06/08/anadiendo-movimiento-servos/">Añadiendo movimiento: servos</a>.
+
