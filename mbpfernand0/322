@@ -1,0 +1,21 @@
+Post     : [322]
+Title    : La informática de la Fórmula 1
+Date     : 11/14/2010 12:54:30 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/11/14/la-informatica-de-la-formula-1/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : f1 informática
+Tags     : 1, carreras, f1, fórmula, informática, tecnología
+ 
+ 
+
+Cualquiera sabe cuál es la realidad porque yo a veces pienso que lo de la Fórmula 1 sigue algún tipo de guión y nos lo cuentan como quieren pero me ha parecido simpático el artículo <a href="http://www.computerworld.com.au/article/339594/how_do_they_do_it_/">How do they do IT?</a> porque se habla de los diferentes aspectos de tecnología informática que manejan los equipos (servidores, comunicaciones, ...)
+
+Como muestra, un botón:
+
+<blockquote>
+When we convert data from the real time stream into data we can use I have three servers involved for each car. And then we have the file servers, the main controllers and some auto servers. They are all physical machines; we have about 32 servers on the track. Therefore we are planning to virtualise most of them [on VMware] and, afterwards, have about three or four physical servers and run all the necessary servers as virtual machines.”
+</blockquote>
+

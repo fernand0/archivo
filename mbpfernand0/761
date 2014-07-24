@@ -1,0 +1,73 @@
+Post     : [761]
+Title    : Añadiendo movimiento: servos
+Date     : 08/06/2014 17:29:07 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/06/08/anadiendo-movimiento-servos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : motor, movimiento, pi, raspberry, raspi, servo
+ 
+ 
+Tener una cámara (o dos) conectadas a nuestra raspi nos hace descubrir rápidamente una de las molestas limitaciones de las camaritas: ¡no se mueven!.
+Afortunadamente, hay disponibles un buen montón de posibilidades para añadir este aspecto. Yo me incliné por adquirir unos servomotores
+
+http://instagram.com/p/nDX8KKwBzu/
+
+Son baratos, ocupan poco sitio y son algo ruidosos.
+<br />
+<br />
+Como ya hay muchas páginas por ahí explicando los fundamentos de su funcionamiento, recordaremos aquí dos o tres cosillas: tienen un determinado radio de giro (en este caso 180 grados) y la manera que tienen de moverse es yendo a una determinada posición, que se indica mediante el envío de pulsos cuya longitud determina la amplitud del giro (para gente interesada lo cuentan en, por ejemplo <a href="http://www.servocity.com/html/how_do_servos_work_.html">How do servos work?</a> -en inglés- o en <a href="http://www.superrobotica.com/Servosrc.htm">Trabajar con Servos</a> -en español-).
+<br />
+<br />
+Desde un programa nuestra misión será encontrar la forma de enviar esos pulsos a través de las conexiones adecuadas (recuerden interacición entre el mundo físico y el ordenador).
+<br />
+Afortunadamente la red está llena de ejemplos y consejos sobre como hacerlo.
+<br />
+<br />
+Por ejemplo, los programas: <a href="https://github.com/fernand0/utils/blob/master/servo/servo.py">servo</a>, <a href="https://github.com/fernand0/utils/blob/master/servo/servo2.py">servo2</a>, <a href="https://github.com/fernand0/utils/blob/master/servo/servoYT.py">servoYT</a>, y <a href="https://github.com/fernand0/utils/blob/master/servo/servoYT2.py">servoYT2</A> están basados en lo que se ve en el vídeo <a href="http://www.youtube.com/watch?v=N5QmZ92uvUo">Servo control  using Raspberry pi</a> (y también, pero menos, en <a href="http://www.youtube.com/watch?v=ddlDgUymbxc"> Servo Control with the Raspberry Pi</a>).
+<br />
+<br />
+Los pasos fundamentales serían, siguiendo el tercer programa, primero indicar los módulos que utilizaremos:
+<code>
+import RPi.GPIO as GPIO
+import time
+</code>
+El primero sirve para mandar instrucciones a gravés de los pines adecuados de la raspi. El segundo para manejar los datos relativos al tiempo.
+<br />
+Haremos referencia a los pines por su numeración y ponemos el 11 en modo salida:
+<code>
+GPIO.setmode(GPIO.BOARD)
+
+GPIO.setup(11,GPIO.OUT)
+</code>
+Definimos el controlador con una frecuencia de 50Hz y lo ponemos en marcha, llevándolo a la posición central:
+<code>
+p = GPIO.PWM(11,50)
+
+p.start(7.5)
+</code>
+Finalmente, cambiamos de posición cada segundo, poniéndolo en movimiento:
+[sourcecode language="python" wraplines="false" collapse="false"]
+try:
+    while True:
+        print "Uno"
+        p.ChangeDutyCycle(7.5)
+        time.sleep(1)
+        print "Dos"
+        p.ChangeDutyCycle(12.5)
+        time.sleep(1)
+        print "Tres"
+        p.ChangeDutyCycle(2.5)
+        time.sleep(1)
+[/sourcecode]
+Esto es, empieza en el centro y se va moviendo hacia los extremos. Desde el centro va a uno de los extremos, luego al otro y finalmente vuelve a la posición inicial, como puede verse en este vídeo:
+[youtube http://www.youtube.com/watch?v=s7OeCBT0vVE&w=420&h=315]
+Como se ve hacia el final del vídeo, nada nos impide añadir otro motor (más allá de los pines que haya disponibles) que es el código incluido en el cuarto programa, <a href="https://github.com/fernand0/utils/blob/master/servo/servoYT2.py">servoYT2</a>).
+Allí se ha añadido el pin 12 y se genera otro controlador (ahora son p1 y p2) y simplemente se van alternando las instrucciones enviadas a uno y a otro. En este mini-vídeo los dos motores en acción:
+<br />
+http://instagram.com/p/nJA3YkwB3s/
+<br />
+Próximamente explicaremos el montaje para poner la cámara sobre uno de los motores y poder finalizar el proyecto.
+

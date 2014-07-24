@@ -1,0 +1,18 @@
+Post     : [293]
+Title    : Programación colaborativa en JavaScript
+Date     : 07/05/2010 14:15:13 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/07/05/programacion-colaborativa-en-javascript/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : colaborativo desarrollo javascript programación
+Tags     : colaborativo, desarrollo, internet, javascript, programación, web
+ 
+ 
+Tengo la intuición de que se podrían conseguir cosas con la programación colaborativa: en el extremo, ¿podríamos tener una aplicación web en un wiki y que 'cualquiera' pudiera editarla y seguir ejecutándose? Supongo que con los mecanismos de control adecuado (poder volver atrás, no poder borrar datos o 'robarlos' ...) se podría intentar algo.
+
+En ese sentido y más allá de la programación por parejas que 'santificó' la programación extrema y las metodologías ágiles, descubría el otro día en <a href="http://www.kabytes.com/aplicaciones-online/plataforma-para-programar-javascript-de-forma-colaborativa/">Plataforma para programar javascript de forma colaborativa</a> la existencia de <a href="http://jsbin.com/">JS Bin - Collaborative JavaScript Debugging</a> que es lo primero que conozco (desde mi ignorancia, claro) sobre desarrollo colaborativo.
+
+Suena interesante.
+

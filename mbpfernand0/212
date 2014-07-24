@@ -1,0 +1,44 @@
+Post     : [212]
+Title    : Una base axiomática para el desarrollo de programas
+Date     : 01/13/2010 19:33:24 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/01/13/una-base-axiomatica-para-el-desarrollo-de-programas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación
+Tags     : desarrollo, metodología, programación, teoría
+ 
+ 
+Tengo un poco abandonados los temas de programación y desarrollo en esta bitácora. Este artículo de C.A.R. Hoare me devuelve cierta paz. El autor está en la mitología de los creadores de una teoría de la programación (principalmente en los aspectos de verificación formal) por sus trabajos a finales de los 60 sobre la programación y las metodologías más o menos formales para garantizar la corrección del software. Con motivo del 40 aniversario de la publicación de su primer artículo sobre el tema fué invitado a comentar su punto de vista del estado actual de la cuestión y <a href="http://cacm.acm.org/magazines/2009/10/42360-retrospective-an-axiomatic-basis-for-computer-programming/fulltext">Retrospective: An Axiomatic Basis for Computer Programming</a> (que vi en <a href="http://lambda-the-ultimate.org/node/3657">Retrospective: An Axiomatic Basis for Computer Programming</a>) es el resultado.
+
+Entresaco algunos párrafos:
+
+<blockquote>
+My basic mistake was to set up proof in opposition to testing, where in fact both of them are valuable and mutually supportive ways of accumulating evidence of the correctness and serviceability of programs. As in other branches of engineering, it is the responsibility of the individual software engineer to use all available and practicable methods, in a combination adapted to the needs of a particular project, product, client, or environment.
+</blockquote>
+
+O sea, la teoría está bien, pero no debemos despreciar la componente práctica y las baterías de pruebas para estar seguros de que todo irá bien.
+
+<blockquote>
+For many years I used to speculate about the eventual way in which the results of research into verification might reach practical application. A general belief was that some accident or series of accidents involving loss of life, perhaps followed by an expensive suit for damages, would persuade software managers to consider the merits of program verification.
+
+This never happened. When a bug occurred, like the one that crashed the maiden flight of the Ariane V spacecraft in 1996, the first response of the manager was to intensify the test regimes, on the reasonable grounds that if the erroneous code had been exercised on test, it would have been easily corrected before launch. And if the issue ever came to court, the defense of 'state-of-the-art' practice would always prevail. It was clearly a mistake to try to frighten people into changing their ways. Far more effective is the incentive of reduction in cost. A recent report from the U.S. Department of Commerce has suggested that the cost of programming error to the world economy is measured in tens of billions of dollars per year, most of it falling (in small but frequent doses) on the users of software rather than on the producers.
+</blockquote>
+
+Los accidentes ni los problemas han sido un aliciente para utilizar las metodologías en el desarrollo: más bien el incentivo tiene que ser la reducción del coste que introducen los errores de los programas.
+
+Sobre el futuro:
+
+<blockquote>
+In 1969, I was afraid industrial research would dispose such vastly superior resources that the academic researcher would be well advised to withdraw from competition and move to a new area of research. But again, I was wrong. Pure academic research and applied industrial research are complementary, and should be pursued concurrently and in collaboration.
+</blockquote>
+
+Es necesaria la colaboración entre la academia y la industria, ninguno de los dos aporta una visión completa al problema.
+
+Y, claro, no hay 'bala de plata':
+
+<blockquote>
+Even then, verification will not be a panacea. Verification technology can only work against errors that have been accurately specified, with as much accuracy and attention to detail as all other aspects of the programming task.
+</blockquote>
+

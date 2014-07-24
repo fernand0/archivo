@@ -1,0 +1,58 @@
+Post     : [412]
+Title    : Otro estudio sobre claves
+Date     : 06/07/2011 20:44:32 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/06/07/otro-estudio-sobre-claves/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : claves, contraseñas, estudios, gente,, passwords, seguridad
+ 
+ 
+No creo que el título sea apropiado, sobre todo teniendo en cuenta que ya nos hemos preguntado si el sistema de usuario/clave es el más adecuado para estas cosas pero me gusta guardar estos datos, que nunca se sabe: <a href="http://www.securityweek.com/survey-reveals-how-stupid-people-are-their-passwords">Survey Reveals How Stupid People are With Their Passwords</a>.
+
+<blockquote>
+• 4 in 10 respondents shared passwords with at least one person in the past year.
+
+• Nearly as many people use the same password to log into multiple Web sites, which could expose their information on each of the sites if one of them becomes compromised. (A separate recent study revealed that 75% of people use the same password for Social Networking Sites and their email accounts)
+
+• Almost half of all users never use special characters (e.g. ! ? &amp; #) in their passwords, a simple technique that makes it more difficult for criminals to guess passwords. (Yet not all sites support this option of special characters!)
+
+• 2 in 10 have used a significant date, such as a birth date, or a pet's name as a password – information that's often publicly visible on social networks.
+</blockquote>
+
+Además,
+
+<blockquote>
+Younger people are especially likely to take online security risks. Webroot found that among 18 to 29 year-olds:
+
+• 12 percent have shared a password in a text message (vs. 4 percent overall)
+
+• 30 percent logged into a site requiring a password over public WiFi (vs.  21 percent overall) (Note: This is typically only dangerous when you logon not using SSL -- aka HTTPS in your browser)
+
+• Over half (54 percent) have shared passwords with one or more people in the past year (vs. 41 percent of people overall)
+
+The number of Web sites that require an extra layer of security has proliferated, driving careless habits:
+
+• Three quarters (77 percent) of consumers have five or more accounts with online services that require passwords.
+
+• One-third (35 percent) have 10 or more password-protected accounts. Only 10 percent ensure they never use the same password on different accounts.
+
+• Passwords are forgotten occasionally, often or always by over half of consumers (51 percent).
+
+Despite these disturbing figures, consumers still think they are safe, with 50 percent of people saying they feel their passwords are very or extremely secure. That being said, according to the survey:
+
+• 86 percent do not check for a secure connection when accessing sensitive information when using unfamiliar computers.
+
+• 14 percent never change their banking password.
+
+• And 30 percent remember their passwords by writing them down and hiding them somewhere like a desk drawer.
+
+• 41 percent use the same password for multiple accounts.
+
+• Only 16 percent create passwords with more than 10 characters in length.
+
+• Almost half of Facebook users (47 percent) use their Facebook password on other accounts and 62 percent of Facebook users never change their password.
+</blockquote>
+

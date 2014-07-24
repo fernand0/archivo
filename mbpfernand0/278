@@ -1,0 +1,21 @@
+Post     : [278]
+Title    : ¿Pueden atacar tu coche?
+Date     : 05/24/2010 01:46:49 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/05/24/%c2%bfpueden-atacar-tu-coche/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : coches seguridad
+Tags     : ataques, coches, fuzz, informática, seguridad
+ 
+ 
+Ya hablamos de <a href="http://mbpfernand0.wordpress.com/2010/02/12/los-electrodomesticos-y-la-seguridad/">Los electrodomésticos y la seguridad</a>, refiriéndonos a robots de juguete y marcapasos.
+
+En <a href="http://www.autosec.org/pubs/cars-oakland2010.pdf">Experimental Security Analysis of a Modern Automobile (pdf)</a> han comprado un par de coches iguales (para ver que los fallos eran reproducibles) y se han dedicado a probar sus sistemas informáticos: han descubierto todo tipo de fallos, que afectan al vehículo tanto en parado como en marcha y que permiten hacer cosas como apagar las luces, frenar, cambiar lo que muestra la instrumentación .... Todo ello tanto en local como en remoto (a través de algunos sistemas de comunicación disponibles).
+Impresionante, si lo pensamos con cuidado.
+
+Ya habíamos hablado de <a href="http://barrapunto.com/~fernand0/journal/10147"> ¿Virus en el coche?</a> y <a href="http://barrapunto.com/~fernand0/journal/13179">Jugando con Cabir</a> sobre ataques maliciosos a los sistemas informáticos de los coches.
+
+También de <a href="http://barrapunto.com/~fernand0/journal/4368">Coches y reparaciones</a>, o de <a href="http://barrapunto.com/~fernand0/journal/7461">Cuando tu coche no te hace caso</a>, <a href="http://barrapunto.com/~fernand0/journal/159"> Coche asesino</a>, <a href="http://barrapunto.com/~fernand0/journal/2355"> Coches, computadoras y riesgos</a> que no harían sino confirmar lo que dicen los autores del artículo: los problemas aparecen en una variedad de marcas y modelos. También lo que veníamos sugiriendo con lo de los 'electrodomésticos': la informática en cualquier cosa que no sean ordenadores está bastante descuidada y tiene fallos, problemas y agujeros de seguridad que pueden ser peligrosos.
+

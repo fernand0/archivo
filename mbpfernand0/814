@@ -1,0 +1,29 @@
+Post     : [814]
+Title    : Usuarios y formación: ¿Batalla perdida?
+Date     : 07/18/2014 12:58:04 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/07/18/usuarios-y-formacion-batalla-perdida/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : awareness, concienciación, formación, seguridad
+ 
+ 
+Cualquier usuario que tenga que elegir entre el camino fácil y el camino seguro elegirá, casi con toda seguridad, el más 'chulo' (o el fácil), así que deberíamos confiar poco en que se hará lo correcto y en ese sentido se habla siempre de la formación y la concienciación.
+De hecho, la experiencia nos dice que si la seguridad no va de la mano de la comodidad y la sencillez, habremos ganado unos cuantos enemigos más contra nuestro sistema: tratarán de evitar las medidas por los caminos que consideren necesarios.
+
+En <a href="http://1raindrop.typepad.com/1_raindrop/2013/03/schneier-says-user-awareness-tired-dev-training-wired.html">Schneier Says User Awareness: Tired, Dev Training: Wired</a> comentaban sobre el consejo de Bruce Schneier:
+
+<blockquote>
+we should be spending money on security training for developers. These are people who can be taught expertise in a fast-changing environment, and this is a situation where raising the average behavior increases the security of the overall system.
+</blockquote>
+
+Esto es, mejorar la formación de los desarrolladores (y sus incentivos) para que los usuarios no se preocupen de estos temas.
+
+Se puede leer la opinión de Schneier directamente en <a href="http://www.darkreading.com/blog/240151108/on-security-awareness-training.html">On Security Awareness Training</a> donde casi al principio, afirma:
+
+<blockquote>
+I personally believe that training users in security is generally a waste of time and that the money can be spent better elsewhere. Moreover, I believe that our industry's focus on training serves to obscure greater failings in security design.
+</blockquote>
+

@@ -1,0 +1,17 @@
+Post     : [183]
+Title    : Corrección de errores con algoritmos genéticos
+Date     : 10/29/2009 19:17:15 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/10/29/correccion-de-errores-con-algoritmos-geneticos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación
+Tags     : algoritmos, errores, fallos, genéticos, programación
+ 
+ 
+Lo vi en <a href="http://twitter.com/jjmerelo/status/5197633434">un tuit</a> de <a href="http://atalaya.blogalia.com/">JJ Merelo</a> y  enlaza a un artículo curioso: <a href="http://www.cs.virginia.edu/~weimer/p/weimer-gecco2009-preprint.pdf">A Genetic Programming Approach to Automated Software Repair (pdf)</a>. Proponen utilizar algoritmos genéticos para resolver fallos en los programas: esencialmente se trata de ajustar los parámetros del algoritmo para que proporcione valores malos con programas modificados que no pasan los tests y que proporcionan valores buenos cuando se cumplen las restricciones del problema.
+Curioso.
+
+Ya habíamos hablado en vidas anteriores de <a href="http://barrapunto.com/~fernand0/journal/2410"> Algoritmos evolutivos y el gcc</a> (se usaban para optimizar la selección de parámetros que se le pasan al compilador). También de <a href="http://barrapunto.com/~fernand0/journal/28248"> Algoritmos genéticos, spam y expresiones regulares</a> y de <a href="http://barrapunto.com/~fernand0/journal/7509"> Algoritmos genéticos: historias de éxito interesantes</a>.
+

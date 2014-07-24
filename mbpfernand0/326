@@ -1,0 +1,21 @@
+Post     : [326]
+Title    : Contraseñas, usabilidad y uso
+Date     : 11/19/2010 12:00:09 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/11/19/contrasenas-usabilidad-y-uso/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : contraseñas seguridad
+Tags     : cifras, claves, contraseñas, costumbres, datos, industria, medidas, seguridad, usabilidad, usos
+ 
+ 
+El otro día en <a href="http://mbpfernand0.wordpress.com/2010/11/08/buenas-practicas-sobre-claves-y-bloqueo-de-cuentas/">Buenas prácticas sobre claves y bloqueo de cuentas</a> 'amenazábamos' con volver sobre el tema. Lo hacemos con tres artículos que he leído recientemente sobre el asunto:
+
+
+El primero, <a href="http://research.microsoft.com/apps/pubs/?id=132623">Where Do Security Policies Come From?</a> que se basa en el examen de la política de claves de 75 sitios web para concluir que, en general, las políticas son bastante absurdas y no tienen una base sólida sobre la que sustentarse: en general, los sitios con políticas más restrictivas no son los que más requisitos de seguridad tienen, sino los que se lo pueden permitir (sitios gubernamentales y universidades); los que compiten por los usuarios y el tráfico no son muy exigentes, seguramente porque no quieren desanimar a los clientes (y porque les va bien así, luego las exageraciones en cuanto a las claves han de tomarse con una pizca de sal).
+
+El segundo, <a href="http://weis2010.econinfosec.org/papers/session3/weis2010_bonneau.pdf">[PDF] The password thicket: technical and market failures in human authentication on the web</a>. Se analiza la forma en que está implantado en 150 sitios el sistema de autentificación. En este caso lo que se encuentra es que hay bastantes inconsistencias: sitios que son muy exigentes en algunos aspectos, lo son menos en otros. Definitivamente, muy interesante.
+
+Finalmente, uno que no estoy seguro de comprender del todo, <a href="http://research.microsoft.com/apps/pubs/?id=132859">Popularity is Everything: A new approach to protecting passwords from statistical-guessing attacks</a>. Se trataría de fortalecer las claves de los usuarios contra ataques de intentos de adivinarlas, evitando que los usuarios utilicen claves demasdiado populares (y lo que no entiendo bien es si no sería una manera de conocer qué claves eran más populares en un sistema).
+

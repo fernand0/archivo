@@ -1,0 +1,14 @@
+Post     : [245]
+Title    : Métodos formales y desarrollo
+Date     : 03/01/2010 18:55:51 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/03/01/metodos-formales-y-desarrollo/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación
+Tags     : desarrollo, industria, ingeniería, métodos+formales, programación
+ 
+ 
+No se si es mi impresión o realmente estamos volviendo a prestar atención a los métodos formales para desarrollar programas. En todo caso, un par de artículos recientes sobre el tema: <a href="http://doi.ieeecomputersociety.org/10.1109/MC.2010.22">Really Rethinking 'Formal Methods'</a> (si no se puede descargar de ese enlace es fácil de encontrar por ahí; si no, seguro que conocen a alguien que se lo puede pasar ;) ) que se pregunta por qué los métodos conocidos no han sido adoptados y traza una panorámica. Además, <a href="http://doi.acm.org/10.1145/1595453.1595455">Formal methods versus engineering</a> donde se incide en que estos temas deberían formar parte de lo que aprenden los estudiantes, incluyendo las matemáticas necesarias.
+

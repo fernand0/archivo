@@ -1,0 +1,52 @@
+Post     : [706]
+Title    : Almacenamiento seguro de contraseñas
+Date     : 09/20/2013 13:23:31 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/09/20/almacenamiento-seguro-de-contrasenas-2/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : almacenamiento, claves, contraseñas, passwords, seguridad
+ 
+ 
+En <a href="http://throwingfire.com/storing-passwords-securely/">Storing
+Passwords Securely</a> un texto interesante.
+
+Cuidado con los hash que utilizamos para almacenar las claves:
+
+<blockquote>
+Typically, system designers choose one of two ways to store their users' passwords: 1. in their original format, as plain text, or 2. as the digest (output) of a one-way hash function. It probably goes without saying that the first option is a bad idea considering that any kind of compromise of the users/password database immediately exposes login credentials clients may be using on many other sites—but would it surprise you that the latter, as implemented in the majority of web systems, only provides marginally stronger security?
+</blockquote>
+
+El consejo sería:
+
+<blockquote>
+If you create a digest of a password, then create a digest of the digest, and a digest of that digest, and a digest of that digest, you've made a digest that is the result of four iterations of the hash function. You can no longer create a digest from the password and compare it to the iterated digest, since that is the digest of the third digest, and the third digest is the digest of the second digest. To compare passwords, you have to run the same number of iterations, then compare against the fourth digest. This is called stretching.
+
+A good password storage system takes so long to process a single input, e.g. 0.2 seconds on a modern computer, that guessing a password using a brute force will take significantly longer. (With a hash algorithm like SHA-256, this might be 100,000 iterations or more.) Where, previously, one might have been able to compare digests 5,6 billion times per second, it might now be 5 times per second on the same computer without parallelization; more, maybe a few hundred or thousand attempts per second using hardware like GPUs—but still significantly less than 5,600,000,000!
+</blockquote>
+
+En realidad, ¿qué habría que hacer?
+
+<blockquote>
+Adaptive key derivation functions are exactly what we've discussed above: Functions that generate digests from passwords whilst applying salting and stretching. They implement all of the above features, and often in a way that would be difficult to achieve using just a programming language's standard library. For instance, they might work such that the digest computation can't easily be parallellized—something that is very doable with plain MD5 and all members of the SHA family. In effect, attackers can't easily apply specialized hardware like GPUs or FPGAs to greatly improve the speed at which passwords can be guessed using a brute force approach.
+</blockquote>
+
+Y, a modo de conclusiones:
+
+<blockquote>
+Here is my view:
+
+- MD5, SHA-1, SHA-256, SHA-512, et al, are not "password hashes." By all means use them for message authentication and integrity checking, but not for password authentication.
+- If you are a government contractor, want to be compliant with security certifications or regulations like ISO 27001 or FIPS 140-2, or don't want to depend on third-party or less-scrutinized libraries, use PBKDF2-HMAC-SHA-256/SHA-512 with a large number of iterations to generate digests of your users' passwords. (Ideally it should take a second or more to generate a single digest.)
+- If you want very strong password digests, and a system that is very easy to use, use bcrypt. Simple, easy-to-use libraries exist for nearly every programming language. (Just google "bcrypt ", and chances are you'll find a solid implementation.)
+- If you are designing a new system which either relies on encryption to store very sensitive information using a weak secret (user passwords), or where it is imperative that nobody guesses any of the passwords in any reasonable amount of time, you should investigate if there is a solid implementation of scrypt for the language or framework you're using.
+</blockquote>
+
+Cada vez se sabe más sobre estas cosas, y cada vez hay que estar atento a más cuestiones.
+
+Ya habíamos hablado de <a href="http://mbpfernand0.wordpress.com/2013/07/22/elegir-un-hash/">Elegir un hash</a>.
+
+También es muy interesante echarle un vistazo a <a href="http://throwingfire.com/the-history-of-password-security/">The History of Password Security</a> aunque como sólo es una presentación algunos detalles no se pillan del todo (al menos yo).
+

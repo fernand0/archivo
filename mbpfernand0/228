@@ -1,0 +1,27 @@
+Post     : [228]
+Title    : Identificación cruzada
+Date     : 02/08/2010 11:24:59 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/02/08/identificacion-cruzada/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : CSID, identidad, privacidad, redes, seguridad, sitios, sociales
+ 
+ 
+
+Lo vi en <a href="http://www.sahw.com/wp/archivos/2010/01/13/obtencion-ilegitima-de-informacion-personal-en-redes-sociales-cross-site-identification-csid/">Obtención ilegítima de información personal en redes sociales. Cross Site Identification (CSID)</a> y los detalles (aunque no muchos) están en <a href="http://blog.quaji.com/2009/12/out-of-context-information-disclosure.html">Cross Site Identification - or - How your social network might expose you when you least expect it</a>: cuando nos conectamos a un sitio y aprovechando que estamos identificados y autentificados en otro de los sitios habituales de redes sociales. Nos cuentan:
+
+<blockquote>
+The targeted site will silently cause the victim's browser to request the SN to share the user's personal details with the hacker. These details might be publicly available (i.e on the user's public profile), but their acquisition at this point, outside of the normal context of the SN causes the user's anonymity to be breaches and her identity known in the context of the targeting site.
+</blockquote>
+
+Sergio Hernando dice que encaja en el Cross Site Request Forgery (CSRF, utilizar un sitio web para hacer una petición a otro aprovechando que estaremos identificados) pero el autor dice que no es exactamente eso:
+
+<blockquote>
+In my previous post, I dubbed the vulnerability in Facebook "CSRF personal information leakage vulnerability" but some thought and conversation (thanks A.D!) showed that it is neither a CSRF per se, nor a leakage of information. It's not exactly a CSRF because the victim's browser isn't tricked into performing any action apart from visiting a page (a CSRF token won't help here), and it's not exactly leakage because the information is publicly available! Its the out-of-context access to it that constitutes the attack. Furthermore, the vulnerability in the identifying sites found seems very minuscule (sometimes it is a feature!) when not considering this attack, so it is logical to assume that many other instances of it are in the wild. For these reasons I realized it's a new attack technique in its own right, and that was what motivated me to write this post. I suggest the name Cross-Site Identification (CSID).
+</blockquote>
+
+En todo caso, las diferencias son muy sutiles y tampoco está muy claro. Hay detalles sobre el problema tal y como se encontraba en Facebook en <a href="http://blog.quaji.com/2009/08/facebook-csrf-attack-full-disclosure.html">Facebook CSRF attack - Full Disclosure</a>.
+

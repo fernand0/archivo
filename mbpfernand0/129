@@ -1,0 +1,18 @@
+Post     : [129]
+Title    : Polución de parámetros del protocolo HTTP
+Date     : 05/20/2009 15:27:22 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/05/20/polucion-de-parametros-del-protocolo-http/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : HPP, http, polución, seguridad, validación
+ 
+ 
+Luca Carettoni y Stefano di Paola nos descubren un nuevo problema de validación de los datos de entrada (un clásico). Esencialmente, muchas aplicaciones no comprueban que los datos de entrada son los que tienen que ser (en número y forma) y eso puede ocasionar tratamientos ligeramente diferentes en distintas configuraciones y, en definitiva, problemas.
+
+Cada uno de ellos lo cuenta en su bitácora, <a href="http://blog.nibblesec.org/2009/05/hpp-hopefully-not-just-another-buzzword.html">HTTP Parameter Pollution (HPP)</a> y <a href="http://blog.mindedsecurity.com/2009/05/http-parameter-pollution-new-web-attack.html">Http Parameter Pollution a new web attack category (not just a new buzzword :p)</a> y se pueden ver y/o descargar las transparencias de su presentación en el OWASP 2009, en <a href="http://www.slideshare.net/Wisec/http-parameter-pollution-a-new-category-of-web-attacks">Http Parameter Pollution, a new category of web attacks</a>.
+
+De paso, como ellos mismos bromean, tenemos unas nuevas siglas en el panorama, HPP: HTTP Parameter Pollution.
+

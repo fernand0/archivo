@@ -1,0 +1,22 @@
+Post     : [689]
+Title    : Almacenamiento seguro de contraseñas
+Date     : 07/15/2013 12:03:24 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/07/15/almacenamiento-seguro-de-contrasenas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : almacenamiento, claves, contraseñas, passwords, seguridad
+ 
+ 
+Cuando leí <a href="http://throwingfire.com/storing-passwords-securely/">Storing Passwords Securely</a> me pareció una lectura recomendable sobre el tema:
+
+<blockquote>
+Time and time again you hear about a company having all of their users' passwords, or "password hashes", compromised, and often there's a press response including one or more prominent security researchers demonstrating how 1,000 users had the password "batman", and so on. It's surprising how often this happens considering we've had ways to do password authentication that don't expose users' passwords, or at least makes it significantly harder to crack them, for several decades.
+
+Personally, I think it boils down to a fundamental misunderstanding about what cryptographic hash functions are and what they are—or should be—used for, and a failure on the part of security researchers and advocates, myself included, to properly explain and emphasize the differences. So here's an attempt to explain why "SHA 256-bits enterprise-grade password encryption" is only slightly better than storing passwords in plain text.
+</blockquote>
+
+Se habla de los hash y otras cuestiones que hay que tener en cuenta.  Además tiene <a href="http://throwingfire.com/the-history-of-password-security/">The History of Password Security</a> como 'bola extra'.
+

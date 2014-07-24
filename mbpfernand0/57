@@ -1,0 +1,21 @@
+Post     : [57]
+Title    : vimblog.vim: publicar en wordpress.com fácilmente
+Date     : 02/13/2009 15:15:36 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/02/13/vimblogvim-publicar-en-wordpresscom-facilmente/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Vim WordPress XML-RPC
+Tags     : Git GitHub Software+libre Vim WordPress XML-RPC
+ 
+ 
+Uno de los motivos para mudarme a este sitio era disponer de una interfaz <a href="http://www.xmlrpc.com/">XML-RPC</a>: no me gusta editar con el navegador (se cuelga, se corta la sesión, ...). En mi búsqueda encontré muchos programitas para publicar que utilizan ventanas.
+
+Eso está bien, pero tampoco me gusta mucho: quiero editar un fichero de texto con <a href="http://www.vim.org/">Vim</a> porque no necesito más, y luego poderlo enviar con una interfaz también textual. Buscando por ahí encontré dos soluciones: <a href="http://www.vim.org/scripts/script.php?script_id=1953">vimpress</a> y <a href="http://www.vim.org/scripts/script.php?script_id=2030">vimblog</a>.
+
+En principio era más favorable al primero, porque usa Python y estoy más acostumbrado a ese lenguaje pero rápidamente descubrí que tenía muy pocas primitivas y que el trabajo iba a ser mayor así que me decanté por vimblog (algunos <a href="http://www.flickr.com/search/?q=vim&amp;w=36867590@N00">pantallazos</a>).
+
+Aún así, el mundo es imperfecto: su autor no había incluido la posibilidad de añadir etiquetas a una entrada, que es algo que a mi me parece importante, así que me puse manos a la obra para añadirlo: en plan chapuzas, buscando líneas de código que se parecen a lo que yo quería hacer (esencialmente, modificando el código correspondiente a las categorías) y copiando y pegando, pero parece que funciona.
+
+Como persona educada, le envié al autor, <a href="http://blog.tquadrado.com/">Pedro mg</a>, un mensaje y el código, por si le apetecía echarle un vistazo y me invitó a hacer un 'fork' de su proyecto y publicarlo por mi cuenta, cosa que he hecho en <a href="http://github.com/fernand0/vimblog.vim">vimblog.vim (bis)</a> que de paso me ha hecho darle una segunda oportunidad a git con github.  

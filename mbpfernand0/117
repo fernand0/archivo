@@ -1,0 +1,16 @@
+Post     : [117]
+Title    : Más extensiones de Firefox para la seguridad
+Date     : 04/21/2009 18:40:30 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/04/21/mas-extensiones-de-firefox-para-la-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : extensiones, firefox, herramientas, navegador, seguridad
+ 
+ 
+Ya habíamos hablado de algunas <a href="http://mbpfernand0.wordpress.com/2009/02/20/extensiones-de-firefox-que-cuidan-nuestra-seguridad-e-intimidad/">Extensiones de Firefox que cuidan nuestra seguridad e intimidad</a>. Ahora veo en <a href="http://beef.digital-ritual.net/blog/?p=14">Firefox Plugins for Security Professionals</a>.
+
+El enfoque es diferente, más orientado al descubrimiento y análisis de vulnerabilidades y fallos y las hay que sirven para probar fallos sencillos de la configuración del navegador, inyección SQL o 'Cross Site Scripting'.  También para manipular las cabeceras, cookies, ...
+

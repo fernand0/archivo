@@ -1,0 +1,14 @@
+Post     : [243]
+Title    : CWE: los 25 fallos de programación más peligrosos
+Date     : 02/25/2010 19:04:44 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/02/25/cwe-los-25-fallos-de-programacion-mas-peligrosos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación seguridad
+Tags     : cwe, desarrollo, listas, programación, rankings,, seguridad, topes
+ 
+ 
+Como cada año llega la lista del <a href="http://cwe.mitre.org/">CWE - Common Weakness Enumeration</a>. Se puede leer la edición actual en <a href="http://cwe.mitre.org/top25/index.html">2010 CWE/SANS Top 25 Most Dangerous Programming Errors</a>. La utilidad de esta lista va desde los desarrolladores experimentados (para saber a qué hay que prestar más atención por la cantidad de ataques en alguna línea) como para los novatos (que pueden aprender los fallos más importantes y que deberían conocer).
+

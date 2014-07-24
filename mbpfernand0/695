@@ -1,0 +1,20 @@
+Post     : [695]
+Title    : Elegir un hash
+Date     : 07/22/2013 20:58:21 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/07/22/elegir-un-hash/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : avisos, cuidado, hash, md5, seguridad
+ 
+ 
+Otro de los problemas habituales con la seguridad es no estar atentos a los cambios que están ocurriendo: miramos ejemplos, vemos lo que se usa y no le damos muchas más vueltas. En <a href="http://www.zdnet.com/blog/security/md5-password-scrambler-no-longer-safe/12317">MD5 password scrambler 'no longer safe'</a> nos prevenían sobre este conocido algoritmo (del que los libros y ejemplos están llenos).
+
+También un pequeño 'elogio' de la diversidad, en este caso:
+
+<blockquote>
+Kamp emphasised that there is "no advantage" in every major website using the exact same algorithm --- "quite the contrary in fact," he added --- as it makes it easier for hackers to develop their attack strategy.
+</blockquote>
+

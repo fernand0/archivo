@@ -1,0 +1,16 @@
+Post     : [256]
+Title    : JBroFuzz para hacer fuzzing
+Date     : 04/08/2010 01:40:01 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/04/08/jbrofuzz-para-hacer-fuzzing/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo seguridad
+Tags     : desarrollo, fuzzing, programación, seguridad
+ 
+ 
+En <a href="http://michael-coates.blogspot.com/2010/03/fuzzing-with-owasps-jbrofuzz.html">Fuzzing with OWASP's JBroFuzz</a> nos hablan de <a href="http://www.owasp.org/index.php/Category:OWASP_JBroFuzz">JBroFuzz</a>, una herramienta para hacer fuzzing (pruebas de las interfaces de entrada enviándoles, esencialmente, basura) en aplicaciones web. Se trata de un proyecto de <a href="http://www.owasp.org/">OWASP</A>.
+
+En <a href="http://mbpfernand0.wordpress.com/2010/03/03/fuzzing-y-cubrimiento-de-codigo/">Fuzzing y cubrimiento de codigo</a> y en <a href="http://mbpfernand0.wordpress.com/2010/02/18/hay-que-probar/">Hay que probar</a> ya habíamos comentado ideas sobre 'fuzzing'.
+

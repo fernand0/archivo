@@ -1,0 +1,16 @@
+Post     : [222]
+Title    : Popularidad de los lenguajes de programación
+Date     : 01/26/2010 12:24:30 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/01/26/popularidad-de-los-lenguajes-de-programacion/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : lenguajes programación
+Tags     : cifras, datos, desarrollo, estadísticas, lenguajes, programación
+ 
+ 
+A partir de diversas fuentes en <a href="http://langpop.com/">Programming Language Popularity</a>. En las búsquedas de Yahoo! el lenguaje más popular sería C++, seguido de C y Java. En las búsquedas de empleo de Craig List (a través del buscador Yahoo!) el más popular sería PHP, seguido de C++ y C.  Según los datos de la librería Powell's Books el triunfador sería Java, seguido de C++ y Visual Basic. Según Freshmeat (hacía un montón de tiempo que no veía referencias a este sitio) el primero sería C, seguido de Java y C++. Según Google Code el ganador es C, Java y C++. Para Del.icio.us el primero es JavaScript seguido de Java y Python. Finalmente, según Ohloh el primero es C, luego Java y luego C++.
+
+En el resultado combinado (peso 1 para cada una de las estadísticas) el ganador sería Java, seguido de C y C++.
+

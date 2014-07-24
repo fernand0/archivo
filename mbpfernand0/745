@@ -1,0 +1,29 @@
+Post     : [745]
+Title    : Propagación casera de virus y troyanos por WiFi
+Date     : 03/04/2014 18:19:42 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/03/04/propagacion-casera-de-virus-y-troyanos-por-wifi/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : ap, contagio, red, seguridad, troyanos, virus, wifi
+ 
+ 
+No solemos traer temas de actualidad aquí. Principalmente por el retraso en las lecturas y las cosas que van quedando en la lista de 'esto estaría bien publicarlo y comentarlo'. Pero en esta ocasión acabo de verlo y como habíamos hablado de ello no me resisto a ponerlo. De paso, no rompemos la racha de publicar que más o menos estábamos manteniendo.
+Se puede ver un resumen de la información en <a href="http://unaaldia.hispasec.com/2014/03/camaleon-un-virus-para-puntos-de-acceso.html">Camaleon, un virus para puntos de acceso WiFi</a>.
+Se trata de un virus 'de laboratorio' (más detalles en <a href="http://jis.eurasipjournals.com/content/2013/1/2">Detection and analysis of the Chameleon WiFi access point virus</a>) y nos recuerda aquella posibilidad (teórica pero plausible) que comentábamos en su día en <a href="http://mbpfernand0.wordpress.com/2009/04/14/infecciones-en-red/">Infecciones en red</a> (cuatro años hace).
+Ahora, disponible. Aunque sea a nivel de laboratorio.
+
+<blockquote>
+Básicamente el virus actúa de la siguiente forma:
+
+1 - Establecer una lista de puntos de acceso susceptibles dentro de la localización actual.
+2 - Evitar cualquier tipo de seguridad de cifrado del punto de acceso.
+3 - Evitar la interfaz administrativa del punto de acceso.
+4 - Identificar y guardar la configuración del punto de acceso.
+5 – Reemplazar el firmare del punto de acceso en los puntos de acceso vulnerables con firmare cargado por el virus.
+6 – Reiniciar el punto de acceso víctima con la configuración del sistema.
+7 – Propagar el virus (volver a 1).
+</blockquote>
+

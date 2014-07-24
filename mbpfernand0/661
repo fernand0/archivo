@@ -1,0 +1,37 @@
+Post     : [661]
+Title    : Ataques dirigidos: el caso de Facebook
+Date     : 17/02/2013 22:32:37 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/02/17/ataques-dirigidos-el-caso-de-facebook/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : ataques, dirigidos, facebook, objetivos, seguridad
+ 
+ 
+Rompemos varias costumbres de esta bitácora (además de la de volver a publicar, hacerlo varias veces la misma semana) hablando de algo de bastante actualidad: en <a href="http://arstechnica.com/security/2013/02/facebook-computers-compromised-by-zero-day-java-exploit/">Facebook computers compromised by zero-day Java exploit</a>.
+
+Según nos cuentan se ha tratado de un ataque dirigido a algunos ingenieros de Facebook:
+
+<blockquote>
+Rather than using typical targeted approaches like "spear phishing" with e-mails to individuals, the attackers used a "watering hole" attack—compromising the server of a popular mobile developer Web forum and using it to spring the zero-day Java exploit on site visitors.
+
+"The attack was injected into the site's HTML, so any engineer who visited the site and had Java enabled in their browser would have been affected," Sullivan told Ars, "regardless of how patched their machine was."
+</blockquote>
+
+Esto es, aprovechar un fallo de Java en un sitio web que esperas que visiten tus víctimas y luego aprovechar para obtener otro tipo de ventajas.
+
+Ya habíamos hablado en el pasado de ataques a medida:
+
+<a href="https://mbpfernand0.wordpress.com/2010/07/07/ataques-a-medida-con-hojas-de-calculo/">Ataques a medida con hojas de cálculo</a>.
+<a href="http://mbpfernand0.wordpress.com/2010/04/21/vigilancia-en-el-tibet/">Vigilancia en el Tíbet</a>.
+
+
+<strong>Actualización (2013/02/21):</strong> Ahora le ha pasado algo parecido a
+Apple a través de un portal que visitarían sus desarrolladores y parece que
+el fallo de Twitter de hace unos días también tenía que ver con lo mismo.
+Lo cuentan en <a href="http://unaaldia.hispasec.com/2013/02/java-detras-de-los-ataques-apple.html">Java detrás de los ataques a Apple, Facebook y Twitter</a>.
+
+Recuerden: no visitar sitios 'delicados' con la máquina del trabajo.
+

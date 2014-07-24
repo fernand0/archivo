@@ -1,0 +1,21 @@
+Post     : [397]
+Title    : ¿Nuevo estándar para la gestión de estado en la web?
+Date     : 04/26/2011 19:21:09 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/04/26/%c2%bfnuevo-estandar-para-la-gestion-de-estado-en-la-web/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : desarrollo, estado, web
+ 
+ 
+Después de hablar el otro día sobre si <a href="http://mbpfernand0.wordpress.com/2011/04/11/%C2%BFllego-el-momento-de-arreglar-el-https/">¿Llegó el momento de arreglar HTTPs?</a> nos encontrábamos con <a href="http://www.thesecuritypractice.com/the_security_practice/2011/03/http-state-management-mechanism-to-proposed-standard.html">'HTTP State Management Mechanism' to Proposed Standard</a> donde se referencia al <a href="http://tools.ietf.org/html/draft-ietf-httpstate-cookie-23">HTTP State Management Mechanism draft-ietf-httpstate-cookie-23</a> y que podría marcar el nuevo mecanismo de gestión de Cookies para la web. Debería arreglar (si se aprueba) algunos de los defectos que se comentaban en <a href="http://mbpfernand0.wordpress.com/2010/12/03/sobre-las-cookies/">Sobre las cookies</a>.
+Como es natural, es bastante técnico y no aporta mucho a nivel de ideas
+generales pero, al menos pondrá un poco de orden en la gestión de este
+mecanismo:
+
+<blockquote>
+This spec is a milestone in that HTTP "cookie" syntax and behavior has been effectively a matter of undocumented folklore all these years. Getting this finally explicitly documented will be a key underlying piece of moving "the Web", and the wider Internet its built upon, on towards its next stage(s).
+</blockquote>
+

@@ -1,0 +1,16 @@
+Post     : [246]
+Title    : Seguridad pasiva
+Date     : 03/02/2010 15:21:59 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/03/02/seguridad-pasiva/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : acciones, diseño, pasividad, seguridad, sistema
+ 
+ 
+En clase lo comentamos de vez en cuando: la industria de la seguridad informática debería aprender de tantas otras industrias que ya han recorrido antes parte del camino. En la bitácora que recientemente he descubierto de Dick Lipton lo cuenta aplicado a la informática en general (que tampoco es mala idea), en <a href="http://rjlipton.wordpress.com/2010/02/08/trains-elevators-and-computer-science/">Trains, Elevators, and Computer Science</a>: los productos deberían ser robustos sin hacer nada, no por las acciones encaminadas a ello.
+
+El ejemplo más sencillo es el de los frenos del tren: mientras el sistema funciona correctamente el tren puede correr (y frenar, claro); cuando algo falla, los frenos quedan activados (y frenando). De esta forma el fallo no puede conducir al efecto contrario: que se rompa algo y no sea posible detener el tren. También explica un sistema similar para los ascensores.
+

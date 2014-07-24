@@ -1,0 +1,42 @@
+Post     : [816]
+Title    : Una cámara móvil
+Date     : 20/07/2014 20:40:55 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/07/21/una-camara-movil/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Raspberry Pi
+Tags     : cámara, móvil, movimiento, pi, raspberry, raspi, xmpp
+ 
+ 
+Una vez que tenemos un bot que nos permite controlar remotamente nuestro proyecto (<a href="http://mbpfernand0.wordpress.com/2014/06/15/segundo-bot-avanzamos/">Segundo bot: avanzamos</a>) y sabemos mover los motores (<a href="http://mbpfernand0.wordpress.com/2014/06/30/movimiento-suave-con-los-servos/">Movimiento suave con los servos</a>) llega el momento de montar la cámara encima (<a href="http://mbpfernand0.wordpress.com/2014/05/17/una-camara-en-la-raspberry-pi/">Una cámara en la Raspberry Pi</a>) y controlarla remotamente.
+Recordemos que el control se hace mediante XMPP (por ejemplo, con programas como Pidgin, Google Talk o nuestro cliente de mensajería favorito); la idea era evitar abrir puertos en el router para controlarlo vía web y, sin embargo, poder enviar instrucciones desde internet sin problemas.
+
+Para el montaje seleccionamos un par de cajas (como forma barata y simple de proporcionar el soporte para todo). En una caja más grande hicimos un par de agujeros (para poder colocar dos motores, aunque finalmente sólo hemos utilizado uno):
+
+http://instagram.com/p/n3ll2UQB_t/
+
+Dentro de la caja van las conexiones (baterías para alimentar los motores, y cables para controlarlos desde la Raspberry Pi, que se queda fuera de la caja).
+
+http://instagram.com/p/nL6GeLQB8i/
+
+La cámara se monta en una caja más pequeña que se sujeta al servo seleccionado.
+
+http://instagram.com/p/n3lsbuQB_-/
+
+Cuando se le da la instrucción de movimiento, la cámara va a la posición elegida, se detiene para hacer la foto y la envía por correo. Finalmente, vuelve a su posición inicial.
+Toda la secuencia puede verse en el siguiente vídeo.
+
+https://www.youtube.com/watch?v=LutgJAGDgbo
+
+El código del proyecto está disponible en <a href="https://github.com/fernand0/err-plugins">err-plugins</a> (puede evolucionar más adelante; el código en su estado actual puede verse en <a href="https://github.com/fernand0/err-plugins/blob/07e4248ea0fd387bf11a89a9810576ba4140f366/pruebas.py">pruebas.py</a>).
+
+Recientemente se publicó un proyecto similar en <a href="http://makezine.com/projects/raspberry-eye-remote-servo-cam/">“Raspberry Eye” Remote Servo Cam</a>. Tiene dos diferencias fundamentales: se han incluido movimientos en dos ejes (nuestro proyecto sólo se mueve a derecha e izquierda) y se controla mediante una página web.
+
+¿Qué haremos a continuación?
+Tengo varias ideas, pero no se todavía qué haré: sería interesante que la cámara tuviera cierta autonomía (¿detección de movimiento o cambios en la escena?); tampoco me importaría pensar en movilidad real (¿embarcar la cámara en algún tipo de dispositivo con ruedas? me encantó este <a href="http://stubby.digitalcave.ca/stubby/assembly.jsp">hexápodo</a>).
+Yendo más allá, tal vez podríamos pensar en otros dispositivos de control (¿wearables?).
+
+Por supuesto, ideas, comentarios, sugerencias... Serán bienvenidos.
+

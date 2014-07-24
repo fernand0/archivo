@@ -1,0 +1,24 @@
+Post     : [260]
+Title    : Mitos acerca de los comentarios en los programas
+Date     : 04/12/2010 18:28:44 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/04/12/mitos-acerca-de-los-comentarios-en-los-programas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación
+Tags     : comentarios, desarrollo, mitos, programación
+ 
+ 
+
+Ya hacía tiempo que no veía un artículo de estos: los comentarios en el código son imprescindibles en algunos casos, en otros son cuestionables y en algunos casos pueden llegar a ser una molestia innecesaria. Jason Baker hable del tema en <a href="http://jasonmbaker.com/myths-about-code-comments?c=1">Myths about code comments</a> que vi referenciado en <a href="http://developers.slashdot.org/article.pl?sid=10/01/01/226232"> Myths About Code Comments</a>, cuyo resumen dice:
+
+
+<blockquote>
+1) Comments are free ('When you update the code that the comment references, you usually have to update the comment as well').
+2) Comments make code more readable ('by far the most pervasive myth that I've encountered').
+3) You should comment every function, method, class, and module ('documenting something that needs no documentation is universally a bad idea').
+4) Code must always be 'self documenting' ('would you rather use a one-liner that requires a 3-line comment, or a 10-liner that
+requires no comments?')."
+</blockquote>
+

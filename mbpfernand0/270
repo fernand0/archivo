@@ -1,0 +1,17 @@
+Post     : [270]
+Title    : Organización de las amenazas
+Date     : 04/29/2010 15:17:35 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/04/29/organizacion-de-las-amenazas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : amenazas seguridad
+Tags     : amenazas, listas, organización, seguridad, taxonomía
+ 
+ 
+
+En <a href="http://projects.webappsec.org/Threat-Classification-Taxonomy-Cross-Reference-View">Threat Classification Taxonomy Cross Reference View</a> tratan de poner un poco de orden en todas las clasificaciones de fallos de seguridad que se van publicando por ahí, relacionándolas entre sí y mostrando que, más o menos, todas hablan de lo mismo.
+
+Ya hemos hablado del <a href="http://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project">OWASP Top Ten</a> (en <a href="http://mbpfernand0.wordpress.com/2010/04/28/actualizacion-del-owasp-top-10/">Actualización del OWASP Top 10</a>) y también del <a href="http://cwe.mitre.org/">CWE</A>  (en <a href="http://mbpfernand0.wordpress.com/2010/02/25/cwe-los-25-fallos-de-programacion-mas-peligrosos/">Los 25 fallos de programación más peligrosos</a>).
+

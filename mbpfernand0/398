@@ -1,0 +1,46 @@
+Post     : [398]
+Title    : OWASP ¿hasta dónde?
+Date     : 04/28/2011 12:31:06 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/04/28/owasp-%c2%bfhasta-donde/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : OWASP seguridad,
+Tags     : futuro,, historia, ideas, OWASP, seguridad
+ 
+ 
+Mark Curphey es uno de los creadores del proyecto <a href="http://www.owasp.org/">OWASP</A>. En <a href="http://www.curphey.com/2011/02/owasp-has-it-reached-a-tipping-point/">OWASP – Has it Reached a Tipping Point ?</a> hace un repaso de lo sucedido y por dónde cree que deberían ir los tiros en el futuro.
+
+He seleccionado un par de parrafitos:
+
+<blockquote>
+Ask your average OWASP member how to federate identity across the Internet
+and reckon you will be met with a blank stare but ask them how to check for
+XSS and I bet you would be greeted with a smile. Thats a problem. That is
+not to say that people who live and breath HTTP security isn’t incredibly
+valuable but it wasn’t what I wanted or what I really care about.
+</blockquote>
+
+Que se preocupa, en definitiva, de si los conocimientos están llegando a
+los lugares adecuados: no se trata de saber mucho de un tema, sino de que
+las personas adecuadas se preocupen de ello.
+Y la siguiente, en la misma línea:
+
+<blockquote>
+We can’t have security people who know development. We must have developers who know security. There is a fundamental difference and it is important.
+</blockquote>
+
+Es decir, la gente de seguridad ya conoce los problemas, pero es necesario
+que los conozcan y se aproximen a ellos las personas adecuadas, los
+desarrolladores:
+
+<ol>
+<li>Gestionar el porfolio de proyectos</li>
+<li>Conseguir el interés de la industria y comunicar adecuadamente</li>
+<li>Ética/Código de conducta</li>
+<li>Atraer a los desarrolladores</li>
+</ol>
+
+Sobre el primer punto, ya ha conseguido que el promotor de uno de los proyectos lo cerrara.
+

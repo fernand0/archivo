@@ -1,0 +1,25 @@
+Post     : [206]
+Title    : Identificación automática de programas maliciosos
+Date     : 01/02/2010 20:03:43 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/01/02/identificacion-automatica-de-programas-maliciosos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : automático, avisos, identificación, malware
+ 
+ 
+Es un tema que me interesa y me llama la atención y que creo que podrían hacerse cosas intersante. De momento Markus Jakobsson nos presenta el tema en <a href="http://www.itworld.com/security/79306/auto-detecting-malware-its-possible">Auto-detecting malware? It's possible</a>, diciendo que se podrían pensar cosas basándose en:
+
+<ul>
+<li>Localización geográfica (algunas redes sociales y páginas web ya nos piden identificación extra cuando 'detectan' que no estamos donde solemos estar).</li>
+<li>Grafo social</li>
+<li>Tiempo (hora, fecha ...)</li>
+<li>Comportamiento</li>
+<li>Rendimiento</li>
+<li>Cambios, velocidad ...</li>
+</ul>
+
+Automatizar demasiado las cosas tiene sus riesgos (falsos positivos, molestias, ...) pero siempre vienen bien algunos avisos sobre cosas que no están funcionando como deberían.
+

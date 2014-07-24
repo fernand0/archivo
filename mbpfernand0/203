@@ -1,0 +1,22 @@
+Post     : [203]
+Title    : Sobre la divulgación de fallos de seguridad
+Date     : 12/28/2009 19:38:12 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/12/28/sobre-la-divulgacion-de-fallos-de-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : disclosure, divulgación, fallos, responsabilidad, responsible, seguridad
+ 
+ 
+¿Qué hacer cuando encontramos un fallo de seguridad en una aplicación? Y el responsable de la misma, ¿cómo debería comportarse? Habitualmente todo lo regula el buen juicio y las habilidades sociales y técnicas de las dos partes implicadas.
+
+Hace algunos años Steve Christey y Chris Wysopal trataron de proponer el <a href="http://www.wiretrip.net/rfp/txt/ietf-draft.txt">Responsible Vulnerability Disclosure Process draft-christey-wysopal-vuln-disclosure-00.txt </a>. Se puede leer un poco sobre  el tema en <a href="http://www.hispasec.com/unaaldia/1283">Retirada del borrador de RFC sobre publicación de vulnerabilidades</a>.
+
+Pero volviendo a la actualidad, en <a href="http://informaticoysegurata.blogspot.com/">Informático y Segurata</a> nos avisaban hace unos días en <a href="http://informaticoysegurata.blogspot.com/2009/11/responsible-disclosure-cosas-nuevas.html">Responsible disclosure</a> de la existencia de un debate renovado, porque se anuncia para diciembre de 2010 la <a href="http://www.iso.org/iso/catalogue_detail.htm?csnumber=45170">ISO/IEC NP 29147 Information technology - Security techniques - Responsible Vulnerability Disclosure</a>.
+
+Hay algo de información en <a href="http://blog.osvdb.org/2009/11/15/responsible-disclosure-old-debate-fresh-aspects">Responsible Disclosure - Old Debate, Fresh Aspects?!</a>.
+
+También descubrimos que existía el <a href="http://www.icasi.org/projects.htm#CVRF">Common Frameworks for Vulnerability Disclosure and Response (CVRF)</a>.
+

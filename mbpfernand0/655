@@ -1,0 +1,32 @@
+Post     : [655]
+Title    : Lo que no te enseñarán sobre el enemigo
+Date     : 11/20/2012 15:39:51 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/11/20/lo-que-no-te-ensenaran-sobre-el-enemigo/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : enemigo, papel, pensar, preparación, seguridad
+ 
+ 
+El título sería más largo pero creo que la idea está clara.  En <a href="http://www.infosecisland.com/blogview/20607-What-They-Dont-Teach-You-in-Thinking-Like-the-Enemy-Classes.html">What They Don't Teach You in "Thinking Like the Enemy" Classes</a> hablan de ese estilo de aprender seguridad basado en pensar como lo haría un atacante, a cargo de Peter Herzog.
+
+Me llamó la atención:
+
+El valor de nuestros conocimientos es relativo:
+
+<blockquote>
+For a little perspective on how hard it is to value something the same as someone else, how often have you been asked by a friend or neighbor to check out their computer because they think it's infected. They say, "Come on, it'll just take you ten minutes and I'll buy you a drink." But what they don't realize is that it actually took you at least ten years to be able to analyze and diagnose the problem in "just ten minutes" and no drink will compensate you for ten years and ten minutes worth of work. So if even your friends and neighbors can't extend their reasoning into how much effort it took you to do what you can do, why it's more valuable than a drink, then maybe you can consider it's just as hard for you to extend yours to think about what the enemy values and the amount of effort they will make?
+</blockquote>
+
+Y la forma correcta de abordar el problema: no pienses como un 'malo', sigue buenas prácticas preventivas:
+
+<blockquote>
+You can also see that in some cases, we are exploited in many ways by ourselves the same way the enemy exploits us. We have seen the enemy and they are us! Dun DUN dun! So think about that the next time you want to assess your security the old fashioned way (in movies) to use a thief to catch a thief. Or a psycho to catch a psycho. Or a... never mind, you get the idea. Your best recourse is stop trying to guess what the attacker is going to do next and practice good preventative security. But you can find the details from this in Chapter 14 of the OSSTMM 3:
+
+1. Make separations between your assets and what shouldn't be interacting with them.
+2. Lock down and control those interactions which are allowed.
+3. Actively manage all trusts.
+</blockquote>
+

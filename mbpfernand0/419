@@ -1,0 +1,37 @@
+Post     : [419]
+Title    : Evidencias digitales
+Date     : 07/04/2011 12:48:26 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/07/04/evidencias-digitales/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : confianza,, digitales,, evidencias,, seguridad, trazabilidad
+ 
+ 
+Este es un tema que siempre me ha atraido: ¿se pueden demostrar cosas a partir de evidencias digitales? ¿qué deberían cumplir? ¿deberíamos tener alguna precaución?
+
+En <a href="http://www.cs.dartmouth.edu/~sergey/trusting-e-evidence.pdf">[PDF] Software on the Witness Stand: What Should It Take for Us to Trust It?</a> hablan del tema.
+
+Por ejemplo:
+
+<blockquote>
+Thus it appears that the only entity to "witness" the alleged violations and to produce an account of them for the court – in the form of a series of print-outs – was in fact an autonomous piece of software, programmed by a company acting on behalf of the plaintiffs and RIAA, and running on a computer controlled by this company.
+</blockquote>
+
+
+Casos de 'admisnitradores' fraudulentos:
+
+<blockquote>
+However, there are dramatic examples to the contrary. For example, according to news reports, the <a href="http://arstechnica.com/tech-policy/news/2009/02/italian-red-light-cameras-rigged-with-shorter-yellow-lights.ars">programmer of red light traffic cameras in Italy conspired</a> "with 63 municipal police, 39 local government officials, and the managers of seven different companies in order to rig the system so that it would turn from yellow to red quicker, therefore catching more motorists." The intentional, strong bias programmed into the system was only discovered because the unusually high number of reported ﬁnes drew an official’s suspicion; had the bias been less pronounced, it might have not been detected at all.
+</blockquote>
+
+Y algunas medidas que habría que tomar:
+
+<blockquote>
+We take the position that the code of the software must be made available for detailed examination by experts, especially in such cases as Roy, where reliability of software-generated evidence cannot be checked or increased by using alternative resources (e.g., by using competing products for re-testing the same forensic sample...
+</blockquote>
+
+Aunque, claramente, luego habría que demostrar que el código mostrado es el mismo que el que se ejecuta y que es lo que convierte este tipo de problemas en realmente complicados.
+

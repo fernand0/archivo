@@ -1,0 +1,21 @@
+Post     : [527]
+Title    : Fallo criptográfico en PHP
+Date     : 01/12/2012 12:41:11 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/01/12/fallo-criptografico-en-php/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : bug, desarrollo, fallo, mundo, PHP, real, seguridad
+ 
+ 
+Sigo recopilando fallos del mundo real que siempre nos vienen bien  para darnos cuenta de que estas cosas son complicadas. Y que los proyectos del perfil más alto (no desde el punto de vista de la seguridad, que a veces también, sino de uso y extensión) cometen también errores. En este caso, <a href="http://threatpost.com/en_us/blogs/serious-crypto-bug-found-php-537-082211">Serious Crypto Bug Found in PHP 5.3.7</a>:
+
+<blockquote>
+"If crypt() is executed with MD5 salts, the return value conists of the salt only. DES and BLOWFISH salts work as expected. I tested with php from openSUSE PHP5 repository," the report said. Several other users reproduce the problem on various other platforms.
+</blockquote>
+
+
+Más detalles en <a href="https://bugs.php.net/bug.php?id=55439">Bug #55439 crypt() returns only the salt for MD5</a>.
+

@@ -1,0 +1,46 @@
+Post     : [470]
+Title    : Las claves
+Date     : 07/21/2011 11:25:16 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/07/22/las-claves/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : contraseñas
+Tags     : claves, consejos, contraseñas, ideas, seguridad
+ 
+ 
+Interesante el podcast de la OWASP sobre recuperación de claves (<a href="https://www.owasp.org/download/jmanico/owasp_podcast_83.mp3">[mp3] forgot password</a>) sobre la manera recomendada de recuperar una cuenta cuya clave hemos perdido (se pueden leer los consejos en: <a href="https://www.owasp.org/index.php/Forgot_Password_Cheat_Sheet">Forgot Password Cheat Sheet</a>, aunque mucho me temo que es una visión parcial del problema, puesto que habla del bloqueo de cuentas y eso no siempre es factible/razonable y se ocupa de sitios con bastantes datos del interesado que tampoco es siempre el caso).
+Escuchándolo, pensé en recopilar y poner los últimos enlaces sobre el tema que he ido recopilando. Por cierto, interesante el sitio <a href="http://www.goodsecurityquestions.com/">Good Security Questions</a>, que nos da una idea de buenas opciones para esta parte tan delicada (imagino que también habrá que prestar atención a las cuestiones culturales, así que convendrá tomarlas con una 'pizca de sal').
+
+En <a hreF="http://blog.objectivedigital.com/how-do-we-remember-passwords">The truth about passwords</a>. Un análisis de las claves, la seguridad y la facilidad de uso bastante interesante. La conclusión:
+
+<q>It seems that the easy systems aren't secure, and the recommended systems aren't usable, because they take too long or require too much remembering.</q>
+
+En <a hreF="http://www.baekdal.com/tips/password-security-usability">The Usability of Passwords</a> que habla sobre seguridad razonable, alargando las claves mediante el uso de frases, más fáciles de recordar. Tiene sus detractores.  Yo diría que la longitud ayuda pero que, seguramente, sería buena idea no utilizar sólo palabras que forman frases.  
+
+Por si acaso, <a href="http://www.troyhunt.com/2011/06/brief-sony-password-analysis.html">A brief Sony password analysis</a>:
+
+La gente elige malas claves, pero sus propias malas claves, no hay muchas repeticiones:
+
+<blockquote>
+However in the grand scheme of things, there weren’t a whole lot of instances of multiple people choosing the same password, in fact the 25 above boiled down to only 2.5%. Furthermore, 80% of passwords actually only occurred once so whilst poor password entropy is looking rampant, most people are making these poor choices independently and achieving different results.
+</blockquote>
+
+Eso sí, la gente usa la misma clave (hay gente que lo hace en una cantidad
+notable, al menos) entre diversos sitios:
+
+<blockquote>
+Two thirds of people with accounts at both Sony and Gawker reused their passwords. Now I’m not sure how much crossover there was timeframe wise in terms of when the Gawker accounts were created versus when the Sony ones were. It’s quite possible the Sony accounts came after the Gawker breach (remember this was six months ago now), and people got a little wise to the non-unique risk. But whichever way you look at it, there’s an awful lot of reuse going on here.
+</blockquote>
+
+Finalmente, con un ataque sencillo se adivinarían bastantes claves (y la importancia de la longitud de las claves):
+
+<blockquote>
+82% of passwords would easily fall to a basic rainbow table attack. Not good, but you can see why the rainbow table approach can be so effective, not so much because of its ability to make smart use of the time-memory trade-off scenario, but simply because it only needs to work against a narrow character set of very limited length to achieve a high success rate
+</blockquote>
+
+Y la conclusión: <a href="http://www.troyhunt.com/2011/03/only-secure-password-is-one-you-cant.html">The only secure password is the one you can’t remember</a>.
+
+Para terminar, el aviso de que <a href="http://www.thetechherald.com/article.php/201129/7398/Hotmail-Microsoft-bans-the-use-of-vulnerable-passwords">Hotmail: Microsoft bans the use of vulnerable passwords</a> lo que redundara, seguramente, en una nueva generación de malas claves (es broma).
+

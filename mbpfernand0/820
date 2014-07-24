@@ -1,0 +1,35 @@
+Post     : [820]
+Title    : Algunas debilidades de HTTPS
+Date     : 23/07/2014 13:30:49 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/07/23/algunas-debilidades-de-https/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : aleatoriedad, cifrado, HTTPS, prng, protocolos, seguridad, web
+ 
+ 
+Como ya tiene un tiempo y además es algo especulativo (siempre que hablamos de romper métodos de cifra se trata de resultados que teóricamente nos hacen pensar que algo podría ir mal), viene bien traer aquí <a href="http://nakedsecurity.sophos.com/2013/03/16/has-https-finally-been-cracked/">Has HTTPS finally been cracked? Five researchers deal SSL/TLS a biggish blow...</a>.
+
+Se criticaban los algoritmos de generación de números aleatorios (ya hemos hablado del tema en <a href="http://mbpfernand0.wordpress.com/2012/11/05/numeros-aleatorios-y-seguridad/">Números aleatorios y seguridad</a>, por ejemplo):
+
+<blockquote>
+The problem is that although RC4 is a cryptographic PRNG, it's not a very
+high-quality one.
+</blockquote>
+
+Y también sobre el ataque:
+
+<blockquote>
+This result, incidentally, was the basis of the attack that broke WEP, the original encryption protocol used in Wi-Fi networking, and forced its replacement with a newer encryption system called WPA.
+</blockquote>
+
+Los consejos?
+
+<blockquote>
+If you can, ditch RC4 from the set of symmetric ciphers your web browser is willing to use, and your web servers to accept.
+
+Go for AES-GCM instead.
+</blockquote>
+

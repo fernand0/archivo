@@ -1,0 +1,22 @@
+Post     : [803]
+Title    : Seguridad en el desarrollo móvil
+Date     : 07/07/2014 18:16:32 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/07/07/seguridad-en-el-desarrollo-movil/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : desarrollo, móvil, mobile, seguridad
+ 
+ 
+De este tema no hablamos demasiado por aquí: no por falta de interés, sino porque tampoco hay mucha documentación que vaya más allá de las generalidades. En <a href="http://searchsecurity.techtarget.com/opinion/McGraws-mobile-app-security-strategy-Three-legs-of-trusted-on-busted">McGraw's mobile app security strategy: Three legs of 'trusted on busted'</a> un texto de los que son más bien generalistas.
+
+Las tres patas serían:
+
+<ul>
+<li>Parecido, pero diferente: aunque tenemos entre manos un ordenador como tantos otros, hay que tener más precaución con el almacenamiento y transporte de datos, y manejar con más cuidado los datos de los usuarios</li>
+<li>¿Dónde consiguen los usuarios nuestra app?</li>
+<li>¿En qué contexto se ejecuta nuestra app? (jailbreak?, root?, posición?)</li>
+</ul>
+

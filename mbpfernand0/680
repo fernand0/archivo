@@ -1,0 +1,18 @@
+Post     : [680]
+Title    : Un bug en SSL relacionado con los enteros
+Date     : 05/07/2013 19:32:51 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/05/07/un-bug-en-ssl-relacionado-con-los-enteros/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : bug, enteros, fallos, openssl, seguridad, ssl
+ 
+ 
+Tengo un poco abandonado este sitio. No por falta de enlaces guardados (aunque sí de lecturas, que últimamente tengo menos) sino por un cierto estado de (des)ánimo. Aprovecho un rato que tengo ahora para escribir una entrada y (tal vez) programar otras.
+
+En este caso es una de esas que me gustan bastante: un fallo sencillo de ver que afecta a un programa (que, además, es un programa supuestamente seguro): <a href="http://seclists.org/fulldisclosure/2012/Apr/210"> incorrect integer conversions in OpenSSL can result in memory corruption</a>.
+
+El problema tendría que ver con un paso de un entero largo a un entero que en algunos casos podría provocar que en una reducción de espacio de memoria (que era algo que no estaba previsto en las bibliotecas correspondientes) provocara un desbordamiento. Un poco técnico, pero que nos muestra como esas pequeñas inconsistencias no previstas pueden provocarnos un dolor de cabeza.
+

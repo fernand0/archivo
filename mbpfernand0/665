@@ -1,0 +1,19 @@
+Post     : [665]
+Title    : Añadir una instrucción a Python
+Date     : 28/02/2013 19:04:28 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/02/28/anadir-una-instruccion-a-python/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : desarrollo, lenguajes, programación, python
+ 
+ 
+Conocer como funciona un compilador es una buena idea para cualquiera que tenga que ver con la informática.
+Este artículo no va de eso, pero da algunas pistas de las interioridades de un lenguaje que es bien interesante, Python: <a href="http://eli.thegreenplace.net/2010/06/30/python-internals-adding-a-new-statement-to-python/">Python internals: adding a new statement to Python</a>.
+
+<blockquote>
+This article doesn¿t attempt to suggest the addition of an until statement to Python. Although I think such a statement would make some code clearer, and this article displays how easy it is to add, I completely respect Python¿s philosophy of minimalism. All I¿m trying to do here, really, is gain some insight into the inner workings of Python.
+</blockquote>
+

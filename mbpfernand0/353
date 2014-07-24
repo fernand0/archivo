@@ -1,0 +1,25 @@
+Post     : [353]
+Title    : Sobre claves y control de acceso en sitios web
+Date     : 01/16/2011 16:40:45 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/01/16/sobre-claves-y-control-de-acceso-en-sitios-web/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : claves seguridad
+Tags     : claves, costumbres, estudios, password, prácticas, seguridad
+ 
+ 
+En <a href="http://mbpfernand0.wordpress.com/2010/11/19/contrasenas-usabilidad-y-uso/">Contraseñas, usabilidad y uso</a> hablamos del artículo, pero en <a href="http://www.schneier.com/blog/archives/2010/07/website_passwor_1.html">Economic Considerations of Website Password Policies</a> añaden los enlaces a cuatro entradas de los autores del estudio donde se extienden en algunos aspectos:
+
+<a href="http://www.lightbluetouchpaper.org/2010/07/27/passwords-in-the-wild-part-i-the-gap-between-theory-and-implementation/">Passwords in the wild, part I: the gap between theory and implementation</a>, con comentarios generales sobre las políticas de los sitios y los resultados del artículo.
+
+<a href="http://www.lightbluetouchpaper.org/2010/07/28/passwords-in-the-wild-part-ii-failures-in-the-market/">Passwords in the wild, part II: failures in the market</a>, comentando sobre el tipo de sitios examinados (y sin examinar).
+
+<a href="http://www.lightbluetouchpaper.org/2010/07/29/web-password-standards-2/">Passwords in the wild, part III: password standards for the Web</a> es la parte que me ha parecido más interesante, porque aporta información sobre los estándares y prácticas más o menos establecidas en la industria. Para releer con cuidado.
+
+<a href="http://www.lightbluetouchpaper.org/2010/07/30/passwords-in-the-wild-part-iv-the-future/">Passwords in the wild, part IV: the future</a> donde, como el título indica, especulan sobre el futuro.
+
+Definitivamente, si no habíamos leido el artículo (<a href="http://research.microsoft.com/pubs/132623/WhereDoSecurityPoliciesComeFrom.pdf">[PDF] "Where Do Security Policies Come From?</a>), un buen repaso en un formato más accesible.
+
+<strong>Actualización 21/I</strong>: quede para mi vergüenza el error de arriba. Evidentemente, nos referimos al artículo <a href="http://weis2010.econinfosec.org/papers/session3/weis2010_bonneau.pdf">[PDF] The password thicket: technical and market failures in human authentication on the web.</a> que es sobre lo que comentan los autores.

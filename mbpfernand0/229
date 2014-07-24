@@ -1,0 +1,18 @@
+Post     : [229]
+Title    : Sobre el diseño de APIs
+Date     : 02/09/2010 13:47:55 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/02/09/sobre-el-diseno-de-apis/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación
+Tags     : API, bibliotecas, consejos, desarrollo, programación
+ 
+ 
+
+
+Lo vi en <a href="http://lambda-the-ultimate.org/node/3720">Why API Design Matters</a> y apunta a un artículo de Michi Henning, <a href="http://cacm.acm.org/magazines/2009/5/24646-api-design-matters/fulltext">API Design Matters</a> sobre el permanente problema que pueden llegar a constituir algunas bibliotecas que necesitaremos utilizar: si no se piensa bien la estructura, como llamarlas, etc., nos encontraremos con dificultades.
+
+Ya habíamos comentado sobre la importancia de las APIs desde el  punto de vista de la seguridad, por ejemplo en <a href="http://barrapunto.com/~fernand0/journal/21421"> Más cadenas seguras en C</a> que es mi ejemplo favorito porque se cuenta rápidamente y es fácil de comprender para cualquiera que haya programado en C (que cada vez viene siendo menos gente, pero bueno).
+

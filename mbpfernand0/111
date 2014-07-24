@@ -1,0 +1,20 @@
+Post     : [111]
+Title    : Cuando se usan datos personales como clave
+Date     : 04/11/2009 14:18:08 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/04/11/cuando-se-usan-datos-personales-como-clave/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : claves, datos+personales, passwords
+ 
+ 
+Alguien puede sacar partido de ello. El caso reciente es la aplicación para <a href="http://www.dgt.es/portal/es/oficina_virtual/permiso_por_puntos/">comprobar el saldo puntos</a> de la <a href="http://www.dgt.es/">DGT</a>: para solicitar la clave inicial basta con el NIF/NIE y la Fecha de Expedición.  Después se pone un correo electrónico y nos envían la clave.
+
+No es que la fecha de expedición sea fácil de adivinar, pero tampoco es un dato imposible de conseguir (no he comprobado a ver si hay un límite de intentos), junto con el identificador. Seguramente sería más razonable enviar la clave por correo a la dirección del carnet de conducir: más lento, pero costaría algo más de trabajo robarla.
+
+Lo cuentan en <a href="http://www.dvuelta.es/Sala_prensa/Trafico-desprotege-el-saldo-de-puntos-de-conductores.asp">Tráfico desprotege el saldo de puntos de los conductores</a>, que directamente lo sacaron de <a href="http://www.elmundo.es/elmundomotor/2009/03/25/usuarios/1237975310.html">DENUNCIA DE LA AEPD Poca seguridad en la consulta del saldo de puntos</a>.
+
+El eterno problema de la comodidad frente a la seguridad.
+

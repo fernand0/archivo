@@ -1,0 +1,61 @@
+Post     : [529]
+Title    : Más datos sobre claves
+Date     : 01/23/2012 20:48:13 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/01/23/mas-datos-sobre-claves/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : claves seguridad
+Tags     : claves, contraseñas, datos, passwords, seguridad
+ 
+ 
+En <a href="http://www.troyhunt.com/2011/07/science-of-password-selection.html">The science of password selection</a> un (otro) informe sobre las claves que se obtienen de diversas maneras de usuarios reales en la red.
+
+De mis notas.
+
+¿Cómo eligen las claves los usuarios?
+
+En este caso los datos vienen de varias fuentes:
+
+<blockquote>
+The data I’m going to analyse comes from a variety of sources including the Sony and Gawker breaches I referenced in the previous post as well as other LulzSec releases including pron.com and a collection of their random logins.
+</blockquote>
+
+Se usan nombres (un 14% de claves, derivadas de nombres):
+
+<blockquote>
+I also suspect they feature heavily when someone reaches into the recesses of their mind to come up with a password. Now of course the name is not necessarily the name of the account holder; it could be a spouse, the kids or even the family dog. Furthermore, it could be a first name, a middle name or a last name.
+</blockquote>
+
+Un 25% son palabras del diccionario (incluyendo la palabra 'password')
+
+<blockquote>
+A huge 25% of passwords are derived directly from dictionary words. In
+reality, it’s probably somewhat higher than this as my dictionary had less
+than a couple of hundred thousand words. And they’re all only English
+language.
+
+Top among the dictionary favourites are:
+
+password (oh dear)
+monkey
+dragon
+</blockquote>
+
+Las claves numéricas tienen en su mayoría (83%) cuatro, seis u ocho dígitos, pero hay un buen número de longitud uno, por ejemplo.
+
+<blockquote>
+Why is this interesting? Well firstly, within a spread of numeric password lengths which range from 1 (yes, 1, and there’s a heap of ‘em) to 21, 83% of the passwords are either four, six or eight digits long. Is this a propensity for even numbered password lengths or something else?
+</blockquote>
+
+Los de cuatro podrían corresponder al PIN del cajero automático.
+Los de seis serían fechas donde el año tiene dos cifras.
+Los de ocho serían fechas con el año completo.
+
+Las claves con dos palabras repetidas (blabla) serían menos del 3%, pero es un patrón que utiliza la gente.
+
+También hay quien utiliza frases cortas del estilo de: 'dejameentrar' o similares.
+
+Naturalmente, he hecho una selección según mis gustos y sesgos, pero vale la pena leerlo todo para hacerse una idea.
+

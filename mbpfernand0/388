@@ -1,0 +1,16 @@
+Post     : [388]
+Title    : Borrar datos es difícil
+Date     : 03/31/2011 19:39:04 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/03/31/borrar-datos-es-dificil/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : borrado, datos, discos,, información, seguridad
+ 
+ 
+Creía que lo había puesto, pero no lo encuentro. Ya sabíamos que borrar datos de un disco duro no es algo trivial. En <a href="http://www.first.org/conference/2007/papers/venema-wietse-2-slides.pdf">[PDF] The broken file shredder Programming traps and pitfalls</a> o <a href="http://secappdev.org/handouts/2008/programming-traps-pitfalls-1.pdf">[PDF]The broken file shredder</A> Wietse Venema ya nos contaba todas las cosas que podían ir mal en discos convencionales, así que me sorprendió que nadie lo recordara al hablar del nuevo 'fallo' que ponemos aquí casi a título de inventario: <a href="http://www.infosecurity-magazine.com/view/16138/ssds-do-not-always-scrubdelete-files-claim-researchers/">SSDs do not always scrub-delete files, claim researchers</a>, que hace referencia a un informe <a href="http://www.usenix.org/events/fast11/tech/full_papers/Wei.pdf">[PDF] Reliably Erasing Data From Flash-Based Solid State Drives</a>, donde Michael Wei y sus colegas nos hablan de los problemas de este tipo de discos que, poco a poco, van entrando en nuestras dinámicas habituales de trabajo.
+
+Por si acaso, lo que no queramos que se descubra, mejor no escribirlo nunca.
+

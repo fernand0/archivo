@@ -1,0 +1,21 @@
+Post     : [538]
+Title    : Fuzzing en Google
+Date     : 02/15/2012 14:01:10 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/02/15/fuzzing-en-google/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : fuzzing
+Tags     : fuzzing, google, pruebas, seguridad
+ 
+ 
+Ya hemos hablado de Fuzzing varias veces por aquí. Por eso me gustó ver lo que hacen en Google al respecto. Lo cuentan brevemente en <a href="http://googleonlinesecurity.blogspot.com/2011/08/fuzzing-at-scale.html">Fuzzing at scale</a>.
+No todo el mundo tiene esos recursos, claro.
+
+Otras veces que hemos hablado del tema:
+<a href="http://mbpfernand0.wordpress.com/2010/11/17/fuzzing-en-telefonos-moviles/">Fuzzing en teléfonos móviles</a>
+<a href="http://mbpfernand0.wordpress.com/2010/04/10/fuzzing-ciclos-vacios-y-fallos/">Fuzzing, ciclos vacíos y fallos</a>
+<a href="http://mbpfernand0.wordpress.com/2010/04/08/jbrofuzz-para-hacer-fuzzing/">JBroFuzz para hacer fuzzing</a>
+<a href="http://mbpfernand0.wordpress.com/2010/03/03/fuzzing-y-cubrimiento-de-codigo/">Fuzzing y cubrimiento de código</a>.
+

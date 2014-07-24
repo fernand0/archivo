@@ -1,0 +1,18 @@
+Post     : [215]
+Title    : Dispositivos Bluetooth para generar números aleatorios
+Date     : 01/15/2010 12:00:15 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/01/15/dispositivos-bluetooth-para-generar-numeros-aleatorios/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación
+Tags     : bluetooth, desarrollo, dispositivos, hacks, hardware, programación
+ 
+ 
+Curioso el artículo de <a href="http://www.digifail.com/projects/bt_rng.shtml">Bluetooth PRNG</A>.  Utiliza el hecho de que los dispositivos bluetooth tienen cierta capacidad de generación de números aleatorios (esencialmente para el proceso de emparejado con otros dispositivos) y la posibilidad de solicitar ese número con las utilizades de BlueZ. Yo acabo de probarlo con el mío y el mensaje que me sale es <q>Unsupported manufacturer</q> pero la idea es curiosa.
+
+Como se dice en la página, habría que ver si realmente son buenos y, desde luego, no se espera que superen en calidad ni en rapidez a un buen programita específico pero son del tipo de juegos que nos divierte ver de vez en cuando.
+
+Lo vi en <a href="http://hackaday.com/2009/12/19/bluetooth-based-psuedorandom-number-generation/">Bluetooth based Pseudorandom Number Generation</a>.
+

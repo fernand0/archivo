@@ -1,0 +1,16 @@
+Post     : [235]
+Title    : Algunos aspectos de seguridad de Java EE 6
+Date     : 02/16/2010 15:29:34 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/02/16/algunos-aspectos-de-seguridad-de-java-ee-6/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo seguridad
+Tags     : desarrollo, java, seguridad, web
+ 
+ 
+En el tema de la seguridad casi todo va con retraso: hace unos años alguna gente empezó a preocuparse del tema y detrás va todo lo demás. En <a href="http://www.coresecuritypatterns.com/blogs/?p=1622">Java EE 6: Web Application Security made simple !</a> hablan de los servicios de seguridad disponibles desde los programas (a través de bibliotecas y APIs adecuadas) de Java EE 6: autentificación, login, logout y otras primitivas. Aunque, como dicen los comentarios no es oro todo lo que reluce, al menos vemos que desde los los desarrolladores de las herramientas empieza a haber interés por estos temas.
+
+Veo que, además, Sun ha publicado el <a href="http://java.sun.com/security/seccodeguide.html">Secure Coding Guidelines for the Java Programming Language, Version 3.0</a>.
+

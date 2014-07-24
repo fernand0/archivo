@@ -1,0 +1,20 @@
+Post     : [318]
+Title    : Algunos datos de Verizon sobre PCI
+Date     : 11/07/2010 21:43:08 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/11/07/algunos-datos-de-verizon-sobre-pci/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : certificaciones pci seguridad
+Tags     : certificaciones, cifras, datos, informes, pci, seguridad
+ 
+ 
+Ya hablamos en su momento de PCI:
+
+<ul> <li> Cuando lo conocimos, en <a href="http://barrapunto.com/~fernand0/journal/10815">Estándar de seguridad de los datos en las tarjeteras</a>.</li> <li>Cuando se fue extendiendo su influencia, <a href="http://barrapunto.com/~fernand0/journal/22642">La seguridad y las empresas de tarjetas de crédito</a>.</li> <li>Cuando empezó a cobrar fuerza, <a href="http://barrapunto.com/~fernand0/journal/29440">PCI: una introducción</a></li> </ul>
+
+Después ha habido dudas y quejas de los implicados en su uso e implantación. Verizon se ocupa, entre otras cosas, de asesorar a empresas en estos temas y han lanzado el informe <A HREF="http://www.verizonbusiness.com/go/pcireport">[pdf] 2010 Payment Card industry Compliance Report</a>, donde se analiza el nivel de implantación de las organizaciones a las que asesoran.
+
+Uno de los temas que más me interesan, el del desarrollo seguro es uno de los que se señalan como flojos en las organizaciones (6.5 desarrollo seguro de aplicaciones web), aunque el informe apunta algunos puntos débiles más.
+

@@ -1,0 +1,16 @@
+Post     : [344]
+Title    : PAPAS: ¿Somos vulnerables a la polución de parámetros HTTP?
+Date     : 12/20/2010 20:34:58 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/12/20/papas-%c2%bfsomos-vulnerables-a-la-polucion-de-parametros-http/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : desarrollo, http, internet, seguridad, web
+ 
+ 
+Ya hablamos hace algún tiempo de <a href="http://mbpfernand0.wordpress.com/2009/05/20/polucion-de-parametros-del-protocolo-http/">Polución de parámetros del protocolo HTTP</A>. Sus autores han seguido trabajando en el tema y ahora presentan un servicio para comprobar si somos vulnerables: <a href="http://blog.iseclab.org/2010/12/08/http-parameter-pollution-so-how-many-flawed-applications-exist-out-there-we-go-online-with-a-new-service/">HTTP Parameter Pollution. So how many flawed applications exist out there?! We go online with a new service</a>.
+
+El servicio está en <a href="http://papas.iseclab.org/">PAPAS: PArameter Pollution Analysis System (Beta)</a> y hay un artículo que lo explica en <a href="http://www.iseclab.org/people/embyte/papers/hpp.pdf">[PDF] Automated Discovery of Parameter Pollution Vulnerabilities in Web Applications</a>.
+

@@ -1,0 +1,14 @@
+Post     : [310]
+Title    : Python y la seguridad
+Date     : 10/10/2010 19:12:22 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/10/10/python-y-la-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : lenguajes python seguridad
+Tags     : lenguajes, python, seguridad
+ 
+ 
+El otro día hablábamos de <a href="http://mbpfernand0.wordpress.com/2010/09/29/bibliotecas-para-evitar-problemas-en-php/">Bibliotecas para evitar problemas en PHP</a>. Ahora me doy cuenta de que llevo unos días guardando un enlace a <a href="http://www.pythonsecurity.org/">Python Security</a>, un proyecto de la OWASP donde se almacena información genérica (válida para cualquier lenguaje) y soluciones o código relevante para algunos de los temas. Se trata de un proyecto vivo, así que irá mejorando, seguramente.
+

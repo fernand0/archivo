@@ -1,0 +1,16 @@
+Post     : [91]
+Title    : Recogiendo información en la red
+Date     : 03/17/2009 12:33:36 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/03/17/recogiendo-informacion-en-la-red/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : privacidad seguridad
+Tags     : buscadores, información, internet, privacidad, seguridad
+ 
+ 
+La presentación de Christian Martorella, <a href="http://www.edge-security.com/docs/OWASP-Christian_Martorella-InformationGathering.pdf">A fresh new look into Information Gathering (pdf)</a> donde da pistas e ideas sobre toda la información que se puede conseguir de alguien en la red me da pié a presentar otro trabajo que iba un poco más allá y que me resultó bastante interesante. Más allá de la inferencia en bases de datos, Jessica Staddon, Philippe Golle y Bryce Zimny hablaban de <a href="http://www2.parc.com/csl/members/jstaddon/publications/USENIX07Full.pdf">Web-Based Inference Detection (pdf)</a>: si nos llega un documento ofuscado, donde algunos datos 'sensibles' han sido ocultados o suprimidos, es posible echar mano del amigo Google (o cualquier otro y alguno de sus complementos) para rellenar esos huecos con información libremente disponible en la red.
+
+Aunque seamos anónimos y no haya documentos con partes ofuscadas, lo cierto es que, como contaba el otro día en <a href="http://fernand0.blogalia.com/historias/62281">El futuro ya está (casi) aquí</a> ya hay servicios que son capaces de reunir, a partir del nombre de alguien, un 'perfil' internetero bastante completo.
+

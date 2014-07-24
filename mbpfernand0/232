@@ -1,0 +1,19 @@
+Post     : [232]
+Title    : Los electrodomésticos y la seguridad
+Date     : 02/12/2010 10:44:54 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/02/12/los-electrodomesticos-y-la-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : casa, electrodomésticos, hogar, marcapasos, robots, seguridad
+ 
+ 
+Estoy exagerando con lo de los electrodomésticos, pero todo se andará.
+Habitualmente, cuando se habla de seguridad de se piensa en la 'reliability' (confiabilidad) más que en la 'safety' (seguridad contra cosas 'malas').
+
+En <a href="http://www.cs.washington.edu/homes/tdenning/files/papers/ubicomp_robots_authors_copy.pdf">A Spotlight on Security and Privacy Risks with Future Household Robots: Attacks and Lessons (pdf)</a> se hace un resumen de lo que se podía hacer con unos cuantos robots de esos de juguete (RoboSapien V2, Rovio, y Spykee) desde el punto de vista de atacar nuestra intimidad e incluso nuestra seguridad:  los robots pueden coger cosas, ver y transmitir imágenes, ser controlados remótamente con sistemas de comunicación poco protegidos .... Como casi siempre, los fabricantes se han preocupado de la funcionalidad, pero no tanto de que esa funcionalidad sea accesible sólo para el legítimo propietario.  En <a href="https://www.cs.washington.edu/research/security/robots/">FAQ: Protecting the Security and Privacy of Users with Household Robots</a> hay una descripción menos 'dura' que la del artículo y, tal vez, en un formato más conveniente.
+
+Por otra parte, en <a href="http://www.secure-medicine.org/icd-study/icd-study.pdf">Pacemakers and Implantable Cardiac Defibrillators: Software Radio Attacks and Zero-Power Defenses (pdf)</a> donde se habla de cómo es posible hacer ingeniería inversa del protocolo de comunicación del aparato en cuestión (marcapasos) y la unidad de control, de manera que un atacante podría enviar órdenes al aparato desde una distancia suficientemente próxima que, naturalmente, podrían tener consecuencias desagradables.
+

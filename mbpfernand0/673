@@ -1,0 +1,25 @@
+Post     : [673]
+Title    : Inyección de SQL a través de cabeceras HTTP
+Date     : 04/11/2013 20:47:52 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/04/11/inyeccion-de-sql-a-traves-de-cabeceras-http/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : cabeceras, desarrollo, http, protocolo, seguridad, validación
+ 
+ 
+Todo lo que viene del exterior es (potencialmente) inseguro. En <a href="http://resources.infosecinstitute.com/sql-injection-http-headers/">SQL Injection through HTTP Headers</a> nos recuerdan que las cabeceras del protocolo HTTP las proporciona el visitante y que pueden venir con 'regalos':
+
+<blockquote>
+Cookies and other stored HTTP headers should be treated by developers as another form of user input and be subjected to the same validation routines.
+</blockquote>
+
+Ya hablamos hace algún tiempo del tema de forma un poco más técnica, en:
+
+<a href="https://mbpfernand0.wordpress.com/2009/05/20/polucion-de-parametros-del-protocolo-http/">Polución de parámetros del protocolo HTTP</a>
+<a href="https://mbpfernand0.wordpress.com/2010/12/20/papas-%c2%bfsomos-vulnerables-a-la-polucion-de-parametros-http/">PAPAS: ¿Somos vulnerables a la polución de parámetros HTTP?</a>
+<a href="https://mbpfernand0.wordpress.com/2011/07/09/contaminacion-de-parametros-http/">Contaminación de parámetros Http</a>
+<a href="https://mbpfernand0.wordpress.com/2011/05/04/contaminacion-de-parametros-http-hpp/">Contaminación de parámetros HTTP (HPP)</a>
+

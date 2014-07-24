@@ -1,0 +1,23 @@
+Post     : [410]
+Title    : Algunas ideas sobre ESAPI
+Date     : 06/01/2011 20:13:18 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/06/01/algunas-ideas-sobre-esapi/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : apis,, desarrollo, ESAPI, OWASP, seguridad
+ 
+ 
+Ya hemos hablado en vidas anteriores de ESAPI: <A HREF="http://mbpfernand0.wordpress.com/2010/09/29/bibliotecas-para-evitar-problemas-en-php/">Bibliotecas para evitar problemas en PHP</a>, <a href="http://mbpfernand0.wordpress.com/2009/03/04/dos-grandes-errores-en-las-aplicaciones-web-y-doce-consejos-para-evitarlos/">Dos grandes errores en las aplicaciones web y doce consejos para evitarlos</a> y <a href="http://mbpfernand0.wordpress.com/2009/02/12/chuleta-para-la-prevencion-de-cross-site-scripting/">‘Chuleta’ para la prevención de ‘Cross Site Scripting'</a>.
+
+Hace algunas semanas Jack Kowalsky  publicaba un resumen de funcionalidades e ideas:
+
+<ul>
+<li><a href="http://jackwillk.blogspot.com/2010/06/using-owasp-php-esapi-part-1.html">Using the OWASP PHP ESAPI - Part 1 </a></li>
+<li><a href="http://jackwillk.blogspot.com/2010/07/using-owasp-php-esapi-part-2.html">Using the OWASP PHP ESAPI - Part 2 </a></li>
+<li><a href="http://jackwillk.blogspot.com/2010/07/using-owasp-php-esapi-part-3.html">Using the OWASP PHP ESAPI - Part 3</a></li>
+<li><a href="http://jackwillk.blogspot.com/2010/08/using-owasp-esapi-php-part-4.html">Using the OWASP ESAPI PHP - Part 4 </a></li>
+</ul>
+

@@ -1,0 +1,37 @@
+Post     : [700]
+Title    : Un fallo de autentificación en MySQL
+Date     : 09/13/2013 14:07:47 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/09/13/un-fallo-de-autentificacion-en-mysql/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : autentificación, comprobación, contraseñas, fallo, mysql,, seguridad
+ 
+ 
+En <a href="http://unaaldia.hispasec.com/2012/06/mysql-o-como-es-posible-dar-por-valida.html"> MySQL o cómo es posible dar por válida una contraseña incorrecta</a> una entrada de esas que nos gustan por aquí donde se muestra como una codificación poco cuidadosa combinada con el uso de los tipos de datos (0 y 'no 0', u otros valores) nos llevan a un problema de seguridad.
+
+
+<blockquote>
+De la documentación en sql/password.c:
+RETURN VALUE
+0  password is correct
+!0  password is invalid
+
+El problema es que "memcmp" no va a devolver '0' o no '0', sino un valor entero (int). Dicho entero es convertido al valor que retorna "check_scramble" que es del tipo "my_bool"
+</blockquote>
+
+La solución en este caso pasa por asegurarse de que, efectivamente, se
+devuelve el valor esperado:
+
+<blockquote>
+return test(memcmp(hash_stage2, hash_stage2_reassured, SHA1_HASH_SIZE));
+
+La diferencia es la aplicación de "test" sobre el resultado devuelto por "memcmp". Dicha macro está definida en include/my_global.h:
+
+#define test(a)            ((a) ? 1 : 0)
+</blockquote>
+
+En <a href="http://seclists.org/oss-sec/2012/q2/493"> Security vulnerability in MySQL/MariaDB sql/password.c </a> está el aviso del fallo.
+

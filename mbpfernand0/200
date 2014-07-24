@@ -1,0 +1,14 @@
+Post     : [200]
+Title    : Sobre la autentificación de usuarios
+Date     : 12/22/2009 14:12:29 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/12/22/sobre-la-autentificacion-de-usuarios/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación
+Tags     : autentificación, desarrollo, identificación, programación, seguridad
+ 
+ 
+En <a href="http://www.ddj.com/security/222001896">User Authentication: It Doesn't Belong In Your Application</a> un articulito sobre el tema de la autentificación de usuarios con algunas pinceladas sobre los temas más importantes que tenemos que considerar y una pequeña panorámica de la oferta de terceros sobre el tema, esencialmente <a href="http://openid.net/">OpenID</A>  y <a href="http://www.oasis-open.org/committees/tc_home.php?wg_abbrev=security">SAML</A>.
+

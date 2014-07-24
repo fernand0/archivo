@@ -1,0 +1,23 @@
+Post     : [650]
+Title    : Las claves como cadenas de caracteres
+Date     : 11/14/2012 14:11:37 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/11/14/las-claves-como-cadenas-de-caracteres/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : cadenas, java, seguridad, strings, uso
+ 
+ 
+Un ordenador es una máquina muy compleja. Por sus propias características electrónicas, pero también por las capas que lleva encima: sistema operativo, programas y más...
+En <a href="http://cplus.about.com/b/2012/01/21/dont-use-strings-to-hold-passwords.htm">Don't use Strings to hold Passwords!</a> un recordatorio de cómo trata Java las cadenas de caracteres:
+
+<blockquote>
+The essence of it is that strings in Java (and also in C#) are immutable. When you modify them it creates a new copy leaving the old one behind until garbage collected.
+</blockquote>
+
+Eso sin contar que el Sistema Operativo puede decidir hacer 'swapping' y que estas claves terminen escritas en el disco duro.
+
+Hace referencia <a href="http://stackoverflow.com/questions/8881291/why-is-char-preferred-over-string-for-passwords"> Why is char[] preferred over String for passwords?</a>.
+

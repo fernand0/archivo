@@ -1,0 +1,28 @@
+Post     : [659]
+Title    : Prevención de problemas con las sesiones en Java
+Date     : 02/14/2013 14:18:42 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/02/14/prevencion-de-problemas-con-las-sesiones-en-java/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : consejos, fijación, java, prevención, robo, seguridad, sesiones
+ 
+ 
+En <a href="https://blog.whitehatsec.com/session-fixation-prevention-in-java/">Session Fixation Prevention in Java</a> algunas pistas sobre el tema: el atacante obtiene un identificador de sesión válido, hace que nosotros lo utilicemos y consigue acceso a nuestra cuenta.
+
+Para evitarlo:
+
+1. Recibir las credenciales del usuario
+2. Autentificarlo
+3. La información de sesión necesaria se copia
+4. Se invalida la sesión
+5. Se crea una nueva
+6. Se recuperan los datos temporales
+7. Seguir...
+
+Se pueden hacer más cosas y hay código de ejemplo. Interesante.
+
+Por cierto, la primera semana del año de seguridad en Java que nombrábamos el otro día hablaba era justamente esta entrada, se puede ver también en <a href="http://www.jtmelton.com/2012/01/02/year-of-security-for-java-week-1-session-fixation-prevention/">Year Of Security for Java – Week 1 – Session Fixation Prevention</a>.
+

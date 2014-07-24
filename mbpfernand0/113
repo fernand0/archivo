@@ -1,0 +1,20 @@
+Post     : [113]
+Title    : Infecciones en red
+Date     : 04/14/2009 13:45:52 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/04/14/infecciones-en-red/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : red wifi
+Tags     : 3g, bluetooth, difusión, epidemias, malware, wifi
+ 
+ 
+Siempre que pensamos en estas cosas, nos vamos hacia lo más 'poético': que si difusión por WiFi (<a href="http://arxiv.org/abs/0706.3146">WiFi Epidemiology: Can Your Neighbors' Router Make Yours Sick?</a>, recientemente tuvo algo de difusión en prensa y allegados, <a href="http://arstechnica.com/business/news/2008/01/wireless-router-security-flaws-could-fuel-viral-outbreak.ars">WiFi flu: viral router attack could hit whole cities</a>) o por Bluetooh (<a href="http://zonatecnologica.blogspot.com/2006/10/bluetooth-es-la-principal-fuente-de.html">Bluetooth es la principal fuente de entrada de virus en los teléfonos móviles</a>).
+
+Sin embargo, la <a href="http://es.wikipedia.org/wiki/Navaja_de_Occam">navaja de Occam</a> es persistente: los malos no atacan por donde es más bonito o mediático, sino por donde es más efectivo: es cierto que ha habido contagios a través de Bluetooth pero no hay noticias sobre los que se realizarían por WiFi (al fin y al cabo, el artículo sólo habla de la posibilidad y hace números sobre la hipotética difusión). Si que las hay sobre la difusión de troyanos a través de routers conectados a internet (pero a través de la propia red, ¿qué interés tiene atacar a los vecinos, si tienes acceso al mundo?): <a href="http://www.dronebl.org/blog/8">Network Bluepill - stealth router-based botnet has been DDoSing dronebl for the last couple of weeks</a> (lo vi en <a href="http://icewinddale.blogspot.com/2009/03/botnet-de-routers-dsl-infectados.html">Botnet de routers DSL infectados</a>).
+
+Sobre la transmisión en móviles, más de lo mismo: en <a href="http://www.sciencemag.org/cgi/content/abstract/1167053">Understanding the Spreading Patterns of Mobile Phone Viruses</a>, los autores hacen números, miden lo que pasaría y nuevamente concluyen que la forma óptima de transmitir virus y otros 'bichitos' a través de redes móviles no sería otra que la mensajería multimedia (MMSs) que tiene, nuevamente, alcance más global frente al alcance por proximidad de las conexiones por bluetooth.
+
+Lo comentan (más por los gráficos que otra cosa) en <a href="http://www.f-secure.com/weblog/archives/00001648.html">Understanding the Spreading Patterns of Mobile Phone Viruses</a> y señalan (de pasada) la importancia de la diversidad.
+

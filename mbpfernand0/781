@@ -1,0 +1,56 @@
+Post     : [781]
+Title    : Lo que no te enseñan cuando te hablan de pensar como los malos
+Date     : 20/06/2014 11:53:47 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/06/20/lo-que-no-te-ensenan-cuando-te-hablan-de-pensar-como-los-malos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : ataques, clases, enemigo, formación, seguridad
+ 
+ 
+Seguimos con el tema de la enseñanza. En este caso, en <a href="http://www.infosecisland.com/blogview/20607-What-They-Dont-Teach-You-in-Thinking-Like-the-Enemy-Classes.html">What They Don't Teach You in "Thinking Like the Enemy" Classes</a>.
+
+Según el autor el proceso en este tipo de cursos suele ser:
+
+<blockquote>
+- Find who and what interacts with your target.  
+- Search those things for weaknesses.
+- Attack.
+- Clean up some of your tracks.
+- Profit!
+</blockquote>
+
+Pero, claro, hay más cosas en las que pensar y el autor nos las recuerda:
+
+<blockquote>
+- The enemy is not homogenous.
+- The enemy will invest much more resources in staging an attack than you think is worth it.
+- The enemy can and will readily exploit the one thing in our society that we think has made us so advanced and civilized: trust.
+- The enemy is very capable of planning and interweaving multiple attacks across multiple channels to get to their target.
+- The enemy probably doesn't have everything you have but that doesn't mean that if we don't have it they don't either.
+- The enemy will take advantage of your superego.
+</blockquote>
+
+Esto es, que el enemigo no es único y que puede sacar partido de muchas posibilidades.
+
+Sobre el segundo punto, la inversión en recursos necesarios para el ataque.
+
+<blockquote>
+For a little perspective on how hard it is to value something the same as someone else, how often have you been asked by a friend or neighbor to check out their computer because they think it's infected. They say, "Come on, it'll just take you ten minutes and I'll buy you a drink." But what they don't realize is that it actually took you at least ten years to be able to analyze and diagnose the problem in "just ten minutes" and no drink will compensate you for ten years and ten minutes worth of work.
+</blockquote>
+
+¿Somos nosotros muchas veces los que no nos damos cuenta del esfuerzo que otros pueden estar dispuestos a invetir?
+
+La solución no sería pensar como el malo, sino tratar de prevenir todo lo
+que podría ir mal:
+
+<blockquote>
+Your best recourse is stop trying to guess what the attacker is going to do next and practice good preventative security. But you can find the details from this in Chapter 14 of the OSSTMM 3:
+
+- Make separations between your assets and what shouldn't be interacting with them.
+- Lock down and control those interactions which are allowed.
+- Actively manage all trusts.
+</blockquote>
+

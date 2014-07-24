@@ -1,0 +1,14 @@
+Post     : [257]
+Title    : Sobre la codificación de URLs
+Date     : 04/09/2010 01:06:46 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/04/09/sobre-la-codificacion-de-urls/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo web
+Tags     : codificación, desarrollo, lenguajes, url, web
+ 
+ 
+En <a href="http://blogs.msdn.com/oldnewthing/archive/2010/03/31/9987779.aspx">The great thing about URL encodings is that there are so many to choose from</a> dan un repaso al tema de la codificación de URLs y el comportamiento de algunos lenguajes y APIs al respecto.
+

@@ -1,0 +1,18 @@
+Post     : [325]
+Title    : Fuzzing en teléfonos móviles
+Date     : 11/17/2010 20:54:50 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/11/17/fuzzing-en-telefonos-moviles/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : fuzzing pruebas seguridad
+Tags     : android, fuzzing, iphone, mobile, pruebas, robustez, seguridad, SMS, test, Windows
+ 
+ 
+Ya habíamos hablado antes de fuzzing, por ejemplo en <a href="http://mbpfernand0.wordpress.com/2010/04/10/fuzzing-ciclos-vacios-y-fallos/">Fuzzing, ciclos vacíos y fallos</a>.
+
+En <a href="http://www.blackhat.com/presentations/bh-usa-09/MILLER/BHUSA09-Miller-FuzzingPhone-PAPER.pdf">[PDF] Fuzzing the Phone in your Phone</a> podemos leer un artículo sobre el tema aplicado a teléfonos móviles (iPhone, Android y Windows Mobile): se generan SMS 'confusos' (fuzzed SMS messages) y se consigue lo esperable, que fallen cosas como por ejemplo, desconectar el teléfono de la red.
+
+También hablamos en su día de ataques con SMSs a teléfonos concretos (y no en experimentos controlados, sino en el 'mundo real') en <a href="http://mbpfernand0.wordpress.com/2009/12/06/nuevos-ataques-con-smss/">Nuevos ataques con SMSs</a>.
+

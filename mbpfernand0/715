@@ -1,0 +1,20 @@
+Post     : [715]
+Title    : ¿Una botnet de teléfonos móviles?
+Date     : 11/19/2013 01:46:53 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/11/19/una-botnet-de-telefonos-moviles/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : android, botnet, móvil, seguridad, spam
+ 
+ 
+Otra noticia no nueva ni novedosa pero que rescato aquí: <a href="http://blogs.msdn.com/b/tzink/archive/2012/07/03/spam-from-an-android-botnet.aspx">Spam from an Android botnet</a>.
+
+Los teléfonos son ordenadores. Y están permanentemente (o casi) conectados a internet. Si los infectan y los utilizan para mandar spam, tenemos una red distribuida, amplia y que puede mandar un montón de mensajes.
+
+<blockquote>
+All of these message are sent from Android devices.  We’ve all heard the rumors, but this is the first time I have seen it – a spammer has control of a botnet that lives on Android devices.  These devices login to the user’s Yahoo Mail account and send spam.
+</blockquote>
+

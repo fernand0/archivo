@@ -1,0 +1,18 @@
+Post     : [76]
+Title    : Cross Site Scripting por SMS
+Date     : 02/28/2009 19:03:05 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/02/28/cross-site-scripting-por-sms/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : HSDPA, seguridad, SMS, vulnerabilidad, XSS
+ 
+ 
+Lo cuentan en <a href="http://www.securitybydefault.com/2009/02/xss-bug-en-un-router-hsdpa-explotable.html">XSS Bug en un router HSDPA ... ¡ explotable vía SMS !</a>.
+
+El router puede recibir mensajes cortos (SMSs) y el propietario puede leerlos con una interfaz web que aparentemente no valida bien las entradas y por lo tanto puede ocasionar problemas como conseguir la clave de conexión, desconectar al usuario, enviar SMSs y conseguir la clave de la WiFi. Seguramente, como en tantos casos, más cosas. Lo explican en <a href="http://www.securityfocus.com/archive/1/501178">XSS Attack using SMS to Optus/Huawei E960 HSDPA Router</a>. Es un router que se puede encontrar en España.
+
+Ya sabíamos que con un SMS nos pueden dejar el teléfono 'sordo' (lo contábamos en <a href="http://barrapunto.com/~fernand0/journal/31480"> 'Regalos' navideños de seguridad</a>. Ahora, también el módem.
+

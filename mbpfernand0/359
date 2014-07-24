@@ -1,0 +1,23 @@
+Post     : [359]
+Title    : Sensores en aplicaciones: detección de problemas y respuestas
+Date     : 01/20/2011 15:40:23 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/01/20/sensores-en-aplicaciones-deteccion-de-problemas-y-respuestas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : aplicaciones, desarrollo, seguridad, sensores,, vigilancia
+ 
+ 
+El tema de los <a href="http://fernand0.blogalia.com/historias/68613">sensores en un mundo de datos</a> me resulta muy interesante. Por ese motivo me interesó mucho el proyecto <a href="http://www.owasp.org/index.php/OWASP_AppSensor_Project">OWASP AppSensor Project - Detect and Respond to Attacks from Within the Application</a> que tiene que ver con la vigilancia y aditoría. Estamos acostumbrados a que estas cosas se hacen después del desastre o, como mucho, cuando las cosas ya han pasado. Una aproximación básica sería la utilización de registros ('logs') para anotar cosas relevantes pero lo que parece que propone este proyecto es algún tipo de guías y referencias para incluir controles en las aplicaciones relativos a la seguridad:
+
+<blockquote>
+The AppSensor project defines a conceptual framework and methodology that offers prescriptive guidance to implement intrusion detection and automated response into an existing application. Current efforts are underway to create the AppSensor tool which can be utilized by any existing application interested in adding detection and response capabilities.
+</blockquote>
+
+Para leer sobre el proyecto se puede ver la <a href="http://code.google.com/p/appsensor/downloads/detail?name=AppSensor%20Developer%20Guide%20-%20OWASP.pdf&amp;can=2&amp;q=">AppSensor Developer Guide</a> y <a href="https://www.owasp.org/images/2/2f/OWASP_AppSensor_Beta_1.1.pdf">[PDF] OWASP AppSensor</a>, que es una descripción de más alto nivel.
+También hay, claro, código para utilizar en nuestros propios proyectos.
+
+Habrá que seguirles la pista.
+

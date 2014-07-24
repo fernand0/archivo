@@ -1,0 +1,30 @@
+Post     : [569]
+Title    : ¿Autentificación de dos factores? ¡Cuidado!
+Date     : 05/17/2012 18:42:40 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/05/17/autentificacion-de-dos-factores-cuidado/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : autentificación
+Tags     : autentificación, bancos, factores, portabilidad, rapidez, seguridad
+ 
+ 
+Nos lo contaban hace algunas semanas en <a href="http://www.net-security.org/secworld.php?id=12060">Fraudsters beat two-factor authentication, steal $45k</a>.
+
+Las compañías están obligadas a hacer las portabilidades rápido:
+
+<blockquote>
+Well, as it turns out, they took advantage of the mobile phone number portability option offered by telecommunication companies and mandated by the Australian government so that the companies could not lock in customers, and employed social engineering skills to gather the information needed for such a move.
+</blockquote>
+
+La portabilidad ocasiona problemillas técnicos:
+
+<blockquote>
+... requested his account to be "ported" to a pre-paid account with an alternative provider. Once the move was completed, they sent the businessman a message supposedly coming from his provider (Vodafone), notifying him that he will likely experience problems with the reception in the next 24 hours, so that he would not become suspicious about the fact that he would not be receiving any calls or messages.
+</blockquote>
+
+En resumen, el ataque se basa en portar un número temporalmente, hacer operaciones con él y devolvérselo al usuario casi sin que se de cuenta de que ha sido suplantado.
+
+A veces, hay buenos motivos para no hacer algunas cosas demasiado rápido.
+

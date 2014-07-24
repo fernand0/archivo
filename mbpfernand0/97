@@ -1,0 +1,23 @@
+Post     : [97]
+Title    : La criptografía en las administraciones
+Date     : 03/20/2009 18:48:27 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/03/20/la-criptografia-en-las-administraciones/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Criptografía
+Tags     : administraciones, criptografía, sitios, ssl, web
+ 
+ 
+
+El viejo dicho viene a ser: tu seguridad es tan buena como lo más inseguro que tengas (el eslabón más débil será el que haga que se rompa la cadena).  En <a href="http://www.securitybydefault.com/2009/03/es-segura-la-criptografia-en-la.html">¿Es segura la criptografía en la administración Española?</a> hacen un análisis de los protocolos (relacionados con <a href="http://www.iec.csic.es/CRIPTonOMICon/ssl.html">SSL</a>).
+
+<blockquote>
+Lo que no todo el mundo sabe es que SSL como tal, no es un protocolo único, mas bien es una enorme familia de protocolos, empezando por que existen 4 versiones (SSL v1, SSL v2, SSL v3 y TLS) además en cada versión se pueden negociar diferentes algoritmos con sus correspondientes longitudes.
+
+Podriamos decir que el mundo SSL es como el mundo de las hipotecas, existen algoritmos AAA fiables y algoritmos subprime inseguros y poco aconsejables.
+</blockquote>
+
+Yago Jesús ha probado unos cuantos sitios para ver cuántos de ellos permiten versiones del protocolo con criptografía débil y lo que ha encontrado es que en el mejor de los casos permiten sólo 2 algoritmos inseguros pero en algún caso permiten hasta 15. Es posible descargar un <a href="http://www.security-projects.com/misc/algoritmos-administracion.ods">documento con los resultados detallados (OO.org)</a>.
+

@@ -1,0 +1,14 @@
+Post     : [590]
+Title    : Algunas sorpresas revisando código
+Date     : 07/20/2012 12:09:41 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/07/20/algunas-sorpresas-revisando-codigo/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : API, código, desarrollo, java, reflections, seguridad
+ 
+ 
+Un artículo que nos muestra lo truculentos que pueden llegar a ser los lenguajes de programación y sus características avanzadas. En particular, lo que podría pasársenos por alto haciendo revisiones de código. En <a href="http://seclists.org/fulldisclosure/2012/Apr/192">SEC Consult Vulnerability Lab released a new whitepaper titled: "The Source Is A Lie"</a> el resumen y un enlace para descargar el documento.
+

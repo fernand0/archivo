@@ -1,0 +1,42 @@
+Post     : [139]
+Title    : La seguridad, los navegadores y las actualizaciones
+Date     : 06/09/2009 16:07:03 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/06/09/la-seguridad-los-navegadores-y-las-actualizaciones-3/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : actualizaciones, cifras, navegadores, parches, seguridad, usuarios
+ 
+ 
+Este es un tema que me gusta mucho recordarlo (<a href="http://mbpfernand0.wordpress.com/2009/03/26/los-parches-hay-que-aplicarlos/">Los parches hay que aplicarlos</a>) y con el que hay que tener la debida prevención (<a hreF="http://mbpfernand0.wordpress.com/2009/04/28/cuidado-con-las-actualizaciones-automaticas/">Cuidado con las actualizaciones automáticas</a>).
+
+No sé donde lo encontré pero me parece interesante el artículo <a href="http://www.techzoom.net/publications/insecurity-iceberg/"> Understanding the Web browser threat: Examination of vulnerable online Web browser populations and the "insecurity iceberg"</a>.
+
+El 'iceberg' de la inseguridad se refiere a los usuarios de navegadores que no usan la versión más actualizada del programa, viéndose sometidos a riesgos innecesarios.
+
+<blockquote>
+... we discovered that at most 83.3% of Firefox users, 65.3% of Safari users, 56.1% of Opera users, and 47.6% of Internet Explorer users were using the latest most secure browser version on any day between January 2007 to June 2008. For the latest version analysis of Safari, we only considered the date range Dec 2007 to June 2008, when Safari version 3 became widespread
+</blockquote>
+
+Y más tarde:
+
+<blockquote>
+It is noteworthy that it has taken 19 months since the initial general availability of IE7 (public release October 2006) to reach 52.5% proliferation amongst users that navigate the Internet with Microsoft’s Web browser. Meanwhile, 92.2% of Firefox users have migrated to FF2.
+</blockquote>
+
+Habla bien del mecanismo de Firefox:
+
+<blockquote>
+We believe the auto-update mechanism as implemented within Firefox to be the most efficient patching mechanism of the Web browsers studied.  Firefox’s mechanism regularly polls an online authority to verify whether a new version of the Web browser is available and typically prompts the user to update if a new version exists. With a single click (assuming that the user has administrative rights on the host), the update is downloaded and installed. Just as importantly, Firefox also checks for many of the currently installed Firefox plug-ins if they are similarly up to date, and, if not, will prompt the user to update them.
+</blockquote>
+
+Y, claro, la recomendación:
+
+<blockquote>
+Based upon our findings, we strongly recommend that software vendors embrace auto-update mechanisms within their products that are capable of identifying the availability of new patches and installing security updates as quickly and efficiently as possible - ideally enabled by default and causing minimal disruption to the user. We also recommend that these same auto-update mechanisms are capable of alerting the user of any plug-ins currently exposed through the Web browser that have newer and more secure versions available.
+</blockquote>
+
+Se puede ver en otros formatos, como en <a href="http://www.techzoom.net/papers/browser_insecurity_iceberg_2008.pdf">pdf</a>, las <a href="http://www.techzoom.net/papers/defcon_how_to_hack_a_hundred_million_hosts_2008.pdf">transparencias</a> para <strike>vagos</strike> gente más ocupada e incluso en <a href="http://www.techzoom.net/publications/video-are-internet-users-at-risk.en">vídeo</a>.
+

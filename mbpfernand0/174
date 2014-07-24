@@ -1,0 +1,14 @@
+Post     : [174]
+Title    : PHP y la seguridad
+Date     : 10/01/2009 11:56:41 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/10/01/php-y-la-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo PHP seguridad
+Tags     : desarrollo, exploits, PHP, seguridad, vulnerabilidades
+ 
+ 
+En <a href="http://www.suspekt.org/2009/08/12/state-of-the-art-post-exploitation-in-hardened-php-environments/">State of the Art Post Exploitation in Hardened PHP Environments</a> se habla del trabajo de Stefan Esser sobre fallos de seguridad y ataques realizados en instalaciones de PHP previamente fortalecidas. Es bastante técnico (al menos para mi) pero me pareció interesante la primera parte, donde hace un repaso de las medidas de protección disponibles en el lenguaje actualmente (y sus defectos y debilidades).
+

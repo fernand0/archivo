@@ -1,0 +1,19 @@
+Post     : [73]
+Title    : La anatomía de un programa en memoria
+Date     : 02/26/2009 18:36:07 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/02/26/la-anatomia-de-un-programa-en-memoria/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación
+Tags     : buffer, memoria, programación
+ 
+ 
+Me sabe mal decir que no sé donde lo vi referenciado, porque desde mi abandono de BarraPunto no está la cosa como para perder oportunidades de señalar 'amigos' pero es lo que hay.
+
+En todo caso, interesante documento en <a href="http://duartes.org/gustavo/blog/post/anatomy-of-a-program-in-memory">Anatomy of a Program in Memory</a> que describe la gestión de memoria alrededor de un programa.
+
+Básico para muchos, un buen recordatorio para la mayoría.
+
+<b>Actualización</b> nos avisa <a href="http://yapw.blogspot.com/">mig21</a> de que pude haberlo visto en <a href="http://icewinddale.blogspot.com/2009/02/manejo-de-la-memoria-y-anotomia-del-uso.html">Manejo de la memoria y anotomia del uso de la memoria de un proceso en Linux</a> y seguro que fué allí :). A ver si sé desactivar lo del Snap.

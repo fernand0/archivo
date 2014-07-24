@@ -1,0 +1,27 @@
+Post     : [708]
+Title    : Falsas creencias de los programadores sobre redes y tiempo
+Date     : 23/09/2013 10:36:51 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/09/23/falsas-creencias-de-los-programadores-sobre-redes/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : creencias, falso, mitos, programadores, redes, seguridad, tiempo
+ 
+ 
+En <a href="http://blog.erratasec.com/2012/06/falsehoods-programmers-believe-about.html"> Falsehoods programmers believe about networks </a> un recordatorio de cosas que deberíamos mirar porque probablemente no tenemos claras del todo.  
+
+En <a href="http://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time">Falsehoods programmers believe about time</a> otra lista para tener en cuenta sobre el tiempo en los programas que hacen.
+
+Algunas que incluso te encuentras en los primeros cursos de programación,
+pero que sigues haciendo mal:
+
+<blockquote>
+A week always begins and ends in the same month.
+A week (or a month) always begins and ends in the same year.
+</blockquote>
+
+
+Ya habíamos comentado el de <a href="http://mbpfernand0.wordpress.com/2010/07/16/algunas-cosas-falsas-que-los-programadores-creen-sobre-los-nombres/">Algunas cosas falsas que los programadores creen sobre los nombres</a>.
+

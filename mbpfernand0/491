@@ -1,0 +1,24 @@
+Post     : [491]
+Title    : Pistas sobre criptografía y otros
+Date     : 10/27/2011 13:54:23 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/10/27/pistas-sobre-criptografia-y-otros/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : cheat, chuletas, consejos, hojas, OWASP, pistas, podcast, seguridad, sheets
+ 
+ 
+Como decíamos el otro día en <a href="http://mbpfernand0.wordpress.com/2011/10/26/pistas-sobre-autentificacion-en-aplicaciones-web/">Pistas sobre autentificación en aplicaciones web</a> la serie de <a href="https://www.owasp.org/index.php/Cheat_Sheets">Cheat Sheets</a> es muy interesante, y va acompañada de algunas explicaciones en los <a href="https://www.owasp.org/index.php/OWASP_Podcast">OWASP Podcast</a> que todavía las hace más valiosas.
+
+Por no poner entradas separadas para cada una de ellas me permito recomendar algunas más:
+
+- <a href="https://www.owasp.org/index.php/Cryptographic_Storage_Cheat_Sheet">Cryptographic Storage Cheat Sheet</a> con algunas cuestiones que a veces se olvidan en la gestión de datos cifrados (el podcast correspondiente sería el 68, <a href="https://www.owasp.org/download/jmanico/owasp_podcast_68.mp3">[mp3] Kevin Kenan (Cryptographic Storage)</a>.
+
+- <a href="https://www.owasp.org/index.php/Transport_Layer_Protection_Cheat_Sheet">Transport Layer Protection Cheat Sheet</a> sobre protocolos de transporte (y el podcast sería el 70, <a href="https://www.owasp.org/download/jmanico/owasp_podcast_70.mp3">[mp3] Michael Coates (TLS)</a>.
+
+- <a href="https://www.owasp.org/index.php/SQL_Injection_Prevention_Cheat_Sheet">SQL Injection Prevention Cheat Sheet</a> (y un podcast sobre el tema sería el 29, <a href="https://www.owasp.org/index.php/Podcast_29">OWASP Interview with Justin Clarke</a>.
+
+Todos son recomendables, pero marco aquí los que he ido escuchando hace menos tiempo y he encontrando interesantes.
+

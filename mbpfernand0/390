@@ -1,0 +1,21 @@
+Post     : [390]
+Title    : ¿Por qué GNU grep es rápido?
+Date     : 04/06/2011 17:52:48 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/04/06/%c2%bfpor-que-gnu-grep-es-rapido-2/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : algoritmia programación,
+Tags     : algoritmia, coste, desarrollo, programación, tiempo, velocidad
+ 
+ 
+La respuesta en <a href="http://lists.freebsd.org/pipermail/freebsd-current/2010-August/019310.html">why GNU grep is fast</a> y lo explica haciendo referencia a los aspectos técnicos pero sin meterse mucho en los detalles.
+
+Esencialmente:
+Se utiliza el <a href="http://en.wikipedia.org/wiki/Boyer%E2%80%93Moore_string_search_algorithm">algoritmo de Boyer-Moore</a>, que tiene como ventaja que evita mirar los bytes uno a uno, porque es capaz de evitar algunos basándose en información sobre lo que se busca (letra final, tamaño y aprovechándolo para dar saltos más grandes).
+Pocas operaciones sobre cada byte de los que realmente se miran.
+
+Además, el bucle interno está '<a href="http://lanavajadelgeek.blogspot.com/2011/03/desenrolle-de-bucles-en-optimizacion.html">desenrollado</a>', lo que le evita algunas operaciones extra (las de control del propio bucle, claro). También evita pensar en líneas (salvo cuando 'cree' que ha podido encontrar lo que buscaba y trata de gestionar mejor la memoria para que la lectura sea más eficiente.
+¿Alguien se anima a echarle un ojo al <a href="http://www.gnu.org/software/grep/devel.html">código</a>?
+

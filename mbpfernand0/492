@@ -1,0 +1,20 @@
+Post     : [492]
+Title    : Localización en Android: HOW-TO
+Date     : 11/02/2011 17:29:29 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/11/02/localizacion-en-android-how-to/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : android, desarrollo, ejemplos, howto, programación
+ 
+ 
+Algún día tendré que ponerme a jugar con Android y desarrollar un programita (o más) pero la pereza continúa pudiendo conmigo y retrasando este propósito. Mientras tanto, un recurso interesante. En <a href="http://android-developers.blogspot.com/2011/06/deep-dive-into-location.html">A Deep Dive Into Location</a> Reto Meier va mostrando diversas ideas y trucos para desarrollar una aplicación basada en localización con el objetivo de: 
+
+<blockquote>
+Rather than shaking my fist at the sky, I’ve written an open-source reference app that incorporates all of the tips, tricks, and cheats I know to reduce the time between opening an app and seeing an up-to-date list of nearby venues - as well as providing a reasonable level of offline support — all while keeping the impact on battery life to a minimum.
+</blockquote>
+
+Definitivamente interesante.
+

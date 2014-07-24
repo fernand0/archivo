@@ -1,0 +1,22 @@
+Post     : [166]
+Title    : Tener claves seguras
+Date     : 09/15/2009 19:48:39 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/09/15/tener-claves-seguras/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : claves, gmail, passwords, seguridad
+ 
+ 
+Antes de las vacaciones leí en <a href="http://seclists.org/fulldisclosure/2009/Mar/0029.html">CSRF vulnerability in GMail service</a> sobre un fallo de GMail a la hora de impedir los intentos repetidos de pruebas de claves. El fallo serviría para saber qué usuarios tendrían claves débiles (porque los mensajes son diferentes según la calidad de la clave y si corresponde o no a la clave del usuario). Con la característica adicicional de que, en ese uso, no exigían el CAPTCHA (Vicente Aguilera encontró un eslabón débil).
+
+A la vuelta encontré como Bruce Schneier comentaba en <a href="http://www.schneier.com/blog/archives/2009/08/password_advice.html">Password Advice</a> los consejos sobre qué hacer y qué no hacer basándose en <a href="http://windowssecrets.com/2009/08/06/01-Gmail-flaw-shows-value-of-strong-passwords/">Gmail flaw shows value of strong passwords</a> donde se comentaba también el fallo descubierto por Aguilera:
+
+<blockquote>
+According to Aguilera's new security alert, Google allows anyone with a Gmail account to guess another Gmail user's password 100 times every two hours, or 1,200 times per day. No "captcha" keeps hacker bots from guessing passwords in this way. Worst of all: If a hacker controls, say, 100 Gmail accounts, 120,000 guesses can be made per day. Because Gmail accounts are free, many hackers control far more than 100 accounts, of course.
+</blockquote>
+
+No vamos a hablar de los consejos, pero algunas lecciones: los más grandes cometen errores, se puede atacar los eslabones débiles, y mucho cuidado con la realimentación que proporcionan nuestros programas (ya hablaba de ello Tanenbaum en el libro de Sistemas Operativos y ahí seguimos).
+

@@ -1,0 +1,16 @@
+Post     : [739]
+Title    : Polución de parámetros y cortafuegos de aplicaciones web
+Date     : 02/26/2014 11:34:42 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/02/26/polucion-de-parametros-y-cortafuegos-de-aplicaciones-web/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : http, parámetros, polución, seguridad, web
+ 
+ 
+Igual es excesivamente técnico pero tiene que ver con cosas que ya habíamos comentado y por eso me gusta traerlo aquí: <a href="http://danuxx.blogspot.com.es/2012/10/bypassing-waf-via-http-parameter.html"> Bypassing WAF via HTTP Parameter Pollution</a>. Y como recordatorio de que algunas herramientas nos ayudan, pero nada supera a haber hecho bien las cosas desde el principio.
+
+Sobre polución de parámetros http: <a href="http://mbpfernand0.wordpress.com/2011/05/04/contaminacion-de-parametros-http-hpp/">Contaminación de parámetros HTTP (HPP)</a>, <a href="http://mbpfernand0.wordpress.com/2013/04/11/inyeccion-de-sql-a-traves-de-cabeceras-http/">Inyección de SQL a través de cabeceras HTTP</a> y algunos más.
+

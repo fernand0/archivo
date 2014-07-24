@@ -1,0 +1,17 @@
+Post     : [44]
+Title    : Grafos de dependencias en paquetes de Debian
+Date     : 01/13/2009 19:22:21 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/01/13/grafos-de-dependencias-en-paquetes-de-debian/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : 
+ 
+ 
+
+Curiosa aplicaci&#243;n en <a href="http://www.gnowledge.org/search_debmap?val=1">Free Software Dependency</a>: se le proporciona el nombre de un paquete de la distribuci&#243;n Debian y dibuja un grafo con los paquetes de los que depende. Lo vi en <a href="http://aloriel.no-ip.org/index.php?p=867">Mapas de dependencias de paquetes en debian</a> que, adem&#225;s, muestra unos cuantos ejemplos para perezosos que no quieran jugar con la aplicaci&#243;n.
+
+Publicado originalmente en <a href="http://barrapunto.com/~fernand0/journal/31507">Grafos de dependencias en paquetes de Debian</a>.
+

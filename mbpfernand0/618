@@ -1,0 +1,54 @@
+Post     : [618]
+Title    : Observando ataques de fuerza bruta en SSH
+Date     : 10/09/2012 19:30:45 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/10/09/observando-ataques-de-fuerza-bruta-en-ssh/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : ataques, bruta, fuerza, observación, seguridad, ssh, vigilancia
+ 
+ 
+Este tipo de artículos son de los que más me gustan: normalmente llevan bastante trabajo y no son suficientemente genéricos pero nos dan algunas pistas. En este caso, además, hablan del SSH que es un protocolo que si uno tiene una máquina conectada a internet es relativamenet fácil observar los intentos de bots aleatoriamente sin mucha dificultad.
+
+En <a href="http://www.lightbluetouchpaper.org/2012/01/25/observations-from-two-weeks-of-ssh-brute-force-attacks/"> Observations from two weeks of SSH brute force attacks</a> hablan justamente de eso.
+
+Intentos sencillotes:
+
+<blockquote>
+As expected, the vast majority of password-guessing attempts are quite dull, and fall into one of two categories. Firstly there are attempts with a large number of ‘poor’ passwords (e.g. “password”, “1234″, etc…) against a small number of accounts which are very likely to exist (almost always “root”, but sometimes others such as “bin”).
+</blockquote>
+
+Algunos más sofisticados:
+
+<blockquote>
+Secondly, there were attempts on a large number of accounts which might plausibly exist (e.g. common first names and software packages such as ‘oracle’).
+</blockquote>
+
+Y, finalmente, otros más interesantes:
+
+<blockquote>
+here were, however, some more interesting attempts. One category was passwords far too complicated to be in a standard password dictionary, or even found through offline-brute-force attacks on a hashed password database (e.g. “TiganilAFloriNTeleormaN”, “Fum4tulP0@t3Uc1d3R4uD3T0t!@#$%^%^&amp;*?”, and “kx028897chebeuname+a”). The best guess is that these passwords were collected from an unhashed password database, or from a trojaned SSH server or client.
+</blockquote>
+
+Muy interesante.
+Title    : 
+Date     : 10/09/2012 17:55:58 CEST
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : 
+ 
+ 
+<type from here...> 
+Title    : 
+Date     : 10/09/2012 17:56:08 CEST
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : 
+ 
+ 
+<type from here...> 
+

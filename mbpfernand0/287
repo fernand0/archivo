@@ -1,0 +1,16 @@
+Post     : [287]
+Title    : Sistemas de control de versiones
+Date     : 06/19/2010 19:53:11 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/06/19/sistemas-de-control-de-versiones/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación versiones
+Tags     : comparativas, control, desarrollo, programación, sistemas, versiones
+ 
+ 
+Martin Fowler publicó una nota sobre <a href="http://martinfowler.com/bliki/VersionControlTools.html">VersionControlTools</a> con algunas ideas, comentarios y recomendaciones.
+
+Después, en <a href="http://martinfowler.com/bliki/VcsSurvey.html">VcsSurvey</a> con los resultados de una encuesta en la lista de desarrollo de software de ThoughtWorks (que no conozco). Los sistemas mejor situados serían git, seguido de Mercurial y Subversion. El viejo CVS queda en sexta posición, bastante lejos de los que podrían considerarse de plena actualidad.
+

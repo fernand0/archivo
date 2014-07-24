@@ -1,0 +1,20 @@
+Post     : [384]
+Title    : Denegación de servicio en Java
+Date     : 03/22/2011 12:48:00 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/03/22/denegacion-de-servicio-en-java/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación, seguridad,
+Tags     : bugs, desarrollo, java, PHP, programación, seguridad
+ 
+ 
+En <a href="http://blog.fortify.com/blog/2011/02/08/Double-Trouble">Java Denial of Service Vulnerability (Double Trouble)</a> se comenta sobre un fallo de Java y algunas versiones de PHP que entraban en un bucle infinito al convertir la cadena "2.2250738585072012e-308" en un valor de punto flotante de doble precisión. Esto podría provocar un ataque de denegación de servicio y, más allá de los detalles del problema y de cómo evitarlos, se comenta:
+
+<blockquote>
+This bug is an excellent example of the evolving software security landscape. Until this problem came along, calling parseDouble() looked like an ideal way to validate input. Now parseDouble() is yet another weak point to protect. And so it goes. When you ship software, you have to make sure it's protected against the risks we know about today. But when you wake up tomorrow, new risks may well have emerged during the night. Building secure systems means more than just avoiding foreseeable mistakes. It means preparing for the unforeseeable too. That means being ready to respond when new vulnerabilities emerge
+</blockquote>
+
+Aparecen nuevos puntos débiles contínuamente, de manera que tenemos que estar preparados no sólo para evitar los desastres que ya conocemos, sino los que puedan aparecer en el futuro y, en particular, repsonder a los que puedan ir surgiendo y nos afecten.
+

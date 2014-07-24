@@ -1,0 +1,14 @@
+Post     : [586]
+Title    : Fallos por todas partes
+Date     : 06/27/2012 15:46:04 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/06/27/fallos-por-todas-partes/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : bugs, desarrollo, diseño, fallos, google, seguridad
+ 
+ 
+Algo que la gente no cree cuando se lo decimos es que todo el mundo comente fallos (algunos que pueden tener consecuencias verdaderamente graves), hasta los más grandes. Por eso es bueno recopilarlos, para tenerlos a mano cuando hace falta recordarlo. En este caso es <a href="http://blog.andrewcantino.com/blog/2011/12/14/hacking-google-for-fun-and-profit/">Hacking Google for Fun and Profit</a> donde nos cuentan algunos fallos para desvelar información sobre usuarios de gmail: por ejemplo, cómo era posible determinar si un usuario había enviado un mail a otro. Se utilizaban fallos de Cross Site Request Forgery (CSRF), esto es, cuando engañamos al navegador (y al sitio, claro) para que haga una petición en nombre del usuario de la que somos capaces de sacar partido.
+

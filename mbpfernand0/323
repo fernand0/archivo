@@ -1,0 +1,26 @@
+Post     : [323]
+Title    : 8 hábitos para ser mejor programador
+Date     : 11/16/2010 10:00:00 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/11/16/8-habitos-para-ser-mejor-programador/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : consejos desarrollo hábitos programación
+Tags     : consejos, desarrollo, hábitos, listas, programación
+ 
+ 
+En <a href="http://blog.kowalczyk.info/article/8-habits-for-becoming-a-better-programmer.html">8 habits for becoming a better programmer</a>:
+
+<ul>
+<li>Hacer revisión del código</li>
+<li>Utilizar buenas herramientas</li>
+<li>Pruebas automatizadas y compilación continuada del proyecto</li>
+<li>Ejecutar paso a paso en el depurador todo el código nuevo</li>
+<li>Evitar la complejidad</li>
+<li>Código de diagnóstico en las aplicaciones</li>
+<li>Escribir código legible</li>
+<li>Reutilizar código de alta calidad</li>
+</ul>
+
+Como bola extra, esta presentación de Ed Yourdon que acabo de encontrar: <a href="http://www.slideshare.net/yourdon/top-10-sw-engineering-concepts-v13">Top 10 Software Engineering Concepts</a>.

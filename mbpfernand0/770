@@ -1,0 +1,125 @@
+Post     : [770]
+Title    : Segundo bot: avanzamos
+Date     : 15/06/2014 17:47:07 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/06/15/segundo-bot-avanzamos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : bot, gtalk, im, interacción, pi, raspberry, talk, xmpp
+ 
+ 
+En <a href="http://mbpfernand0.wordpress.com/2013/03/28/raspberry-pi-que-temperatura-hace-en-mi-casa/">Raspberry Pi: ¿qué temperatura hace en mi casa?</a> hablábamos del primer bot que nos permitía interactuar con la Raspberry Pi desde donde nos encontráramos.
+<br />
+<br />
+Estuve probando <a href="https://github.com/fritzy/SleekXMPP/">SleekXMPP</a> y <a href="https://github.com/sbp/phenny">phenny</a> pero ambos tenían algunas limitaciones así que continué buscando hasta que encontré otro proyecto interesante, <a href="https://github.com/gbin/err">err</a> que, además de estar en ese momento con cierta actividad proporciona una arquitectura modular para añadir características e incluso tiene una comunidad en Google+, <a href="https://plus.google.com/communities/117050256560830486288">Err</a>.
+<br />
+<br />
+Lo primero que hice fue adaptar las pruebas que ya había hecho con phenny a la nueva arquitectura, y añadirle un par de cosas más relacionadas con la toma de fotos y su envío. Puede verse el código del módulo en <a href="https://github.com/fernand0/err-plugins/">err-plugins</a> (en el futuro podría cambiar así que nos fijaremos en la versión actual con sus dos ficheros.
+<br />
+El primero es <a href="https://github.com/fernand0/err-plugins/blob/9632743c4a856554e19b126e0d43d8ba5f77b2ec/pruebas.plug">pruebas.plug</a>, que contiene información sobre el módulo en sí, con la sintaxis que define el bot:
+<code>
+[Core]
+Name = Pruebas
+Module = pruebas
+
+[Documentation]
+Description = let's try things !
+</code>
+<br />
+<br />
+Y el fichero <a href="https://github.com/fernand0/err-plugins/blob/8e4d337fa5d85a8705bd68c50b91f333577ad268/pruebas.py">pruebas.py</a> que contiene el código en sí. Esencialmente es un fichero con código en Python. Por ejemplo, para que el bot tome una fotografía nos la envíe, sería:
+[sourcecode]
+@botcmd
+def foto(self, msg, args):
+	"""Take a picture"""
+	quien=msg.getFrom().getStripped()
+	yield "I'm taking the picture, wait a second "
+	if(args):
+		try:
+			cam=int(args)
+		except:
+			cam=0
+	else:
+		cam=0
+	yield "Camera %s"%cam
+	self.camera("/tmp/imagen.png",cam)
+	yield "Now I'm sending it"
+	self.mail("/tmp/imagen.png", quien)
+	my_msg = "I've sent it to ... %s"%quien
+	yield my_msg
+[/sourcecode]
+Con la primera línea decimos que es una instrucción para el bot y luego definimos una función que es la que se ocupa de las acciones correspondientes. El nombre de la función será la instrucción (con un prefijo configurable, que permite al bot diferenciar entre lo que se le indica a él y lo que son otros textos que no interpretará).
+<br />
+<br />
+En nuestro caso, la instrucción:
+<code>
+.foto
+</code>
+Ejecutaría una función que es muy parecida a la que comentábamos el otro día en <a href="http://mbpfernand0.wordpress.com/2014/05/17/una-camara-en-la-raspberry-pi/">Una cámara en la Raspberry Pi</a>. Las diferencia serían:
+<ul>
+<li>Recibe los parámetros a través de la llamada a la función
+<code>
+def foto(self, msg, args):
+</code>
+<br />
+</li>
+<li>Responde al que le envió la orden:
+<code>
+quien=msg.getFrom().getStripped()
+</code>
+<br />
+</li>
+<li>El argumento puede ser 0, 1 o ninguno (no se hace validación) porque tenemos dos cámaras en la Raspberry. Por defecto dispara con la cámara 0.
+</li>
+<li>A continuación nos indica qué cámara hemos elegido:
+<code>
+yield "Camera %s"%cam
+</code>
+<br />
+</li>
+<li>Invoca a la función que realmente realiza la fotografía, cuyos parámetros son muy similares a los que ya comentamos en su momento (el nombre del fichero donde se almacenará la foto y la cámara elegida):
+<code>
+self.camera("/tmp/imagen.png",cam)
+</code>
+<br />
+</li>
+<li>Invoca a la función de envío por correo, cuyos parámetros son el fichero donde está la imagen y a quién se envía el mensaje.
+<code>
+self.mail("/tmp/imagen.png", quien)
+</code>
+<br />
+</li>
+<li>Finalmente responde al que dio la orden, nuevamente con yield.</li>
+</ul>
+Si miramos el código, la diferencia de estas dos funciones es que no van precedidas con @bootcmd, así que no están disponibles como instrucciones. Por lo demás necesitan (igual que contábamos en su momento) los parámetros de configuración adecuados.
+<br />
+<br />
+Errbot nos proporciona un mecanimos para eso, mediante:
+[sourcecode]
+def get_configuration_template(self):
+return{'ADDRESS' : u'kk@kk.com', 'FROMADD' : u'kk@kk.com',
+'TOADDRS' : u'kk@kk.com', 'SUBJECT' : u'Imagen',
+'SMTPSRV' : u'smtp.gmail.com:587', 'LOGINID' : u'changeme',
+'LOGINPW' : u'changeme'}
+[/sourcecode]
+Podemos definir en un diccionario los parámetros que podremos configurar (vistos, recuerden en <a href="http://mbpfernand0.wordpress.com/2014/05/17/una-camara-en-la-raspberry-pi/">Una cámara en la Raspberry Pi</a>).
+<br />
+<br />
+Y, tecleando en nuestro cliente de mensajería:
+<code>
+.config Pruebas
+</code>
+<br />
+<br />
+En este caso, Pruebas es el nombre del módulo y el punto (.) es el indicador que hemos elegido para las instrucciones. La instrucción config nos devuelve la configuración que el módulo tenga en ese momento (si no está configurado muestra los valores que hemos puesto en la definición; si ya lo hemos configurado mostrará los valores que tenga). Los valores que se devuelven pueden utilizarse como patrón para configurar el módulo:
+<code>
+.config Pruebas {'TOADDRS': u'mydir@mail.com', 'SMTPSRV':
+u'smtp.gmail.com:587', 'LOGINPW': u'mypassword',
+...
+}
+</code>
+Con esto, ya falta menos para hacer el montaje final. Seguiremos
+informando.
+

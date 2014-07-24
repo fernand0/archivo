@@ -1,0 +1,14 @@
+Post     : [81]
+Title    : ¿Existen programas sin fallos de seguridad?
+Date     : 03/10/2009 16:41:50 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/03/10/%c2%bfexisten-programas-sin-fallos-de-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación vulnerabilidades
+Tags     : desarrollo, fallos, programación, seguridad, vulnerabilidades
+ 
+ 
+A mi me parece que es un poco tramposa la pregunta de <a href="http://www.hispasec.com/unaaldia/3785">¿Existen programas sin fallos de seguridad?</a> pero está bien que alguien la haga de vez en cuando para recordarnos donde estamos: 100% seguro no existe, o no tiene sentido o, seguramente, es demasiado caro para poder asumirlo. Los productos probados, incluso desarrollados pensando en la seguridad (como es el caso del <a href="http://cr.yp.to/djbdns.html">djdns</a> de Dan Berstein) a veces tienen problemas (por cosas que se sabían, o por circunstancias que podríamos llamar sobrevenidas). De hecho, como dice el artículo, este servidor de DNS no era vulnerable al problema que apareció con todos los demás servidores de este tipo el año pasado.
+

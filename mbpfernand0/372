@@ -1,0 +1,18 @@
+Post     : [372]
+Title    : 8 costumbres para convertirnos en mejores programadores
+Date     : 02/16/2011 12:27:52 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/02/16/8-costumbres-para-convertirnos-en-mejores-programadores/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación,
+Tags     : consejos, costumbres, desarrollo, listas, programación
+ 
+ 
+Las listas tienen sus problemas (sobre todo, por lo que no sale en ellas, o porque nos las tomemos demasiado en serio). Pero también contienen ideas interesantes a veces. En <a href="http://blog.kowalczyk.info/article/8-habits-for-becoming-a-better-programmer.html">8 habits for becoming a better programmer</a>.
+
+La lista:
+
+<ol> <li>Utilizar buenas herramientas</li> <li>Pruebas automatizadas e integración permanente del código (¿hay una traducción 'aceptada' de 'continous builds'?)</li> <li>Ejecutar paso a paso todo el código nuevo en el depurador</li> <li>Evitar la complejidad</li> <li>Incluir código de diagnóstico en los programaas</li> <li>Escribir código legible</li> <li>Reutilizar código de calidad</li> </ol>
+

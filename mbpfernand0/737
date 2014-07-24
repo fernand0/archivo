@@ -1,0 +1,27 @@
+Post     : [737]
+Title    : Los diez mandamientos de seguridad en desarrollo de programas
+Date     : 02/24/2014 19:29:32 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/02/24/los-diez-mandamientos-de-seguridad-en-desarrollo-de-programas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : bsimm,, desarrollo, mandamientos, programas, seguridad
+ 
+ 
+En <a href="http://www.cigital.com/justice-league-blog/2012/10/05/the-ten-commandments-for-software-security/">The Ten Commandments for Software Security</a>, bastante centrados en gestión del proceso y esas cosas, según lo aprendido con <a href="http://bsimm.com/">BSIMM</A>, del que ya hemos hablado en vidas anteriores, en <a href="http://mbpfernand0.wordpress.com/2012/06/25/bsimm-safecode-y-otros/">BSIMM, SAFEcode y otros</a>.
+
+<blockquote>
+0. Thou shalt lead thy software security initiative (SSI) with a software security group (SSG).
+1. Thou shalt rely on risk management and objective measurement using the BSIMM—not “top ten lists” and vulnerability counts—to define SSI success.
+2. Thou shalt communicate with executives, directly linking SSI success to business value and comparing thy firm against its peers.
+3. Thou shalt create and adopt an SSDL methodology like the Microsoft SDL or the Cigital Touchpoints that integrates security controls (including architecture risk analysis, code review, and penetration testing) and people smarter about software security than the tools they run.
+4. Thou shalt not limit software security activity to only technical SDLC activities and especially not to penetration testing alone.
+5. Thou shalt grow and nurture software security professionals for thy SSG (since there are not enough qualified people to go around).
+6. Thou shalt consume direction from the business and intelligence from operations and incident response staff, and adjust SSI controls accordingly.
+7. Thou shalt track thy data carefully and know where the data live regardless of how cloudy thy architecture gets.
+8. Thou shalt not rely solely on security features and functions to build secure software as security is an emergent property of the entire system and thus relies on building and integrating all parts properly.
+9. Thou shalt fix thy identified software defects: both bugs and flaws.
+</blockquote>
+

@@ -1,0 +1,31 @@
+Post     : [319]
+Title    : Buenas prácticas sobre claves y bloqueo de cuentas
+Date     : 12/08/2010 18:38:17 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/11/08/buenas-practicas-sobre-claves-y-bloqueo-de-cuentas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : bloqueo claves seguridad
+Tags     : aplicaciones, bloqueo, claves, contraseñas, password, seguridad
+ 
+ 
+
+Por alguna casualidad, escuché el otro día el <a href="http://www.owasp.org/download/jmanico/owasp_podcast_76.mp3">[mp3] OWASP 76 podcast, con Bill Cheswick</a> sobre claves, bloqueo de cuentas y esas cosas. Estaba pensando que me había parecido bastante interesante y que debería poner un resumen por aquí cuando encontré <a href="http://www.clerkendweller.com/2010/11/2/Password-and-Account-Lockout-Better-Practices">Password and Account Lockout Better Practices</a> que me ahorra el trabajo:
+
+<ul>
+<li>Bloquear la cuenta después de 3, 4 o 5 intentos</li>
+<li>Utilizar un tiempo de bloqueo corto</li>
+<li>Asegurarse de que errores repetidos (el mismo intento más de una vez)
+no cuentan para el bloqueo</li>
+<li>Utilizar personas de confianza (previamente establecidas, por ejemplo
+la pareja de alguien) para los procesos de reestablecimiento de la clave
+(se ahorran procedimientos más complicados y costosos)</li>
+<li>Hacer que los identificadores de usuario sean difíciles de conocer o
+adivinar</li>
+<li>Utilizar un servicio de autentificación estándar, para no reinventar la
+rueda en cada nueva aplicación</li>
+</ul>
+
+Otro día más sobre claves.
+

@@ -1,0 +1,23 @@
+Post     : [616]
+Title    : ¿Falla el modelado de amenazas?
+Date     : 10/05/2012 11:30:38 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/10/05/falla-el-modelado-de-amenazas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : amenazas, fallos, modelado, problemas, seguridad, threats,
+ 
+ 
+Se habla bastante del tema de modelado de amenazas pero no hay (o yo no conozco) muchos sitios donde uno pueda aprender a hacerlo bien: los que saben, es porque conocen su contexto y tienen cierta experiencia; los que conocen nuestro contexto, no siempre saben de seguridad.
+En <a href="http://financialcryptography.com/mt/archives/001357.html">Why Threat Modelling fails in practice</a> hablan del tema.
+
+Dice hacia el final:
+
+<blockquote>
+Threat modelling therefore reveals itself to be theoretically sound but not necessarily helpful. It is then no surprise that SSL performed perfectly against its chosen threats, but did little to offend the risks that users face. Indeed, arguably, as much as it might have stopped some risks, it helped other risks to proceed in natural evolution. Because SSL dealt perfectly with all its chosen threats, it ended up providing a false sense of false security against harm-incurring risks (remember SSL &amp; Firewalls?).
+</blockquote>
+
+Al final, un tema del que hemos hablado otras veces: lo que parece seguro no siempre lo es; a veces, incluso puede perjudicar la percepción de los que lo usan y hacerles creer que tienen comportamientos razonables y conseguir que se confíen.
+

@@ -1,0 +1,29 @@
+Post     : [729]
+Title    : ¿Qué puede gustarnos del lenguaje c?
+Date     : 02/14/2014 14:34:20 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/02/14/que-puede-gustarnos-del-lenguaje-c/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : C, desarrollo, lenguajes, programación
+ 
+ 
+En un día como hoy el título viene que ni pintado: <a href="http://mortoray.com/2012/06/11/whats-to-love-about-c/">What’s to love
+about C?</a>.
+
+Por lo demás, un recordatorio de algunas de las cosas que nos proporciona
+este lenguaje, que a veces descartamos demasiado rápido:
+
+- Access to the hardware
+- Guaranteed simple flow
+- Clear and unambiguous
+- A macro preprocessor
+- Conditional compilation
+- Libraries and API
+- Small to tiny binaries
+- Speed
+
+Personalmente tengo una relación de amor-odio con la programación y me da pereza escribir (o retocar) programas en c, pero tampoco es algo que dejaría de lado sin  más.
+

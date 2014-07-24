@@ -1,0 +1,16 @@
+Post     : [209]
+Title    : Personas contra gusanos
+Date     : 01/08/2010 19:08:04 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/01/08/personas-contra-gusanos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : ataques, gusanos, personas, seguridad, worms
+ 
+ 
+En <a href="http://gse-compliance.blogspot.com/2009/12/people-vs-worms.html">People Vs Worms</a> un resultado poco sorprendente pero que está validado por datos y que, por lo tanto, vale la pena reseñar: se comparan sistemas comprometidos por personas y por gusanos. La conclusión es que los gusanos son mucho más rápidos que las personas ante las vulnerabilidades que 'conocen' (pocas dudas: son programas, actúan de manera automática) y las personas son más lentas, pero consiguen atacar más sistemas.
+
+En <a href="http://gse-compliance.blogspot.com/2009/12/measures-with-meaning.html">Measures with meaning</a> hablan de la supervivencia en un experimento controlado de máquinas corriendo XP con diversos niveles de vulnerabilidades: ninguna de ellas con más de 6 vulnerabilidades sin parchear y accesibles desde la red aguantó más de 15 días sin ser comprometida. Uno de los sistemas con dos vulnerabilidades conocidas fué comprometido en cuatro días.
+

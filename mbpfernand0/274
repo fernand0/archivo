@@ -1,0 +1,24 @@
+Post     : [274]
+Title    : Redes sociales, interfaces y usabilidad
+Date     : 05/17/2010 12:13:30 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/05/17/redes-sociales-interfaces-y-usabilidad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación ui
+Tags     : desarrollo, interfaces, programación, redes, sociales, ui
+ 
+ 
+
+En <a href="http://www.lukew.com/ff/entry.asp?1043">Application Maps</a> descubro el trabajo de <a href="http://www.tworivers.com/index.html">Hagan Rivers</a> sobre interfaces de usuario: diseña diagramas de navegación de las pantallas (de navegación en la web, o de un programa) y las dibuja en formato de grafo, lo que le permite analizar mejor si el flujo de la aplicación es adecuado:
+
+
+<blockquote>
+Why do I make these maps? When I look at an application I look for it’s hubs. The hubs are the work areas – the place where the user creates things and does things to them. In this application the main hub is the List of Addresses and Groups. From there the user can add an address, edit an address, add a group, export – a whole host of activities. In the end, though, he always returns to the hub when he’s done. In complex applications (one with hundreds of screens, for example) there may be dozens of hubs and their relationships may be complicated. I use the Application Map to help me visualize these applications more clearly and to
+</blockquote>
+
+En <a href="http://www.lukew.com/ff/entry.asp?1043">Application Maps</a> se pueden verlos grafos de varias aplicaciones conocidas.
+
+Ya habíamos hablado de grafos y representaciones gráficas en otras ocasiones, por ejemplo en <a href="http://barrapunto.com/~fernand0/journal/31507"> Grafos de dependencias en paquetes de Debian</a>.
+

@@ -1,0 +1,16 @@
+Post     : [123]
+Title    : El reto de la calidad en el software libre
+Date     : 05/04/2009 12:33:48 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/05/04/el-reto-de-la-calidad-en-el-software-libre/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : calidad, desarrollo, retos
+ 
+ 
+En <a href="http://www.cs.columbia.edu/~smb/blog/2009-04/2009-04-29.html">The Open Source Quality Challenge</a> Steven M. Bellovin se queja de las últimas actualizaciones del navegador Firefox. En particular, últimamente se han publicado las versiones 3.0.8, 3.0.9 y 3.0.10. El problema es que al introducir la penúltima, los desarrolladores introdujeron una regresión (un fallo resuelto en alguna actualización anterior que, por algún motivo, vuelve a estar mal en la presente) que Bellovin achaca a las prisas y a la falta de protocolos de pruebas adecuados.
+
+Lo vi en <a href="http://blogs.msdn.com/sdl/archive/2009/05/01/the-open-source-quality-challenge.aspx">The Open Source Quality Challenge</a>.
+

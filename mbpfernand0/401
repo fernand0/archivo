@@ -1,0 +1,22 @@
+Post     : [401]
+Title    : Git es el nuevo Unix
+Date     : 06/04/2011 19:10:59 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/06/04/git-es-el-nuevo-unix/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : desarrollo, Git,, sistemas, Unix
+ 
+ 
+Anque ya tiene unos años me gustó leer <a href="http://www.advogato.org/person/apenwarr/diary/371.html">Git is the next Unix</a>, donde se traza un paralelismo entre el sistema operativo y el sistema de control de versiones (aunque el autor habla más bien de una plataforma):
+
+<blockquote>
+When Unix pipes were invented, suddenly it was trivially easy to do something that used to be really hard: connect the output of one program to the input of the next. Pipes were the fundamental insight that shaped the face of Unix. Programs didn't have to be monolithic.
+
+With git, we've invented a new world where revision history, checksums, and branches don't make your filesystem slower: they make it faster. They don't make your data bigger: they make it smaller. They don't risk your data integrity; they guarantee integrity. They don't centralize your data in a big database; they distribute it peer to peer.
+
+Much like Unix itself, git's actual software doesn't matter; it's the file format, the concepts, that change everything.
+</blockquote>
+

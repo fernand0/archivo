@@ -1,0 +1,26 @@
+Post     : [136]
+Title    : Twitter y el Perl
+Date     : 06/03/2009 18:41:31 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/06/03/twitter-y-el-perl/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : cifras, datos, demoscopia, desarrollo, estadísticas, perl, twitter
+ 
+ 
+Me la pasaba el otro día <a href="http://rvr.typepad.com/linotipo/">Víctor</a> y resulta curiosa: <a href="http://blog.doloreslabs.com/2009/05/the-programming-language-with-the-happiest-users/">The Programming Language with the Happiest Users</a>.
+
+Resulta que el lenguaje con usuarios más felices en Twitter (en inglés, claro) es Perl, con una búsqueda y algo de trabajo del Turco de Amazon:
+
+<blockquote>
+I decided to do a little market research. I scraped the top 150 most recent tweets on Twitter for the query “X language” where X was one of {COBOL, Ruby, Fortran, Python, Visual Basic, Perl, Java, Haskell, Lisp, C}.
+
+Then I asked three people on Amazon Mechanical Turk to verify that the tweet was on the topic. If so, I asked if the tweet seemed positive, negative or neutral.
+</blockquote>
+
+Los más felices serían los usuarios de perl, seguidos de lisp y java.
+
+Aunque el ejemplo y los resultados no puedan calificarse de lo mejor que he visto cada vez me resulta más fascinante esta posibilidad de la <a href="http://fernand0.blogalia.com/historias/61903">demoscopia digital</a>.
+

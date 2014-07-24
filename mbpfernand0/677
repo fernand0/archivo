@@ -1,0 +1,20 @@
+Post     : [677]
+Title    : Saber lo que tecleas por como mueves el dispositivo
+Date     : 04/26/2013 20:16:47 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/04/26/saber-lo-que-tecleas-por-como-mueves-el-dispositivo/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : keylogger, movimiento, seguridad, sensores,
+ 
+ 
+Eso nos contaban en <a href="http://unaaldia.hispasec.com/2012/04/nuevo-keylogger-para-android-basado-en.html"> Nuevo keylogger para Android basado en el movimiento del teléfono </a>.
+
+<blockquote>
+Los sensores de movimiento son usados habitualmente en los móviles para determinar el comportamiento de la pantalla y programas según la posición y el movimiento del dispostivo físico. Consisten en acelerómetros, giroscopios y sensores de orientación. En principio, parece que esta información recopilada por el teléfono (velocidad, movimientos...) no puede llegar a ser relevante, y por eso actualmente no existe en Android ningún tipo de control de medida de seguridad sobre los datos que pueden ser obtenidos mediante estos métodos. Esto es lo que ha motivado la idea de crear un troyano basado en ellos. Además, en el caso de que este troyano fuese llevado a la práctica, los permisos requeridos a la hora de instalarse no levantarían apenas sospechas.
+</blockquote>
+
+Es un montaje experimental, necesita cierto entrenamiento ... Pero, ¿quién nos dice que no hay alguien dispuesto a 'escucharnos'?
+

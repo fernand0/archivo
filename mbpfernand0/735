@@ -1,0 +1,19 @@
+Post     : [735]
+Title    : Seguridad en iOS según OWASP
+Date     : 20/02/2014 14:50:47 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/02/20/seguridad-en-ios-segun-owasp/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : chuletas, ideas, OWASP, pistas, seguridad
+ 
+ 
+Recomiendo con cierta frecuencia las chuletas del OWASP (<a href="https://www.owasp.org/index.php/Category:Cheatsheets">OWASP Cheatsheets</a>). Las hay de más nivel y menos, algunas que no se actualizan lo que deberían y no siempre está todo tan bien explicado como debería.  Pero es una iniciativa muy interesante en la que normalmente contribuyen expertos que saben bastante de los temas de los que tratan y puede ser una puerta de entrada a más información.  
+
+En esta ocasión recomendamos: <a href="https://www.owasp.org/index.php/IOS_Developer_Cheat_Sheet"> IOS Developer Cheat Sheet</a>.
+Por si alguna vez nos tenemos que acerca a un proyecto con estas tecnologías.
+
+<strong>Actualización (2014-02-25):</strong> veo en <a href="http://blog.segu-info.com.ar/2014/02/guia-de-desarrollo-seguro-de-apple.html"> Guía de Desarrollo Seguro de Apple </a> un enlace justamente a eso: <a href="https://developer.apple.com/library/ios/documentation/Security/Conceptual/SecureCodingGuide/SecureCodingGuide.pdf">[pdf] Apple Secure Coding Guide</a> y también <a href="https://developer.apple.com/library/ios/documentation/Security/Conceptual/SecureCodingGuide/Introduction.html">Secure Coding Guide</a>.
+

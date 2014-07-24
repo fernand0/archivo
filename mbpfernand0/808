@@ -1,0 +1,30 @@
+Post     : [808]
+Title    : ¿Deberían informar los sitios web sobre sus mecanismos internos?
+Date     : 07/11/2014 11:24:11 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/07/11/deberian-informar-los-sitios-web-sobre-sus-mecanismos-internos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : claves, contraseñas, interioridades, passwords, seguridad, tecnologías
+ 
+ 
+La pregunta la hace Troy Hunt en <a href="http://www.troyhunt.com/2013/03/should-websites-be-required-to-publicly.html"> Should websites be required to publicly disclose their password storage strategy?</a>: hemos olvidado nuestra clave en un sitio y pedimos recuperarla; nos llega un correo electrónico con nuestra clave; un sudor frío empieza a recorrer nuestra espalda.
+
+O vale, no nos la manda, porque dicen que no pueden/no quieren, ¿lo estarán haciendo suficientemente bien? ¿Me importa? ¿Le importa a los usuarios?
+
+Sobre el recordatorio de contraseñas:
+
+<blockquote>
+Another reason this doesn’t make much sense is that many websites leak information about the password storage mechanism anyway. Ever used a “forgot password feature” and been emailed your password? There’s disclosure that they’re not hashing it so it’s either immediately accessible once the database is disclosed or accessible once the key is obtained and once a box is popped, this is very, very frequently a trivial task. There’s an entire site dedicated to naming these purveyors of poor password management over at plaintextoffenders.com so certainly there is voluminous public data on them already.
+</blockquote>
+
+Y tampoco es tan sencillo:
+
+<blockquote>
+Password storage isn’t always just as simple as “we use this hashing algorithm with this salt” and indeed the protections offered by, say, symmetric encryption may be as good as null and void if the key management strategy is bad. So how much information should be disclosed? Where do you draw the line between a simple statement as seen in the badges above and a more comprehensive – and perhaps revealing – statement of a website’s security position?
+</blockquote>
+
+Vale la pena, en todo caso, darle un par de vueltas al tema antes de tomar decisiones en nuestros propios desarrollos.
+

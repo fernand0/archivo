@@ -1,0 +1,18 @@
+Post     : [234]
+Title    : El ciclo de vida de desarrollo de Microsoft
+Date     : 02/15/2010 18:47:42 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/02/15/el-ciclo-de-vida-de-desarrollo-de-microsoft/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo seguridad
+Tags     : desarrollo, microsoft, SDL, seguridad
+ 
+ 
+En los últimos años Microsoft ha generado un montón de documentación sobre desarrollo seguro y todo lo que le rodea (no se trata sólo de codificar bien, sino de utilizar protocolos adecuados en todas las fases, desde la idea inicial hasta la implantación).
+
+En ese sentido nos recuerdan su <a href="http://blogs.msdn.com/sdl/">SDL (Software Development Lifeycle)</a> en  <a href="http://www.microsoft.com/downloads/details.aspx?FamilyID=0baff8e8-ab17-4e82-a1ff-7bf8d709d9fb&amp;displaylang=en">Simplified Implementation of the Microsoft SDL</a>.
+
+Va acompañado de algunas herramientas, tal y como nos recuerdan en <a href="http://blogs.msdn.com/sdl/archive/2010/02/02/three-new-announcements.aspx">Three New Announcements</a>.
+

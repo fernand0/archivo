@@ -1,0 +1,17 @@
+Post     : [289]
+Title    : Verificado por Visa y MasterCard: cómo no hacer las cosas
+Date     : 06/23/2010 12:45:28 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/06/23/verificado-por-visa-y-mastercard-como-no-hacer-las-cosas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : autentificación protocolos seguridad
+Tags     : autentificación, mastercard, protocolos, securecode, seguridad, visa
+ 
+ 
+
+No conocía el programa <a href="http://www.mastercard.com/us/personal/en/cardholderservices/securecode/">MasterCard SecureCode</a> o <a href="http://visa.com/verified">Verified by Visa</a>.
+
+Pero me parece interesante la lectura de <a href="http://www.cl.cam.ac.uk/~rja14/Papers/fc10vbvsecurecode.pdf">Verified by Visa and MasterCard SecureCode: or, How Not to Design Authentication (pdf)</a> donde cuenta un buen número de cosas que pueden hacerse (y se han hecho) mal. También el debate eterno de la seguridad y la economía (en el sentido de dónde se ponen los incentivos).
+

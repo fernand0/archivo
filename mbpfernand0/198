@@ -1,0 +1,24 @@
+Post     : [198]
+Title    : ¿En qué idioma habla tu web?
+Date     : 12/16/2009 17:29:04 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/12/16/%c2%bfen-que-idioma-habla-tu-web/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación web
+Tags     : cabeceras, desarrollo, headers, internet, navegadores, programación, web
+ 
+ 
+Un artículo curioso en <a href="http://code.flickr.com/blog/2009/12/04/language-detection-a-witchs-brew/">Language Detection: A Witch’s Brew?</a> donde nos dan pistas de cómo comportarnos (nuestra aplicación, claro) cuando alguien se conecta y tenemos un sistema en varios idiomas:
+
+<blockquote>
+* Use Accept-Language – it just works
+* Use IP detection as a fallback for language, or a separate test to determine jurisdiction
+* Cookie your visitors’ language preferences, so you are consistent
+* Provide a simple way to switch language, everywhere
+* Treat language and compliance issues as two entirely separate problems
+</blockquote>
+
+A mi me parece especialmente relevante la cuarta, porque siempre es mejor un buen original en inglés que una mala traducción y algunos sitios se empeñan en mostrarte tu idioma (aunque no lo hablen muy bien o no ofrezcan todas las características) y/o en preguntarte cada vez que entras por el idioma (caducan las cookies, cambian el mecanismo ...).
+

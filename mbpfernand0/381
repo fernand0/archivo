@@ -1,0 +1,22 @@
+Post     : [381]
+Title    : 5 decisiones de diseño que afectan a la seguridad de aplicaciones web
+Date     : 03/21/2011 20:40:41 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/03/21/5-decisiones-de-diseno-que-afectan-a-la-seguridad-de-aplicaciones-web/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad, web
+Tags     : consejos, desarrollo, diseño, internet, listas, programación, seguridad, web
+ 
+ 
+En <a href="http://labs.securitycompass.com/index.php/2011/02/10/5-key-design-decisions-that-affect-security-in-web-applications/"> 5 Key Design Decisions That Affect Security in Web Applications</a> algunos puntos para tener en cuenta. Ya he dicho en vidas anteriores que a mi las listas me asustan mucho (sobre todo por lo que puedan dejarse; también porque fijan la atención en unas cosas y, por lo tanto, la alejan de otras) pero estoy seguro de que algunos aprenderán cosas con esta y otros las recordarán:
+
+<ul>
+<li>Replicación de sesiones</li>
+<li>Contexto de autorización</li>
+<li>Etiquetas vs código en las vistas</li>
+<li>Elección del entorno de desarrollo</li>
+<li>Registro y monitorización</li>
+</ul>
+

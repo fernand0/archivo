@@ -1,0 +1,20 @@
+Post     : [361]
+Title    : Las claves de Gawker
+Date     : 01/23/2011 19:58:13 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/01/23/las-claves-de-gawker/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : claves seguridad,
+Tags     : claves, gente,, seguridad, usuarios
+ 
+ 
+Me da un poco de pereza estos temas de las claves (además ya publicamos el otro día un enlace a unos artículos que tratan el tema con más profundidad): cada vez que alguien consigue robar claves de un sitio, empiezan a aparecer los 'contables' haciendo análisis numerológicos, listas de consejos que nadie seguirá y todas esas cosas.  Aúna así, me gustó leer <a href="http://lifehacker.com/5721610/why-you-should-avoid-non+ascii-characters-in-your-passwords">Why You May Want to Avoid Non-ASCII Characters in Your Passwords</a>  que habla de la explicación más detallada, en <a href="http://tech.gawker.com/5721670/gawker-password-management-qa">Gawker Password Management Q/A</A>. Un problema de compatilidad hacia atrás, utilización de métodos poco seguros (y que no manejan los caracteres internacionales) y mala gestión de los cambios parecen los responsables del problema.
+
+Para completar, en <a href="http://www.lightbluetouchpaper.org/2010/12/15/the-gawker-hack-how-a-million-passwords-were-lost/">The Gawker hack: how a million passwords were lost</a>: para conseguir las claves se habría utilizado un ataque de fuerza bruta a un sistema auxiliar, una búsqueda de claves de sitios más 'interesantes' en sistemas de comunicación interna, y a partir de allí el robo de las claves en sí.
+
+Sobre la contabilidad, un ejemplo en <a hreF="http://www.duosecurity.com/blog/entry/brief_analysis_of_the_gawker_password_dump">Brief Analysis of the Gawker Password Dump</a>.
+
+Quede aquí, a título de inventario.
+

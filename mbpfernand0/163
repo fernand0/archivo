@@ -1,0 +1,18 @@
+Post     : [163]
+Title    : El mito de los miles de ojos
+Date     : 09/07/2009 12:00:13 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/09/07/el-mito-de-los-miles-de-ojos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : auditoría, código, libre, linux, mitos, revisión, seguridad, software
+ 
+ 
+Uno de los avisos que siempre hay que dar sobre la seguridad del software libre es que hay que ser prudente: el hecho de poder mirar el código no significa que realmente alguien lo vaya a mirar; o que si lo mira, tenga los conocimientos adecuados para encontrar los problemas; o que mire en el sitio adecuado. Por eso viene bien este ejemplo <a href="http://www.hispasec.com/unaaldia/3949">Elevación de privilegios en el kernel Linux desde el año 2001</a>.
+
+Como el título indica, se trata de un fallo que estaba presente desde hace bastantes años, esperando a que cualquier auditor lo encontrara y que ha aparecido recientemente.
+
+No estoy diciendo que eso pase frecuentemente, pero es algo que no debemos olvidar, sobre todo si nuestro proyecto no es uno de los 'grandes'.
+

@@ -1,0 +1,18 @@
+Post     : [299]
+Title    : Más ataques a coches
+Date     : 09/20/2010 19:50:29 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/09/20/mas-ataques-a-coches/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : coches seguridad
+Tags     : ataque, coches, defensa, objetivo, seguridad
+ 
+ 
+Dentro de la ya casi saga de objetos de uso habitual que los malos pueden atacar leíamos el otro día un artículo más sobre coches. En este caso se trata de <a href="http://news.cnet.com/8301-27080_3-20015184-245.html">Cars: The next hacking frontier?</a> que hace un resumen de algunos resultados sobre el tema y, en particular, enlaza a <a href="http://www.winlab.rutgers.edu/~Gruteser/papers/xu_tpms10.pdf">Security and Privacy Vulnerabilities of In-Car Wireless Networks: A Tire. Pressure Monitoring System Case Study (pdf)</a>.
+
+En este caso consiguen modificar algunos parámetros del vehículo y, en particular, lo que se muestra al conductor en la pantalla de control.
+
+Nada muy sorprendente cuando ya hemos hablado de <a href="http://mbpfernand0.wordpress.com/2010/06/21/humanos-y-virus-informaticos/">Humanos y virus informáticos</a> y <a href="http://mbpfernand0.wordpress.com/2010/05/24/%C2%BFpueden-atacar-tu-coche/">¿Pueden atacar tu coche?</a>, pero que nos sirve para guardar y futura referencia.
+

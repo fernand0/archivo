@@ -1,0 +1,18 @@
+Post     : [371]
+Title    : Cómo pone Facebook el códio en producción
+Date     : 02/14/2011 20:22:07 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/02/14/como-pone-facebook-el-codio-en-produccion/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación
+Tags     : código, desarrollo, métodos, programación, protocolos
+ 
+ 
+Aunque no es un documento oficial de la compañía y en algunos casos se basa sólo en suposiciones o cosas que leyó/escuchó en alguna parte, me ha parecido interesante el documento <a href="http://framethink.wordpress.com/2011/01/17/how-facebook-ships-code/">How Facebook Ships Code</a>. Cita citable:
+
+<blockquote>
+Most engineers are capable of writing bug-free code.  It’s just that they don’t have an incentive to do so at most companies.  When there’s a QA department, it’s easy to just throw it over to them to find the errors
+</blockquote>
+

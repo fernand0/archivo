@@ -1,0 +1,20 @@
+Post     : [192]
+Title    : Saltando un desbordamiento de memoria
+Date     : 11/30/2009 18:49:25 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/11/30/saltando-un-desbordamiento-de-memoria/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación
+Tags     : buffer, desarrollo, desbordamiento, ejemplo, ejercicio, programación
+ 
+ 
+Es un ejercicio que hago todos los años (aunque los compiladores lo van poniendo más difícil) en clase. Por eso me resultó agradable verlo escrito negro sobre blanco (bueno, blanco sobre negro para ser más exactos) en <a href="http://www.pentester.es/2009/11/exploiting-i-buffer-overflow-stack.html">Exploiting (I): Buffer Overflow != Stack Overflow</a>.
+
+<blockquote>
+Para demostrarlo, hemos desarrollado un pequeño código de ejemplo que presenta un Buffer Overflow que puede ser explotado para saltarse un "proceso de autenticación" (si alguien se trave a llamar así a lo que hemos programado) sin sobreescribir la pila, ni inyectar un shellcode, ni nada similar.
+</blockquote>
+
+Creo que este tipo de ejemplos donde no hay magia, ni asuntos complicados y que pueden mostrarse en diez minutos ayudan mucho a concienciar a la gente de que los problemas existen y son reales.
+

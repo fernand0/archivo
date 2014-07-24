@@ -1,0 +1,18 @@
+Post     : [161]
+Title    : Mapa de actualizaciones
+Date     : 09/02/2009 10:50:51 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/09/02/mapa-de-actualizaciones/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : actualizaciones, mapas, parches, seguridad
+ 
+ 
+Ya hemos hablado del tema de las actualizaciones (<a href="http://mbpfernand0.wordpress.com/2009/03/26/los-parches-hay-que-aplicarlos/">Los parches hay que aplicarlos</a>, <a href="http://mbpfernand0.wordpress.com/2009/06/09/la-seguridad-los-navegadores-y-las-actualizaciones/">La seguridad, los navegadores y las actualizaciones</a>  y <a href="http://mbpfernand0.wordpress.com/2009/05/11/la-historia-de-conficker/">La historia de Conficker</a>).
+
+En <a href="http://secunia.com/vulnerability_scanning/personal/worldmap/?view=,patched"> Secunia PSI WorldMap </a> se puede ver el mapa del mundo (se puede llegar a nivel de autonomía, en España) donde aparecen los programas actualizados según el <a href="http://secunia.com/vulnerability_scanning/personal/">Secunia Personal Software Inspector (PSI)</a>, un escáner que permite saber para una máquina Windows y con la información que se tenga en cada momento el estado de los programas del PC. La verdad es que no me hago mucha idea de lo que significan esas cifras (por ejemplo, en media (?), en Aragón donde estamos -ver <a href="http://secunia.com/vulnerability_scanning/personal/worldmap/?view=EU.ES,patched">datos para España</a> parece ser que hay una media de 88 programas parcheados por PC, en la media europea; en La Rioja serían 122 y en Extremadura 70, que no se si corresponde a que se tengan más o menos programas o a que son regiones más o menos inseguras).
+
+Lo vi en <a href="http://caballe.cat/wp/mapamundi-dordinadors-i-actualitzacions/">Mapamundi d'ordinadors i actualitzacions</a>.
+

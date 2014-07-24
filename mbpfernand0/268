@@ -1,0 +1,22 @@
+Post     : [268]
+Title    : Las pruebas y los programas
+Date     : 04/27/2010 19:43:46 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/04/27/las-pruebas-y-los-programas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación pruebas
+Tags     : desarrollo, métodos, programación, pruebas, test
+ 
+ 
+En <a href="http://reprog.wordpress.com/2010/04/23/testing-is-not-a-substitute-for-thinking-binary-search-part-3/">Testing is not a substitute for thinking (binary search part 3)</a> una entrada interesante: con las metodologías ligeras tan de moda en estos tiempos, a veces pensamos que basta con las pruebas ('tests') para estar seguros de que todo va bien. No diremos que las pruebas no son útiles ni necesarias, pero en algunos casos (casi siempre) hace falta algo más y el autor da estas razones:
+
+<ol> <li>Las pruebas sólo pueden mostrar la presencia de fallos, no su ausencia</li> <li>Las pruebas pueden tener errores, igual que el código que se quiere probar</li> <li>Las pruebas aumentan la confianza, no la comprensión</li> </ol>
+
+Yo añadiría una cuarta (¿relacionada con la segunda y la primera?) y es que es bastante posible que a la hora de preparar las pruebas nos dejemos algo porque es difícil que seamos capaces de prever todos los casos de uso.
+
+Ya lo comentábamos en <a href="http://mbpfernand0.wordpress.com/2010/01/13/una-base-axiomatica-para-el-desarrollo-de-programas/">Una base axiomática para el desarrollo de programas</a> la teoría y la práctica han de ir de la mano (y muy cerquita de la experiencia).
+
+Y, en la medida de lo posible, utilizar más herramientas: <a href="http://mbpfernand0.wordpress.com/2010/03/03/fuzzing-y-cubrimiento-de-codigo/">Fuzzing y cubrimiento de código</a>.
+

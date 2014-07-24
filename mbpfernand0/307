@@ -1,0 +1,29 @@
+Post     : [307]
+Title    : Stuxnet: de la red al mundo físico
+Date     : 10/06/2010 18:59:12 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/10/06/stuxnet-de-la-red-al-mundo-fisico/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : ataques gusano seguridad
+Tags     : ataques, físico, gusano, objetivo, programación, seguridad, troyanos
+ 
+ 
+
+Parece que el tema de este verano ha estado siendo <a href="http://en.wikipedia.org/wiki/Stuxnet">Stuxnet</a>, un gusano que anda propagándose por ahí y que, como novedad, incluye un rootkit para PLC's: esencialmente, si se dieran las condiciones adecuadas podría atacar entornos industriales ya que estos dispositivos controlan máquinas y otros sistemas.
+
+Por lo demás, casi todo son elucubraciones y cosas que se piensa que
+podrían pasar. Algunos enlaces:
+<ul>
+<li><a href="http://www.microsiervos.com/archivo/seguridad/stuxnet-ciber-arma-segurid ad-inteligencia.html">Stuxnet: el 'ciber-arma' que se los esta poniendo por corbata a media comunidad de seguridad e inteligencia</a></li>
+<li> <a href="http://www.zerohedge.com/article/deadf007-stuxnet-secret-weapon-attack- irans-nukes-virus-about-revolutionize-modern-warfare">DEADF007 - Is Stuxnet The Secret Weapon To Attack Iran's Nukes; Is A Virus About To Revolutionize Modern Warfare?</a></li>
+<li> <a href="http://www.csmonitor.com/layout/set/print/content/view/print/327178">Stuxnet malware is 'weapon' out to destroy ... Iran's Bushehr nuclear plant?
+</a></li>
+<li><a href="http://www.schneier.com/blog/archives/2010/09/the_stuxnet_wor.html">The Stuxnet Worm</a></li>
+<li><a href="http://www.cs.columbia.edu/~smb/blog//2010-09/2010-09-27.html">Stuxnet: the first weaponized software?</a></li>
+</ul>
+
+Y podríamos relacionarlo con dos tipos de entrada que hemos puesto por aquí de vez en cuando: sistemas inseguros porque no se piensa que nadie vaya a atacarlos, como aquella historia de <a href="http://mbpfernand0.wordpress.com/2010/09/20/mas-ataques-a-coches/">Más ataques a coches</a> y los enlaces que allí se contienen o <a href="http://mbpfernand0.wordpress.com/2010/02/12/los-electrodomesticos-y-la-seguridad/">Los electrodomésticos y la seguridad</a>.
+La otra línea serían los ataques dirigidos, como los que se comentaban en <a href="http://mbpfernand0.wordpress.com/2010/02/03/ataques-a-objetivos-concretos/">Ataques a objetivos concretos</a>.
+

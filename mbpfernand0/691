@@ -1,0 +1,29 @@
+Post     : [691]
+Title    : Mejorar las contraseñas en empresas
+Date     : 07/17/2013 20:43:20 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/07/17/mejorar-las-contrasenas-en-empresas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : claves, contraseñas, empresas, entrevistas, mejoras, políticas, seguridad
+ 
+ 
+En <a href="https://krebsonsecurity.com/2012/06/how-companies-can-beef-up-password-security/">How Companies Can Beef Up Password Security</a> dan algunas ideas sobre la mejora de la calidad de las claves en empresas. Se trata de una entrevista a Thomas H. Ptacek. Me quedo con un par de párrafos:
+
+
+Sobre los hashes para almacenar contraseñas, no hay que olvidar que uno de sus objetivos es que no sean muy rápidos de calcular: eso no supone un problema para el usuario porque no le frena demasiado y lo es para un hipotético atacante.
+
+<blockquote>
+Well, that’s the opposite of what you want with a password hash. You want a password hash to be very slow. The reason for that is a normal user logs in once or twice a day if that — maybe they mistype their password, and have to log in twice or whatever. But in most cases, there are very few interactions the normal user has with a web site with a password hash. Very little of the overhead in running a Web application comes from your password hashing. But if you think about what an attacker has to do, they have a file full of hashes, and they have to try zillions of password combinations against every one of those hashes. For them, if you make a password hash take longer, that’s murder on them.
+</blockquote>
+
+Y otro sobre el proceso de aplicar un hash repetidas veces:
+
+<blockquote>
+- Can you explain in layman’s terms what it is that makes a password hash like Bcrypt take so much longer to crack?
+
+Ptacek: It’s similar to if you said, let’s take SHA-1 password, but instead of just using SHA-1, let’s run SHA-1 on itself thousands of times. So, we’ll take the output of SHA-1 and feed it back to SHA-1, and we’ll do that thousands and thousands of times, and you’ll only know if your password hash is right, when you look at the result of that 1,000th SHA-1 run. So, in order to make that password hash work, you have to run the algorithm 1,000 times for each guess. That’s roughly the tactic that the modern, secure password hashes take. These are algorithms that are designed so that you can’t arrive at the result without lots and lots of work. I mean, we’re talking about 100 milliseconds [one-tenth of a second] worth of work on modern hardware to get the results of a single password attempt.
+</blockquote>
+

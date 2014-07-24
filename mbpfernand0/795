@@ -1,0 +1,23 @@
+Post     : [795]
+Title    : ¿Aumentan o descienden las vulnerabilidades?
+Date     : 02/07/2014 19:58:52 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/09/02/aumentan-o-descienden-las-vulnerabilidades/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : 2012, contabilidad, crecimiento, nvd, seguridad, vulnerabilidades
+ 
+ 
+Llevávamos unos años en los que el número de vulnerabilidades de las que se informaba en la <a href="http://nvd.nist.gov/">National Vulnerability Database</a> descendía año tras año, como puede verse en <a href="http://web.nvd.nist.gov/view/vuln/statistics-results?adv_search=true&amp;cves=on">Statistics Results Page NVD</A> y en la imagen que pongo a continuación: 
+<a href="http://mbpfernand0.files.wordpress.com/2014/09/chartimg-axd.png"><img class="alignnone size-medium wp-image-797" src="http://mbpfernand0.files.wordpress.com/2014/09/chartimg-axd.png?w=300" alt="ChartImg.axd" width="300" height="225" /></a> 
+
+(incluye datos de 2013 y 2014). 
+
+Mi teoría era que los descubridores ya no publicaban los resultados, sino que los aprovechaban, vendían o sacaban partido de alguna forma.
+
+A principios de 2013 hablaban en <a href="http://www.eweek.com/security/software-vulnerabilities-rise-again-after-5-year-decline/">Software Vulnerabilities Rise Again After 5-Year Decline</a> de un repunte en 2012, que en el gráfico que muestro puede verse como se confirmó en el 2013.  Lleva camino de volver a crecer en 2014, porque a mitad de año ya llevamos casi tantos informes de vulnerabilidades como en 2011. De hecho, de seguir al mismo ritmo este año alcanzaríamos los niveles de 2006 y 2007.
+
+También hablan de las marcas más afectadas, que no se ya si es una información tan interesante aquí.
+

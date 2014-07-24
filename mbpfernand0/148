@@ -1,0 +1,15 @@
+Post     : [148]
+Title    : El OWASP Application Security Standard
+Date     : 07/20/2009 14:54:03 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/07/20/el-owasp-application-security-standard/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : OWASP seguridad
+Tags     : auditoría, checklist, listas, OWASP, seguridad, verificación
+ 
+ 
+Ya hace unos días que se publicó pero hasta ahora no había tenido tiempo de echarle un ojo. Se trata del proyecto <a href="http://www.owasp.org/index.php/Category:OWASP_Application_Security_Verification_Standard_Project">OWASP Application Security Verification Standard Project</a> que publicó el mes pasado su guía. Se trata de una guía de verificación de aplicaciones web que establece distintos niveles de profundidad en la revisión: desde la revisión automatizada a la revisión manual, en sus niveles más básicas tests de penetración y auditoría de código y en los más altos revisiones de diseño y de arquitectura. Además propone listas de comprobación del tipo de cosas que habría que mirar, que siempre es una ayuda a la hora de enfrentarse a estas cuestiones.
+Tiene 38 páginas que no son demasiadas para hacerse una idea.
+

@@ -1,0 +1,14 @@
+Post     : [199]
+Title    : Continuación del desbordamiento de memoria
+Date     : 12/18/2009 01:28:17 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/12/18/continuacion-del-desbordamiento-de-memoria/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : desarrollo, desbordamiento, ejemplos, overflow, stack
+ 
+ 
+En <a href="http://mbpfernand0.wordpress.com/2009/11/30/saltando-un-desbordamiento-de-memoria/">Saltando un desbordamiento de memoria</a> empezamos a hablar del tema. En <a href="http://www.pentester.es/2009/11/exploting-ii-stack-overflow-simple-i.html">Exploting (II): Stack Overflow Simple (I)</a> y <a href="http://www.pentester.es/2009/11/exploting-ii-stack-overflow-simple-ii.html">Exploting (II): Stack Overflow Simple (II)</a> han ido más allá y muestran casos más complejos de explotación. Altamente didáctico e ilustrativo.
+

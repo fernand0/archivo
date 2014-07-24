@@ -1,0 +1,27 @@
+Post     : [768]
+Title    : Saber en qué sitios estás identificado
+Date     : 06/14/2014 21:54:37 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/06/14/saber-en-que-sitios-estas-identificado/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : csrf, intimidad, privacidad, seguridad, tecnicas
+ 
+ 
+Nuestra privacidad cotiza a la baja. De tantas formas que casi es hasta difícil explicárselas a alquien que no esté un poco al día en estas cosas.
+
+En <a href="http://blog.whitehatsec.com/i-know-what-websites-you-are-logged-in-to-login-detection-via-csrf/">I Know What Websites You Are Logged-In To (Login-Detection via CSRF)</a> utilizaban CSRF (Cross Site Request Forgery) a través de varios mecanismos:
+
+Detección mediante:
+<ol>
+<li>imágenes</li>
+<li>código en javascript (manejo de eventos, detección de objetos)</li>
+<li>hojas de estilo</li>
+<li>iframes (tamaño, opciones de X-Frame)</li>
+</ol>
+
+Siempre que seamos capaces de identificar código que sólo se muestra a usuarios autentificados.
+Interesante.
+

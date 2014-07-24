@@ -1,0 +1,15 @@
+Post     : [571]
+Title    : Seguridad y código de terceros
+Date     : 06/11/2012 15:13:59 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/06/11/seguridad-y-codigo-de-terceros/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : bibliotecas, código, otros, seguridad, terceros
+ 
+ 
+Una parte muy importante del desarrollo de programas tiene que ver con la reutilización del código (en sentido estricto o a través de bibliotecas) de otros. En <a href="http://www.informit.com/articles/article.aspx?p=1809143">Software [In]security: Third-Party Software and Security</a> hablaban de cómo eso puede ser una fuente de inseguridad (o de seguridad, claro, que siempre hay quien lo haga mejor que nosotros).
+Interesante.
+

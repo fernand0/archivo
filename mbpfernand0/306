@@ -1,0 +1,19 @@
+Post     : [306]
+Title    : Diaspora: lecciones de seguridad
+Date     : 10/04/2010 18:51:41 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/10/04/diaspora-lecciones-de-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : diaspora libre seguridad software
+Tags     : código, diaspora, fuente, libre, ruby, seguridad, software
+ 
+ 
+
+<a href="http://www.joindiaspora.com/">Diaspora</a> es el autoproclamado proyecto de un sistema de redes sociales (como Facebook, por ejemplo) respetuoso con nuestra intimidad y privacidad. Se trata de un proyecto de código libre y recientemente liberaron las primeras muestras que ya han provocado algún comentario. En particular, en <a href="http://www.kalzumeus.com/2010/09/22/security-lessons-learned-from-the-diaspora-launch/">Security Lessons Learned From The Diaspora Launch</a> muestran algunas pegas.
+
+Es interesante porque, en este caso, contradice aquel aviso típico de que aunque se tenga el código fuente, <a href="http://mbpfernand0.wordpress.com/2009/09/07/el-mito-de-los-miles-de-ojos/">no tiene porque mirarlo nadie</a>, puesto que en este caso alguien ha mirado el código.
+Naturalmente, el tratarse de software libre no le proporciona poderes mágicos y, en este caso, parece que los desarrolladores están más preocupados por la privacidad que por la efectividad de su código a la hora de salvaguardar los contenidos del sitio y esas cosas.
+Vale la pena echarle un ojo porque son ejemplos de código con errores concretos que nos puede servir para aprender.
+

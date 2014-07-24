@@ -1,0 +1,18 @@
+Post     : [247]
+Title    : Fuzzing y cubrimiento de código
+Date     : 03/03/2010 15:31:14 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/03/03/fuzzing-y-cubrimiento-de-codigo/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : cubrimiento, fuzzing, pruebas, seguridad, tests
+ 
+ 
+
+Ya habíamos hablado del <a href="http://barrapunto.com/~fernand0/journal/22781"> Cubrimiento de código</a> ('code coverage'): cuando nuestro código no ejecuta todas las ramas posibles es que algo no es correcto (sobre todo en las fases de pruebas).
+También habíamos hablado de 'fuzzing' (enviar basura a las interfaces de entrada para comprobar como se comporta nuestro programa) en <a href="http://mbpfernand0.wordpress.com/2010/02/18/hay-que-probar/">Hay que probar</a>.
+
+En <a href="http://blogs.technet.com/srd/archive/2010/02/24/using-code-coverage-to-improve-fuzzing-results.aspx">Using code coverage to improve fuzzing results</a> nos proponen mezclar ambas para mejorar las pruebas que se hacen del código de un proyecto.
+

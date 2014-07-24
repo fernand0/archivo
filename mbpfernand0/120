@@ -1,0 +1,22 @@
+Post     : [120]
+Title    : Un cero inutilizó un buque de guerra
+Date     : 04/29/2009 13:04:42 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/04/29/un-cero-inutilizo-un-buque-de-guerra/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : cero, fallos
+ 
+ 
+En <a href="http://www.microsiervos.com/archivo/ordenadores/uss-yorktown-cero.html"> El curioso caso del crucero de guerra que fue «tumbado» por un cero</a> comentan como la introducción de un cero donde no se debía provocó la inutilización de un barco de guerra, el <a href="http://en.wikipedia.org/wiki/USS_Yorktown_(CG-48)">USS Yorktown (CG-48)</a>.
+
+<blockquote>
+Al parecer en 1997, estando de maniobras, un técnico introdujo un número cero en una base de datos de los sistemas del buque, lo que provocó un error en cadena en otros sistemas de la red informática que gobernaba la nave, que eran 27 Pentiums Pro y un servidor, todos corriendo Windows NT 4.0. Esto hizo que se inutilizara completamente el sistema de propulsión de 80.000 CV, que se detuvo sin arrancar de nuevo. El Yorktown quedó a la deriva durante casi tres horas, lo que tardaron en anular los sistemas informáticos y conectar controles de emergencia para poder llevarlo a puerto. Allí los ingenieros pasaron dos días hasta dar con el problema, reparando los motores y volviendo a dejar todo como estaba originalmente.
+</blockquote>
+
+El barco tiene su propio cuaderno de bitácora en la red, <a href="http://www.ussyorktowncg48.com/">USS Yorktown CG48</a>, además del que tendrá para anotar los hechos relevantes de la navegación.
+
+También hay una nota sobre el fallo en <a href="http://www.greenspun.com/bboard/q-and-a-fetch-msg.tcl?msg_id=0024SN">OT: Software glitches leave Navy Smart Ship dead in the water</a>.
+

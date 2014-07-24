@@ -1,0 +1,30 @@
+Post     : [717]
+Title    : Los riesgos de la nube
+Date     : 21/11/2013 01:52:04 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/11/21/los-riesgos-de-la-nube/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : nube, peligros, riesgos, seguridad
+ 
+ 
+Una historia contada en primera persona, <a href="http://www.wired.com/gadgetlab/2012/08/apple-amazon-mat-honan-hacking/">How Apple and Amazon Security Flaws Led to My Epic Hacking</a>.
+
+Un atacante se hace con la cuenta de Gmail del autor, y a partir de allí consigue acceder a un montón de servicios que albergan su vida digital: borrar almacenamiento en la nube, conseguir que bloqueen su cuenta de Twitter, destruir la cuenta de correo...
+
+Todo conseguido a través de engañar al soporte técnico de Apple que proporciona al atacante una contraseña temporal después de que el atacante muestra como prueba de identidad un parte de una tarjeta de crédito que había conseguido ver a través de algún servicio de Amazon.
+
+Curiosamente, las medidas de seguridad que Apple utiliza para asegurarse de que somos quienes decimos actuaron como freno para que el daño se pudiera limitar:
+
+<blockquote>
+I spent an hour and a half talking to AppleCare. One of the reasons it took me so long to get anything resolved with Apple during my initial phone call was because I couldn’t answer the security questions it had on file for me.  It turned out there’s a good reason for that. Perhaps an hour or so into the call, the Apple representative on the line said “Mr. Herman, I….”
+</blockquote>
+
+Esencialmente, por un error en la interpretación del nombre. Curioso.
+
+En esta historia la tecnología tiene poco que ver (naturalmente eso es verdad a medias) porque los ataques, la divulgación de información y todo lo demás se produce a través de fallos de los protocolos de verificación y autentificación en la atención al cliente.
+El fallo puede aparecer en cualquier sitio.
+
+Y todo combinado con que nuestros servicios están mucho más relacionados entre sí de lo que deberían.

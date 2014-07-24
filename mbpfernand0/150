@@ -1,0 +1,13 @@
+Post     : [150]
+Title    : Desbordamiento de enteros
+Date     : 07/24/2009 12:10:16 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/07/24/desbordamiento-de-enteros/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : desbordamiento, enteros, seguridad
+ 
+ 
+Para variar, desarrollo seguro pero no-web: <a hreF="http://www.cert.org/archive/pdf/09tn023.pdf">As-if Infinitely Ranged Integer Model (pdf)</a> es un artículo que nos recuerda el problema del desbordamiento de enteros (que no siempre pensamos en él). Tiene una segunda sección interesante donde nos recuerda los diferentes métodos que existen para tratar de evitarlo y finalmente proponen el modelo que llaman 'As-If Infinitely Ranged' que proporciona un valor equivalente al que se obtendría si el rango de los enteros fuera infinito cuando sea posible, o una violación de límites.

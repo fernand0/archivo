@@ -1,0 +1,30 @@
+Post     : [486]
+Title    : Algunas particularidades de C que olvidamos
+Date     : 10/10/2011 20:14:32 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/10/10/algunas-particularidades-de-c-que-olvidamos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación
+Tags     : artículos, C, compiladores, desarrollo, estudios, papers, programación
+ 
+ 
+Estaba terminando de leer un recomendado de <a href="http://yapw.blogspot.com/">Mig 21</a>, concretamente <a href="http://www.slideshare.net/olvemaudal/deep-c">Deep C (and C++)</a> cuando me encuentro en la pila dependientes de publicar otro (que probablemente también encontré gracias a él): <a href="http://www.cs.utah.edu/~regehr/papers/pldi11-preprint.pdf">[PDF] Finding and Understanding Bugs in C Compilers</a> que trata justamente de eso: el estándar de C es complicado y tiene sus cosillas indefinidas, intedeterminadas y (de vez en cuando) malinterpretadas. Los autores han creado <a href="http://embed.cs.utah.edu/csmith/">Csmith</a>, que genera programas aleatorios en C acordes con el estándar C99 y les sirve para comprobar que los compiladores (y otras herramientas) efectivamente hacen lo que tienen que hacer.
+
+A mi, en su día cuando lo lei me recordó aquel clásico <a href="http://cm.bell-labs.com/who/ken/trust.html">Reflections on Trusting Trust</a> de Ken Thompson; también me sirvió para desempolvar un poco el C y recordar cosillas (en la línea que sugiere la primera presentación).
+
+Siguiendo en esta línea, en <a href="http://yapw.blogspot.com/2011/05/lo-que-todo-programador-de-c-deberia.html">Lo que todo programador de C debería saber sobre el "comportamiento indefinido"</a> (se ve que es un tema que le gusta) podíamos acceder a más información en esta línea:
+
+- <a href="http://blog.regehr.org/archives/213">A Guide to Undefined Behavior in C and C++, Part 1</a>.
+- <a href="http://blog.regehr.org/archives/226">A Guide to Undefined Behavior in C and C++, Part 2</a>. Y, finalmente:
+- <a href="http://blog.regehr.org/archives/232">A Guide to Undefined Behavior in C and C++, Part 3</a>.
+
+Y, otra serie de 3:
+
+- <a href="http://blog.llvm.org/2011/05/what-every-c-programmer-should-know.html">What Every C Programmer Should Know About Undefined Behavior #1/3</a>,
+- <a href="http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_14.html">What Every C Programmer Should Know About Undefined Behavior #2/3</a> y, finalmente:
+- <a href="http://blog.llvm.org/2011/05/what-every-c-programmer-should-know_21.html">What Every C Programmer Should Know About Undefined Behavior #3/3</a>.
+
+Definitivamente, buenas lecturas para entretenerse en esta semana en la que, tal vez, tengan algún festivo más que en otras...
+

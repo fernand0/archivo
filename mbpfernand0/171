@@ -1,0 +1,16 @@
+Post     : [171]
+Title    : Lo que tardan los fabricantes en arreglar los fallos
+Date     : 09/28/2009 12:00:19 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/09/28/lo-que-tardan-los-fabricantes-en-arreglar-los-fallos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : bugs, cifras, comparativas, estudios, fallos, seguridad
+ 
+ 
+En <a href="http://www.hispasec.com/unaaldia/3985">Estudio comparativo: ¿Cuánto tardan los grandes fabricantes de software en arreglar una vulnerabilidad?</a> hablan justamente de eso. No es un estudio definitivo porque se habla de las vulnerabilidades informadas a través de un par de servicios de compra de este tipo de fallos, <a href="http://labs.idefense.com/vcp/">iDefense Vulnerabity Contributor Program</a> y <a href="http://www.zerodayinitiative.com/">The Zero Day Initiative</a> lo que deja fuera unas cuantas que no siguen ese camino y que, además, probablemente son públicas (estos sitios utilizan una política de divulgación 'responsable') y ejercen más presión sobre los fabricantes.
+
+Por lo demás sólo Novell y Apple parece que resuelven (algo) más del 50% antes de tres meses, que no es mucho decir.
+

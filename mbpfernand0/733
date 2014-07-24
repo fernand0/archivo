@@ -1,0 +1,16 @@
+Post     : [733]
+Title    : Una introducción al cálculo del coste de algoritmos
+Date     : 02/18/2014 13:42:19 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/02/18/una-introduccion-al-calculo-del-coste-de-algoritmos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : algoritmia, coste, desarrollo, medidas
+ 
+ 
+Una de las diferencias entre alguien que resuelve problemas y un buen desarrollador está en si es capaz de analizar cómo de buena es la solución que propone o no. A veces nos mareamos (y mareamos a otros) haciendo micro-optimizaciones sin habernos parado a pensar dónde ni cómo es la forma más adecuada de hacerlo.
+
+En <a href="http://discrete.gr/complexity/">A Gentle Introduction to Algorithm Complexity Analysis</a> podemos leer las ideas básicas sobre el tema, que nos abrirían la puerta a empezar a pensar en un algoritmo como un todo y no como un conjunto de instrucciones más o menos afortunadas.
+

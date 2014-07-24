@@ -1,0 +1,21 @@
+Post     : [497]
+Title    : Computación parásita y Wikipedia
+Date     : 11/15/2011 19:43:42 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/11/15/computacion-parasita-y-wikipedia/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : boinc, cálculo, computación, distribuido, parásita, proyectos, wikipedia
+ 
+ 
+Ya hace algún tiempo (y en otro lugar) hablábamos de la <a href="http://barrapunto.com/articles/02/02/22/120203.shtml">Computación parásita</a>. También de <a href="http://hawksoft.com/articles/leech/leech1.shtml">Leech Computing</a>.  Esencialmente, utilizar los recursos de un ordenador que se conecta al nuestro para hacer cálculos u operaciones.
+
+En <a href="http://www.statlect.com/ideas_computational_engine.htm">How Wikipedia could make the world an even better place</a> volvían a traernos esas ideas, aprovechando la ingente cantidad de visitantes que tienen las páginas de esta enciclopedia.
+
+
+En <a href="http://dx.doi.org/10.1145/1274000.1274083">Browser-based distributed evolutionary computation: performance and scaling behavior</a> publicamos algunos resultados alrededor del tema.
+
+En <a href="http://www.slideshare.net/fernand0/me-prestas-unos-ciclos-hacia-el-supercomputador-sigiloso/">¿Me prestas unos ciclos? Hacia el supercomputador sigiloso</a> una charla más divulgativa sobre el tema, por si a alguien le interesa.
+

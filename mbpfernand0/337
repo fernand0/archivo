@@ -1,0 +1,17 @@
+Post     : [337]
+Title    : Dispositivos: dejando rastro
+Date     : 12/09/2010 21:11:30 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/12/09/dispositivos-dejando-rastro/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : biometría,, forense,, humanos, identificación, restos,, seguridad
+ 
+ 
+De vez en cuando se bromea con la seguridad de los dispositivos de entrada donde, si no se cambian las claves, podemos terminar reduciendo las posibilidades a unas pocas: <a hreF="http://www.microsiervos.com/archivo/seguridad/falsa-seguridad-con-teclados-seguridad-inseguros.html">Falsa seguridad con teclados de seguridad inseguros</a> (<a href="http://www.schneier.com/blog/archives/2009/07/information_lea_1.html">Information Leakage from Keypads</a>).
+
+Adam J. Aviv, Katherine Gibson, Evan Mossop, Matt Blaze, y Jonathan M.  Smith se han preguntado sobre la seguridad de los dispositivos táctiles (tan frecuentes en nuestros días) y han escrito <a href="http://www.usenix.org/event/woot10/tech/full_papers/Aviv.pdf">[PDF] Smudge Attacks on Smartphone Touch Screens</a>, donde se puede ver que estos teclados virtuales tienen sus propios riesgos desde el punto de vista de la seguridad de las credenciales (el objetivo, recordemos, no es la clave en sí -sería lo mejor, claro- sino reducir el número de intentos que tendríamos que hacer para atacar al dispositivo en cuestión).
+Lo vi en <a href="http://www.schneier.com/blog/archives/2010/08/security_analys_3.html">Security Analysis of Smudges on Smart Phone Touch Screens</a>.
+

@@ -1,0 +1,18 @@
+Post     : [240]
+Title    : NoSQL
+Date     : 02/19/2010 12:19:06 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/02/19/nosql/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : bases+de+datos desarrollo nosql sql
+ 
+ 
+Cuando uno tiene muchos (demasiados) datos, una base de datos tradicional puede no ser la solución adecuada. Tenía pendiente hablar del <a href="http://en.wikipedia.org/wiki/NoSQL">NoSQL</a>, término acuñado para referirse a los almacenes de datos que no se basan en el modelo relacional pero no había visto más que un encuentor que se celebró el año pasado sobre el tema y la información asociada <a href="http://blog.oskarsson.nu/2009/06/nosql-debrief.html">NOSQL debrief</a> que es lo bastante diversa y 'áspera' como para no recomendarlo.
+
+Ahora veo algunos artículos sobre el tema más divulgativos y me animo a enlazarlos: <a href="http://developers.slashdot.org/article.pl?sid=09/11/09/2335214"> The NoSQL Ecosystem</a>, que apunta a <a href="http://www.rackspacecloud.com/blog/2009/11/09/nosql-ecosystem/">NoSQL Ecosystem</a>, o <a href="http://www.computerworld.com/s/article/9135086/No_to_SQL_Anti_database_movement_gains_steam_">No to SQL? Anti-database movement gains steam</a>. También en nuestro idioma, en <a href="http://www.dosideas.com/noticias/base-de-datos/657-nosql-el-movimiento-en-contra-de-las-bases-de-datos.html">NoSQL: el movimiento en contra de las bases de datos</a>, donde se hace un amplio resumen.
+
+De todas formas, yo no puedo evitar recordar aquel otro <a href="http://www.linuxjournal.com/article/3294">NoSQL</a>, con el que anduve jugando una temporada.
+

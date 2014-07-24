@@ -1,0 +1,20 @@
+Post     : [784]
+Title    : Sueños y pesadillas
+Date     : 06/24/2014 19:02:50 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/06/24/suenos-y-pesadillas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : ágil,, desarrollo, pesadillas, programación, seguridad, software, sueños
+ 
+ 
+En <a href="http://www.artima.com/weblogs/viewpost.jsp?thread=200967"> Dreams and Nightmares</a> algunas ideas sobre un taller donde se analizaba la tensión permanente entre hacer cosas que tengan valor y la necesidad de invertir en crear una buena infraestructura que les de soporte. El debate entre la técnica y la economía.
+
+Se propone incluir en la planificación escenarios terroríficos (la pesadilla) que pueden suceder si algo va mal y no se ha invertido suficiente en que la base sea sólida: se estima el coste, el esfuerzo necesario en caso de que algo vaya mal...
+
+El problema de algunos requisitos no funcionales de este tipo es que no encajan siempre bien con las historias de usuario y por lo tanto son complicados de integrar en el proceso. Pero estos requisitos han de tenerse en cuenta y no perderse de vista en las sucesivas iteraciones.
+
+Interesante.
+

@@ -1,0 +1,18 @@
+Post     : [472]
+Title    : OpenSAMM traducido
+Date     : 07/27/2011 00:47:14 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/07/27/opensamm-traducido/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : metodología, open,, opensamm,, samm,, seguridad
+ 
+ 
+No hemos hablado mucho de OpenSAMM (la última vez en <a href="http://mbpfernand0.wordpress.com/2011/02/24/desarrollar-una-metodologia-de-diseno-de-programas-seguros/">Desarrollar una metodología de diseño de programas seguros</a> y no mucho más).
+
+En <a href="http://www.opensamm.org/2011/07/todo-en-espanol/">Todo en español</a> nos avisan de que está disponible la traducción a nuestro idioma, en la <a href="http://www.opensamm.org/download/">página de descargas del proyecto</a>: se trata de un marco de referencia para desarrollos seguros.
+
+La alternativa al SAMM es <a href="http://bsimm.com/">BSIMM, Building Security In Maturity Model</a> que, en este caso, no tiene la ventaja de un modelo abierto y no ha sido traducido (que yo sepa) todavía.
+

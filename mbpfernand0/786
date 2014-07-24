@@ -1,0 +1,84 @@
+Post     : [786]
+Title    : Movimiento suave con los servos
+Date     : 30/06/2014 01:25:56 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/06/30/movimiento-suave-con-los-servos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : motor, movimiento, pi, raspberry, raspi, servo
+ 
+ 
+Uno de los problemas que tienen los servos es que su movimiento es bastante brusco, como podía apreciarse en el vídeo que pusimos en <a href="http://mbpfernand0.wordpress.com/2014/06/08/anadiendo-movimiento-servos/">Añadiendo movimiento: servos</a>. Con el montaje que había pensado eso era un problema, porque la cámara tiene un cierto peso y en alguna ocasión podía salir disparada, o desencajarse, como puede imaginarse viendo:
+
+http://instagram.com/p/nQkfL3QB1_/
+
+La solución para el problema es relativamente sencilla: cuando queremos llevar el motor a una determinada posición podemos ir haciéndolo con pequeños pasos. La idea es indicarle una sucesión de posiciones cada vez más próxima al objetivo. Así, aunque los movimientos son bruscos, al ser pasos cortos no afectan tanto al objeto que va montado sobre el motor (en este caso la cámara).
+El código podría ser como el de esta función:
+
+[sourcecode language="python" wraplines="false" collapse="false"]
+def move(self, servo, pos, posIni=MIN, inc=10):
+
+	servoGPIO=18
+	servoGPIO=17
+	posFin=posIni + (MAX-MIN)*pos
+	steps=abs(posFin - posIni) / inc
+
+	print "Pos ini", posIni
+	print "Pos fin", posFin
+	print "Steps", steps
+	print int(steps)
+
+	if pos &lt; 0:
+		pos = -pos
+		sign = -1
+	else:
+		sign = 1
+
+	for i in range(int(steps)):
+		servo.set_servo(servoGPIO,posIni+10*i*sign)
+		time.sleep(VEL)
+
+	print &quot;Pos ini&quot;, posIni
+	print &quot;Pos fin&quot;, posFin
+	print &quot;Steps&quot;, steps
+	print int(steps)
+
+	servo.stop_servo(servoGPIO)
+[/sourcecode]
+
+Esto es, suponiendo que partimos de una posición inicial (posIni) y que queremos movernos un cierto porcentaje (un número real entre 0 y 1) calculamos la posición final sabiendo el recorrido total (MAX-MIN):
+<code>
+posFin=posIni + (MAX-MIN)*pos
+</code>
+
+Y calculamos el número de pasos que daremos basándonos en un incrementos de 10 (inc=10):
+
+<code>
+steps=abs(posFin - posIni) / inc
+</code>
+
+Se usa el valor absoluto porque el movimiento puede ser en ambas direcciones (según en qué punto esté el motor), de lo que se ocupa el condicional:
+
+<code>
+if pos &lt; 0:
+...
+</code>
+
+Finalmente, se hacen los movimientos con el bucle:
+
+[sourcecode language="python" wraplines="false" collapse="false"]
+for i in range(int(steps)):
+	servo.set_servo(servoGPIO,posIni+10*i*sign)
+	time.sleep(VEL)
+[/sourcecode]
+
+El resultado se parece al que se aprecia en este vídeo:
+
+http://instagram.com/p/nTOyr_wB_b/
+
+Donde se puede observar un movimiento de ida y vuelta con un improvisado modelo.  Se puede regular la velocidad con el tiempo que se tarda entre uno de estos pequeños movimientos y el siguiente (parámetro VEL).
+
+Seguramente habría sido mejor elegir otro tipo de motores, pero esto resuelve de manera razonable nuestro problema.
+

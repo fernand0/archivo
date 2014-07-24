@@ -1,0 +1,19 @@
+Post     : [305]
+Title    : Bibliotecas para evitar problemas en PHP
+Date     : 09/29/2010 14:44:26 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/09/29/bibliotecas-para-evitar-problemas-en-php/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : bibliotecas lenguajes, PHP, programación, seguridad,
+Tags     : API, bibliotecas, lenguajes, librerías,, PHP, programación, seguridad
+ 
+ 
+
+Ya hablamos en <a href="http://mbpfernand0.wordpress.com/2009/03/04/dos-grandes-errores-en-las-aplicaciones-web-y-doce-consejos-para-evitarlos/">Dos grandes errores en las aplicaciones web y consejos para evitarlos</a> del API que preparaba la gente de <A HREF="http://www.owasp.org/">OWASP</A>, <A HREF="http://www.owasp.org/index.php/ESAPI">ESAPI</A> con el objetivo de simplificar las cuestiones relativas a la seguridad para desarrolladores en Java. También parece que se preocupan de otros lenguajes, como PHP, Python, Ruby ...
+
+Sin embargo en esta entrada me quería centrar en dos entradas veraniegas sobre el particular: <a href="http://sentidoweb.com/2010/08/04/libreria-php-pare-evitar-sql-injection-y-xss.php">Librería PHP para evitar SQL injection y XSS</a>, donde se nos habla de <a href="http://eng.genius.com/blog/2010/07/29/genius-open-source-libraries/">Genius Open Source Libraries</a> y <a href="http://blog.unijimpe.net/prevenir-ataques-xss-con-php/">Prevenir ataques XSS con PHP</a> donde se comenta sobre el <a href="http://www.phpclasses.org/package/2189-PHP-Filter-out-unwanted-PHP-Javascript-HTML-tags-.html">PHP Input Filter</a>.
+
+No las he visto en detalle pero es bueno que vayan surgiendo este tipo de iniciativas y que los programadores dispongan de estas herramientas para aligerar su trabajo.
+

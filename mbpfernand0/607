@@ -1,0 +1,16 @@
+Post     : [607]
+Title    : Un desbordamiento de enteros y como no solucionarlo
+Date     : 09/26/2012 11:28:25 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/09/26/un-desbordamiento-de-enteros-y-como-no-solucionarlo/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : desarrollo, desbordamiento, enteros, problemas, programación, seguridad, soluciones
+ 
+ 
+En <a href="http://use.perl.org/use.perl.org/_Aristotle/journal/33448.html"> The blind leading the blind</a> una historia interesante de un fallo de desbordamiento de enteros y los sucesivos pasos que se fueron dando para solucionarlo. Aunque los pasos no fueran correctos.
+
+Interesante.
+

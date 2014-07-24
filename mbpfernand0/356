@@ -1,0 +1,25 @@
+Post     : [356]
+Title    : Cómo no almacenar claves en iOS
+Date     : 01/18/2011 12:14:54 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/01/18/como-no-almacenar-claves-en-ios/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : claves seguridad
+Tags     : apple, claves, contraseñas, iOS,, passwords, seguridad
+ 
+ 
+No me gustan mucho los artículos en negativo: al final, en algunas ocasiones, uno no se entera de qué es lo que realmente tiene que hacer (la negación de la negación no siempre se hace bien, o  se interpreta adecuadamente).
+
+En <a href="http://blogs.sans.org/appsecstreetfighter/2011/01/05/using-keychain-to-store-passwords-ios-iphone-ipad/">How Not to Store Passwords in iOS</a> un artículo sobre la maquinita de moda y la gestión de claves en ella. Concretamente con el ejemplo del tratamiento de claves por parte de la aplicación para actualizar Wordpress, que no cononocía.
+
+El aparato tiene un lugar para almacenar las claves de manera adecuda, <a href="http://developer.apple.com/library/ios/#documentation/Security/Conceptual/keychainServConcepts/02concepts/concepts.html%23//apple_ref/doc/uid/TP30000897-CH204-TP9">keychain services</a> y los desarrolladores no la utilizaban:
+
+<blockquote>
+Mobile development brings both familiar and new challenges for creating secure applications. The iOS platform provides a number of strong security features with the Keychain and protection attributes introduced in iOS 4.0.  As usual, it is up to developers, development teams, and security professionals to make sure that user data is handled securely and appropriate APIs are used correctly.
+</blockquote>
+
+¿Nos suena? (<a href="http://mbpfernand0.wordpress.com/2010/12/26/%C2%BFlos-desarrolladores-utilizan-las-ayudas-en-seguridad/">¿Los desarrolladores utilizan las ayudas en seguridad?</a>).
+Si nos preocupa la seguridad de los sistemas que desarrollemos una de nuestras primeras tareas debería ser buscar la información sobre qué ayudas nos proporcionan para no meter la pata y poder utilizarlas adecuadamente.
+

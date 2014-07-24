@@ -1,0 +1,18 @@
+Post     : [667]
+Title    : Datos sensibles en nuestros programas
+Date     : 01/03/2013 19:10:49 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/01/03/datos-sensibles-en-nuestros-programas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : datos, desarrollo, memoria, programación, seguridad
+ 
+ 
+Un sistema informático moderno es una pesadilla desde el punto de vista de dónde están realmente nuestros datos (cachés, swaps, páginas, memorias, discos ...). Por eso conviene recordarlo: de cara a que nuestros datos sensibles estén el menor tiempo posible por ahí en claro; y también por tratar de evitar mediante las facilidades que tengamos disponibles que esos datos terminen escritos donde no conventa. De eso hablaban en <a href="http://www.securitybydefault.com/2012/03/programacion-en-c-gestion-segura-de.html">Programación en C: Gestión segura de datos sensibles en memoria&lt;/a&lt;.
+
+<blockquote>
+Un problema clásico con la memoria y la seguridad son los sistemas de paginamiento (swap) que extienden la memoria física del sistema empleando el HD del equipo. Es obvio que cuando vamos a gestionar un dato sensible se debería evitar a toda costa que ese dato fuese copiado a la memoria swap del equipo.
+</blockquote>
+

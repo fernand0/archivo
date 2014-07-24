@@ -1,0 +1,14 @@
+Post     : [99]
+Title    : Inyección ciega de SQL
+Date     : 03/24/2009 18:09:17 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/03/24/inyeccion-ciega-de-sql/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad SQL
+Tags     : ciega, inyección, seguidad, SQL
+ 
+ 
+Puede haber quien piense que si su aplicación no muestra los mensajes de error ya está seguro frente a los ataques de inyección de SQL. Lo cierto es que hay toda una serie de metodologías para 'adivinar' los nombres de los campos relevantes. En <a href="http://www.imperva.com/resources/adc/blind_sql_server_injection.html">Blind SQL Injection</a> hay algunas explicaciones sobre cómo hacerlo sin complicarse mucho la vida.
+

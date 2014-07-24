@@ -1,0 +1,45 @@
+Post     : [595]
+Title    : Las aplicaciones en Java tienen más fallos
+Date     : 09/06/2012 17:04:07 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/09/06/las-aplicaciones-en-java-tienen-mas-fallos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : COBOL, java, lenguajes, programación, seguridad
+ 
+ 
+Ahora que el Java está de moda por los problemas de su 'infraestructura' (ver, por ejemplo, <a href="http://unaaldia.hispasec.com/2012/08/grave-vulnerabilidad-sin-parche-en-java.html">Grave vulnerabilidad sin parche en Java está siendo aprovechada por atacantes </a>) me 'toca' rescatar una noticia que tampoco deja en buen lugar al lenguaje.
+
+Lo contaban en <a href="http://www.computerworld.com/s/article/9222503/Java_apps_have_most_flaws_Cobol_apps_the_least_study_finds">Java apps have most flaws, Cobol apps the least, study finds</a> y se trata de un análisis de esos masivos (Que, por lo tanto, hay que tomar con prevención):
+
+<blockquote>
+Cast Software, a maker of software quality tools that evaluate the engineering soundness of the architecture and coding of an application, analyzed the 745 applications which combined for some 365 million lines of code. The company Thursday released a report detailing the conclusions of that analysis.
+</blockquote>
+
+Sobre Java, podría ser falta de formación y/o experiencia:
+
+<blockquote>
+As for Java, Curtis said he can only speculate on the problems, but said that "there are many people going into Java now that really don't have strong computer science backgrounds. We may just be seeing the fact that there is an awful lot of people writing code who aren't gurus in software engineering."
+</blockquote>
+
+En <a href="http://www.marketwire.com/press-release/new-worldwide-software-quality-study-from-cast-exposes-millions-in-hidden-it-costs-1596223.htm">New Worldwide Software Quality Study From CAST Exposes Millions in Hidden IT Costs </a> también comentan, con cifras más concretas:
+
+<blockquote>
+"Our findings, although conservative, revealed an average technical debt of $3.61 per line of code," said Curtis. "A significant number of applications examined in the study -- nearly 15% -- had over a million lines of code which means even the smallest of those contains over $3.6 million in technical debt."
+</blockquote>
+
+Otras conclusiones:
+
+<blockquote>
+- Despite assumptions to the contrary, outsourced and in-house developed applications didn't show any difference in structure quality. The same was true for onshore and offshore applications.
+- Java EE applications were the most prevalent among those studied and received significantly lower performance scores as well as carrying greater technical debt than other languages
+- Established development methods such as agile and waterfall scored significantly better in structural quality than custom methods, while waterfall scored the highest in transferability and changeability.
+- COBOL applications scored the highest in security, while .NET applications received the lowest security scores
+</blockquote>
+
+Se puede ver la nota de prensa original en: <a href="http://www.castsoftware.com/news-events/press-release/press-releases/new-worldwide-software-quality-study-from-cast-exposes-millions-in-hidden-it-costs"> New Worldwide Software Quality Study from CAST Exposes Millions In Hidden IT Costs </a>
+
+Curioso. Tomar con prevención, claro.
+

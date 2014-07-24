@@ -1,0 +1,20 @@
+Post     : [168]
+Title    : Inyeción anti-descompiladores
+Date     : 09/22/2009 12:43:37 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/09/22/inyecion-anti-descompiladores/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : código, descompiladores, inyección, ofuscación, segudidad
+ 
+ 
+Curiosa aproximación la que se relata en <a href="http://www.packetstormsecurity.org/papers/general/DecompilationInjection.pdf">Decompilation Injection (pdf)</a>.
+
+No controlo mucho las interioridades de .Net pero por lo que cuentan los autores la idea se basa en que dentro del 'bytecode' que genera el compilador las normas permiten aplicar algunos truquitos que harían el código fuente inutilizable cuando se utilice un descompilador: cambiar el nombre de una variable por 'for' (que al descompilar produce una palabra reservada donde no debe haberla); cambiar el nombre de una variable por el de otra del programa (con seguridad dentro del ejecutable por el espacio de nombres protegido pero con total confusión en el fuente descompilado) e incluso el cambio de nombres de variables por expresiones más complejas.
+
+Los cambios propuestos son muy sencillos y no se llevan a sus últimas consecuencias pero la idea merece la pena explorarse y, seguramente, podría aplicarse también a programas desarrollados en Java.
+
+Un paso más allá en la ofuscación de código necesaria cuando uno quiere ocultarlo y utiliza lenguajes que se basan en el 'bytecode' que no es tan complicado ni oscuro como el binario producido por los compiladores tradicionales. Para los que también hay herramientas, claro.
+

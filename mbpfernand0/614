@@ -1,0 +1,20 @@
+Post     : [614]
+Title    : La seguridad viene por caminos inesperados
+Date     : 10/03/2012 14:26:37 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/10/03/la-seguridad-viene-por-caminos-inesperados/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : esfuerzos, navegadores, plugins, seguridad
+ 
+ 
+En <a href="http://scarybeastsecurity.blogspot.com.es/2012/01/dirty-secret-of-browser-security-1.html"> The dirty secret of browser security #1 </a> una pequeña provocación:
+
+<blockquote>
+The security of a given browser is dominated by how much effort it puts into other peoples' problems.
+</blockquote>
+
+Y se nombran algunas medidas que han tomado los navegadores para evitar los problemas que ocasionan los defectos que introducen otros desarrolladores que afectan al funcionamiento del navegador, como pueden ser los plugins: esencialmente una mezcla de preocuparse de los eslabones más débiles de la cadena (gente con menos incentivo que los desarrolladores oficiales, en este caso) y la compartimentalización adecuada (aislar componentes y dificultar su funcionamiento cuando son problemáticas).
+

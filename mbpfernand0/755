@@ -1,0 +1,112 @@
+Post     : [755]
+Title    : Enviar una imagen por correo en Python
+Date     : 25/05/2014 18:31:27 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/05/25/enviar-una-imagen-por-correo-en-python/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : cam, cámara, experimentos, pi, raspberry, raspi, webcam
+ 
+ 
+Una vez que podemos hacer una fotografía con nuestra webcam (<a href="http://mbpfernand0.wordpress.com/2014/05/17/una-camara-en-la-raspberry-pi/">Una cámara en la Raspberry Pi</a>) lo siguiente que nos gustaría hacer es verla desde donde estemos.
+<br />
+<br />
+Hay por ahí muchos textos explicando como hacer un servidor web en el que mirar la imagen capturada por la cámara, pero a mi ese método no me gustaba demasiado: habilitar un servidor web, abrir algunos puertos en el router casero y emplear algún sistema para dar cuenta de las posibles variaciones en la ip me parece poco robusto. Pero también incluye la posibilidad de que alguien pueda terminar conectándose a ese servidor web y acceder a nuestra red de alguna manera (posibilidad remota, seguramente, pero no despreciable).
+<br />
+También estuve evaluando la posibilidad de enviar las imágenes a través del cliente de mensajería pero no se si no es posible, o no he encontrado documentación para hacerlo, así que también lo descarté.
+<br />
+<br />
+La elección final recayó en el viejo y confiable sistema de correo electrónico: el bot recibe las peticiones como sea (xmpp, IRC, ...) y envía las imágenes captadas por correo electrónico.
+<br />
+<br />
+Hay mucha documentación sobre cómo enviar un mensaje de correo con un adjunto pero yo ya tenía un programita para hacerlo, así que es el que usé.  Se puede ver <a href="https://github.com/fernand0/utils/blob/master/mail.py">mail.py</a>.
+<br />
+<br />
+Esencialmente construye un mensaje a partir de sus componentes (Origen, destino, asunto, adjuntos, ...).
+<br />
+<br />
+Necesita unos cuantos parámetros, que hay que configurar para que funcione correctamente. La forma elegida para la configuración es mediante un módulo auxiliar:
+<code>
+import <a href="https://github.com/fernand0/utils/blob/master/mailConfig-sample.py">mailConfig</a>
+</code>
+<br />
+cuyo único contenido son variables cuyos valores han de ser adaptados.  Desde nuestro programa simplemente las leemos (aunque podríamos usarlas directamente, claro).
+<code>
+destaddr = mailConfig.ADDRESS
+fromaddr = mailConfig.FROMADD
+toaddrs = mailConfig.TOADDRS
+subject = mailConfig.SUBJECT
+smtpsrv = mailConfig.SMTPSRV
+loginId = mailConfig.LOGINID
+loginPw = mailConfig.LOGINPW
+
+imgFile = '/tmp/imagen.png'
+</code>
+<br />
+Por defecto fijamos un nombre para la imagen que enviaremos, aunque desde la línea de invocación podríamos elegir otro.
+<br />
+Tenemos una dirección de envío de correos por defecto (destaddr) pero también podemos pasar una desde la línea de instrucciones (poco robusto, no se verifica nada).
+<br />
+<br />
+A partir de allí, construímos el mensaje.
+<br />
+Detección y configuración del tipo de objeto que envíamos:
+<code>
+format, enc = mimetypes.guess_type(imgFile)
+main, sub = format.split('/')
+adjunto = MIMEBase(main, sub)
+</code>
+<br />
+De esta forma, el programa nos serviría para enviar ficheros de distintos tipos y no sólo imágenes.
+<br />
+<br />
+Generación del adjunto, codificación y se añade al mensaje que estamos construyendo:
+<code>
+adjunto.set_payload(open(imgFile,"rb").read())
+Encoders.encode_base64(adjunto)
+adjunto.add_header('Content-Disposition', 'attachment; filename="%s"' % imgFile)
+mensaje.attach(adjunto)
+</code>
+<br />
+Y, finalmente, añadimos el resto de parámetros del mensaje:
+<code>
+mensaje['Subject'] = subject
+mensaje['From'] = fromaddr
+mensaje['To'] = destaddr
+mensaje['Cc'] = toaddrs
+</code>
+<br />
+El mensaje va vacío, no tiene texto (Ejercicio para el lector: ¿le añadimos un texto? Se me ocurre algo así como: 'Fotografía tomada el día xx-xx-xxxx a las hh:mm').
+<br />
+<br />
+Para terminar, hacemosel envío (negociando directamente con el servidor de
+correo en envío):
+<code>
+server = smtplib.SMTP()
+
+server.connect(smtpsrv)
+server.ehlo()
+server.starttls()
+server.login(loginId, loginPw)
+server.sendmail(fromaddr, [destaddr]+[toaddrs], mensaje.as_string(0))
+server.quit()
+</code>
+<br />
+Y, ya tenemos un programita en Python que enviará por correo el fichero que le pasemos como parámetro a la dirección que le indiquemos. O a la dirección por defecto, el fichero por defecto.
+Además envía siempre una copia a toaddrs para que tengamos constancia de todos los mensajes.
+<br />
+<br />
+Sobre la configuación, tanto destadrr como fromaddr y toaddrs deberían ser
+direcciones de correo válidas.
+<br />
+El servidor smtpsrv puede ser cualquiera que podamos utilizar y el programa
+supone que es autentificado (de ahí la necesidad de configurar un usuario y
+una contraseña). Por ejemplo, para hacer el envío cifrado a través de los
+servidores de Google, podríamos usar:
+<code>
+smtpsrv='smtp.gmail.com:587'
+</code>
+<br />
+Y como usuario y contraseña uno que utilicemos nosotros habitualmente.

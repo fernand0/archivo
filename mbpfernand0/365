@@ -1,0 +1,20 @@
+Post     : [365]
+Title    : Seguridad de los productos relacionados con la seguridad
+Date     : 01/30/2011 20:59:32 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/01/30/seguridad-de-los-productos-relacionados-con-la-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : desarrollo, empresas, ingeniería, meta,, metodología, seguridad
+ 
+ 
+Me suena haberlo comentado alguna vez, pero no lo encuentro. En <a href="http://blog.acrossecurity.com/2011/01/how-to-secure-security-product.html">How To Secure a Security Product And Whose Bug Is It, Anyway?</a> se comenta sobre el tema que aparece de vez en cuando por ahí: no todas las empresas que desarrollan productos de seguridad la tienen en cuenta en sus desarrollos. No es raro ver un antivirus, un cortafuegos o cualquier otra herramienta de este estilo en las bases de datos de vulnerabilidades, mostrando despistes en programadores (y sus empresas) que deberían ser más conscientes que el programador medio de los problemas que puede haber.
+
+En el artículo se comentan las prácticas que deberían seguir estas empresas y casi acaba:
+
+<blockquote>
+How does this arguably incomplete list differ from what other (non-security) software vendors should do? From a pure security perspective, it really doesn't, as any product running on a computer - regardless of its declared function - can provide an entry point for attackers, although products running with higher privileges (which security products often are) are more risky. But from the business perspective, security software vendors will be smart to go an extra mile. Security is their sole functionality and their only purpose. It's hard to convince a customer that you will secure their system if you can't seem to be able, or willing, to secure your own product.
+</blockquote>
+

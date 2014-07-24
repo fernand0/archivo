@@ -1,0 +1,26 @@
+Post     : [216]
+Title    : RSA 768 cayó
+Date     : 01/18/2010 12:00:33 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/01/18/rsa-768-cayo/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Criptografía
+Tags     : 768, claves, criptografía, el+tamaño+importa, factorización, primos, RSA
+ 
+ 
+Lo ví en <a href="http://gse-compliance.blogspot.com/2010/01/rsa-768-has-bitten-dust.html">RSA 768 has bitten the dust</a> y enlaza al artículo <a href="http://eprint.iacr.org/2010/006.pdf">Factorizaction of a 768-bit RSA modulus (pdf)</a>.
+
+El número factorizado tiene 232 dígitos decimales y los autores estiman que el RSA 1024 podría caer en la próxima década.
+
+Hay un artículo en <a href="http://www.theregister.co.uk/2010/01/07/rsa_768_broken/">RSA crypto defiled again, with factoring of 768-bit keys</a>.
+
+Factorizar el número cuesta medio año con 80 procesadores, teniendo en cuenta que la fase previa de cribado previo se ha realizado con varios cientos de procesadores durante casi dos años.
+
+Además hay algún comentario más en <a href="http://blog.segu-info.com.ar/2010/01/claves-rsa-de-768-bits-factorizadas.html">Claves RSA de 768 bits factorizadas</a>.
+
+¿De manera práctica? Habría que pensar en claves de algo más que esos tamaños que estamos considerando. Los autores sugieren que sería conveniente pensar en claves mayores de 1024.
+
+Como curiosidad, se siguen utilizando los números del <a href="http://www.rsa.com/rsalabs/node.asp?id=2092">The RSA Factoring Challenge</a> que fue abandonado por los organizadores hace ya algún tiempo.
+

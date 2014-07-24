@@ -1,0 +1,24 @@
+Post     : [675]
+Title    : Una botnet de televisores
+Date     : 04/24/2013 20:11:51 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/04/24/una-botnet-de-televisores/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : botnet, programas, seguridad, smart, televisiones, tv
+ 
+ 
+Otra más para el tema de cacharritos programables que nos pueden causar problemas: <a href="http://arstechnica.com/business/2012/04/tv-based-botnets-ddos-attacks-on-your-fridge-more-plausible-than-you-think/"> TV-based botnets? DoS attacks on your fridge? More plausible than you think</a>.
+
+Si se puede programar, se puede comprometer. Si puede comprometerse alguien lo hará. Alguna prueba ya hay hecha por ahí:
+
+<blockquote>
+The TV was connected by ethernet cable to a home network, so Auriemma thought it would be funny to use a computer connected to the same network to send it a message that contained a series of custom headers. Without warning, the TV spiraled into an endless loop of restarts. For about five seconds, the device would appear to work correctly, but then would stop responding to commands entered by remote control or through the panel. A few seconds later, the TV would restart and repeat the process. Unplugging the power cord or ethernet cable did nothing. Auriemma had just stumbled upon a crippling denial-of-service attack.
+</blockquote>
+
+En <a href="http://mbpfernand0.wordpress.com/2012/03/21/seguridad-hogarena/">Seguridad ‘hogareña’</a> recopilamos en su día enlaces sobre el tema.
+
+Sigan vigilantes.
+

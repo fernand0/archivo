@@ -1,0 +1,17 @@
+Post     : [286]
+Title    : Cuidado con quién hablas
+Date     : 06/17/2010 20:44:48 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/06/17/cuidado-con-quien-hablas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : bot irc seguridad
+Tags     : bot, enlaces, ingeniería, irc, mitm, seguridad, social
+ 
+ 
+
+En <a href="http://www.net-security.org/secworld.php?id=9407">Automated social engineering PoC successful on Facebook and IRC</a> resumen un curioso sistema para engañar a la gente e inducirles a pinchar en enlaces maliciosos. De todos es sabido que es bastante difícil hacer un robot que mantenga una conversación normal. Los autores de <a href="http://seclab.tuwien.ac.at/papers/autosoc-leet2010.pdf">Honeybot, Your Man in the Middle for Automated Social Engineering (pdf)</a> pensaron una solución mejor: el bot contacta con dos personas y simplemente hace de intermediario de la conversación; con esto se ahorra la parte de 'inteligencia' necesaria para hacer creer a alguien que está hablando con una persona (porque realmente lo está haciendo) y le permite incluir enlaces, influir en el tema de conversación, alargarla ...
+
+Muy ingenioso e interesante. La prueba de concepto está hecha para el IRC pero han hecho algún experimento también en Facebook.
+

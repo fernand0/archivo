@@ -1,0 +1,26 @@
+Post     : [187]
+Title    : Consejos de optimización
+Date     : 11/12/2009 20:26:56 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/11/12/consejos-de-optimizacion/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación
+Tags     : charlas, compiladores, desarrollo, optimización, presentaciones, programación
+ 
+ 
+En <a href="http://lambda-the-ultimate.org/node/3674">State of the art C compiler optimization tricks</a> apuntan a una presentación sobre el tema, <a href="http://www.linux-kongress.org/2009/slides/compiler_survey_felix_von_leitner.pdf">A survey about state of the art C compiler optimization tricks (pdf)</a> bastante técnica. Afortunadamente, para la mayoría de los mortales es suficiente la introducción y las conclusiones, como señalan el Lambda:
+
+<blockquote>
+* Optimizing == important.
+* But often: Readable code == more important
+* Learn what your compiler does
+
+Then let the compiler do it.
+
+* If you do an optimization, test it on real world data.
+* If it’s not drastically faster but makes the code less readable: undo it.
+</blockquote>
+
+

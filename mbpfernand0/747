@@ -1,0 +1,129 @@
+Post     : [747]
+Title    : Una cámara en la Raspberry Pi
+Date     : 17/05/2014 17:16:50 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/05/17/una-camara-en-la-raspberry-pi/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : cam, cámara, experimentos, pi, raspberry, raspi, webcam
+ 
+ 
+Ha pasado bastante tiempo desde la última entrada en esta bitácora y mucho más desde que empecé a hablar de mis pinitos con la Raspberry Pi (<a href="http://mbpfernand0.wordpress.com/2013/03/28/raspberry-pi-que-temperatura-hace-en-mi-casa/">Raspberry Pi: ¿qué temperatura hace en mi casa?</a> pero eso no quiere decir que haya abandonado el aparatito, que me proporciona mis buenos ratos (y también mosqueos, con las cosas que no se consiguen, o no funcionan como uno espera).
+<br />
+<br />
+Después de aquel experimento donde accedíamos remotamente a algunos sensores e información de lo que sucedía en casa, pensé en avanzar por dos vías: buscar algún bot que fuera más sencillo de programar (phenny me gustó pero parece que su desarrollo se ha parado; lo de sencillo de programar va en gustos y formas para cada uno, claro). También pensé añadir una cámara al sistema de 'vigilancia' casera, y esto me ha consumido bastante tiempo.
+<br />
+<br />
+La referencia para comprar una cámara que funcione con nuestra Raspberry es <a href="http://elinux.org/RPi_USB_Webcams">RPi USB Webcams</a>. Entre los modelos que vi allí (y estaban disponibles en una tienda cercana) elegí la Logitech C270. En aquel momento entendí que funcionaba bien directamente conectada al puerto USB, cosa que resultó no ser correcta (ahora dice que necesita un hub USB alimentado que es lo que solucionó mis problemas después de muchas pruebas).
+<br />
+En el intermedio, compré (de segunda mano, en una tienda de esas de videojuegos que venden complementos para consolas) una cámara para Playstation PS4 (creo). Había leído por ahí que era menos exigente con los requisitos energéticos y que tal vez podría funcionar (y eran 5 euros de coste, qué caray).
+<br />
+<br />
+Las cámaras:
+<p>
+http://instagram.com/p/fr__VlQB4a
+</p>
+Es cierto que la cámara de la Playstation funcionaba mejor que la otra sin alimentación externa, pero la Raspberry seguía colgándose aleatoriamente (no hay que olvidar que en el otro puerto USB había conectado un dispositivo WiFi, que utilizo para conectarme al cacharrito para poder gestionarlo cuando estoy en casa; y que la conecta a internet de manera casi permanente).
+<br />
+La calidad de imagen es algo peor que la de la de Logitech y tiene dos posiciones (un zoom) que se gestiona manualmente (así que no está accesible para un programa que utilice la cámara). La he conservado como cámara secundaria.
+<br />
+<br />
+Así que después de un montón de días probando a ratos perdidos y con algo de frustración, fui a la tiena a por un hub USB alimentado (tenía uno que me regalaron pero no estaba en muy buenas condiciones). El elegido fue uno de Trust (el EasyConnect 7 Port USB2 Powered Hub).
+<br />
+<p align="center">
+http://instagram.com/p/lAHWuewBwc
+</p>
+Mientras tanto, claro, iba probando las diferentes alternativas para manejar la cámara. Vale la pena recordar que salió la cámara oficial del proyecto Raspberry que se supone que nos evitaría los problemas de alimentación pero que no llegué a considerar seriamente: me parecía algo cara (una vez que ya había comprado una, claro) y además utiliza el sistema de conexión con un bus que parece poco práctico (sobre todo si luego queremos usarla para otras cosas).
+<br />
+Seguramente funciona bien, es integrable en proyectos más ambiciosos. Se puede ver información en <a href="http://www.raspberrypi.org/product/camera-module/">Raspberry Pi Camera Module</a>.
+<br />
+<br />
+Para gestionar la cámara hay bastantes programas y ejemplos por ahí:
+<br />
+<ul>
+<li>
+motion (ver <a href="http://raspberryparatorpes.net/instalacion/conectar-una-webcam-con-motion-en-raspberry-pi/">Conectar una Webcam con Motion en Raspberry Pi</a>), del que todavía tengo pendiente explorar el sistema de detección del movimiento.
+</li>
+<li>
+fswebcam (ver <a href="http://geekytheory.com/timelapse-24-horas-con-raspberry-pi-webcam-usb/">Timelapse 24 horas con Raspberry Pi + Webcam USB</a>
+<br />
+<br />
+Selfie con fswebcam:
+<p align="center">
+http://instagram.com/p/j7OFLgQBw_
+</p>
+</li>
+<li>
+webcam (ver <a href="http://www.epingle.info/?p=2682">Comment transformer votre Raspberry Pi en serveur webcam ?</a>.
+</li>
+</ul>
+<br />
+<br />
+Y alguno más que seguramente estoy olvidando.
+<br />
+<br />
+También descubrí <a href="http://opencv.org/">OpenCV</a> que permite, entre otras cosas, manejar cámaras desde un programa (en particular se puede hacer en Python): más de una cámara, si tiene parámetros configurables se pueden gestionar desde el propio programa (luminosidad, zoom, contraste, ...).
+<br />
+<br />
+Podemos ver un programita de ejemplo en: <a href="https://github.com/fernand0/utils/blob/master/cam.py">cam.py</a>. El programa graba la imagen que toma en un fichero cuyo nombre se le puede pasar en la propia llamada. Si no se pone nombre, elige uno predefinido.
+<br />
+<br />
+Por si vale la pena, comentamos algunas líneas del código.
+<br />
+<br />
+el nombre del fichero se define en:
+<br />
+<code>
+imgFile = '/tmp/imagen.png'
+</code>
+<br />
+<br />
+El nombre siempre es el mismo. Podríamos utilizar algo como:
+<br />
+<code>
+imgFile = time.strftime("%Y-%m-%dT%H:%M:%S", time.gmtime())+'.png'
+</code>
+<br />
+<br />
+Para poder conservar las diferentes imágenes que se vayan tomando (cuidado con llenar el espacio de almacenamiento).
+<br />
+<br />
+Luego hay código para leer el nombre de la línea de instrucciones (si se suministra), aunque no es nada robusto (no se hace niguna validación), para después parsar a inicializar la cámara:
+<br />
+<code>
+cam=cv2.VideoCapture(0)
+</code>
+<br />
+<br />
+La captura de la imagen se hace en una función:
+<br />
+<code>
+def get_image():
+retval, im = cam.read()
+return im
+</code>
+<br />
+<br />
+Nuevamente es poco robusto, no se comprueba el código de error que puede devolver la función read y simplemente devuelve la imagen capturada (que podría no existir porque algo hubiera fallado).
+<br />
+<br />
+Esta función se utiliza en:
+<br />
+<code>
+img=get_image()
+</code>
+<br />
+<br />
+Y, finalmente,
+<br />
+<code>
+cv2.imwrite(imgFile, img)
+</code>
+<br />
+<br />
+escribe la imagen en el fichero que hemos definido arriba.
+<br />
+<br />
+Creo que esta entrada ya es un poco larga. Otro día seguiremos con el bot.

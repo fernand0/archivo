@@ -1,0 +1,68 @@
+Post     : [810]
+Title    : ¿Quién está en mi red?
+Date     : 16/07/2014 16:40:22 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/07/16/quien-esta-en-mi-red/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : scripts
+Tags     : auditoría fing programitas python red scripts
+ 
+ 
+En nuestra red casera puede venir bien conocer las IPs de los dispositivos conectados: una posibilidad es asignar direcciones fijas a los nuevos dispositivos pero es una lata asignarlas, gestionarlas y las soluciones no escalan bien en cuanto se añaden nuevos aparatitos (que es algo cada vez más frecuente).
+
+Por eso me gustó mucho cuando descubrí <a href="http://www.overlooksoft.com/fing">Fing</a> que era una aplicación para android (ahora se puede instalar en android, iOs, e incluso en ordenadores de escritorio) y anduve buscando la forma de emularla en mi escritorio (algo que ahora ya no sería necesario).
+
+Las sugerencias iban en dos direcciones: nmap, y arp que no son herramientas con las que esté muy familiarizado. Sin embargo, encontré en alguna parte un aviso sobre la existencia del proyecto <a href="https://github.com/mpescimoro/WiFinder">WiFinder</a>, cuyo uso propuesto era generar una alerta cuando nuevos dispositivos entraban en la red. Hize mi propio <a href="https://github.com/fernand0/WiFinder">fork del proyecto</a> y estuve trabajando un rato para tratar de obtener lo que buscaba.
+
+La solución es un programita, <a href="https://github.com/fernand0/scripts/blob/6cf7bfbc6d84238cd830fa3f5b0c95f58cea96e2/macfinder.py">macfinder.py</a> (enlace a la versión que se comenta aquí, en <a href="https://github.com/fernand0/scripts/blob/master/macfinder.py">macfinder.py</a> la versión que podrá evolucionar) que me ha servido para juguetear un poco con Python y estas cosas de redes.  Todavía me faltaría mejorar la entrada/salida y cómo lo voy a usar, pero las ideas fundamentales están disponibles:
+[code language="python"]
+import nmap # import nmap.py
+
+...
+nm = nmap.PortScanner() # creates an'instance of nmap.PortScanner
+[/code]
+Necesitaremos escanear los puertos, con la instrucción:
+[code language="python"]
+nm.scan(hosts='192.168.1.0/24', arguments='-n -sP -PE -T5')
+# executes a ping scan
+
+hosts_list = [(nm[x]['addresses']) for x in nm.all_hosts()]
+[/code]
+De la lista que obtenemos vamos guardándo los datos utilizando como clave la mac (que es lo que permanece fijo en cada dispositivo), dando de alta los nuevos dispositivos encontrados cada vez:
+[code language="python"]
+if not ipList.has_key(addresses['mac']):
+	ipList[addresses['mac']] = ("", addresses['ipv4'])
+[/code]
+La estructura de datos es un 'hash' indexado por la MAC y que contiene la ip y un nombre que podemos asignar al dispositivo (igual que se hace con Fing).
+
+Para la persistencia utilizamos pickle. 
+Lectura:
+[code language="python"]
+ipList=pickle.load(fIP)
+[/code]
+Escritura:
+[code language="python"]
+fIP = open(fileName,"w")
+pickle.dump(ipList,fIP)
+[/code]
+
+Finalmente, algo que no tengo muy claro: Fing no necesita permisos especiales para ejecutarse (o al menos no debería, siendo una aplicación móvil en su origen) pero para que el nmap obtenga las MACs es necesario ejecutarlo con privilegios elevados (el programa debe ejecutarse con sudo y tener los permisos necesarios). Pero todo el mundo sabe que no es bueno que un programa tenga privilegios altos durante mucho tiempo, así que aproveché para aprender a hacer eso en Python. Con el consejo de: <a href="http://stackoverflow.com/questions/2699907/dropping-root-permissions-in-python">Dropping Root Permissions In Python</a> se incluye la función drop_privileges, que justamente hace eso, con:
+[code language="python"]
+user_name = os.getenv("SUDO_USER")
+pwnam = pwd.getpwnam(user_name)
+[/code]
+obtenemos los datos del usuario que ha lanzado el proceso con sudo.
+Con:
+[code language="python"]
+# Try setting the new uid/gid
+os.setgid(pwnam.pw_gid)
+os.setuid(pwnam.pw_uid)
+[/code]
+Asignamos los permisos del usuario en lugar de los permisos elevados.
+
+Esto lo hacemos en el programa, claro, cuando ya no necesitamos los privilegios altos (esto es, justo depués de utilizar el nmap).
+
+Si hay ideas para mejorarlo, consultas, ...
+

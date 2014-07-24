@@ -1,0 +1,34 @@
+Post     : [540]
+Title    : La inseguridad en el uso de los protocolos seguros
+Date     : 02/16/2012 19:29:54 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/02/16/la-inseguridad-en-el-uso-de-los-protocolos-seguros/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : buscar, datos, demoscopia, encuestas, internet, seguridad, sondeos
+ 
+ 
+Internet está lleno de datos esperando a que los busquemos y les demos sentido (también los malos, claro). En <a href="http://www.infosecisland.com/blogview/16516-Companies-Using-Secure-Protocols-in-an-Insecure-Manner.html">Companies Using Secure Protocols in an Insecure Manner</a> podemos leer sobre un sondeo basado en preguntar directamente a los servidores (en lugar de a los responsables de la empresa).
+
+<blockquote>
+First step, I found companies listed in this year’s Fortune 500. This was pretty straightforward; I entered something like “Fortune 500” in Google and found they are listed on: http://money.cnn.com/magazines/fortune/global500/2011/full_list/index.html.
+
+Then I had to find these companies primary website, and that wasn’t too hard either. At the url mentioned above, you just click a company's name in the index and the company's website is mentioned on the next page. This way I discovered the 500 websites for all companies listed in this years Fortune 500.
+
+Next thing was to find which of those sites could be visited using the https-protocol. Again, no rocket science here. 259 hosts were listening on port 443 /tcp, the default port for https. It turned out that 3 of them did not talk https on that port, or at least not to me... Another 20 servers did not provide me their (public) SSL certificate details (most of them would probably have provided the details if I had been more persistent, but I wasn't).
+
+From the remaining 236 systems, these are the (anonymized) facts:
+
+109 systems were willing to exchange data using SSL version 2
+149 systems were willing to use encryption keys of 56 bits or less
+160 systems were willing to use either SSLv2 or short encryption keys
+7 systems were willing to use 0 bit encryption keys (meaning no encryption)
+129 certificates had public keys of 1024 bits or less (one as short as 512 bits)
+12 certificates were expired (one as old as May 2008)
+9 certificates will expire after more than 3 years (one as late as in August 2023)
+</blockquote>
+
+Como dice el autor, seguramente los datos no son tan precisos como deberían. Pero pintan un buen (mal) panorama que, además, cualquier intersado puede encontrar por su cuenta.
+

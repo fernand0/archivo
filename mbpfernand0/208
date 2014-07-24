@@ -1,0 +1,22 @@
+Post     : [208]
+Title    : Los riesgos de utilizar el DNS de Google
+Date     : 01/07/2010 16:50:14 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/01/07/los-riesgos-de-utilizar-el-dns-de-google/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : privacidad seguridad
+Tags     : DNS, google, nombres, privacidad, resolución, seguridad
+ 
+ 
+
+A principios del mes pasado Google anunció <a href="http://googlesystem.blogspot.com/2009/12/google-dns.html">Google DNS</A>. Ellos lo proponen como un servicio más rápido y alternativo a los que nos proporcionan habitualmente las empresas que nos dan acceso a la red y además nombran unas cuantas alternativas más:
+
+<blockquote>
+<a href="http://www.opendns.com/">OpenDNS</a>, a popular third-party DNS resolving service, offers more feature than Google Public DNS: web content filtering, stats, typo correction, shortcuts, but they're available if you <a href="http://www.opendns.com/start/">create an account</a> and enter personal information like your name and address. When you type an invalid URL, OpenDNS redirects you to its own search engine to show suggestions and ads. Other free DNS resolution services: <a href="http://www.comodo.com/secure-dns/">Comodo Secure DNS</a>, <a href="http://www.opennicproject.org/index.php/start-here/51-migrate-to-opennic/75-public-dns">OpenNIC</a>, <a href="http://www.dnsadvantage.com/">DNS Advantage</a>.
+</blockquote>
+
+Incluso una herramienta para comprobar la velocidad del nuestro: <a href="http://www.grc.com/dns/benchmark.htm">Domain Name Speed Benchmark</a>.
+
+De todas formas, no creo que a nadie le sorprenda que si apostamos por este sistema asumimos algunos riesgos. De eso hablan en <a href="http://www.cgisecurity.com/2009/12/risks-of-using-googles-free-dns-service.html">Potential risks of using Google's free DNS service?</a>: más información para la empresa que, esperemos, utilicen adecuadamente y para mejorar sus servicios.

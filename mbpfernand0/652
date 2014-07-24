@@ -1,0 +1,18 @@
+Post     : [652]
+Title    : El año de seguridad en Java
+Date     : 11/16/2012 12:18:43 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/11/16/el-ano-de-seguridad-en-java/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : consejos, diseño, java, programación, seguridad
+ 
+ 
+John Melton comenzó a principios de este año su serie sobre seguridad para Java. Aunque los ejemplos son con este lenguaje, lo cierto es que casi siempre la prsentación es suficientemente general como para aprender/recordar algunas cosas aunque Java no sea nuestro lenguaje favorito. Comenzó con <a href="http://www.jtmelton.com/2012/01/02/year-of-security-for-java-introduction/">Year Of Security for Java – Introduction</a> y lleva hasta ahora más de cuarenta entradas, todas muy interesantes.
+
+Por poner una pega, no hay un índice. La búsqueda por <a href="http://www.jtmelton.com/category/java+security/">Java Security</a> en el blog debería ayudar.
+
+Considero su lectura muy recomendable para cualquier persona interesada en estos temas, como recordatorio, temas en los que no habíamos pensado tanto ...
+

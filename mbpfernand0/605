@@ -1,0 +1,26 @@
+Post     : [605]
+Title    : ¿El código se toma vacaciones?
+Date     : 09/21/2012 15:50:11 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/09/21/el-codigo-se-toma-vacaciones/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : calidad, codificación, desarrollo, programación, seguridad, vacaciones
+ 
+ 
+Una nota curiosa en <a href="http://threatpost.com/en_us/blogs/quality-coding-takes-break-holidays-why-122011">Quality Coding Takes A Break For The Holidays. But Why? </a> donde examinando código detectan que la calidad (desde el punto de vista de fallos de seguridad encontrados) tiene un pico (en sentido de encontrar más fallos) hacia los meses de octubre y noviembre:
+
+<blockquote>
+For the time period I looked at (the last 24 months), January through September is relatively flat and in line with the average flaw density. Then, there is a big bump in flaw density in October and November. Things begin to settle down once we go into December. The jump in application flaws is easy enough to spot. But what could cause this? Some of it could be seasonal. Maybe the build up to Thanksgiving has developers distracted? Are developers adjusting after the Summer break when "the living is easy" and the roads are quiet? Fall brings the extra pressure of dropping kids at school and rushing in the evenings to pick them up after sports. There is also the added pressure to produce a high volume of code to meet end of year deadlines and releases.
+</blockquote>
+
+También da otras cifras de lo que es 'normal':
+
+<blockquote>
+To do a comparison, you first need to know what normal looks like. Therefore I looked at the thousands of alpha and beta-stage applications Veracode scanned over the past couple of years. I saw an average flaw density of 24 flaws per megabyte of executable code and a median flaw density of 3 flaws per megabyte of executable code.
+</blockquote>
+
+Curioso. Harían falta más datos, claro.
+

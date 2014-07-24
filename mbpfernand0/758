@@ -1,0 +1,26 @@
+Post     : [758]
+Title    : ¡Tienes un virus! ¡Vete!
+Date     : 06/05/2014 12:46:45 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/06/05/tienes-un-virus-vete/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : acciones, defensa, facebook, isp, seguridad, troyanos, virus
+ 
+ 
+Siempre me ha parecido sugerente este tema: ¿Qué hacer cuando estás en
+disposición de detectar un problema de seguridad en el ordenador de un
+usuario?
+<br />
+Lo traigo aquí por la noticia de F-Secure, <a href="http://www.f-secure.com/weblog/archives/00002706.html">Three Lessons We've Learned From Our Facebook Partnership</a> donde hablan del proyecto en colaboración con Facebook para avisar a los usuarios que tienen algún programa malicioso instalado. No se trata, supongo, de detectar cualquier problema, pero sí sería relativamente fácil para ellos detectar esos troyanos que empiezan a escribir por nosotros en nuestra página, con spam y otras porquerías.
+Lo que sí que hacen, si detectan actividad maliciosa es sugerirnos instalar un programita para limpiar el sistema infectado.
+<br />
+En todo caso, sus conclusiones son (claro): que es un problema más complejo, ya desde el momento de decidir si algo es malo o sólo sospechoso; hay problemas con los complementos de los navegadores que son una fuente grande de problemas; y parece que Bitcoin es una de las motivaciones de muchos de los que desarrollan estos programas.
+<br />
+<br />
+En todo caso, yo quiero ir un poco más allá y preguntarme si esta es la forma adecuada de resolver el problema: una vez que Facebook te avisa de que algo va mal, ¿no existirá la tentación por parte de los 'malos' de hacer avisos similares? ¿Qué se instalará en esos casos en nuestros ordenadores?
+<br />
+Finalmente, recordar <a href="http://mbpfernand0.wordpress.com/2010/01/20/malware-e-isps/">Malware e ISPs</a> donde se hablaba del caso de los ISPs como posibles actores en este sistema, aislando los equipos problemáticos y también en <a href="http://mbpfernand0.wordpress.com/2009/10/19/%C2%BFtienes-malware-%C2%A1te-desconectamos/">¿Tienes malware? ¡Te desconectamos!</a>.
+

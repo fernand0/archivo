@@ -1,0 +1,14 @@
+Post     : [66]
+Title    : Asegurando PHP
+Date     : 02/18/2009 13:30:16 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/02/18/asegurando-php/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : lenguajes PHP programación seguridad
+Tags     : lenguajes, PHP, programación, seguridad
+ 
+ 
+PHP es un lenguaje muy popular y con un historial extenso en cuanto a problemas de seguridad. Recientemente descubrí la serie de conferencias <a href="http://w2spconf.com/">Web 2.0 Security &amp; Privacy</a> y en la <a href="http://w2spconf.com/2007/">edición de 2007</a> SStanislav Malyshev da un repaso a las distintas aproximaciones seguidas a lo largo del tiempo en la mejora de los aspectos de seguridad: <a href="http://seclab.cs.rice.edu/w2sp/2007/papers/paper-174-z_2918.pdf">Securing PHP - Approaches to Web Application Security (pdf)</a>, con su balance de aspectos positivos y negativos en cada caso.
+

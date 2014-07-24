@@ -1,0 +1,18 @@
+Post     : [173]
+Title    : Una darknet en el navegador
+Date     : 09/30/2009 12:48:49 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/09/30/una-darknet-en-el-navegador/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : browser, comunicación, darknet, intercambio, navegador, privacidad, seguridad
+ 
+ 
+En <a href="http://news.cnet.com/8301-1009_3-10295761-83.html">HP researchers develop browser-based darknet</a> y en un montón de notas, la verdad se habla de la idea de dos investigadores de HP, Billy Hoffman y Matt Wood sobre la posibilidad de establecer una de estas redes mediante tecnología web (HTML 5 y algunas cosas más) y los navegadores: en principio eso supone un avance a la hora de montar la infraestructura (no hace falta grandes conocimientos) y la dota de mayores niveles de descentralización; las aplicaciones de la darknet corren sobre el navegador.
+
+Se puede descargar la presentación de <a href="http://www.blackhat.com/presentations/bh-usa-09/HOFFMAN/BHUSA09-Hoffman-VeilDarknet-SLIDES.pdf">Veiled en BlackHat (pdf)</a> que da algunos detalles técnicos pero no he encontrado más información sobre el tema.
+
+A mi me ha recordado aquellos experimentos sobre computación distribuida en el navegador que contábamos en <a href="http://fernand0.blogalia.com/historias/48829">¿Me prestas unos ciclos? Hacia el supercomputador sigiloso</a> y en <a href="http://www.slideshare.net/fernand0/me-prestas-unos-ciclos-hacia-el-supercomputador-sigiloso">¿Me prestas unos ciclos? Hacia el supercomputador sigiloso</a>.
+

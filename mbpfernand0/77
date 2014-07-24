@@ -1,0 +1,16 @@
+Post     : [77]
+Title    : Más sobre cadenas seguras en c
+Date     : 03/02/2009 18:34:13 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/03/02/mas-sobre-cadenas-seguras-en-c/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación seguridad
+Tags     : C, cadenas, programación, seguridad, strings
+ 
+ 
+En el pasado hablamos del tema en <a href="http://barrapunto.com/~fernand0/journal/21421">Más cadenas seguras en C</a> (y allí hay más enlaces).
+
+El otro día en <a href="http://icewinddale.blogspot.com/2009/02/sacelib-gestion-de-cadenas-y-bloques-de.html">Sacelib: Gestión de cadenas y bloques de memoria más segura por Cisco</a> teníamos la oportunidad de descubrir la inciativa de esta empresa, <a href="http://sourceforge.net/project/showfiles.php?group_id=253472">Safeclib</a>, aunque no veo mucha información más por ahí. Habrá que echarle un ojo.
+

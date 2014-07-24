@@ -1,0 +1,16 @@
+Post     : [513]
+Title    : Gestión de claves en los programas
+Date     : 12/16/2011 14:04:47 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/12/16/gestion-de-claves-en-los-programas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : claves, datos, desarrollos, gestión, programas, seguridad, variables
+ 
+ 
+En seguridad siempre hay que ponerse en lo peor (aunque sea difícil). Sobre todo, si es fácil evitar los problemas que podrían ocurrir. Algo que solemos comentar es que cuando se lea una clave se haga lo que sea con ella y la eliminemos de la memoria lo antes posible (para evitar problemas con escrituras a disco por diversos motivos: el 'swapping' del sistema operativo, volcados de memoria ante fallos, ...
+
+Son ese tipo de cosas que suenan más teóricas que realistas pero en el 'mundo real' (tm) <a href="http://www.chiark.greenend.org.uk/~sgtatham/putty/wishlist/password-not-wiped.html">Passwords left in memory using SSH keyboard-interactive auth</a> podemos ver como realmente alguien las toma en serio. En este caso, los desarrolladores de Putty.
+

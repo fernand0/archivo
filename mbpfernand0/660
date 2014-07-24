@@ -1,0 +1,45 @@
+Post     : [660]
+Title    : El código peor... el que hacen los gobiernos
+Date     : 02/15/2013 15:34:12 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/02/15/el-codigo-peor-el-que-hacen-los-gobiernos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : calidad, desarrollo, empresas, gobiernos, programas, seguridad
+ 
+ 
+En <a href="http://www.forbes.com/sites/andygreenberg/2012/03/13/study-confirms-governments-produce-the-buggiest-software/">Study
+Confirms The Government Produces The Buggiest Software</a> hablan del tema
+del desarrollo de aplicaciones analizando un conjunto de aplicaciones:
+
+<blockquote>
+In a talk at the Black Hat Europe security conference in Amsterdam later this week, security researcher and chief technology officer of bug-hunting firm Veracode Chris Wysopal plans to give a talk breaking down the company’s analysis of 9,910 software applications over the second half of 2010 and 2011, automatically scanning them for errors that a hacker can be use to compromise a website or a user’s PC. And one result of that analysis is that government software developers are allowing significantly more hackable security flaws to find their way into their code than their private industry counterparts.
+</blockquote>
+
+E inmediatamente:
+
+<blockquote>
+According to Veracode’s analysis across industry and government, fully
+eight out of ten apps failed to fully live up to the company’s security
+criteria. But breaking down the results between U.S. government and private
+sector software, the government programs, 80% of which were built for
+federal agencies rather than state or local, came out worse. Measuring its
+collection of apps against the standards of the Open Web Application
+Security Project or OWASP, Veracode found that only 16% of government web
+applications were secure, compared with 24% of finance industry software
+and 28% of commercial software. And using criteria of the security-focused
+education group SANS to gauge offline applications, the study found that
+18% of government apps passed, compared with 28% of finance industry apps
+and 34% of commercial software.
+</blockquote>
+
+Como casi siempre, el diablo está en los incentivos (quién hace qué, por qué y cuáles son sus motivaciones):
+
+<blockquote>
+Those incentives have led to government bugs persisting even as the rest of the industry starts to clean up its act, says Veracode’s Wysopal. While SQL injection and cross-site scripting vulnerabilities have have dropped off in private industry over the last two years, they’ve remained statistically flat for governments.
+</blockquote>
+
+A mi me recuerda los estudios aquellos sober las políticas de claves en los sitios web que comentamos en <a href="http://mbpfernand0.wordpress.com/2010/11/19/contrasenas-usabilidad-y-uso/">Contraseñas, usabilidad y uso</a>: los sitios web gubernamentales eran los que tenían políticas más restrictivas, sin mucha evidencia de que eso mejorara la seguridad.
+

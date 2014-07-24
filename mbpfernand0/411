@@ -1,0 +1,22 @@
+Post     : [411]
+Title    : El coche, el mp3 y cosas malas que pueden suceder
+Date     : 06/03/2011 19:27:52 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/06/03/el-coche-el-mp3-y-cosas-malas-que-pueden-suceder/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : coche,, dispositivos, hogar, mp3,, seguridad
+ 
+ 
+Me daba un poco de pereza hablar de esto. Sobre todo porque ya hemos hablado otras veces y lo único novedoso es el aparatito que afecta a la seguridad del vehículo. Pero tampoco quiero dejarlo pasar, así que puede hacer una buena entrada de viernes: <a href="http://www.itworld.com/security/139794/with-hacking-music-can-take-control-your-car">With hacking, music can take control of your car</a>:
+
+<blockquote>
+But their most interesting attack focused on the car stereo. By adding extra code to a digital music file, they were able to turn a song burned to CD into a Trojan horse. When played on the car's stereo, this song could alter the firmware of the car's stereo system, giving attackers an entry point to change other components on the car. This type of attack could be spread on file-sharing networks without arousing suspicion, they believe.  "It's hard to think of something more innocuous than a song," said Stefan Savage, a professor at the University of California.
+</blockquote>
+
+Esto es, añadiendo código a un fichero de música consiguieron alterar el 'firmware' del sistema de sonido del coche, obteniendo acceso a modificar otras componentes del coche.
+
+Se pueden ver más enlaces sobre estos temas en, por ejemplo, <a href="http://mbpfernand0.wordpress.com/2011/03/09/ataques-a-los-sistemas-de-arranque-sin-llave-en-coches/">Ataques a los sistemas de arranque sin llave en coches</a>.
+

@@ -1,0 +1,39 @@
+Post : [506]  Date: mar dic 13 14:44:53 UTC 2011
+Title: "Guías sobre biometría del INTECO"
+Post     : [506]
+Title    : Guías sobre biometría del INTECO
+Date     : 12/13/2011 14:44:53 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/12/13/guias-sobre-biometria-del-inteco/ 
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : autentificación, biometría,, identificación, INTENCO, seguridad
+ 
+ 
+Me entero de una noticia de (más o menos) actualidad, para variar. <a href="http://www.inteco.es/pressRoom/Press/Latest_news_of_INTECO/guia_estudio_biometria">INTECO presenta el Estudio y la Guía sobre tecnologías biométricas aplicadas a la seguridad</a>.
+
+Se pueden descargar tanto el estudio como la guía y pueden ser un buen
+resumen sobre estos temas.
+
+<blockquote>
+Dicha investigación se centra en los usos, beneficios, riesgos y buenas prácticas recomendadas en el uso de la biometría aplicadas al control de identidades y control de accesos. El objetivo es dar a conocer a las empresas y los usuarios el nivel de desarrollo y confianza de las tecnologías biométricas y asegurar que su implantación se realice respetando plenamente la seguridad de la información y la privacidad de los ciudadanos.
+</blockquote>
+
+Yo, por completar, añadiría estos enlaces (seguramente están comentadas estas ideas en los informes, no los he leído aún):
+
+<ul>
+<li> <a href="http://www.blackhat.com/presentations/bh-dc-08/Franken/Presentation/bh-dc-08-franken.pdf">[PDF] Physical Access Control Systems</a> (una presentación del Blackhat DC 2008.</li>
+<li><a href="http://news.bbc.co.uk/2/hi/science/nature/1991517.stm">Doubt
+cast on fingerprint security</a>.</li>
+</ul>
+
+Y un par de vídeos:
+<ul>
+<li><a href="http://www.youtube.com/watch?v=BwfYSR7HttA">Ice Cream Sandwich Face Unlock feature compromised</a> </li>
+<li><a href="http://www.youtube.com/watch?v=t4DT3tQqgRM">HP computers are racist</a>.</li>
+</ul>
+
+¿Soy contrario a la biometría? No, pero hay que hacer estas cosas con cuidado. A veces, entran más bien en el <a href="https://freedom-to-tinker.com/blog/felten/security-theater">Security Theater</a>.
+ 

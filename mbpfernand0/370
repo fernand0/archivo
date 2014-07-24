@@ -1,0 +1,21 @@
+Post     : [370]
+Title    : Frecuencias de letras y sus consecuencias
+Date     : 02/10/2011 20:58:01 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/02/10/frecuencias-de-letras-y-sus-consecuencias/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación,
+Tags     : consecuencias, desarrollo, números,, organización, programación
+ 
+ 
+Cuando hacemos un programita para nuestro uso, casi cualquier cosa da igual. Pero si ese programa ha de dar servicio a mucha gente, algunas decisiones pueden ser problemáticas. De eso habla <a href="http://etbe.coker.com.au/2008/06/20/letter-frequency-in-account-names/">Letter Frequency in Account Names</a> a cuenta de organizar un árbol de directorios y de cómo se repartirían los datos según se organicen sus nombres (según los nombres de los usuarios).
+
+<blockquote>
+It seems to me that the benefits of splitting accounts by the first characters is not nearly as great as you might expect. Having directories for each combination of the first two letters is practical I’ve seen directory names such as J/O/JOHN or JO/JOHN (or use J/O/HN or JO/HN if you want to save directory space). But it becomes inconvenient to have J/O/H/N and the form JOH/N will have as many as 17,576 subdirectories for the first three letters which may be bad for performance.
+</blockquote>
+
+Aunque es cierto que es bastante difícil que uno termine teniendo un problema de ese tamaño en su vida real, lo cierto es que nunca se sabe y, además, vale la pena pensar estas cosas un poco para no llevarnos sustos ni disgustos después.
+O al menos, ser conscientes de las posibilidades.
+

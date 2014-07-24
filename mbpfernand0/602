@@ -1,0 +1,36 @@
+Post     : [602]
+Title    : Cifrado y datos de pacientes
+Date     : 09/19/2012 20:40:53 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/09/19/cifrado-y-datos-de-pacientes/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : cifrado, datos, pacientes, seguridad
+ 
+ 
+En <a href="http://dx.doi.org/10.1002%2Fpam.20590">Encryption and the loss of patient data</a> (si alguien no tiene acceso y tiene interés, seguro que conoce a alguien que se lo puede proporcionar ;) ) hablan del tema del cifrado de los datos de los pacientes:
+
+<blockquote>
+This paper presents some of the first empirical evidence about the extent to which firms' adoption of encryption software limits how likely firms are to experience publicized instances of customer data loss.
+</blockquote>
+
+Curiosamente, el cifrar los datos no parece favorecer su conservación ni su pérdida:
+
+<blockquote>
+Surprisingly, we find empirical evidence that the use of encryption software does not reduce overall instances of publicized data loss. Instead, its installation is associated with an increase in the likelihood of publicized data loss due to fraud or loss of computer equipment. Speculatively, this may occur because firms are less careful at controlling access internally to encrypted data and employees are less careful with computer equipment when they believe that data are encrypted.
+</blockquote>
+
+Por lo tanto, habría que tener cuidado también con los empleados:
+
+<blockquote>
+Our research suggests that policymakers should expand the breadth of security measures to encompass other technologies such as user-access controls that are better able to address the insider threat.
+</blockquote>
+
+Y tener en cuenta que la digitalización puede incrementar los problemas, sobre todo si no se tiene el cuidado necesario:
+
+<blockquote>
+The empirical findings of this paper also suggest that digitization of patient records may increase the likelihood of data breaches.
+</blockquote>
+

@@ -1,0 +1,22 @@
+Post     : [329]
+Title    : Los registros de actividad: ¿cuáles son más interesantes?
+Date     : 11/23/2010 12:00:33 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/11/23/los-registros-de-actividad-%c2%bfcuales-son-mas-interesantes/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : actividad, log, registros, seguridad, sistema, top
+ 
+ 
+Lo vi en <a hreF="http://www.securitybydefault.com/2010/11/seleccionando-informes-de-seguridad.html">Seleccionando informes de seguridad</a> y enlazan a un recurso interesante: cualquiera que tenga que mirar registros de actividad de una máquina sabe que es un trabajo desagradable porque, normalmente, hay muchas cosas registradas que no son nada interesantes. En la publicación de SANS <a href="http://www.sans.org/security-resources/top5_logreports.pdf">[PDF] Top 5 Essential Log Reports</a>, Chris Brenton, Tina Bird y Marcus J. Ranum proponen cinco informes que son relevantes desde el punto de vista de la seguridad:
+
+<ol>
+<li>Intentos de acceso a través de cuentas existentes</li>
+<li>Intentos fallidos de acceso a ficheros o recursos</li>
+<li>Cambios no autorizados en usuarios, grupos y servicios</li>
+<li>Sistemas más vulnerables al ataque</li>
+<li>Patrones de tráfico de red sospechosos o no autorizados</li>
+</ol>
+

@@ -1,0 +1,18 @@
+Post     : [154]
+Title    : Otra comparativa de lenguajes de programación
+Date     : 07/27/2009 12:16:55 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/07/27/otra-comparativa-de-lenguajes-de-programacion/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo lenguajes programación
+Tags     : comparativa, desarrollo, lenguajes, programación
+ 
+ 
+En <a href="http://gmarceau.qc.ca/blog/2009/05/speed-size-and-dependability-of.html">The speed, size and dependability of programming languages</a> (lamentablemente no recuerdo donde lo vi) utilizan los datos de <a href="http://shootout.alioth.debian.org/">The Computer Language Benchmarks Game</a> y muestran una comparativa y una visualización de diferentes lenguajes con las pruebas que se realizan en esas pruebas. Miden la velocidad, pero también el tamaño del código, fundamentalmente.
+
+El ganador es <a href="http://clean.cs.ru.nl/">Clean</a> (rápido y compacto) que es un lenguaje que no conocía.
+
+El enlace lo vi en <a href="http://misvaguedades.blogspot.com/2008/05/lenguajes-de-programacin-una.html">Lenguajes de programación: una comparativa (más)</a> donde analiza un poco los resultados.
+

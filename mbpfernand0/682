@@ -1,0 +1,29 @@
+Post     : [682]
+Title    : Gestores de contraseñas y XSS
+Date     : 08/07/2013 10:42:45 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/08/07/gestores-de-contrasenas-y-xss/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : claves, contraseñas, fallos, managers, passwords, seguridad, XSS
+ 
+ 
+En <a href="http://labs.neohapsis.com/2012/04/25/abusing-password-managers-with-xss/">Abusing
+Password Managers with XSS</a> que se refiere a una forma de engañar al
+gestor de contraseñas del navegador.
+
+<blockquote>
+An issue with both in-browser as well as third-party password managers that gets hardly any attention is how these can be abused by XSS. Because many of these password managers automatically fill login forms, an attacker can use JavaScript to read the contents of the form once it has been filled.  The lack of attention this topic receives made me curious to see how exploitable it actually would be. For the purpose of testing, I built a simple PHP application with a functional login page aswell as a second page that is vulnerable to XSS (find them here). I then proceded to experiment with different JavaScript, attempting to steal user credentials with XSS from the following password managers:
+
+LastPass (Current version as of April 2012)
+Chrome (version 17)
+Firefox (version 11)
+Internet Explorer (version 9)
+
+I first visited my login page and entered my password. If the password manager asked me if I wanted it to be remembered, I said yes. I then went to the XSS vulnerable page in my application and experimented with different JavaScript, attempting to access the credentials stored by the browser or password manager.
+</blockquote>
+
+Soy muy partidario de utilizar un gestor de contraseñas, pero no me siento confortable con que esté en el propio navegador porque pueden pasar cosas como estas.
+

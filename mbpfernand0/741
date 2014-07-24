@@ -1,0 +1,26 @@
+Post     : [741]
+Title    : Un simple correo puede causarnos problemas
+Date     : 02/28/2014 19:40:22 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/02/28/un-simple-correo-puede-causarnos-problemas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : correo, divulgación, google, información, seguridad
+ 
+ 
+En <a href="http://www.wired.com/threatlevel/2012/10/dkim-vulnerability-widespread/all/">How a Google Headhunter’s E-Mail Unraveled a Massive Net Security Hole</a> cuentan como un simple correo y el intento de verificar si es original o no llevó a Zachary Harris a descubrir que Google utilizaba una clave criptográfica pequeña para la autentificación de los envíos.
+
+De todas formas, casi nadie mira estas cosas...
+
+<blockquote>
+Harris found three classes of key lengths used by vulnerable domains – 384 bits, 512 bits, and 768 bits.
+
+“A 384-bit key I can factor on my laptop in 24 hours,” he says. “The 512-bit keys I can factor in about 72 hours using Amazon Web Services for $75. And I did do a number of those. Then there are the 768-bit keys. Those are not factorable by a normal person like me with my resources alone. But the government of Iran probably could, or a large group with sufficient computing resources could pull it off.”
+
+In addition to Google, he found that eBay, Yahoo, Twitter and Amazon were all using 512-bit keys. PayPal, LinkedIn, US Bank and HSBC were using 768-bit keys.
+
+“It was good that PayPal and the banks were in the 768 category, but still, for domains that are as heavily phished as PayPal, 768 is really not okay,” Harris says. “They really should have been at 1024, and they have heeded the message and said they really should have had stronger keys all along.”
+</blockquote>
+

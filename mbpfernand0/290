@@ -1,0 +1,22 @@
+Post     : [290]
+Title    : Alguien puso un troyano en mi servidor de IRC
+Date     : 06/24/2010 12:58:16 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/06/24/alguien-puso-un-troyano-en-mi-servidor-de-irc/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : irc seguridad troyano
+Tags     : código, irc, miles, ojos, seguridad, troyano
+ 
+ 
+Ya hemos hablado antes de estos temas: un programa de código libre no tiene por qué ser auditado por nadie externo y puede tener problemas de seguridad. En este caso el ejemplo es el UnrealIRCd <a href="http://www.hispasec.com/unaaldia/4250">Popular servidor de IRC troyanizado desde hace unos 8 meses</a>.
+
+<blockquote>
+A pesar de ser un programa veterano (desde 1999), un cambio en los archivos fuente de ciertos servidores ha pasado desapercibido durante unos 8 meses.  Es uno de los periodos más largos que podemos recordar en los que un programa troyanizado ha pasado inadvertido. Los desarrolladores deberían haber realizado una mínima auditoría del estado de sus servidores y archivos. No se tiene información de cómo han conseguido entrar en los servidores.
+
+Creemos que es irrelevante que la puerta trasera fuese "visible" en el código fuente descargado. Esto no ha "acelerado" su detección. Aunque ha sido compilado por (probablemente miles de) administradores, nadie ha detectado el problema (o nadie ha avisado). Esto es lógico en proyectos de cierta envergadura: simplemente, es muy poco probable que un usuario ocasional detecte algo "raro" en un código ajeno de miles de líneas.  Mantenerlo a punto es responsabilidad de los desarrolladores principales, no de las personas que lo descargan.
+</blockquote>
+
+Ya habíamos comentado sobre fallos añejos en <a href="http://mbpfernand0.wordpress.com/2010/05/06/un-fallo-de-17-anos/">Un fallo de 17 años</a> y <a href="http://mbpfernand0.wordpress.com/2009/09/07/el-mito-de-los-miles-de-ojos/">El mito de los miles de ojos</a>.
+

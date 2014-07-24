@@ -1,0 +1,31 @@
+Post     : [385]
+Title    : Pero ... ¿Cómo de importante es la seguridad?
+Date     : 03/23/2011 14:51:54 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/03/24/pero-%c2%bfcomo-de-importante-es-la-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : desarrollo, importancia,, prioridades, seguridad
+ 
+ 
+La entrada es cortita pero contundente: <a href="http://appsandsecurity.blogspot.com/2011/02/security-people-vs-developers.html">Security People vs Developers</a>. En un sondeo informal, este sería el orden de prioridades:
+
+<blockquote>
+1. Functions and features as specified or envisioned
+2. Performance
+3. Usability
+4. Uptime
+5. Maintainability
+6. Security
+</blockquote>
+
+Según sea nuestro sesgo, seguro que ordenaríamos de manera diferente pero ...
+
+<blockquote>
+Appsec friends, let 2011 be the year where you go to training to learn what's important in software and where security fits in the big picture. Then we won't hear anymore jokes on ignorant developers in 2012.  Instead we'll be humble and get things done.
+</blockquote>
+
+Humildad, y tratar de alcanzar los objetivos.
+

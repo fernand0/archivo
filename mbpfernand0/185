@@ -1,0 +1,14 @@
+Post     : [185]
+Title    : Los parámetros y el HTTPS: GET, POST y más
+Date     : 11/09/2009 20:05:45 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/11/09/los-parametros-y-el-https-get-post-y-mas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : get, HTTPS, internet, parámetros, post, seguridad, web
+ 
+ 
+En <a href="http://michael-coates.blogspot.com/2009/11/https-data-exposure-get-vs-post.html">HTTPS Data Exposure - GET vs POST</a> un resumen rápido de la exposición de los datos que se transmiten mediante el protocolo cifrado https considerando GET, POST, si la conexión va cifrada o no y los diversos participantes en la transmisión y recepción.
+

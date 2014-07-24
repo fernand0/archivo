@@ -1,0 +1,17 @@
+Post     : [317]
+Title    : La intimidad y los dispositivos inalámbricos
+Date     : 11/04/2010 19:29:40 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/11/04/la-intimidad-y-los-dispositivos-inalambricos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : hogar seguridad wireless
+Tags     : casa, dispositivos, hogar, intimidad, privacidad, seguridad, wireless
+ 
+ 
+No termina de quedarme claro el tipo de sensores que comentan en el artículo (creo que por estos lares no son tan frecuentes) pero me pareció interesante el artículo <a href="http://www.cs.virginia.edu/~vs8h/p202-srinivasan.pdf">[PDF] Protecting your Daily In-Home Activity Information from a. Wireless Snooping Attack</a>: se trata de analizar el tráfico de los sensores de presencia y de otros tipos que podemos tener instalados en los hogares para espiar y averiguar patrones de conducta de los habitantes desde el exterior: cuándo duermen, cuándo están en determinadas habitaciones, cuántos son, dónde está cada tipo de habitación (cocina, dormitorio, ...) ...
+El método se basa en escuchar a los sensores (cuya información puede estar cifrada, pero que no están contínuamente transmitiendo) y determinar, en función de su actividad, la actividad de las personas que viven en la casa.  Los interesados, puede que encuentren más cómoda la presentación en <a href="http://www.cs.virginia.edu/~vs8h/Ubicomp08Presentation.ppt">[PPT] Protecting your Daily In-Home Activity Information from a. Wireless Snooping Attack</a> porque hay más gráficos y va más directamente a los resultados.
+
+Seguiríamos en la línea de los ataques a tecnología doméstica, para la que todavía no se está prestando suficiente atención por parte de los que la intalan en los hogares (ver algo más en <a href="http://mbpfernand0.wordpress.com/2010/09/20/mas-ataques-a-coches/">Más ataques a coches</a> y en sus enlaces).
+

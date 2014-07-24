@@ -1,0 +1,14 @@
+Post     : [327]
+Title    : Fedora: muerte al setuid
+Date     : 11/21/2010 11:34:43 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/11/21/fedora-muerte-al-setuid/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : cambios, capabilities, costumbres, fedora, linux, seguridad, setuid
+ 
+ 
+<code>setuid</code> es uno de esos quebraderos de cabeza que sobreviven a lo largo del tiempo (<a href="http://en.wikipedia.org/wiki/Setuid">setuid y setgid</a> en la Wikipedia): se trata de permisos de acceso para algunos programas que necesitan acceso a recursos con privilegios elevados, que pueden cambiar en tiempo de ejecución dichos privilegios para llevar a cabo su tarea. En Fedora (una de las distribuciones de Linux) han decidido que ya no tiene sentido utilizar ese mecanismo (y sus problemas asociados) y proponen <a href="http://fedoraproject.org/wiki/Features/RemoveSETUID">eliminar los programas con setuid</a> y pasarse a utilizar el mecanismo de <a href="http://www.ibm.com/developerworks/library/l-posixcap.html">capabilities</a>.
+

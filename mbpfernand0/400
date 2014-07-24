@@ -1,0 +1,16 @@
+Post     : [400]
+Title    : Contaminación de parámetros HTTP (HPP)
+Date     : 05/04/2011 19:01:39 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/05/04/contaminacion-de-parametros-http-hpp/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : entrada, HPP, http, protocolos, seguridad, validación
+ 
+ 
+Ya hablamos en su día de la <a href="http://mbpfernand0.wordpress.com/2009/05/20/polucion-de-parametros-del-protocolo-http/">Polución de parámetros del protocolo http</a> y de la herramienta que lanzaron para tratar de detecarlos en <a href="http://mbpfernand0.wordpress.com/2010/12/20/papas-%C2%BFsomos-vulnerables-a-la-polucion-de-parametros-http/">PAPAS: ¿Somos vulnerables a la polución de parámetros HTTP?</a>.
+
+En <a href="http://www.elladodelmal.com/2011/03/hpp-http-parameter-pollution.html">HPP: Http Parameter Pollution</a> hay una notita explicando el problema en nuestro idioma de Carmen Torrano que está trabajando en la herramienta y que muchos encontrarán de interés (si es que no la han leido ya, claro).
+

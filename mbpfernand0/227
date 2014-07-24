@@ -1,0 +1,18 @@
+Post     : [227]
+Title    : Ataques a objetivos concretos
+Date     : 02/03/2010 21:47:13 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/02/03/ataques-a-objetivos-concretos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : ataques, objetivos, personalizados, seguridad
+ 
+ 
+Siempre se habla de que se podrían tener ataques personalizados como una posibilidad pero nunca se comenta demasiado sobre esto en los medios de comunicación y sitios de noticias. Supongo que se debe a que los ataques personalizados no son tan publicitados (a lo mejor hasta pasan desapercibidos) y tampoco son de interés general. Sin embargo, leíamos el otro día un par de ellos donde los objetivos eran de suficiente nivel como para no pasar desapercibidos: en <a href="http://www.f-secure.com/weblog/archives/00001859.html">On-going Targeted Attacks Against US Military Contractors</a> hablaban de ataques a contratistas de las fuerzas armadas de EEUU y en <a href="http://www.f-secure.com/weblog/archives/00001862.html">Intelligence Sector Hit by a Targeted Attack</a>.
+
+En ambos casos se trata de aprovechar una vulnerabilidad del lector de PDF y un documento malicioso adecuadamente preparado, que abriría una puerta trasera que permitiría al propietario del PDF conectarse al ordenador comprometido.
+
+Por aquí sí que habíamos hablado de ataques personalizados en <a href="http://mbpfernand0.wordpress.com/2009/04/15/puedes-estar-vigilado/">Puedes estar vigilado</a>.
+

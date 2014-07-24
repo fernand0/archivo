@@ -1,0 +1,16 @@
+Post     : [259]
+Title    : Hacia la seguridad en positivo
+Date     : 04/12/2010 01:27:04 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/04/12/hacia-la-seguridad-en-positivo/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : permitido, prohibido, reglas
+ 
+ 
+En seguridad hay típicamente dos aproximaciones: prohibir las cosas que sabemos que son malas (listas negras), o permitir sólo las que sabemos que son seguras (listas blancas). Es bastante habitual la primera (con los peligros que tiene: no podemos saber todas las cosas malas que pueden pasar). En <a href="http://www.breach.com/resources/whitepapers/downloads/WP_Beyond-Negative-Security.pdf">Beyond Negative Security (pdf)</a> nos recuerdan algunos fallos habituales, la forma que se utiliza para prohibirlos (y cómo eso puede fallar) y alguna solución adoptando la aproximación más apropiada.
+Un recordatorio interesante.
+
+

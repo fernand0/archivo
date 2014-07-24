@@ -1,0 +1,14 @@
+Post     : [54]
+Title    : 'Chuleta' para la prevención de 'Cross Site Scripting'
+Date     : 02/12/2009 16:22:37 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/02/12/chuleta-para-la-prevencion-de-cross-site-scripting/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad OWASP web
+Tags     : OWASP web internet ESAPI seguridad
+ 
+ 
+Del proyecto <a href="http://www.owasp.org/">OWASP</A>  acabo de descubrir la <a href="https://www.owasp.org/index.php?title=XSS_(Cross_Site_Scripting)_Prevention_Cheat_Sheet">XSS (Cross Site Scripting) Prevention Cheat Sheet</a>, y a partir de ella el proyecto <a href="https://www.owasp.org/index.php/ESAPI">ESAPI, Enterprise Security API</a>, que son un conjunto de clases y métodos que encapsulan las principales operaciones relacionadas con la seguridad (autentificación, identificación, validación, codificación, ...).
+

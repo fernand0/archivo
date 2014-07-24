@@ -1,0 +1,19 @@
+Post     : [312]
+Title    : ¿Qué empresas contribuyen más al software libre?
+Date     : 10/19/2010 01:06:04 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/10/19/%c2%bfque-empresas-contribuyen-mas-al-software-libre/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : datos internet libre software
+Tags     : cifras, datos, empresas, estadísticas, internet, libre, mail, software
+ 
+ 
+
+Internet nos ofrece un mundo de datos por explorar. Teniendo en cuenta que son aproximaciones (porque los datos no son completos, o tienen sus propias dinámicas, ...) podemos aprender algunas cosas. En este caso en <a href="http://redmonk.com/sogrady/2010/10/05/open-source-email-traffic/">Evaluating Open Source Participation by Email Traffic</a>  nos hablan de una recopilación de listas de correo de proyectos de software libre y un análisis sencillo, basado en el origen de los mensajes (buscando los dominios de los mails corporativos de algunas empresas) que nos da algunas ideas de quién y cuánto ha contribuido (a través de la participación de sus empleados en las listas de correo).
+
+Además de los datos sobre algunas empresas conocidas, podemos ver que gmail es el servicio favorito de los desarrolladores de software libre (gana por goleada a hotmail y Yahoo!) y también podemos hacer nuestras propias indagaciones: por ejemplo <a href="http://markmail.org/search/?q=type%3Adevelopment+from%3Aunizar.es&amp;x=38&amp;y=16">participación de gente del dominio unizar.es</a>.
+
+Esta entrada claramente era dudosa entre esta bitácora y la otra pero como el otro día puse allí la entrada <a href="http://fernand0.blogalia.com/historias/67938">Sensores como nosotros</a> y aquí se habla un poco de software libre, he preferido ponerla aquí.
+

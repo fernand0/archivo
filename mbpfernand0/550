@@ -1,0 +1,37 @@
+Post     : [550]
+Title    : Siempre hay sitio para la optimización
+Date     : 03/23/2012 11:49:32 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/03/23/siempre-hay-sitio-para-la-optimizacion/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación
+Tags     : algoritmia, desarrollo, optimización, programación, velocidad
+ 
+ 
+La optimización del código que se ejecuta en nuestros programas es un tema clave (y con el que hay que tener cuidado sobre todo <a href="http://c2.com/cgi/wiki?PrematureOptimization">antes de tiempo</a>).
+Por eso me gustó leer <a href="http://tech.dropbox.com/?p=89">A Python Optimization Anecdote</a> donde nos cuentan los pasos seguidos para mejorar una función para evitar Cross-Sie scripting en Dropbox.
+
+En resumen: probar, medir (y para eso hay que tener casos de prueba *nuestras pruebas, nuestros datos*) y ver cómo afecta a nuestro código con nuestros datos los cambios que hagamos:
+
+<blockquote>
+Conclusions
+The first, most basic conclusion is that the basic facts of Python
+optimization inline functions, use implicit loops, move computation into C
+if possible are perfectly valid. Another fact: Python dictionaries are
+*fast*. The WHITELIST set and the CACHE_HTML_ESCAPES dict both rely on the
+superb hash table implementation for their performance gains.
+
+Other “common wisdom”, like using locals instead of globals, yields
+relatively little gain.
+
+Optimizing inner loops in a high-level loops requires lots of trial and
+error. It was absolutely amazing that moving to string concatenation from
+string interpolation gave such a huge boost to performance.
+
+Finally, measurement is key. It was measurement that told us that HTML
+escaping was slow to begin with; and without measuring performance, we
+would never have guessed that string interpolation was so slow.
+</blockquote>
+

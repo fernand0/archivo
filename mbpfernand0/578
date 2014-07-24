@@ -1,0 +1,46 @@
+Post     : [578]
+Title    : Asalto al kindle
+Date     : 06/19/2012 21:07:10 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/06/19/asalto-al-kindle/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : jailbreak, kindle, root, rootkit, seguridad, ssh
+ 
+ 
+No soy especialista (ni tan siquiera muy aficionado) en este tipo de 'juegos' pero me gusta verlos, guardarlos y recordarlos para ver como las empresas de primer nivel tienen verdaderos problemas para lanzar productos que puedan resistir los ataques que pueden aparecer. Por eso recomiendo leer: <a href="http://yifan.lu/2011/12/10/kindle-touch-5-0-jailbreakroot-and-ssh/">Kindle Touch (5.0) Jailbreak/Root and SSH</a> donde se cuentan los detalles para el aparato de Amazon.
+
+Algunos fragmentos:
+
+Buscar:
+
+<blockquote>
+Once we have the root image, it was only a matter of painstakingly looking through all the files to see possible injection vectors.
+</blockquote>
+
+(casi) Siempre hay más de una forma:
+
+<blockquote>
+I found the bootloader was unlocked but it would be a pain and danger for users (and even developers) to flash custom kernels and such. I also found that the Java code (the Kindle’s entire GUI is written in Java) is NOT obfuscated (which means it would be easier to reverse and later modify) and Amazon has left in many places to place plugins.
+</blockquote>
+
+Se descubren cosas, y cambios:
+
+<blockquote>
+Much of the operating system is no longer written in Java, but are now in HTML5 and Javascript. In fact, many of the interfaces on the Touch are actually web pages in disguise.
+</blockquote>
+
+Y, finalmente:
+
+<blockquote>
+However, I didn’t have to look though much before I found a curious function: nativeBridge.dbgCmd();. It seems too good to be true. This function takes any shell command, and runs it (as root). Yup.
+</blockquote>
+
+¿La forma de hacerlo?
+
+<blockquote>
+So the normal browser (as the one you can enter URLs into) can’t make use of this native bridge. However, as I’ve mentioned, a large part of the GUI in the Kindle Touch is HTML and JavaScript. All we need to do is inject some HTML into one of these and we would be all set. We need something that takes input and displays it to the user. The first thing I thought of was the media player. The Kindle displays the song title, artist, and album name in the music player, so what if we put some HTML into the ID3 tag?  Yup, it works. How about some javascript? Running. Let’s try to call the debug function. It works. Well, that was a freebie.
+</blockquote>
+

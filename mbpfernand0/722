@@ -1,0 +1,19 @@
+Post     : [722]
+Title    : Lo que sucede cuando nos conectamos con SLL/TLS
+Date     : 13/01/2014 09:37:11 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/10/01/lo-que-sucede-cuando-nos-conectamos-con-slltls/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : conexión, HTTPS, iformación, seguridad, ssl, tls, transmisión
+ 
+ 
+En <a href="http://www.sans.org/reading-room/whitepapers/authentication/ssl-tls-whats-hood-34297">[PDF] SSL/TLS: What’s Under the Hood</a> un documento con bastante información sobre el tema, y con un nivel de detalle interesante.
+
+<blockquote>
+Secure Sockets Layer (SSL) and Transport Layer Security (TLS) are both
+protocols used for the encryption of network data
+</blockquote>
+

@@ -1,0 +1,20 @@
+Post     : [109]
+Title    : La complejidad y la seguridad
+Date     : 04/08/2009 18:50:37 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/04/08/la-complejidad-y-la-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : vulnerabilidades
+Tags     : complejidad, fallos, seguridad, vulnerabilidades
+ 
+ 
+En <a href="http://www.cerias.purdue.edu/site/blog/post/symposium_summary_complexity_vs_security_choosing_the_right_curve_morning_k/">Symposium Summary: Complexity vs. Security—Choosing the Right Curve, Morning Keynote Address</a> se puede leer un resumen cortito de la presentación del Dr.  Ronald W. Ritchey en el <a href="http://www.cerias.purdue.edu/site/symposium/">Symposium de CERIAS</A> (Center for for Education and Research in Information Assurance and Securigy) y en <a href="http://www.cerias.purdue.edu/site/blog/post/symposium_transcript_complexity_vs_security_choosing_the_right_curve_mornin/">Symposium Transcript: Complexity vs. Security—Choosing the Right Curve, Morning Keynote Address</a> una versión más completa. Lo que no encuentro es la presentación en sí, que creo que sería de utilidad.
+
+Se habla del tema de si la complejidad del software hace que haya más fallos de seguridad o no. Hasta ahora, el sentimiento 'común' tenía que ver con lo que dijo Dan Geer, mostrando una relación directa entre el número de líneas de código y vulnerabilidades (por ejemplo, en el tutorial -cuidado, 346 páginas- <a href="http://all.net/Metricon/measuringsecurity.tutorial.pdf">Measuring Security (pdf)</a>, casi al final) y el autor no lo tiene tan claro, aludiendo a un par de estudios relacionados: <a href="http://www.eecs.harvard.edu/~stuart/papers/usenix06.pdf">Is Complexity Really the Enemy of Software Security (pdf)</a> que parece ir en al línea de que no (aunque sólo se refiere a la máquina virtual de JavaScript de Mozilla) utilizando 9 medidas diferentes de complejidad y no encontrando relación. También el caso de <a href="http://www.eecs.harvard.edu/~stuart/papers/usenix06.pdf">Milk or Wine: Does Software Security Improve with Age? (pdf) (pdf)</a>, donde parece haber evidencias de que eso es así en el código de OpenBSD en el que las vulnerabilidades van decreciendo con el tiempo y sugieren que cuando alguien se concentra en hacer las cosas bien (pero ... ¿quién hace eso?) uno puede conseguir código más complejo y no perder seguridad o incluso mejorarla. Además, probablemente la mayoría de los problemas están en el código 'fundacional', porque después en el mantenimiento hay menos 'actividad'.
+
+De todas formas, el número de líneas de código no sería la medida buena de la complejidad. Tal vez habría que concentrarse especialmente en los momentos en que se producen desarrollos más grandes (y cambios mayores) para evitar los problemas.
+
+Sobre las opiniones de Dan Geer ya habíamos hablado en vidas pasadas, por ejemplo en <a href="http://barrapunto.com/~fernand0/journal/29955"> Dan Geer sobre monocultura, diversidad, evolución y otros</a>, con referencia a una <a href="http://geer.tinho.net/geer.sourceboston.txt">conferencia sobre diversidad</a> en la que también habla del tema de la complejidad un poquito.
+

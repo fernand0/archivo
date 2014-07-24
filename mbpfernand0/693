@@ -1,0 +1,30 @@
+Post     : [693]
+Title    : ¿Cuánto cuesta descubrir tu contraseña?
+Date     : 07/19/2013 20:49:47 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/07/19/cuanto-cuesta-descubrir-tu-contrasena/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : clave, contraseña, duración, fortaleza, seguridad, tiempo
+ 
+ 
+Es bueno leer de vez en cuando un artículo de estos para conocer el 'estado del arte' en estos temas: <a href="http://www.itworld.com/security/280486/how-long-would-it-take-crack-my-password"> How many seconds would it take to break your password?</a>. Aunque la velocidad de ataque no avanza tan rápido como creemos, lo cierto es que vale la pena echarle un ojo a los datos:
+
+<blockquote>
+How long would it take to crack my password: (Includes letters and numbers, no upper- or lower-case and no symbols)
+
+6 characters: 2.25 billion possible combinations
+
+Cracking online using web app hitting a target site with one thousand guesses per second: 3.7 weeks.
+Cracking offline using high-powered servers or desktops (one hundred billion guesses/second): 0.0224 seconds
+Cracking offline, using massively parallel multiprocessing clusters or grid (one hundred trillion guesses per second: 0.0000224 seconds
+</blockquote>
+
+Yo suelo usar (aunque ya tiene algún tiempo) una tabla construida a partir de <a href="http://www.tufuncion.com/ataques-passwords-hacker-msn">Datos de seguridad en contraseñas</a>.
+
+el objetivo tampoco es los datos exactos de tiempo (que van cambiando) sino que quede claro que:
+
+¡El tamaño importa! (y la complejidad).
+

@@ -1,0 +1,56 @@
+Post     : [409]
+Title    : Un estudio sobre HTTPOnly y Secure Cookie
+Date     : 05/30/2011 21:48:56 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/05/30/un-estudio-sobre-httponly-y-secure-cookie/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : cifras seguridad,
+Tags     : cifras, datos, dookies,, estudios, flags, seguridad
+ 
+ 
+Por la posibilidad de hacerlos y porque, al final, llevan un trabajo no desdeñable me gustan mucho este tipo de estudios. Por algún motivo lo había dejado aparcado y lo traigo ahora aquí: <a href="http://michael-coates.blogspot.com/2010/12/study-of-httponly-and-secure-cookie.html"> Study of HTTPOnly and Secure Cookie Flags for the Top 1000 Websites</a>.
+
+Como el título sugiere, se eligen los 1000 sitios más importantes (según alexa, en este caso) y se observa el resultado de alguna característica de seguridad. En este caso los flags <a href="https://www.owasp.org/index.php/HttpOnly#What_is_HttpOnly.3F">HttpOnly</a> y Secure cookie: se trata de hacerse una idea del uso que dan estos sitios a esas características de seguridad.
+
+<blockquote>
+Unique Domains Responding: 162
+Domains responding to https://www.: 141
+Domains responding to https://: 88
+
+Total Cookies Gathered: 559
+Cookies from https://www.: 373
+Cookies from https://: 186
+
+HTTPOnly Flag
+Total unique count of cookies using secure flag: 26
+Cookies from https://www.: 25
+Cookies from https://:11
+Note: 10 of the 11 sites from https:// were duplicated within the
+https://www. results
+
+SECURE Flag
+Total unique count of cookies using secure flag: 15
+Cookies from https://www.: 15
+Cookies from https://: 0
+
+Session Cookies
+Cookies containing the word "session": 91
+Total unique count of these cookies marked HTTPOnly: 12
+Total unique count of these cookies marked SECURE: 8
+Total unique count of these cookies marked SECURE &amp; HTTPOnly: 1
+(https://www.clickbank.com)
+
+HTTPOnly &amp; SECURE
+Total number of cookies marked HTTPOnly &amp; SECURE : 7
+6 from https://www.paypal.com
+1 from https://www.clickbank.com
+
+Raw data can be found at the following <a href="https://spreadsheets.google.com/ccc?key=0AhSfMVkfLvsldGpOWm5LSDhfZjJDNVpEWF9XY0Q1a1E&amp;hl=en&amp;authkey=CLGk06IN">link</a>.
+</blockquote>
+
+La metodología tiene sus debilidades: puede ser que se utilicen estas cosas, pero no en la página que se mira, o algún error temporal, pero da una idea ...
+
+Ya hemos comentado otras veces estudios 'numerológicos' similares, por ejemplo en <a href="http://mbpfernand0.wordpress.com/2011/02/08/claves-y-usabilidad/">Claves y usabilidad</a> o en <a href="http://mbpfernand0.wordpress.com/2010/11/19/contrasenas-usabilidad-y-uso/">Contraseñas, usabilidad y uso</a>.
+

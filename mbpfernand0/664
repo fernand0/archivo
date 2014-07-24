@@ -1,0 +1,31 @@
+Post     : [664]
+Title    : Copiar y pegar código no siempre es malo
+Date     : 02/26/2013 18:54:32 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/02/26/copiar-y-pegar-codigo-no-siempre-es-malo/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : copia, desarrollo, patrones, pega, programación
+ 
+ 
+Un artículo sobre copia/pega de código que tenía por ahí guardado: <a href="http://maveric0.uwaterloo.ca/~migod/papers/2008/emse08-ClonePatterns.pdf">[PDF] “Cloning considered harmful” considered harmful: patterns of cloning in software</a>.
+
+Típicamente, cuando se copia y pega el código en un sistema se considera una mala práctica. Sin embargo, los autores consideran que hay que analizarlo mejor y ver cuando puede tener sentido y cuando no.
+
+<blockquote>
+This paper describes several patterns of cloning that we have observed in our case studies and discusses the advantages and disadvantages associated with using them. We also examine through a case study the frequencies of these clones in two medium-sized open source software systems, the Apache web server and the Gnumeric spreadsheet application.  In this study, we found that as many as 71% of the clones could be considered to have a positive impact on the maintainability of the software system.
+</blockquote>
+
+Por ejemplo, podría aportar estabilidad en zonas ya probadas y que
+funcinonan, mientras se experimenta en otras partes más novedosas:
+
+<blockquote>
+There is no doubt that code cloning is sometimes an indication of sloppy design and in such cases should be considered to be a kind of development “bad smell” (Fowler et al. 1999). However, we have found that there are many instances where this is simply not the case. For example, cloning may be used to introduce experimental optimizations to core subsystems without negatively affecting the stability of the main code. Thus, a variety of concerns such as stability, code ownership, and design clarity need to be considered before any refactoring is attempted; a manager should try to understand the reason behind the duplication before deciding what action (if any) to take.
+This paper introduces eleven cloning patterns that we have uncovered during
+case studies on large software systems,...
+</blockquote>
+
+Interesante.
+

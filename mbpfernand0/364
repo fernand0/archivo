@@ -1,0 +1,14 @@
+Post     : [364]
+Title    : Seguimiento y comprensión de fallos relacionados con la seguridad
+Date     : 01/27/2011 18:29:41 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/01/27/seguimiento-y-comprension-de-fallos-relacionados-con-la-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : ingeniería seguridad,
+Tags     : desarrollo, ingeniería, seguimiento, seguridad, software
+ 
+ 
+Uno de los  problemas cuando nos entra la preocupación por el desarrollo seguro es integrarlo en las rutinas habituales de ingeniería del software: a los fallos y sus medidas habituales (pruebas y todo lo relacionado) se añaden los fallos de seguridad que también son fallos, con características un poco especiales. Robert Auger nos cuenta en <a href="http://www.qasec.com/2011/01/tips-for-tracking-security-related-defects-in-your-bugtracker.html">Tracking and understanding security related defects</a> algunas ideas sobre el tema: básicamente integrarlos en el sistema de seguimiento de fallos (bug tracking) y marcarlos adecuadamente (o además) como fallos de seguridad para que podamos hacer un seguimiento (sin olvidar que algunos fallos de seguridad no se marcarán como tales) y también hacer algo de pedagogía (proporcionando listas de fallos frecuentes, apoyo a los desarrolladores que controlen todavía mucho de estos temas, vigilancia sobre si se están tratando adecuadamente ...).
+

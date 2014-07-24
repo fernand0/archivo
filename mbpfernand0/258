@@ -1,0 +1,27 @@
+Post     : [258]
+Title    : Fuzzing, ciclos vacíos y fallos
+Date     : 04/10/2010 21:38:28 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/04/10/fuzzing-ciclos-vacios-y-fallos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : ciclos, desarrollo, fuzzing, microsoft, office, pruebas, tests
+ 
+ 
+En <a href="http://www.computerworld.com/s/article/9174539/Microsoft_runs_fuzzing_botnet_finds_1_800_Office_bugs">Microsoft runs fuzzing botnet, finds 1,800 Office bugs</a> nos cuentan como Microsoft utliza los ordenadores que no están haciendo nada ('idle cycles') para hacer 'Fuzzing' y encontrar fallos en Office.
+
+<blockquote>
+"We found and fixed about 1,800 bugs in Office 2010's code," said Gallagher, who last week co-hosted a presentation on Microsoft's fuzzing efforts at the CanSecWest security conference in Vancouver, British Columbia. "While a large number, it's important to note that that doesn't mean we found 1,800 security issues. We also want to fix things that are not security concerns."
+</blockquote>
+
+Muy interesante la idea de utilizar la potencia de cálculo disponible para
+probar estas cosas.
+
+Visto en <a href="http://developers.slashdot.org/story/10/04/02/0733221/Microsoft-Fuzzing-Botnet-Finds-1800-Office-Bugs">Microsoft Fuzzing Botnet Finds 1,800 Office Bugs</a>.
+
+Ya hablamos de Fuzzing el otro día en <a href="http://mbpfernand0.wordpress.com/2010/04/08/jbrofuzz-para-hacer-fuzzing/">JBroFuzz para hacer fuzzing</a> (y allí hay más enlaces).  Creo que también de la idea de que las empresas empleen sus ciclos vacíos para cálculos que lo necesiten y también en la idea de la computación distribuida en general, por ejemplo en <a href="http://mbpfernand0.wordpress.com/2009/09/30/una-darknet-en-el-navegador/">Una darknet en el navegador</a>.
+
+Dos tendencias que parece que están ganando terreno.
+

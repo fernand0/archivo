@@ -1,0 +1,17 @@
+Post     : [242]
+Title    : Las actualizaciones
+Date     : 02/24/2010 00:58:22 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/02/24/las-actualizaciones/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : actualizaciones, botnet, parches, sistemas, Windows, zeus
+ 
+ 
+
+Mucho se está hablando de la <a href="http://en.wikipedia.org/wiki/Zeus_%28trojan_horse%29">botnet Zeus</a>. De todas formas, a mi lo que más me ha llamado la atención es la gráfica de sistemas infectados (se puede ver también en la Wikipedia) que podemos ver en <a href="http://www.net-security.org/secworld.php?id=8884">Massive ZeuS compromise discovered</a>. Muestra claramente una gran diferencia entre sistemas más nuevos y menos nuevos (que creo que no se justifica por la posible falta de actualización de sistemas: habría más del doble de sistemas infectados con XP SP Professional 2 que con XP Professional SP 3).  Parecería razonable interpretar (a falta de cifras de actualización, claro) que los sistemas parcheados resisten mejor las infecciones que los no actualizados.
+
+Ya habíamos hablado de que <a href="http://mbpfernand0.wordpress.com/2009/03/26/los-parches-hay-que-aplicarlos/">Los parches hay que aplicarlos</a>. También sobre <a href="http://mbpfernand0.wordpress.com/2009/06/09/la-seguridad-los-navegadores-y-las-actualizaciones/">La seguridad, los navegadores y las actualizaciones</a>.
+

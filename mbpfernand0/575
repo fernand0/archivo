@@ -1,0 +1,21 @@
+Post     : [575]
+Title    : Cross site requets forgery con Oauth2
+Date     : 06/15/2012 12:22:15 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/06/15/cross-site-requets-forgery-con-oauth2/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : Cross,, csrf, forgery, oauth, oauth2, problemas, request, seguridad, site,, web
+ 
+ 
+En <a href="http://blog.springsource.org/2011/11/30/10317/">Cross Site
+Request Forgery and OAuth2</a> algunas ideas sobre lo que puede ir mal
+utilizando Oauth2 para proteger recursos en la web.
+
+<blockquote>
+Conclusions
+We've taken a look at some CSRF attacks on an OAuth2 system and some measures that can be taken to defend against them. The general conclusion is that there are plenty of opportunities to defeat such attacks, some of which come from the specification and come which do not. As with any security vulnerability, whether or not a system is well defended against CSRF depends on the details of the implementation as well as the quality of passwords and secrets. Even a system which meets the specification can be attacked, but there are some measures that can be taken by careful implementations to make those attacks unlikely to succeed.
+</blockquote>
+

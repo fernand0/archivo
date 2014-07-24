@@ -1,0 +1,17 @@
+Post     : [272]
+Title    : Un fallo de 17 años
+Date     : 05/06/2010 20:21:22 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/05/06/un-fallo-de-17-anos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : fallos seguridad vulnerabilidades
+Tags     : 17, antiguo, fallos, seguridad, sorpresas+te+da+la+vida, tiempo, viejo, vulnerabilidades, Winows
+ 
+ 
+Esta vez se trata de un fallo en Windows, <a href="http://www.theregister.co.uk/2010/01/19/microsoft_escalation_bug/">Windows plagued by 17-year-old privilege escalation bug</a>. Concretamente afecta a la 'Virtual DOS Machine' introducida en 1993 con Windows NT. En <a href="http://archives.neohapsis.com/archives/fulldisclosure/2010-01/0346.html">Microsoft Windows NT #GP Trap Handler Allows Users to Switch Kernel Stack</a> se pueden ver más detalles del fallo.
+
+Es una cosa medio técnica y poco 'glamourosa' (creo), pero ¿por qué lo traigo aquí?
+Me gusta recopilar este tipo de cosas, y ya habíamos hablado de fallos que permanecen mucho tiempo y que aparecen años después (en esta ocasión casi con la 'mayoría de edad') en <a href="http://mbpfernand0.wordpress.com/2009/09/07/el-mito-de-los-miles-de-ojos/">El mito de los miles de ojos</a>, hablando del software libre y este que traemos ahora es de software privativo, pero de difusión muy amplia.
+

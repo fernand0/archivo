@@ -1,0 +1,130 @@
+Post     : [671]
+Title    : Raspberry Pi: ¿qué temperatura hace en mi casa?
+Date     : 03/28/2013 21:13:07 UTC
+Link     : http://mbpfernand0.wordpress.com/2013/03/28/raspberry-pi-que-temperatura-hace-en-mi-casa/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : desarrollo, pi, programación, proyectos, raspberry, raspi
+ 
+ 
+Estaba dudando si este sería el lugar adecuado para poner estas cosas o si debería crear otra bitácora. Visto mi ritmo de trabajo (lento), creo que será más razonable ponerlo aquí e ir contando las cosas que haga, si es que tengo tiempo de hacerlas (y luego de explicarlas).
+
+Vamos a hablar de un mini-proyecto que consiste en tener una Raspberry Pi conectada a la WiFi de casa y cómo controlarla desde el exterior (el trabajo, con un móvil, ...) y aprovechar sus prestaciones.
+
+Para ello, he estado preparando un pequeño montaje que tiene un sensor de temperatura, y además es capaz de hacer un par de cosas (pequeñas) más.
+
+Para la parte del sensor seguí el tutorial que publicó Pablo Murillo en <a href="http://www.arduteka.com/2011/12/tutorial-arduino-0005-sensor-de-temperatura-ntc/">Tutorial Arduino # 0005 – Sensor de temperatura NTC</a>:
+
+<blockquote>
+En este proyecto vamos a aprender a implementar un sensor de temperatura a nuestros proyectos Arduino, en este proyecto simularemos cinco estados de aviso de exceso de temperatura, sobre los cuales los cuales podríamos conectar cualquier elemento que quisiéramos que actuara llegado dicho nivel, podríamos conectar circuitos de ventilación de manera que si no consiguieran mitigar el exceso de calor llegara un punto que desconectara el sistema que estemos monitorizando, en resumen, en cualquier lugar donde un control de exceso de temperatura sea necesario.
+</blockquote>
+
+Como no tenemos un Arduino, sino que tenemos una Raspberry Pi, necesitamos algo que sirva para hablar con los sensores analógicos. En mi caso (por cercanía física y también por simpatía con el proyecto) lo que he utilizado es el <a href="http://www.cooking-hacks.com/index.php/documentation/tutorials/raspberry-pi-to-arduino-shields-connection-bridge">Raspberry Pi to Arduino shields connection bridge</a> de la gente de Cooking Hacks.
+Con la biblioteca que proporcionan ellos, podemos utilizar las ideas (y los programas, casi tal cual) de los proyectos de Arduino en nuestra 'raspi' con bastante facilidad. Sirven los mismos esquemas de conexiones y todos los documentos disponibles para esta plataforma.
+
+Una imagen del montaje:
+
+<div align="center">
+<a href="http://instagram.com/p/WWrKHyQB_e/"><img src="http://distilleryimage6.s3.amazonaws.com/71f01730833011e29c6622000a1f9e4a_7.jpg"></a>.
+</div>
+
+Y un vídeo de la 'cosa' en acción.
+
+<div align="center">
+[youtube http://www.youtube.com/watch?v=DZnhM6xjtes&w=560&h=315]
+</div>
+
+Se pueden ver algunos elementos más (hay un sensor de luz que se ve a la derecha del de temperatura), pero básicamente allí está el proyecto propuesto por Pablo Murillo.
+
+Aunque el tema de los LEDs es bastante llamativo (a mi me lo parece, siendo una persona más de programas que de cacharros) lo que más me atrae del cacharrito es que se trata de un ordenador completo.
+Uno no se siente a gusto si no mete internet por enmedio y algo de interacción con el aparato.
+
+
+Buscando un poco por ahí encontré el proyecto <a href="https://github.com/fritzy/SleekXMPP/">SleekXMPP</a> que nos permitiría interactuar con nuestro ordenadorcito a través del protocolo <a href="http://xmpp.org/">XMPP</a>. Este protocolo nos permite comunicarnos en tiempo real y ha sido utlizado, entre otras cosas, por algunos sistemas de mensajería instantánea (por ejemplo el GTalk de Google -aunque últimamente parece que podrían estar pensando en cambiar-, Jabber, ...).
+
+En los ejemplos del proyecto hay un 'bot' que repite las instrucciones que le envíamos y programé una modificación para poder preguntarle a la raspi sobre la temperatura de la habitación en la que se encontraba.
+
+Podemos ver la interacción en este vídeo:
+
+<div align="center">
+[youtube http://www.youtube.com/watch?v=OgB65aK-nIQ&w=420&h=315]
+</div>
+
+Pero el bot de ejemplo no está pensado para este tipo de comportamiento y necesitábamos alguna arquitectura que hiciera sencillo extender el proyecto, añadirle instrucciones e interactuar remotamente (¿la meta podría ser poder añadirle instrucciones por GTalk?) así que me puse a buscar.
+
+El amigo <a href="http://hiperactivo.com/">Javier Candeira</a> me sugirió probar <a href="https://github.com/sbp/phenny">phenny</a>, que es un bot extensible, diseñado para recibir instrucciones remotamente y con solo una diferencia con mi proyecto inicial: está pensado para ser controlado desde una canal de IRC.
+
+El proyecto se convierte (por ahora) en un bot de IRC que es capaz de proporcionarme información del entorno de la raspi que tengo en una estantería de mi casa.
+
+Como primer paso, modifiqué el programa que había generado a partir del tutorial de Arduteka.
+En lugar de encender más o menos luces, lo que quería era saber la temperatura así que lo que hace el programita es (además de encender las luces si se dan las condiciones adecuadas), escribir en la salida estándar el mensaje:
+
+<q>Temperatura: </q>
+
+seguido de la temperatura que se haya medido.
+Para eso se toman medidas 5 veces con una separación de 0.5 segundos y después se calcula la media.
+
+El código puede verse (y descargarse) en <a href="https://github.com/fernand0/raspi/blob/master/c/temperatura.cpp">temperatura.cpp</a> y se compila y ejecuta de la misma forma que en el tutorial antes referido.
+
+Para invocar remotamente este programa entra en juego <a href="http://inamidst.com/phenny/">phenny</a>.
+Lo primero que hay que hacer es ejecutarlo, se generará un fichero de configuración (en <code>~/.phenny/default.py</code>) que hay que editar para ponerle nuestro servidor de IRC favorito, canal y algunas cosillas más y ya lo tenemos listo para funcionar.
+Por defecto viene ya con un buen montón de instrucciones que podemos probar.
+
+Pero el proyecto sigue. Queremos añadir nuestras propias instrucciones y las elegidas han sido de momento tres:
+
+<ul>
+<li><code>.temp</code>: devuelve la temperatura que mide en ese momento el sensor instalado.</li>
+<li><code>.ip</code>: devuelve la ip (interna) de la raspi, que se conecta a internet a través de un router WiFi hogareño normal y corriente.</li>
+<li><code>.ls</code>: devuelve un listado de ficheros del directorio actual donde se haya ejecutado phenny.</li>
+</ul>
+
+El código de esta parte puede verse (y descargarse) de: <a href="https://github.com/fernand0/phenny/blob/master/modules/testing.py">testing.py</a> y copio aquí un trozo de código de la primera de esas tres acciones para que cada uno se haga idea de lo fácil (o difícil) que es prepararlo.
+
+[sourcecode language='python']
+def temp(phenny, input):
+arg='sudo /home/pi/usr/src/pruebas/temperatura'
+p=subprocess.Popen(arg,shell=True,stdout=subprocess.PIPE)
+data = p.communicate()
+split_data = data[0].split()
+tempC = split_data[0]
+my_ip = 'La temperatura es %s' % tempC
+
+phenny.say(input.nick + '!' + ' ' + my_ip)
+temp.priority = 'high'
+temp.commands = ['temp']
+[/sourcecode]
+
+También puede verse en <a href="http://pygments.org/demo/70236/">Código para llamar al programa que nos dice la temperatura</a>.
+
+Como puede verse, invocamos al programa (lo he puesto con el path completo) lanzando un proceso con Popen.
+Le pedimos el resultado, lo procesamos y creamos una cadena de caracteres <code>my_ip</code> que luego le pasamos al bot para que la escriba en el canal de IRC.
+
+Nótese que phenny permite asignarle un nombre (o varios) a la instrucción (<code>temp.commands = ['temp']</code>) y también asignarle una prioridad, que hemos puesto en los tres casos como alta ('high').
+
+Una vez hecho esto podemos volver a lanzar phenny (en realidad el bot puede cargar nuevas instrucciones de manera dinámica pero eso no importa ahora) y responderá a las instrucciones que ya 'conocía' y a estas tres que acabamos de añadir.
+
+Podemos verlo en acción en:
+
+[youtube http://www.youtube.com/watch?v=GfB0VRBRp2E&w=560&h=315]
+
+Como decía arriba, el uso del canal de IRC ha sido un hito intermedio:
+
+<blockquote class="twitter-tweet"><p>Siempre podemos establecer expectativas más bajas para alcanzar los hitos.</p>&mdash; fernand0 (@fernand0) <a href="https://twitter.com/fernand0/status/317220464026058752">March 28, 2013</a></blockquote>
+
+El objetivo ahora tiene varias líneas de avance:
+
+<ul>
+<li>Modificar phenny para que también acepte instrucciones desde un cliente
+de mensajería instantánea.</li>
+<li>Añadir instrucciones a phenny (¿añadirle una webcam y poder ver una foto de la habitación desde nuestro teléfono móvil?, ¿descargar un documento cuya dirección le pasemos? ¿avisarnos si la temperatura alcanza determinados umbrales? ...).</li>
+<li>Añadir/utilizar capacidades de administración para que algunas instrucciones sólo puedan ejecutarse por personas autorizadas</li>
+<li>...</li>
+</ul>
+
+Trataremos de seguir informando.
+Si alguien ve mejoras a lo que ya hay publicado (las bondades del código existente son debidas a sus respectivos autores; los defectos me corresponden a mi) o necesita alguna aclaración no tiene más que decirlo.
+También si alguien conoce otros proyectos que se puedan utilizar de forma similar o de los que obtener inspiración.
+

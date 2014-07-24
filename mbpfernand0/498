@@ -1,0 +1,28 @@
+Post     : [498]
+Title    : Desarrollo ágil y seguridad
+Date     : 11/29/2011 18:45:21 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/11/29/desarrollo-agil-y-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo seguridad
+Tags     : ágil,, desarrollo, ingeniería, metodología, seguridad, software
+ 
+ 
+Ya hace algún tiempo que tenía estos enlaces. pero necesitaba un ratito para recopilarlos porque andaban dispersos por ahí. Llevamos unos años hablando de metodologías ágiles de desarrollo (en contraposición con otras metodologías más pesadas y tradicionales). Pero yo no había visto mucho de cómo introducir la seguridad en estos contextos. Hasta que encontré estos textos, que comparto aquí:
+
+<a href="http://www.sdelements.com/secure-sdlc/agile-security-requirements/">Agile Security - Requirements</a>. En el resumen:
+
+<blockquote>
+As a product owner you have scores of tools and processes to help you find vulnerabilities after they've been coded. Adopting security throughout the SDLC is cost effective, but difficult in practice to implement for agile shops. Security requirements, in particular, are difficult to prioritize or scope in early iterations. You can make the task more manageable by prioritizing requirements that prevent exploitable flaws, sorted by risk.
+</blockquote>
+
+En <a href="http://www.sdelements.com/secure-sdlc/agile-security-product-owners-perspective/">Agile Security - Product Owner's Perspective</a> continúa, en este caso con lecturas recomendadas, motivaciones y consejos. Aunque prometen más, parece que la serie no ha seguido, siendo el último articulito uno genérico, que no habla de seguridad ágil, sino algo más genérico: <a href="http://www.sdelements.com/secure-sdlc/software-security-throughout-life-cycle-9-steps/">Software Security Throughout the Life Cycle: 9 Steps</a>.
+
+Ahora ustedes podrían sentirse decepcionados por la escasez de los recursos aportados (o no). Para que eso no suceda, y como tenía más artículos recopilados, van a continuación.
+
+En <a href="http://confluence.agilefinland.com/display/af/Secure+software+development+and+agile+methods+-+notes">Secure software development and agile methods - notes</a> unas notas sobre el tema, a partir de una sesión dedicada al tema en Finlandia, en la que participaba gente de Nokia (¿Nokia ágil?) y de F-Secure. Está resumida pero va bastante al grano y además se pueden descargar las presentaciones que se utilizaron.
+
+Haciendo una búsqueda en Google encuentro el <a href="http://www.agilesecurityforum.com/">The Agile Security Forum</a> al que habrá que echar un ojillo con más calma. Microsoft también tiene un documento en <a href="http://msdn.microsoft.com/en-us/magazine/dd153756.aspx">Streamline Security Practices For Agile Development</a> donde tratan de encajarlo con su SDL (Secure Development Cycle). Finalmente (por acabar, no porque no haya más documentos sobre el tema), en <a href="http://blogs.msdn.com/b/jmeier/archive/2010/02/22/agile-security-engineering.aspx">Agile Security Engineering</a> J.D. Meier también aporta su punto de vista.
+

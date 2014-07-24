@@ -1,0 +1,23 @@
+Post     : [487]
+Title    : Estudio sobre aplicaciones de android
+Date     : 10/17/2011 21:10:44 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/10/17/estudio-sobre-aplicaciones-de-android/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : android, appfence, datos, privacidad, seguridad, teléfonos
+ 
+ 
+En <a href="http://appfence.org/ccs210-hornyack.pdf">[PDF] "These Aren't the Droids You're Looking For": Retroffiting Android to Protect Data from Imperious Applications</a> un estudio bastante interesante sobre aplicaciones Android para los teléfonos y su 'hambre' de datos.
+
+<blockquote>
+First, we provide the deepest study to date (to our knowledge) of information exposure by Android applications in terms of types of information investigated, forms of exposure including encryption, and exposure patterns to advertisign and analytics servers
+</blockquote>
+
+De las 110 aplicaciones estudiadas, 31 envían el IMEI del dispositivo. De ellas 14 lo envían a servidores de analítica y publicitarios.
+
+Como resultado de la investigación, también ofrecen <a href="http://appfence.org/">AppFence: Protecting User Data from Android Applications</a>, una aplicación que sustituye datos sensibles por otros para que las aplicaciones los envíen y, además, bloquea transmisiones de red que contienen datos del usuario que han sido marcados como de uso exclusivo por el usuario en el dispositivo.
+No la he probado.
+

@@ -1,0 +1,16 @@
+Post     : [122]
+Title    : Una botnet de Macs
+Date     : 05/03/2009 15:07:40 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/05/03/una-botnet-de-macs/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : botnet, mac, seguridad
+ 
+ 
+Lo cuentan en <a hreF="http://www.securitybydefault.com/2009/04/ibotnet-red-basada-en-macs-zombies.html">iBotnet: red basada en Macs zombies</a>.
+
+Aparentemente se basa en la descarga e instalación de un programa que contiene un troyano, así que no estaríamos hablando de una 'botnet' tradicional que se auto-genera y auto-reproduce, pero nada impide que los usarios caigan en las trampas habituales y la construyan ellos mismos.
+

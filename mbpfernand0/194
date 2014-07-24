@@ -1,0 +1,17 @@
+Post     : [194]
+Title    : Nuevos ataques con SMSs
+Date     : 12/06/2009 21:35:27 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/12/06/nuevos-ataques-con-smss/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : 
+Tags     : ataques, iphone, seguridad, SMS, vulnerabilidades
+ 
+ 
+
+Ya tiene unos días (y solución) pero quede aquí a título de inventario: <a href="http://news.cnet.com/8301-27080_3-10299378-245.html">Researchers attack my iPhone via SMS</a>: mediante el envío de un mensaje especial el teléfono queda a merced del atacante (mediante más mensajes de control). Lo vi en <a href="http://gizmologia.com/2009/07/vulnerabilidad-en-los-iphone-via-sms">Vulnerabilidad en los iPhone vía SMS</a>.
+
+Ya habíamos hablado de ataques a teléfonos de la marca Nokia en <a href="http://mbpfernand0.wordpress.com/2009/01/09/regalos-navideos-de-seguridad/">'Regalos' navideños de seguridad</a> y también a routers, <a href="http://mbpfernand0.wordpress.com/2009/02/28/cross-site-scripting-por-sms/">Cross Site Scripting por SMS</A>.
+

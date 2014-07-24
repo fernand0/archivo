@@ -1,0 +1,42 @@
+Post     : [806]
+Title    : Enseñar sobre desarrollo seguro
+Date     : 07/09/2014 20:16:43 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/07/09/ensenar-sobre-desarrollo-seguro/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : aprendizaje, codificación, desarrollo, enseñanza, seguridad
+ 
+ 
+Un debate interesante en <a href="http://security.blogoverflow.com/2013/03/qotw-43-teaching-a-loved-one-about-secure-coding-practices/">QoTW #43: Teaching a loved one about secure coding practices</a>: ¿En qué momento del aprendizaje debemos pasar del 'funciona' a 'es difícil que falle, incluso en malas condiciones'?
+
+Y empezamos con algo que creo que no hacemos bien del todo: cuando enseñamos no tenemos en cuenta la seguridad (ni la robustez en muchos casos):
+
+<blockquote>
+The very first link points towards w3schools.com.
+
+A quick browse through the site looks good. Nice, simple, easy to follow tutorials on the basics of PHP and HTML. Wait, are they really teaching unparameterized queries? In 2013? Really? I’d like to point you to this website. In particular, this quote.
+</blockquote>
+
+Alguna respuesta interesante, si aprendemos mal luego tendremos que 'desaprender':
+
+<blockquote>
+The problem I see, is that secure programming is taught as an add on. Best practices should be taught from the beginning (including security). The lie people are taught is that practice makes perfect. The truth is practice makes permanent. So if you are doing it wrong, you have to unlearn what you have learned. That is a bassackwards approach. I would say that secure coding practices should be taught from day one. There’s no reason to learn how to do it, and then learn how to do it securely. It’s a waste of time and money…
+</blockquote>
+
+Pero claro, cuando enseñamos necesitamos cierta 'tranquilidad' para poder mostrar los conceptos sin excesiva sobregarca:
+
+<blockquote>
+It’s great to say “Secure coding practices should be taught from day one”, and very hard to demonstrate how that day-one “Hello World” program may be vulnerable, especially when “what is a computer program” is a new concept for the class.
+</blockquote>
+
+Un camino, una vez que hayamos empezado:
+
+<blockquote>
+Once a flaw has been found, have her rewrite the application to fix the flaw. Doing so will allow her to appreciate the effect of things like sanitation and validation of user inputs and parameterized queries. Take incremental steps. I wouldn’t jump straight into designing a new application with security in mind before truly understanding what type of codes result in security flaws.
+</blockquote>
+
+El hilo original estaba en <a href="http://security.stackexchange.com/questions/25332/teaching-a-loved-one-about-secure-coding-practices"> Teaching a loved one about secure coding practices</a>.
+

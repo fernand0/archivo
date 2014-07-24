@@ -1,0 +1,22 @@
+Post     : [612]
+Title    : PCI los comerciantes se rebelan
+Date     : 10/01/2012 14:19:20 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/10/01/pci-los-comerciantes-se-rebelan/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : comerciantes, leyes, pci, regulación, seguridad
+ 
+ 
+En <a href="http://www.wired.com/threatlevel/2012/01/pci-lawsuit/">Rare Legal Fight Takes On Credit Card Company Security Standards and Fines</a> y a título d einventario:
+
+<blockquote>
+It’s the first known case to challenge the heart of the self-regulated PCI security standards — a system that requires businesses accepting credit and debit card payments to implement a series of technological steps to secure data. The controversial system, imposed on merchants by credit card companies like Visa and MasterCard, has been called a “near scam” by a spokesman for the National Retail Federation and others who say it’s designed less to secure card data than to profit credit card companies while giving them executive powers of punishment through a mandated compliance system that has no oversight.
+</blockquote>
+
+El problema sería que utilizan un sistema que no cifra los datos de las tarjetas y eso violaría los términos establecidos por PCI.
+
+En <a href="http://mbpfernand0.wordpress.com/2010/11/07/algunos-datos-de-verizon-sobre-pci/">Algunos datos de Verizon sobre PCI</a> se pueden ver más enlaces sobre PCI.
+

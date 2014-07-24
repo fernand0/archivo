@@ -1,0 +1,18 @@
+Post     : [552]
+Title    : Un fallo sutil
+Date     : 04/19/2012 18:38:21 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/04/19/un-fallo-sutil/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : fallos
+Tags     : bug, descubrimiento, fallos, seguridad
+ 
+ 
+Parece que últimamente, además de tener este sitio un poco abandonado, apostamos por  historias un poco truculentas y sutiles. Supongo que para temas más del día a día hay otros blogs y a uno le gustan las cosas que le gustan. En <a href="http://www.kalzumeus.com/2011/11/17/i-saw-an-extremely-subtle-bug-today-and-i-just-have-to-tell-someone/">I Saw An Extremely Subtle Bug Today And I Just Have To Tell Someone</a> cuentan como encontraron un fallo bastante sutil y cómo descubrieron el origen.
+
+De hecho, en este caso se trata de una condición de carrera que es un fallo difícil de encontrar, sobre todo cuando ni siquiera se está pensando en ello.
+
+Podemos extraer enseñanzas generales: tenemos sistemas muy complejos (combinación de hardware diverso, sobre el que va el sistema operativo, y seguramente varios niveles más de software apildos). Cuando el fallo es obvio, está más o menos claro donde mirar; pero cuando hay interacciones, la cosa se complica.
+

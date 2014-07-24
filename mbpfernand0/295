@@ -1,0 +1,30 @@
+Post     : [295]
+Title    : Algunas cosas falsas que los programadores creen sobre los nombres
+Date     : 07/16/2010 11:11:40 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/07/16/algunas-cosas-falsas-que-los-programadores-creen-sobre-los-nombres/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo nombres programación
+Tags     : desarrollo, errores, falsedades, falso, nombres, programación, programadores
+ 
+ 
+Programar es decidir y suponer cosas: una parte importante de la disciplina es tener claro que es lo que se supone y que esas decisiones sean lo más conscientes posibles. Muchos problemas de seguridad (y también de robustez y simple funcionamiento) tienen que ver con el 'es que yo creía ...', '¿quién imaginaba que alguien podría hacer eso?' y afirmaciones similares.
+
+En <a href="http://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/">Falsehoods Programmers Believe About Names</a> Patrick McKenzie escribe 40 suposiciones que vemos frecuentemente sobre los nombres de personas que no tienen por qué ser ciertas.
+
+Dos ejemplos:
+
+<blockquote>
+# My system will never have to deal with names from China.
+
+...
+
+# People have names.
+</blockquote>
+
+Es muy difícil imaginarse todos esos casos, pero hay que tener cuidado (sobre todo dependiendo del contexto en el que nos movamos) de que nuestra aplicación no termine teniendo (o causando) problemas por suponer demasiado.
+
+En forma humorística, ya lo decían en <a href="http://xkcd.com/327/">Exploits of a Mom</a>.
+

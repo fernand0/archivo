@@ -1,0 +1,29 @@
+Post     : [645]
+Title    : Números aleatorios y seguridad
+Date     : 11/05/2012 14:41:24 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/11/05/numeros-aleatorios-y-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : aleatorios, cifrado, fallos, números,, problemas, seguridad
+ 
+ 
+En <a href="http://www.nytimes.com/2012/02/15/technology/researchers-find-flaw-in-an-online-encryption-method.html?pagewanted=all">Flaw Found in an Online Encryption Method</a> un resumen periodístico de un fallo de seguridad relacionado con la generación de números aleatorios y que utiliza (otra vez) información públcicamente disponible en la red para hacerse una idea del tamaño del problema:
+
+<blockquote>
+The researchers examined public databases of 7.1 million public keys used to secure e-mail messages, online banking transactions and other secure data exchanges. The researchers employed the Euclidean algorithm, an efficient way to find the greatest common divisor of two integers, to examine those public key numbers. They were able to produce evidence that a small percentage of those numbers were not truly random, making it possible to determine the underlying numbers, or secret keys, used to generate the public key.
+</blockquote>
+
+La generación de números aleatorios (generación, porque no solemos disponer de fuentes verdaderamente aleatorias para obtenerlos) es un problema crítico en criptografía. Este trabajo nos muestra que no siempre se hace bien.
+
+Hay más información en <a href="http://arstechnica.com/business/2012/02/crypto-shocker-four-of-every-1000-public-keys-provide-no-security/">
+Crypto shocker: four of every 1,000 public keys provide no security (updated)</a>
+
+<blockquote>
+"Our only conclusion is that there is not just one cause for all of these problems," Hughes said. "This leads to our conclusion that unless you can totally trust your random number generator, RSA is not a good algorithm to choose."
+</blockquote>
+
+Y por si acaso alguien quiere acceder a las fuentes primarias, <a href="http://eprint.iacr.org/2012/064.pdf">[PDF] Ron Was Wrong, Whit Is Right</a>.
+

@@ -1,0 +1,21 @@
+Post     : [279]
+Title    : Promesas incumplidas de la seguridad
+Date     : 05/25/2010 10:39:59 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/05/25/promesas-incumplidas-de-la-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : ideas promesas seguridad
+Tags     : formales, ideas, métodos, promesas, riesgos, seguridad
+ 
+ 
+
+En <a href="http://www.zdnet.com/blog/security/security-engineering-broken-promises/6503">Security engineering: broken promises</a> Michal Zalewski comenta sobre los problemas que tienen las diversas aproximaciones a la seguridad informática y en qué han fallado.
+
+Por un lado los métodos formales se enfrentan al problema de la dificultad de definir el comportamiento deseable para un sistema de tamaño suficientemente complejo; es difícil traducir los deseos en expresiones formales; es difícil analizar formalmente el comportamiento de los programas.
+
+Por el otro, hablaríamos de algo más actual, el análisis de riesgos. Sus defectos: en un sistema interconectado las pérdidas no están aisladas, ni ligadas a un activo concreto; las predicciones estadísticas no nos informan de nuestros problemas concretos; la seguridad no es un sistema que pueda seguir el esquema de las empresas de seguros (no hay datos estadísticos suficientes para modelar los problemas y sus consecuencias monetarias).
+
+Finalmente, la categorización tiene sus propios problemas y, hasta ahora, no ha aportado mucho orden ni claridad a la forma en que podemos enfrentarnos a los problemas.
+

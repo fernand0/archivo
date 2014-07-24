@@ -1,0 +1,30 @@
+Post     : [485]
+Title    : Lo que tu telefonera hace por ti
+Date     : 10/04/2011 13:52:41 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/10/04/lo-que-tu-telefonera-hace-por-ti/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : internet, móviles, red, seguridad, teléfonos
+ 
+ 
+Interesante trabajo de Zhaoguang Wang y otros de la Universidad de Michigan y también de Microsoft: diseñaron un app para teléfonos móviles que medía algunos parámetros de red, con el objetivo de conocer si las telefoneras lo alteran o adaptan de alguna forma y la conclusión es que, en general, lo hacen. Primero, una justificación de por qué puede ser y los problemas que pueden introducirse:
+
+<blockquote>
+To better utilize their limited network resources while securing the network and protecting client devices, the carriers have already deployed various network policies that inﬂuence trafﬁc behavior. Today, these policies are mostly opaque, though they directly impact application designs and may even introduce network vulnerabilities.
+</blockquote>
+
+Tantas veces hemos visto eso... Por necesidades propias, o incluso en nuestro beneficio, terminan perjudicándonos.
+
+Algún ejemplo:
+
+<blockquote>
+... in more than 100 cellular ISPs, we identiﬁed the key NAT and ﬁrewall policies which have direct implications on performance, energy, and security. For example, NAT boxes and ﬁrewalls set timeouts for idle TCP connections, which sometimes cause signiﬁcant energy waste on mobile devices. Although most carriers today deploy sophisticated ﬁrewalls, they are still vulnerable to various attacks such as battery draining and denial of service.
+</blockquote>
+
+Pero hay bastantes más 'actividades'.
+
+Vale la pena echarle un ojo en <a href="http://conferences.sigcomm.org/sigcomm/2011/papers/sigcomm/p374.pdf">[PDF] An Untold Story of Middleboxes in Cellular Networks</a> o echarle un ojo al resumen que puede verse en el material utilizado en la presentación <a href="http://conferences.sigcomm.org/sigcomm/2011/slides/s374.pdf">[PDF] An Untold Story of Middleboxes in Cellular Networks (slides)</a>.,
+

@@ -1,0 +1,28 @@
+Post     : [467]
+Title    : Seguridad en aplicaciones de colaboración según Google
+Date     : 07/12/2011 16:44:17 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/07/12/seguridad-en-aplicaciones-de-colaboracion-segun-google/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad web
+Tags     : aplicaciones, colaboración,, google, internet, seguridad, web
+ 
+ 
+En <a href="http://www.google.com/a/help/intl/en/admins/pdf/ds_gsa_apps_whitepaper_0207.pdf">[PDF] Security Whitepaper. Google Apps Messaging and Collaboration Products.  Introduction</a> un documento de Google con directrices generales, con su declaración inicial:
+
+<blockquote>
+The security of online services is a topic of increasing interest to enterprises as the number of third party hosted service offerings has expanded in recent years.  The emergence of various “cloud computing” concepts and deﬁnitions has highlighted not only questions about data ownership and protection, but also how various vendors of cloud computing technologies build and implement their services. Security experts, end-users and enterprises alike are all considering the security implications of the cloud computing model.
+</blockquote>
+
+Y los consejos ya vistos tantas veces, pero que no se si están calando:
+
+<blockquote>
+... the Google Security Team maintains an engineering outreach and education program that currently includes:
+- Security training for new engineers.
+- The creation and maintenance of extensive documentation on secure design and coding practices.
+</blockquote>
+
+Entrenamiento sobre diseño seguro para los nuevos ingenieros.
+ 

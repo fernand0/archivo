@@ -1,0 +1,16 @@
+Post     : [250]
+Title    : La web sin cookies de sesión
+Date     : 03/11/2010 14:14:01 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/03/11/la-web-sin-cookies-de-sesion/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : autentificación, cookies, identificación, seguridad, web
+ 
+ 
+En <a href="http://www.cgisecurity.com/2010/01/weaning-the-web-off-of-session-cookies-making-digest-authentication-viable.html">Weaning the Web off of Session Cookies Making Digest Authentication Viable</a> proponen prestarle más atención a la utilización de la autentificación basada en el 'HTTP digest' como alternativa a las 'cookies'. Cuentan las limitaciones de uno y otro método, las principales barreras de uno y otro método y por qué deberíamos prestarle más atención al sistema que proporciona el protocolo http.
+
+A un nivel mucho más básico recuerdo ahora el <a href="http://www.technicalinfo.net/papers/WebBasedSessionManagement.html">Web Based Session Management.  Best practices in managing HTTP-based client sessions</a> que tal vez le sea de utilidad a alguien.
+

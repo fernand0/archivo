@@ -1,0 +1,25 @@
+Post     : [535]
+Title    : ¿Hay que actualizar?
+Date     : 02/09/2012 14:36:59 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/02/09/hay-que-actualizar/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : actualizaciones, parches, políticas, programas, seguridad
+ 
+ 
+En <a href="http://infosecisland.com/blogview/16401-Do-You-Always-Need-to-Install-Software-Updates.html">Do You Always Need to Install Software Updates?</a> se preguntan sobre el tema. Se empieza diciendo que se considera una buena costumbre tener los programas al día pero luego habla de un resultado presentado en un congreso:
+
+<blockquote>
+Otherwise than you might expect, the results (presented at DIMVA 2011 in Amsterdam, The Netherlands) showed there is no significant difference in the amount of malware on patched computers compared to unpatched computers.
+</blockquote>
+
+Parece que no es así, y que no parece haber un impacto significativo desde el punto de vista de la actividad de los ordenadores de los usuarios. Lo que sí que afectaría serían las 'prácticas de riesgo' (visitar determinados sitios, que son fuentes sistemáticamente de infección).
+El artículo también habla de los problemas de las actualizaciones (por ejemplo, los programas que dejan de funcionar).
+
+El artículo puede descargarse de <a href="http://www.icir.org/gregor/papers/dimva11-ressec.pdf">[PDF] An Assessment of Overt Malicious Activity Manifest in Residential Networks</a> y la presentación de <a href="http://www.inet.tu-berlin.de/fileadmin/fg234/Teaching/SS11/IS_SS11/IS11_16_ressec.pdf">[PDF] An Assessment of Overt Malicious Activity Manifest in Residential Networks slides</a>.
+
+Hemos hablado varias veces de actualizaciones, en <a href="http://mbpfernand0.wordpress.com/2010/02/24/las-actualizaciones/">Las actualizaciones</a>, o en <a href="http://mbpfernand0.wordpress.com/2010/01/28/adobe-parches-automaticos-para-sus-productos/">Adobe: parches automáticos para sus productos</a>, o <a href="http://mbpfernand0.wordpress.com/2009/06/09/la-seguridad-los-navegadores-y-las-actualizaciones/">La seguridad, los navegadores y las actualizaciones</a> y varios más sobre <a href="http://mbpfernand0.wordpress.com/tag/actualizaciones/">actualizaciones</a>.
+

@@ -1,0 +1,41 @@
+Post     : [563]
+Title    : Aplicaciones web, herramientas y seguridad
+Date     : 05/02/2012 19:36:39 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/05/02/aplicaciones-web-herramientas-y-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : desarrollo, herramientas, internet, lenguajes, seguridad, web
+ 
+ 
+En <a href="http://www.cs.berkeley.edu/~finifter/papers/webapps2011.pdf">[PDF] Exploring the Relationship Between Web Application. Development Tools and Security</a> un documento interesante que trata justamente de eso: cómo las diversas herramientas disponibles para el desarrollo de una web afectan desde el punto de vista de seguridad.
+
+Mediante una revisión manual del código y una herramienta de penetración automatizada comprobaron 9 implementaciones de la misma aplicación web realizada en tres lenguajes de programación diferentes:
+
+<blockquote>
+Our findings are:
+(1) we do not ﬁnd a relationship between choice of programming language and application security,
+(2) automatic framework protection mechanisms, such as for CSRF and session management, appear to be effective at precluding vulnerabilities, while manual protection mechanisms provide little value, and
+(3) manual source code review is more effective than automated black-box testing, but testing is complementary.
+</blockquote>
+
+Los lenguajes elegidos fueron Perl, PHP y Java.
+
+El número mayor de fallos:
+
+<blockquote>
+One of the Perl implementations has by far the most vulnerabilities, primarily due to its complete lack of XSS protection. This does not seem to be related to the fact that Perl is the language used, however, since the other two Perl implementations have only a handful of vulnerabilities, and few XSS vulnerabilities.
+</blockquote>
+
+Que parece tener más bien que ver con la habilidad de los desarrolladores.
+
+Sobre el tipo de fallos detectados:
+
+<blockquote>
+Manual review is the clear winner for authentication and authorization bypass and stored XSS vulnerabilities, while black-box testing ﬁnds more reﬂected XSS and SQL injection vulnerabilities.
+</blockquote>
+
+Naturalmente, es un estudio limitado y pequeñito (y a la vez grande, teniendo en cuenta la idea de 9 equipos desarrollando la aplicación) del que no se pueden sacar conclusiones estadísticas, pero aporta algo de luz al tema.
+

@@ -1,0 +1,18 @@
+Post     : [149]
+Title    : Variaciones sobre las claves
+Date     : 07/22/2009 13:33:37 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/07/22/variaciones-sobre-las-claves/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : claves, identificadores, ocultación, passwords, seguridad
+ 
+ 
+Un artículo sobre las claves en <a href="http://www.usenix.org/event/hotsec07/tech/full_papers/florencio/florencio.pdf">Do Strong Web Passwords Accomplish Anything? (pdf)</a> donde se sugiere que a lo mejor es suficiente con claves más cortas de lo que solemos pensar y que valdría la pena incidir en el aspecto de los identificadores (en lugar del dni, o alguno predefinido permitir a los usuarios elegir el suyo). Creo que las claves conviene que sean fuertes y también que el identificador pueda ser elegido por los usuarios (más que nada porque, al final, en algunas aplicaciones -¿<a href="http://mbpfernand0.wordpress.com/2009/04/11/cuando-se-usan-datos-personales-como-clave/">la de los puntos de tráfico</a>?- hay gente que ni siquiera sabe que las tiene disponibles y los 'malos' saben perfectamente cómo intentar acceder a tus datos).
+
+Siguiendo con el capítulo de 'heterodoxias' variadas, el experto en ergonomía (usabilidad) 'emitía' una de sus 'alert box' sobre el tema de ocultar la clave cuando la estamos tecleando: <a href="http://www.useit.com/alertbox/passwords.html">Stop Password Masking</a>. Esencialmente decía que enmascararla puede favorecer la seguridad pero el precio que se paga desde el  punto de vista del usuario es alto, especialmente en dispositivos móviles (doy fe). Bruce Schneier en un primer momento se mostró de acuerdo (<a href="http://www.schneier.com/blog/archives/2009/06/the_problem_wit_2.html">The Problem with Password Masking</a>) pero luego se lo pensó mejor y matizó (que es, casi siempre, la manera correcta de enfrentarse a las cosas): <a href="http://www.schneier.com/blog/archives/2009/07/the_pros_and_co.html">The Pros and Cons of Password Masking</a>. Básicamente, depende del contexto: tal vez habría que pensarlo un poco antes de enmascarar la clave y ver cómo y dónde se va a usar.
+
+Es como esas medidas que a veces se aplican sin pensarlo mucho: cambiar la clave cada X tiempo, obligar a que sea de determinada forma, ...
+

@@ -1,0 +1,17 @@
+Post     : [273]
+Title    : Una historia de los desbordamientos de memoria
+Date     : 05/10/2010 19:49:07 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/05/10/una-historia-de-los-desbordamientos-de-memoria/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo programación seguridad
+Tags     : buffer, desarrollo, desbordamiento, memoria, overflow, programación, seguridad
+ 
+ 
+
+Una buena 'historia' de los desbordamientos de memoria y de cuándo empezaron realmente a explotarse y a aparecer problemas de este conocido fallo, cuyo conocimiento existía desde el año 1972, pero que hasta el 1988 no fue realmente explotado con el <a href="http://www.mit.edu/people/eichin/virus/strategies.html#finger-bug">internet worm</a>. En dos partes, <a href="http://rdist.root.org/2010/05/03/why-buffer-overflow-exploitation-took-so-long-to-mature/">Why buffer overflow exploitation took so long to mature</a> y <a href="http://rdist.root.org/2010/05/05/why-buffer-overflow-exploitation-took-so-long-to-mature-part-2/">Why buffer overflow exploitation took so long to mature (part 2)</a>.
+
+Un fallo con tantos años y que sigue dando que hablar de vez en cuando.
+

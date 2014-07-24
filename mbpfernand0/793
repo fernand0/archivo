@@ -1,0 +1,24 @@
+Post     : [793]
+Title    : ¿Qué son los tokens anti-CSRF?
+Date     : 04/07/2014 10:48:25 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/08/02/que-son-los-tokens-anti-csrf/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : csrf, internet, seguridad, token, web
+ 
+ 
+La primera vez que leímos sobre estos temas fue en un documento que todavía tiene bastante vigencia, <a href="http://www.technicalinfo.net/papers/CSS.html">HTML Code Injection and Cross-site scripting</a> junto con <a href="http://www.technicalinfo.net/papers/WebBasedSessionManagement.html"> Web Based Session Management.  Best practices in managing HTTP-based client sessions</a>.
+
+Entonces sonaban como medidas bastate extremas (y que había que implementar prácticamente a mano). Aunque seguimos viendo sitios que no utilizan este tipo de medidas, las cosas han cambiado un poco y los lenguajes y diversos proyectos proporcionan herramientas para gestionarlo de manera más o menos sencilla. Y sigue siendo necesario explicar estas cosas, claro. Por ejemplo, en <a href="http://adam.kahtava.com/journal/2009/11/25/what-are-anti-cross-site-request-forgery-tokens-and-what-are-they-good-for/">What Are Anti Cross-site Request Forgery Tokens And What Are They Good For?</a> lo explicaban con ejemplos para .Net.
+
+Ya hemos hablado unas cuantas veces sobre <a href="http://mbpfernand0.wordpress.com/tag/csrf/">CSRF</a> aquí.
+
+<ul>
+<li><a href="http://mbpfernand0.wordpress.com/2014/06/14/saber-en-que-sitios-estas-identificado/">Saber en qué sitios estás identificado</a></li>
+<li><a href="http://mbpfernand0.wordpress.com/2012/09/13/proteccion-contra-csrf-sin-estado/">Protección contra CSRF sin estado</a></li>
+<li><a href="http://mbpfernand0.wordpress.com/2012/06/15/cross-site-requets-forgery-con-oauth2/">Cross site requets forgery con Oauth2</a></li>
+</ul>
+

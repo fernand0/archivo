@@ -1,0 +1,14 @@
+Post     : [145]
+Title    : Sobre el almacenamiento de claves
+Date     : 06/30/2009 01:24:31 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/06/30/sobre-el-almacenamiento-de-claves/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : almacenamiento, autentificación, claves, identificación, passwords, seguridad
+ 
+ 
+La autentificación y la identificación son temas que dan mucho de sí. Sin embargo en este caso nos quedamos con un objetivo más modesto que es el almacenamiento de claves. Lo discute el autor de <a href="http://www.matasano.com/log/958/enough-with-the-rainbow-tables-what-you-need-to-know-about-secure-password-schemes/">Enough With The Rainbow Tables: What You Need To Know About Secure Password Schemes</a> y explica unos cuantos sistemas con sus ventajas y debilidades.  Descubrimos que el más usado (y hasta recomendado a veces) es el más débil y (como casi siempre) que hacer las cosas bien es más difícil de lo que parece.
+

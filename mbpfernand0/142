@@ -1,0 +1,14 @@
+Post     : [142]
+Title    : Los primeros milisegundos de una conexión HTTP
+Date     : 06/16/2009 15:20:09 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/06/16/los-primeros-milisegundos-de-una-conexion-https/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : conexión, HTTPS, seguridad, ssl, TSL
+ 
+ 
+Todo el mundo tiene claro que el candadito en una conexión web indica que la cosa es 'segura' (aunque nadie suele tener claro mucho más). No creo que la mayoría de esa gente vaya a leerlo pero me gustó mucho el enfoque de <a href="http://www.moserware.com/2009/06/first-few-milliseconds-of-https.html">The First Few Milliseconds of an HTTPS Connection</a> donde va mostrando paso a paso (o casi) los procesos que van sucediendo cuando se establece una conexión de estas. Desde luego, me lo guardo para futura referencia.
+

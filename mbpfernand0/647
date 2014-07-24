@@ -1,0 +1,19 @@
+Post     : [647]
+Title    : La fragilidad de los números de identificación personal
+Date     : 11/07/2012 14:51:40 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/11/07/la-fragilidad-de-los-numeros-de-identificacion-personal/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : bancos, claves, contraseñas, pin, seguridad
+ 
+ 
+En <a href="http://www.cl.cam.ac.uk/~jcb82/doc/BPA12-FC-banking_pin_security.pdf">[PDF] A Birthday Present Every Eleven Wallets? The Security of Customer-chosen Banking PINs</a> un análisis de datos obetnidos sobre algunos  PINs (Personal Identification Number).
+Entre los descubrimientos, utilizar la fecha de cumpleaños permitiría acceder al cajero en 1 de cada 11 (en realidad, entre 11 y 18) tarjetas.
+
+Se hacen análisis de los numeritos y algunos corresponden a palabras (recordar que los teclados numéricos incluyen caracteres a veces): LOVE sería la más frecuente (5683) pero hay otras.
+
+De todas formas, parece que la elección por parte del usuario de los PINs no es tan mala como en otros tipos de clave (¿seguramente porque nos dan un pin y no lo cambiamos?).
+

@@ -1,0 +1,31 @@
+Post     : [339]
+Title    : 12 errores de programación que deberíamos evitar
+Date     : 12/13/2010 12:00:40 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/12/13/12-errores-de-programacion-que-deberiamos-evitar/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación
+Tags     : desarrollo, errores, experiencia, fallos, programación, seguridad
+ 
+ 
+En <a href="http://www.infoworld.com/d/developer-world/12-programming-mistakes-avoid-292">12 programming mistakes to avoid</a>. Cuidado con tomarse nada muy a pecho, porque casi todas tienen su contra-parte: se trata de un compromiso entre hacer algo demasiado, o demasiado poco.
+
+<ol>
+<li>Hacerlo rápido y con poco cuidado</li>
+<li>Decicarse en exceso a los detalles</li>
+<li>No simplificar el control</li>
+<li>Delegar demasiado a las herramientas (frameworks)</li>
+<li>Confiar en el cliente</li>
+<li>No confiar suficiente en el cliente</li>
+<li>Confiar demasiado en soluciones mágicas</li>
+<li>Reinventar la rueda</li>
+<li>Dar demasiado control al usuario</li>
+<li>Controlar excesivamente la experiencia de usuario</li>
+<li>Cerrar el código</li>
+<li>Suponer que la apertura lo cura todo</li>
+</ol>
+
+Esto es el resumen pero lo mejor es leer la explicación asociada a estos puntos en el artículo.
+

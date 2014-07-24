@@ -1,0 +1,16 @@
+Post     : [340]
+Title    : Errores frecuentes al utilizar MySQL
+Date     : 12/14/2010 21:37:32 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/12/14/errores-frecuentes-al-utilizar-mysql/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación,
+Tags     : consejos, desarrollo, errores, listas, mysql,, programación
+ 
+ 
+Aunque creo que es mejor aprender principios generales positivos, en lugar de lo que no hay que hacer (porque casi nunca seremos capaces de saber todo lo que es malo), seguiemos con listas de cosas que deberíamos evitar.
+
+En <a href="http://paraisolinux.com/10-errores-mysql-de-programadores-de-php/">10 errores MySQL de programadores de PHP</a> hay una traducción de <a href="http://blogs.sitepoint.com/2010/11/19/mysql-mistakes-php-developers/">Top 10 MySQL Mistakes Made By PHP Developers</a> que incide en ese tema y da pistas a los desarrolladores de PHP que quieran hacer las cosas mejor.
+

@@ -1,0 +1,18 @@
+Post     : [141]
+Title    : Ataques y análisis de riesgos
+Date     : 06/12/2009 14:06:38 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/06/12/ataques-y-analisis-de-riesgos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : análisis, ataques, ATM, automático, bruta, cajero, fuerza, riesgos, seguridad
+ 
+ 
+Cuando hablamos de seguridad y en cualquier documento razonable que veamos por allí siempre se habla del análisis de riesgos y las medidas para evitarlos: es imposible que podamos defendernos de un atacante con fuerza y recursos infintios así que, al final, cualquier solución consiste en alcanzar un compromiso entre el valor de lo protegido y lo que nos cuesta protegerlo (en dinero o con otras medidas: molestias, ...).
+
+Yo suelo usar el ejemplo de los cajeros automáticos que roban en pueblos por ahí utilizando maquinaria pesada: <a href="http://www.diariosur.es/20071204/malaga/usan-tractor-para-robar-20071204.html">Usan un tractor para robar un cajero automático en una pedanía de Antequera</a>.  Esencialmente, un cajero automático está protegido para que no sea fácil de robar 'in situ' pero con los recursos suficientes (un tractor y una sucursal suficientemente alejada de las fuerzas de orden público) alguien puede llevárselo a su casa y robar tranquilamente su contenido.
+
+Veo ahora en <a href="http://www.microsiervos.com/archivo/seguridad/ataque-a-un-cajero-automatico-por-fuerza-bruta.html">Ataque a un cajero automático por fuerza bruta</a> que no se si es real o simulado pero muestra claramente la idea: en lugar de robar el contenido, te llevas el aparato completo y luego ya veremos. Como dicen en <a href="http://gizmodo.com/5286944/brute-force-password-atm-attack-a-new-definition">Brute Force Password ATM Attack, a New Definition</a> no está muy claro cuánto le tocará a cada uno en el reparto, pero bueno...
+

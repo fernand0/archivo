@@ -1,0 +1,22 @@
+Post     : [253]
+Title    : En internet cada vez es más difícil esconderse
+Date     : 03/21/2010 20:47:00 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/03/21/en-internet-cada-vez-es-mas-dificil-esconderse/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : intimidad privacidad seguridad
+Tags     : anonimato, desanonimización, estudios, intimidad, privacidad, seguridad
+ 
+ 
+Arvind Narayanan ha estado publicando una serie de entradas a modo de divulgación de una revisión de la literatura existente muy interesantes sobre anonimato y cómo las empresas (y otros) pueden conocernos mejor de lo que nos gustaría, a veces.
+
+En <a href="http://33bits.org/2010/02/18/cookies-supercookies-and-ubercookies-stealing-the-identity-of-web-visitors/">Cookies, Supercookies and Ubercookies: Stealing the Identity of Web Visitors</a> empieza hablando de las viejas cookies, pero termina hablando de los sistemas de 'desanonimización' utilizando el historial de navegación (<a href="http://fernand0.blogalia.com/historias/61698">Día Internacional de la Privacidad</a>) para tratar de averiguar quiénes somos.
+
+En <a href="http://33bits.org/2010/02/19/ubercookies-history-stealing-social-web/">Ubercookies Part 2: History Stealing meets the Social Web</a> profundizaba en estas cuestiones, con más detalles y diversas aproximaciones posibles.
+
+En <a href="http://33bits.org/2010/02/22/google-docs-leaks-identity/">How Google Docs Leaks Your Identity</a> comentaba un fallo de Google Docs ya solucionado (aunque luego lanzaron Buzz para terminar de desanonimizarnos).
+
+En realidad, el mensaje está claro: deberíamos navegar por los sitios 'sensibles' (por supuesto, bancos, sitios de compras, ...) en un navegador 'sin historia' (probablemente con un usuario diferente) para que nadie pueda saber cuál es nuestro banco, ni tratar de sacar partido de la información que nuestro navegador almacena y no nos imaginamos cómo alguien puede usar contra nosotros.
+

@@ -1,0 +1,19 @@
+Post     : [309]
+Title    : ¿Malware para GPUs?
+Date     : 10/08/2010 19:21:49 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/10/08/%c2%bfmalware-para-gpus/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : GPU malware seguridad
+Tags     : gpu, gráfico, malware, seguridad, troyanos, virus
+ 
+ 
+
+Más especulativo que otra cosa, <a href="http://dcs.ics.forth.gr/Activities/papers/gpumalware.malware10.pdf">[pdf] GPU-Assisted Malware</a> nos habla de las capacidades de los procesadores gráficos y las posibilidades de ejecutar código malicioso en ellos.
+
+Queda reflejado a título de inventario y porque no es la primera vez que hablamos de posibilidades alternativas de las GPU, como en <a href="http://mbpfernand0.wordpress.com/2010/01/24/utilizacion-de-gpus-para-analisis-de-claves/">Utilización de GPUs para análisis de claves</a>.
+
+Aquí también aplicaríamos el principio de Occam (<a href="http://mbpfernand0.wordpress.com/2009/04/14/infecciones-en-red/">Infecciones en red</a>) y no creo que los 'malos' utilicen ataques tan sofisticados (y menos exitosos, en principio, por cuestiones del número de procesadores de este tipo disponibles) cuando los viejos ataques a las viejas CPUs siguen funcionando tan bien.
+

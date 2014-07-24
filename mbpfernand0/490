@@ -1,0 +1,18 @@
+Post     : [490]
+Title    : Pistas sobre autentificación en aplicaciones web
+Date     : 10/26/2011 18:48:34 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/10/26/pistas-sobre-autentificacion-en-aplicaciones-web/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : autentificación, cheat, OWASP, pistas, seguridad, sheet
+ 
+ 
+Ya hemos hablado de algunas hojas de pistas sobre diversos temas: <a href="http://mbpfernand0.wordpress.com/2011/07/21/las-claves/">Las claves</a> y <a href="http://mbpfernand0.wordpress.com/2009/02/12/chuleta-para-la-prevencion-de-cross-site-scripting/">‘Chuleta’ para la prevención de ‘Cross Site Scripting’</a>.
+
+Otra recomendación: <a href="https://www.owasp.org/index.php/Authentication_Cheat_Sheet">Authentication Cheat Sheet</a>, sobre los temas de autentificación.
+
+En general la serie de <a href="https://www.owasp.org/index.php/Cheat_Sheets">Cheat Sheets</a> es muy interesante, y va acompañada de algunas explicaciones en los <a href="https://www.owasp.org/index.php/OWASP_Podcast">OWASP Podcast</a> que todavía las hace más valiosas.
+

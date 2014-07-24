@@ -1,0 +1,27 @@
+Post     : [348]
+Title    : ¿Los desarrolladores utilizan las ayudas en seguridad?
+Date     : 12/26/2010 19:53:28 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/12/26/%c2%bflos-desarrolladores-utilizan-las-ayudas-en-seguridad/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : aslr,, buffer, dep, desbordamiento, overflow, seguridad
+ 
+ 
+Lo vi en <a href="http://www.securitybydefault.com/2010/07/la-verdadera-inseguridad-de-windows.html">La verdadera 'inseguridad' de Windows</a> y hacía referencia a un informe de Secunia, <a href="http://secunia.com/gfx/pdf/DEP_ASLR_2010_paper.pdf">[PDF] DEP/ASLR Implementation Progress in. Popular. Third-party Windows Applications</a>.
+
+Se refiere a  <a href="http://en.wikipedia.org/wiki/Data_Execution_Prevention">Data Execution Prevention (DEP)</a> y <a href="http://en.wikipedia.org/wiki/Address_space_layout_randomization">Address space layout randomization (ASLR)</A>, que son ventajas que proporciona el sistema a la hora de evitar los problemas relacionados con una gestión inadecuada de la memoria.
+
+La conclusión parece ser que pocas aplicaciones utilizan estos mecanismos y,  por lo tanto, no aprovechan las ventajas que el sistema proporciona.
+
+También se puede leer un poco más en <a href="http://secunia.com/blog/105">DEP / ASLR Neglected in Popular Programs</a>:
+
+
+<blockquote>
+Secunia Research recently gathered information on the 50 most popular non-Microsoft applications installed on Windows users' systems based on our PSI statistics. We then decided to take a closer look at 16 of them to determine if they properly supported DEP and ASLR.
+
+Unfortunately, our research shows that most popular, non-Microsoft applications do not implement these features properly and, therefore, don't offer users the expected protection.
+</blockquote>
+

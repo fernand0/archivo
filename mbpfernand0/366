@@ -1,0 +1,15 @@
+Post     : [366]
+Title    : El fallo inesperado con el SQL
+Date     : 02/02/2011 21:08:39 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/02/02/el-fallo-inesperado-con-el-sql/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : desarrollo, general,, inyección, seguridad, SQL
+ 
+ 
+Revisando un montón de papeles encontré el otro día este artículito que ya
+tiene un tiempo y que puede servir como introducción al tema si no hemos oido hablar de él nunca y como recordatorio, si lo hemos escuchado de vez en cuando: <a href="http://www.webappsec.org/projects/articles/091007.shtml">The Unexpected SQL Injection.  When Escaping Is Not Enough</a>.
+

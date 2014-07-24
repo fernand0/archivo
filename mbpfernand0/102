@@ -1,0 +1,24 @@
+Post     : [102]
+Title    : La vida secreta de los usuarios de Ubuntu y Debian
+Date     : 03/27/2009 19:53:52 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/03/27/la-vida-secreta-de-los-usuarios-de-ubuntu-y-debian/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Debian Ubuntu
+Tags     : cifras, datos, Debian, estadísticas, Software+libre,, Ubuntu
+ 
+ 
+En <a href="http://itmanagement.earthweb.com/osrc/article.php/12068_3796126_1/The-Secret-Lives-of-Ubuntu-and-Debian-Users.htm">The Secret Lives of Ubuntu and Debian Users</a> hablan de las estadísticas de Debian (<a href="http://popcon.debian.org/">Debian Popularity Contest</a> y Ubuntu (<a href="http://popcon.ubuntu.com/">Ubuntu Popularity Contest</a>.  Algunas cifras:
+
+<blockquote>
+For instance, the Ubuntu results list 425,490 installations of Firefox 3.0, only 92,629 Votes and 63,034 Recent upgrades. In other words, although roughly half of Ubuntu installations reporting include Firefox, only about 20% have used it in the last 30 days, and only 13% have upgraded it.
+
+With IceWeasel, Debian's non-branded version of Firefox, of 46,276 installs, only 25,797 (46%) are recently used, and 11,207 (24%) recently upgraded.
+
+Percentages differ for other packages, but in almost every case, <strong>figures for use and upgrading are much lower than for installations</strong>. Probably this difference reflects how easy GNU/Linux distributions make the installation of software.
+</blockquote>
+
+La negrita es mía: puede ser que tenga que ver con lo que comentábamos el otro día (<a href="http://mbpfernand0.wordpress.com/2009/03/26/los-parches-hay-que-aplicarlos/">Los parches hay que aplicarlos</a>) o porque la gente instala, prueba, y luego usa otra cosa.
+

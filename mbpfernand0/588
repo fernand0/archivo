@@ -1,0 +1,14 @@
+Post     : [588]
+Title    : Vida real y arquitectura del software
+Date     : 07/17/2012 15:05:11 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/07/17/vida-real-y-arquitectura-del-software/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : arquitectura, asíncrono, comunicación, desarrollo, síncrono
+ 
+ 
+Un pequeño divertimento en <a href="http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=01407829">[PDF] Your Coffee Shop Doesn't Use Two-Phase Commit</a> donde se usan ejemplos de la vida real (una cafetería) para ejemplificar y dar ideas sobre arquitecturas de comunicación en los programas.
+

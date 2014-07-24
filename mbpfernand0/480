@@ -1,0 +1,14 @@
+Post     : [480]
+Title    : AppSec: sofware con sensores defensivos
+Date     : 09/26/2011 10:28:41 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/09/25/esapi-sofware-con-sensores-defensivos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad, desarrollo, sensores
+Tags     : defensas desarrollo appsec OWASP seguridad sensores
+ 
+ 
+Ya habíamos hablado del <a href="https://www.owasp.org/index.php/OWASP_AppSensor_Project">proyecto AppSensor</a>, de <a href="https://www.owasp.org/">OWASP</a> (en <a href="http://mbpfernand0.wordpress.com/2011/01/20/sensores-en-aplicaciones-deteccion-de-problemas-y-respuestas/">Sensores en aplicaciones: detección de problemas y respuestas</a>) así que cuando vi el artículo <a href="http://www.crosstalkonline.org/storage/issue-archives/2011/201109/201109-Watson.pdf">[PDF] Creating Attack-Aware Software Applications with Real-Time Defenses</a> pensé que a lo mejor había algo de código para entender mejor el proyecto.  No es así, pero sí que es un artículo más explicando las ideas que hay detrás de esta aproximación a la seguridad en aplicaciones.
+

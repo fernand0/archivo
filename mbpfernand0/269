@@ -1,0 +1,31 @@
+Post     : [269]
+Title    : Actualización del OWASP Top 10
+Date     : 04/28/2010 20:01:58 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/04/28/actualizacion-del-owasp-top-10/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : fallos OWASP seguridad top
+Tags     : fallos, OWASP, rankings,, seguridad, top, topes, web
+ 
+ 
+Tenía pendiente comentarlo desde hace unos días y la gente de Hispasec me da la ocasión: <a href="http://www.hispasec.com/unaaldia/4195">OWASP: Los diez riesgos más importantes en aplicaciones web (2010)</a>.
+
+En <a href="http://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project"> OWASP Top 10 for 2010</a> hay más detalles y puede ser una lista de los fallos que sí o sí debería conocer cualquier desarrollador web:
+
+<blockquote>
+* A1: Injection
+* A2: Cross-Site Scripting (XSS)
+* A3: Broken Authentication and Session Management
+* A4: Insecure Direct Object References
+* A5: Cross-Site Request Forgery (CSRF)
+* A6: Security Misconfiguration
+* A7: Insecure Cryptographic Storage
+* A8: Failure to Restrict URL Access
+* A9: Insufficient Transport Layer Protection
+* A10: Unvalidated Redirects and Forwards
+</blockquote>
+
+También se puede descargar de <a href="http://owasptop10.googlecode.com/files/OWASP%20Top%2010%20-%202010.pdf">OWASP Top 10 2010 - PDF</a>
+

@@ -1,0 +1,32 @@
+Post     : [233]
+Title    : Manifiesto del software robusto
+Date     : 02/14/2010 20:59:21 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/02/14/manifiesto-del-software-robusto/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : desarrollo, manifiesto, robusto, rugged, software
+ 
+ 
+
+En <a href="http://www.ruggedsoftware.org/">Rugged Software Manifesto</a>: Curiosamente, a pesar de las licencias y todo eso, a nadie se le ha ocurrido dejar (o yo no encuentro allí) una versión en texto del documento.  Afortunadamente está en <a href="http://securityuncorked.com/2010/02/the-rugged-software-manifesto-walking-the-walk/">The Rugged Software Manifesto</a>
+
+<blockquote>
+* I am rugged… and more importantly, my code is rugged.
+* I recognize that software has become a foundation of our modern world.
+* I recognize the awesome responsibility that comes with this foundational role.
+* I recognize that my code will be used in ways I cannot anticipate, in ways it was not designed, and for longer than it was ever intended.
+* I recognize that my code will be attacked by talented and persistent adversaries who threaten our physical, economic, and national security.
+* I recognize these things - and I choose to be rugged.
+* I am rugged because I refuse to be a source of vulnerability or weakness.
+* I am rugged because I assure my code will support its mission.
+* I am rugged because my code can face these challenges and persist in spite of them.
+* I am rugged, not because it is easy, but because it is necessary… and I am up for the challenge.
+</blockquote>
+
+Tienen el <a href="http://ruggedsoftware.blogspot.com/">Rugged Software</a> blog, y también una página en <a href="http://www.owasp.org/index.php/Rugged_Software">Rugged Software - OWASP</a>.
+
+Me gusta.
+

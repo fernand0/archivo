@@ -1,0 +1,16 @@
+Post     : [314]
+Title    : Algoritmos galácticos
+Date     : 10/26/2010 10:11:47 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/10/26/algoritmos-galacticos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : algoritmia coste desarrollo
+Tags     : algoritmia, algoritmos, coste, desarrollo, programación
+ 
+ 
+En <a href="http://rjlipton.wordpress.com/2010/10/23/galactic-algorithms/">Galactic Algorithms</a> nos hablan de una forma de llamar a esos algoritmos que tienen un buen coste asintótico pero que no los usarísmoa para calcular nada: Dick Lipton comenta como es un gran avance el ser capaces de predecir el comportamiento de un algoritmo sin ejecutarlo. También que hay algoritmos que son un gran descubrimiento aunque luego no se utilicen en el 'mundo real', por motivos como: descubrir nuevas técnicas, ser utilizables en el futuro si algunos paradigmas de computación cambian, abrir la puerta a otros algoritmos que sí son utilizables, o descubrirnos que algunos cotas temporales de algunos son excesivas (un programa costoso, pero con una cota polinómica cambiaría las ideas previas sobre determinados problemas, por ejemplo).
+
+Uno que entra en esta categoría podría ser el de divide y vencerás para multiplicar matrices grandes, el <a href="http://es.wikipedia.org/wiki/Algoritmo_de_Strassen">algoritmo de Strassen</a>.
+

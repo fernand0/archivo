@@ -1,0 +1,18 @@
+Post     : [554]
+Title    : La autenticación y las aplicaciones
+Date     : 04/27/2012 12:17:01 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/04/27/la-autenticacion-y-las-aplicaciones/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : autenticación, autentificación, identificación, seguridad
+ 
+ 
+En <a href="http://www.drdobbs.com/security/222001896">User Authentication: It Doesn't Belong In Your Application</a> un comentario con buenos motivos sobre el tema. Las cosas que hay que tener en cuenta si montamos nuestro propio sistema de identificación y autentificación, y las ventajas que tiene si utilizamos el sistema de autentificación de un tercero.
+
+Vemos últimamente muchas aplicaciones a las que se puede acceder a través de servicios de terceros (Google, Facebook, ...). Como dice el autor, eso puede aligerarnos bastante peso en el desarrollo pero, como todo, hay que tener cuidado. No será la primera vez que a alguien le cancelan la cuenta en uno de estos servicios tan bonitos y baratos y, de pronto, se queda también sin acceso a nuestro servicio. Igual que dice en la primera parte lo de <q>Don't Forget the Forgotten Passwords</q> añadiría yo lo de no te olvides de que algo puede ir mal en los otros servicios (y no ser culpa tuya).
+
+Interesante lectura, en todo caso.
+

@@ -1,0 +1,27 @@
+Post     : [101]
+Title    : Los parches hay que aplicarlos
+Date     : 03/26/2009 00:31:23 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/03/26/los-parches-hay-que-aplicarlos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : cifras, datos, parches, seguridad
+ 
+ 
+Una cosa que suelen olvidar los desarrolladores es que aunque se hagan los parches que resuelvan los problemas de seguridad, habrá gente que no actualizará su sistema.
+
+Yo suelo usar como ejemplo el estudio de Eric Rescorla <a href="http://www.rtfm.com/upgrade.pdf">Security holes... Who cares? (pdf)</a> que hablaba de las (pocas) actualizaciones de OpenSSL cuando se descubrió (y resolvió) una vulnerabilidad en 2002, el cambio de tendencia cuando empezó a propagarse <a href="http://www.vsantivirus.com/slapper.htm">Slapper</a> y que, aún así, 3 meses después de conocido el problema alrededor del 40% de los sistemas seguía siendo vulnerable.
+
+O ese otro <a href="http://www.stillsecure.com/docs/StillSecure_DenverPost_Honeypot.pdf"> How secure is your computer? (pdf)</a> donde mostraban datos de una HoneyPot y lo que aguantaban los sistemas parcheados y sin parchear.
+
+Ahora veo en <a href="http://www.computerworld.com/action/article.do?command=viewArticleBasic&amp;articleId=9126038">1 in 3 Windows PCs vulnerable to worm attack</a> más de lo mismo:
+
+
+<blockquote>
+Based on scans of several hundred thousand customer-owned Windows PCs, Qualys Inc. concluded that about 30% of the machines have not yet been patched with the "out of cycle" fix Microsoft provided Oct. 23 as security update MS08-067.
+</blockquote>
+
+La noticia es del 15 de enero lo que muestra que la historia se repite: después de tres meses sigue habiendo muchos sistemas (un 30%) sin aplicar las medidas necesarias.  Y eso que el sistema se actualiza automáticamente si no se toca la configuración por defecto.
+

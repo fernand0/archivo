@@ -1,0 +1,20 @@
+Post     : [405]
+Title    : Sobre prevención de Cross Site Scripting
+Date     : 05/19/2011 13:31:36 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/05/19/sobre-prevencion-de-cross-site-scripting/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad,
+Tags     : consejos, Cross,, desarrollo, Scripting,, seguridad, site,, XSS
+ 
+ 
+En <a href="http://www.acunetix.com/blog/web-security-zone/articles/preventing-xss-attacks/">Preventing XSS Attacks</a> un artículo generalista sobre el tema. Recomiendan un proyecto alojado en Google Code:
+
+<blockquote>
+If you are using Java, then a good place to go is XSS Protect, a project hosted on Google code. It claims to filter all “known” XSS attacks from HTML code. PHP boasts a more comprehensive library called HTML Purifier which licensed as Open Source and can be customised depending on your needs. HTML Purifier also boasts strict standards compliance and better features than other filters.
+</blockquote>
+
+Supongo que es este, pero no lo tengo claro del todo: <a href="http://code.google.com/p/xssprotect/">XSS Protect</a>.
+

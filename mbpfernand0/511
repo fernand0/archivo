@@ -1,0 +1,23 @@
+Post     : [511]
+Title    : SMS y fallos. Ahora en Windows Phone
+Date     : 12/15/2011 13:56:43 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/12/15/sms-y-fallos-ahora-en-windows-phone/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : fallos, móviles, phone, seguridad, SMS, teléfonos, Windows
+ 
+ 
+Lo veo en <a href="http://www.xatakamovil.com/sistemas-operativos/descubierta-vulnerabilidad-a-traves-de-mensajes-sms-en-windows-phone-7">Descubierta vulnerabilidad a través de mensajes SMS en Windows Phone 7</a> y apunta a <a href="http://www.winrumors.com/windows-phone-sms-attack-discovered-reboots-device-and-disables-messaging-hub/">Windows Phone SMS attack discovered, reboots device and disables messaging hub</a> donde cuentan más detalles (pero no muchos). El envío de un mensaje 'adecuado' reiniciaría el teléfono y deshabilitaría algunas funciones.
+
+Ya hemos hablado en vidas anteriores de otros problemas con los SMS:
+
+<ul>
+<li><a href="http://mbpfernand0.wordpress.com/2010/11/17/fuzzing-en-telefonos-moviles/">Fuzzing en teléfonos móviles</a></li>
+<li><a href="http://mbpfernand0.wordpress.com/2009/12/06/nuevos-ataques-con-smss/">nuevos ataques con SMSs</a></li>
+<li><a href="http://mbpfernand0.wordpress.com/2009/02/28/cross-site-scripting-por-sms/">Cross Site Scripting por SMS</a></li>
+<li><a href="http://mbpfernand0.wordpress.com/2009/01/09/regalos-navideos-de-seguridad/">'Regalos' navideños de seguridad</a></li>
+</ul>
+

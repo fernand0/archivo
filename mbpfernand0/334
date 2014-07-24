@@ -1,0 +1,16 @@
+Post     : [334]
+Title    : GPU, cálculos y descubrimiento de claves
+Date     : 12/02/2010 12:48:18 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/12/02/gpu-calculos-y-descubrimiento-de-claves/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : GPU seguridad
+Tags     : cálculo, gpu, potencia, procesadores, seguridad, velocidad
+ 
+ 
+Ya hemos hablado alguna vez de utilizar GPUs (procesadores gráficos) para cálculos generalistas (por ejemplo en <a href="http://mbpfernand0.wordpress.com/2010/01/24/utilizacion-de-gpus-para-analisis-de-claves/">Utilización de GPUs para análisis de claves</a>).
+
+En <a href="http://www.securitybydefault.com/2010/11/gpu-y-cracking-que-tarjeta-me-compro.html">GPU y cracking, que tarjeta me compro</a> aparecen algunos propios y otros de Ivan Golubev (<a href="http://www.golubev.com/blog/?p=35">More speed estimations</a> con comparativas de velocidad y precio para distintas tarjetas, con algunas pruebas.
+

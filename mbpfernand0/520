@@ -1,0 +1,14 @@
+Post     : [520]
+Title    : Inyección de SQL en Oracle 11g
+Date     : 12/23/2011 19:08:34 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/12/23/inyeccion-de-sql-en-oracle-11g/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : 11g, bases, datos, inyección, oracle, seguridad, SQL
+ 
+ 
+En <a href="http://www.pigadas.com/blog/2011/07/24/error-based-sql-injection-in-oracle-11g/">Error-Based SQL Injection in Oracle 11g</a> una entrada bastante técnicas sobre el tema de inyección SQl en el conocido gestor de bases de datos.  Me pareció intersante por el detallado proceso de ir buscando fallos, indicios de que algo puede ir mal y, finalmente, la forma de atacar a la base de datos en ese caso concreto, saltándose la comprobación en la autentificación.
+

@@ -1,0 +1,22 @@
+Post     : [623]
+Title    : Un ataque de cadenas de formato
+Date     : 10/13/2012 12:01:47 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/10/13/un-ataque-de-cadenas-de-formato/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : ataque, cadenas, formato, seguridad
+ 
+ 
+Cuando contamos los ataques de cadenas de formato siempre queda la sensación de que es algo del pasado, que ahora no tiene importancia: porque cada vez se programa menos en C, y porque como es algo ya sabido, no debería meterse la pata en eso.
+
+La realidad es terca y nos sigue mostrando que aparecen este tipo de fallos: <a href="http://unaaldia.hispasec.com/2012/01/elevacion-de-privilegios-en-sudo-en.html"> Elevación de privilegios en sudo (en multitud de distribuciones) </a>.
+
+<blockquote>
+El fallo, descubierto por joernchen del Phenoelit Groupoernchen, se encuentra en un error de formato de cadena en la función "sudo_debug de sudo.c", a la hora de procesar el nombre del programa que se le pasa por parámetro.
+</blockquote>
+
+Y, naturalmente, en los sitios más insospechados: ¿aseguramos todo nuestro programa de la misma manera? ¿Hay partes que nos preocupan menos?
+

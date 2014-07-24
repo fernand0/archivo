@@ -1,0 +1,16 @@
+Post     : [160]
+Title    : Un compilador que infecta los binarios
+Date     : 09/01/2009 15:01:36 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/09/01/un-compilador-que-infecta-los-binarios/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : virus
+Tags     : compilador, desarrollo, difusión, malware, virus
+ 
+ 
+En mis cursos de <a href="http://webdiis.unizar.es/~ftricas/Asignaturas/seguridadD/Home.html">diseño de aplicaciones seguras</a> es una lectura recomendada el <a href="http://www.ece.cmu.edu/%7Eganger/712.fall02/papers/p761-thompson.pdf">Reflections on trusting trust (pdf)</a> de Ken Thompson: al final tienes que confiar en en algo porque, él hipotetizaba, podrían darte el compilador manipulado y cualquier binario generado con ello podría infectarse y tendríamos un sistema inseguro.
+
+Nos lo recuerdan en <a href="http://www.securitybydefault.com/2009/08/virus-que-infectan-compiladores.html">Virus que infectan compiladores</a> y un caso que parece ser que está de actualidad porque hay compiladores de Delphi que harían realidad aquella especulación: una vez infectados generan binarios infectados (se han detectado incluso virus y troyanos infectados, si todo lo que se cuenta es cierto). Hay algunos detalles más en <a href="http://www.sophos.com/blogs/gc/g/2009/08/19/w32induca-spread-delphi-software-houses/">W32/Induc-A virus being spread by Delphi software houses</a>.
+

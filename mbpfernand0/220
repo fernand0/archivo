@@ -1,0 +1,20 @@
+Post     : [220]
+Title    : Utilización de GPUs para análisis de claves
+Date     : 01/24/2010 19:11:36 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/01/20/utilizacion-de-gpus-para-analisis-de-claves/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : claves, contraseñas, cpu, gpu, paralelismo, seguridad
+ 
+ 
+Ya habíamos hablado en vidas anteriores del uso de GPU's (Graphical Processor Unit) para el operaciones de cálculo intensivo (<a href="http://barrapunto.com/~fernand0/journal/14636"> GPUsort: ordenación utilizando procesadores gráficos</a>; más recientemente, y con más enlaces en <a href="http://mbpfernand0.wordpress.com/2009/12/10/consolas-y-supercomputacion/">consolas y supercomputación</a>).
+
+En <a href="http://blog.s21sec.com/2010/01/gpu-vs-cpu-para-analisis-de-contrasenas.html">GPU vs CPU para análisis de contraseñas</a> podemos leer una comparativa para distintos algoritmos y programas de análisis. Del final del texto:
+
+<blockquote>
+Como puede apreciarse, aquellos algoritmos que pueden ejecutarse de forma eficiente en una GPU ofrecen un rendimiento varias decenas de veces superior al de una CPU debido a la cantidad de ALUs disponibles y que los algoritmos usados son simples, apenas acceden a memoria y no requieren de un sistema de predicción de saltos complejo.
+</blockquote>
+

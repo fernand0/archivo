@@ -1,0 +1,20 @@
+Post     : [494]
+Title    : Sobre la difusión de gusanos y otros programas malévolos
+Date     : 11/07/2011 19:29:01 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/11/07/sobre-la-difusion-de-gusanos-y-otros-programas-malevolos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : cifras, difusión, estudios, gusanos, malévolos, malware, programas, seguridad
+ 
+ 
+En <a href="http://www.icir.org/vern/papers/cdc-usenix-sec02/">How to 0wn the Internet in Your Spare Time</a> algunas cifras interesantes de difusión de diferentes gusanos y programas maliciosos y cómo algunos se quedan en la red disponibles para infectar a cualquiera que no ande protegido, incluso después de mucho tiempo:
+
+<blockquote>
+In this paper we have examined the spread of several recent worms that infected hundreds of thousands of hosts within hours. We showed that some of these worms remain endemic on the Internet. We explained that better-engineered worms could spread in minutes or even tens of seconds rather than hours, and could be controlled, modified, and maintained indefinitely, posing an ongoing threat of use in attack on a variety of sites and infrastructures. Thus, worms represent an extremely serious threat to the safety of the Internet. We finished with a discussion of the urgent need for stronger societal institutions and technical measures to control worms, and sketched what these might look like.
+</blockquote>
+
+Algunos se propagan en minutos o segundos.
+

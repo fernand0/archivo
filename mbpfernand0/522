@@ -1,0 +1,21 @@
+Post     : [522]
+Title    : Interacción entre hardware y software: el caso Apple
+Date     : 01/10/2012 17:30:02 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/01/10/interaccion-entre-hardware-y-software-el-caso-apple/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : baterías, bug, fallo, firmware, rotura, seguridad
+ 
+ 
+Una de las cosas que todo el mundo da por sentado es que los programas no pueden causar daño. Evidentemente, en un mundo cada vez más 'programado' esto no tiene por qué ser cierto siempre (pensemos en <a href="http://en.wikipedia.org/wiki/Therac-25">dispositivos médicos</a>, pero también, como venimos comentando de vez en cuando últimamente <a href="http://mbpfernand0.wordpress.com/tag/coches/">en otros aparatos</a>) así que no está tan claro.
+Pero nos estamos refiriendo a daños que puede causar un programa en la gente que utiliza el aparato que el programa controla.
+
+Por eso me hizo gracia (en el buen sentido, no me alegra que le pasen cosas malas a nadie) la noticia de <a href="http://www.forbes.com/sites/andygreenberg/2011/07/22/apple-laptops-vulnerable-to-hack-that-kills-or-corrupts-batteries/">Apple Laptops Vulnerable To Hack That Kills Or Corrupts Batteries</a>, además por fallos no muy interesantes:
+
+<blockquote>
+The batteries’ chips are shipped with default passwords, such that anyone who discovers that password and learns to control the chips’ firmware can potentially hijack them to do anything the hacker wants. That includes permanently ruining batteries at will, and may enable nastier tricks like implanting them with hidden malware that infects the computer no matter how many times software is reinstalled or even potentially causing the batteries to heat up, catch fire or explode.
+</blockquote>
+

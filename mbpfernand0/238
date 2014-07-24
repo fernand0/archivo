@@ -1,0 +1,17 @@
+Post     : [238]
+Title    : Hay que probar
+Date     : 02/18/2010 10:51:46 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/02/18/hay-que-probar/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo seguridad
+Tags     : desarrollo, fuzzing, pruebas, seguridad, testing
+ 
+ 
+
+En <a href="http://www.informationweek.com/news/security/app-security/showArticle.jhtml?articleID=221901215">Secure Software Needs Careful Testing--And Lots Of It</a> hay una 'defensa' del 'fuzzing' (probar las aplicaciones mandando 'basura' a las divesas interfaces de entrada para detectar posibles problemas y fallos).
+
+Ya habíamos hablado en vidas anteriores del 'fuzzing' (¿alguna traducción por ahí?): <a href="http://barrapunto.com/~fernand0/journal/23319">Fuzz testing</a>, <a href="http://barrapunto.com/~fernand0/journal/25043"> MacOS, fuzzing y malos resultados</a> y <a href="http://barrapunto.com/~fernand0/journal/27313">Fuzzing y JavaScript</a>.
+

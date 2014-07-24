@@ -1,0 +1,24 @@
+Post     : [119]
+Title    : Cuidado con las actualizaciones automáticas
+Date     : 04/28/2009 13:57:40 GMT
+Link     : http://mbpfernand0.wordpress.com/2009/04/28/cuidado-con-las-actualizaciones-automaticas/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : actualización, parches, seguridad
+ 
+ 
+El otro día hablábamos de que <a href="http://mbpfernand0.wordpress.com/2009/03/26/los-parches-hay-que-aplicarlos/">Los parches hay que aplicarlos</a>.
+
+En <a href="http://horning.blogspot.com/2008/06/software-update-takes-out-nuclear-power.html">Software update takes out nuclear power plant</a> nos recordaba como una actualización de un programa había provocado la parada de una central nuclear:
+
+<blockquote>
+According to a report filed with the Nuclear Regulatory Commission, when the updated computer rebooted, it reset the data on the control system, causing safety systems to errantly interpret the lack of data as a drop in water reservoirs that cool the plant's radioactive nuclear fuel rods. As a result, automated safety systems at the plant triggered a shutdown...
+</blockquote>
+
+Claro que, seguramente, un sistema de este tipo debería tener protocolos adecuados para la actualización, ¿no?
+
+Yo suelo actualizar tan rápido como es posible, pero si tengo alguna fecha de entrega próxima, o un viaje, me espero a que se pase (después de echar un ojo a las características de la actualización -si hay tiempo-, para obrar en consecuencia, claro).
+

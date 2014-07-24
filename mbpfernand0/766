@@ -1,0 +1,20 @@
+Post     : [766]
+Title    : URLs y Ajax
+Date     : 06/10/2014 14:49:57 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/06/10/urls-y-ajax/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : ajax, desarrollo, html, url, urls, web
+ 
+ 
+Cuando lo lei (y lo guardé para comentarlo aquí, hace ya algún tiempo) me gustó leer <a href="http://blog.mgm-tp.com/2011/10/must-know-url-hashtechniques-for-ajax-applications/">Must-Know URL Hash Techniques for AJAX Applications</a>. Algunos de los ejemplos han quedado obsoletos, pero el concepto sigue siendo interesante.
+<br />
+<br />
+También nos sirve para darnos cuenta de por qué, a veces, parece que al ordenador le cuesta 'mover' las páginas de GMail, Twitter, Facebook, ... En realidad son aplicaciones en javascript que corren en nuestro computador y que solicitan determinados servicios al sitio web en cuestión.
+<br />
+<br />
+Decididamente, vale la pena su lectura.
+

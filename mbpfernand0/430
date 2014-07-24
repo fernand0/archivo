@@ -1,0 +1,19 @@
+10     : [430]
+Title    : Contaminación de parámetros Http
+Date     : 07/09/2011 12:26:51 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/07/09/contaminacion-de-parametros-http/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : protocolos seguridad,
+Tags     : contaminación,, cortafuegos,, firewall,, http, protocolos, seguridad
+ 
+ 
+Ya habíamos hablado del tema de la contaminación de parámetros Http (polución, decían) en <a href="http://mbpfernand0.wordpress.com/2011/05/04/contaminacion-de-parametros-http-hpp/">Contaminación de parámetros HTTP (HPP)</a>, <a href="http://mbpfernand0.wordpress.com/2010/12/20/papas-%C2%BFsomos-vulnerables-a-la-polucion-de-parametros-http/">PAPAS: ¿Somos vulnerables a la polución de parámetros HTTP?</a> y <a href="http://mbpfernand0.wordpress.com/2009/05/20/polucion-de-parametros-del-protocolo-http/">Polución de parámetros del protocolo HTTP</a>.
+Esencialmente, se trataba de añadir parámetros extra en las peticiones que, dependiendo del servidor y la aplicación podían utilizarse para obtener algún beneficio.
+
+En <a href="http://netsec.rs/files/Http%20Parameter%20Contamination%20-%20Ivan%20Markovic%20NSS.pdf">[PDF] Http Parameter contamination</a>, vemos cómo se puede llevar el tema por otro camino: aprovechar la forma en que interpretan los servidores web determinados caracteres para saltarse los cortafuegos de aplicaciones. Por ejemplo, algunos servidores y configuraciones cambiarían el caracter "]" por el carácter "_".
+
+Uno no puede fiarse de nada.
+

@@ -1,0 +1,16 @@
+Post     : [346]
+Title    : Información interesante sobre bloqueo de ficheros
+Date     : 12/23/2010 17:10:25 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/12/22/informacion-interesante-sobre-bloqueo-de-ficheros/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación, seguridad
+Tags     : bloqueo, desarrollo, ficheros, lock, programación, seguridad
+ 
+ 
+El bloqueo de ficheros es importante para evitar problemas (condiciones de carrera, pero no sólo). Encontré el otro día una entrada interesante en <a href="http://apenwarr.ca/log/?m=201012#13">Everything you never wanted to know about file locking</a>.
+
+Habla de flock(), fcntl() y lockf().
+

@@ -1,0 +1,20 @@
+Post     : [473]
+Title    : El OWASP Top 10 de 2010 en diez párrafos
+Date     : 09/02/2011 15:04:53 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/09/02/el-owasp-top-10-de-2010-en-diez-parrafos/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : OWASP
+Tags     : imperva, informes, OWASP, seguridad, TOP10
+ 
+ 
+Empezamos la vuelta al cole suavecito, con un par de informes. No por su
+interés (que puede que lo tengan y puede que no), sino por sus valores
+'laterales'.
+
+En <a href="https://www.imperva.com/lg/lgw.asp?pid=391">White Paper: SecureSphere and OWASP 2010 Top Ten Most Critical Web Application Security Risks</a> (requiere registro) un informe sobre un producto, Securesphere, al que conforme iba echando un vistazo ayer iba pensando que tenía valo por los parrafitos en ls que se comenta cada uno de los fallos del <a href="https://www.owasp.org/index.php/Top_10_2010">OWASP Top 10 2010</a>. A veces, las buenas explicaciones sobre otras cosas vienen cuando uno necesita explicar algo más sofisticado, porque se esmera en simplicar la explicación de lo que necesita como paso previo.
+
+Otro infome que también me viene bastante bien en un sentido similar es el de <a href="https://www.imperva.com/lg/lgw.asp?pid=382">White Paper: Next Generation Web Application Firewalls (NG-WAF)</a>, porque aparece una cronología de las regulaciones que han ido apareciendo a lo largo del tiempo en reacción a determinados incidentes y problemas de seguridad.  Lamentablemente, no consigo encontrarla de manera individual por la web, así que hay que bajarse el informe para echarle un ojo. También requiere registro.
+

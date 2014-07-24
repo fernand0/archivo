@@ -1,0 +1,15 @@
+Post     : [387]
+Title    : Sobre POSIX y Win32
+Date     : 03/30/2011 19:15:00 GMT
+Link     : http://mbpfernand0.wordpress.com/2011/03/30/sobre-posix-y-win32/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : API, desarrollo, estándares,, historia, POSIX,, win32,
+ 
+ 
+En <a href="http://www.samba.org/samba/news/articles/low_point/tale_two_stds_os2.html">A Tale of Two Standards</a> hablan de las interfaces de programación del mundo Unix/Linux (POSIX, "Portable Operating System Interface" - X) y del mundo Windows (Win32) desde el punto de vista de los desarrolladores. Ambas tienen sus virtudes y sus defectos y le sirve al autor para pensar en qué tipo de cuestiones deberían contemplar los estándares.
+Es interesante porque Jeremy Allison pertenece al 'Samba Team' que, como seguramente conocen, es uno de los mecanismos para tender puentes entre sistemas de ambos tipos y compartir información entre ellos.
+

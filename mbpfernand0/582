@@ -1,0 +1,43 @@
+Post     : [582]
+Title    : ¿Seguro que es el mejor algoritmo?
+Date     : 06/22/2012 16:18:42 GMT
+Link     : http://mbpfernand0.wordpress.com/2012/06/22/seguro-que-es-el-mejor-algoritmo/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : programación
+Tags     : análisis, coste, desarrollo, programación, tiempo, velocidad
+ 
+ 
+Cambiamos un poco de tema. En <a href="http://queue.acm.org.sharedcopy.com/214b2ff5caae7b2b171d7d533c69c170.html">Think you've mastered the art of server performance? Think again.</a> el análisis del coste de una solución cuando empiezan a entrar diversos factores que afectan a cómo la teoría interpreta los resultados.
+
+Por ejemplo, algunas suposiciones puede ser importante:
+
+<blockquote>
+A quick browse of the mental catalog flipped up the binary-heap card, which not only sports an O(log2(n)) transaction performance, but also has a meta-data overhead of only a pointer to each object—which is important if you have 10 million+ objects.
+</blockquote>
+
+La memoria virtual:
+
+<blockquote>
+It took quite some time before virtual memory took hold, but today all general-purpose, most embedded, and many specialist operating systems use VM to present a standardized virtual machine model (i.e., POSIX) to the processes they herd.
+</blockquote>
+
+Y como seguimos ignorándola a la hora de medir teóricamente algunas cosas:
+
+<blockquote>
+The fact is, however, 46 years later most CS-educated professionals still ignore VM as a matter of routine. This is an embarrassment for CS as a discipline and profession, not to mention wasting enormous amounts of hardware and electricity.
+</blockquote>
+
+Por eso,
+
+<blockquote>
+What good is an O(log2(n)) algorithm if those operations cause page faults and slow disk operations? For most relevant datasets an O(n) or even an O(n^2) algorithm, which avoids page faults, will run circles around it.
+</blockquote>
+
+Por eso, nosotros siempre recomendamos medir teóricamente para tener una idea de por donde van los tiros. Pero luego probar con nuestros sistemas reales y con los datos de verdad, para estar seguros de que los resultados teóricos se mantienen.
+Y, por supuesto, esto nos da pistas de por qué es importante saber de hardware, del sistema y tratar de estar al día en muchos de estos temas.
+
+Divertido, ¿no?
+
