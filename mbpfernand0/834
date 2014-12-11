@@ -1,0 +1,27 @@
+Post     : [834]
+Title    : Algunas medidas proactivas para la seguridad en aplicaciones web
+Date     : 11/09/2014 12:00:15 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/11/09/algunas-medidas-proactivas-para-la-seguridad-en-aplicaciones-web/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : aplicaciones, desarrollo, seguridad, web
+ 
+ 
+En <a href="https://blog.whitehatsec.com/top-10-proactive-web-application-security-measures/">Top 10 Proactive Web Application Security Measures</a>.
+
+<blockquote>
+- Content-Security-Policy
+- X-Frame-Options
+- anti-CSRF cryptographic nonces
+- DAL (data/database access layer)
+- Unwritable file system
+- Forensically secure logging
+- Secure credential/passwd/secret questions and answers storage
+- SSL, cookies with secure flags, cookies with httponly and STS
+- Security frameworks
+- autocomplete=”off” and strong passwords
+</blockquote>
+

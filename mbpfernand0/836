@@ -1,0 +1,25 @@
+Post     : [836]
+Title    : Las cabeceras de seguridad para los sitios web más importantes
+Date     : 09/22/2014 13:15:00 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/09/22/las-cabeceras-de-seguridad-para-los-sitios-web-mas-importantes/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : cabeceras, estudios, internet, seguridad, web
+ 
+ 
+Aunque la entrada que yo guardé en su día era otra, en <a href="https://www.veracode.com/blog/2014/03/security-headers-on-the-top-1000000-websites-march-2014-report">Security Headers on the Top 1,000,000 Websites: March 2014 Report</a> se puede encontrar justamente eso: el resumen de un estudio sober el primer millón de sitios más importantes en la web (según Alexa) y las cabeceras relacionadas con la seguridad que envían desde sus páginas web.
+
+Normalmente estas entradas nos pueden servir para bajar un poco los pies a la tierra sobre lo que realmente se está utilizando en la industria y también para echarle un vistazo a todas las cabeceras en las que deberíamos pensar si somos nosotros los que tenemos que tomar la decisión de cuáles enviar.
+
+Si miramos la serie a lo largo de tiempo también pueden ser útiles para ver cómo van cambiando  los usos y costumbres.
+
+Finalmente, me gustan porque permiten ver todo lo que se puede saber en la red, con unas pocas herramientas y ganas de hacer los programitas adecuados.
+
+Veo que también han publicado:
+<a href="https://www.veracode.com/blog/2013/11/security-headers-on-the-top-1000000-websites-november-2013-report/">Security Headers on the Top 1,000,000 Websites: November 2013 Report</a>.
+<a href="https://www.veracode.com/blog/2013/03/security-headers-on-the-top-1000000-websites-march-2013-report/">Security Headers on the Top 1,000,000 Websites: March 2013 Report</a>.
+<a hreF="https://www.veracode.com/blog/2012/11/security-headers-report/">Security Headers on the Top 1,000,000 Websites</a> (noviembre 2012).
+

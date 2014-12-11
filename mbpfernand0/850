@@ -1,0 +1,16 @@
+Post     : [850]
+Title    : Complejidad algorítmica y ataques
+Date     : 11/06/2014 18:45:55 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/11/06/complejidad-algoritmica-y-ataques/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : algoritmia
+Tags     : algoritmia, ataques, complejidad, coste, desarrollo, qsort, quick, sort
+ 
+ 
+Leía hace unos días el artículo <a href="http://calmerthanyouare.org/2014/06/11/algorithmic-complexity-attacks-and-libc-qsort.html">algorithmic complexity attacks and libc qsort()</a> donde se hace un análisis del Quick Sort, lo que pueden costar algunas de sus implementaciones y fantasea con la posiblidad de utilizarlo para algún tipo de ataque de denegación de servicio (o al menos ralentización).
+
+Son de esas cosas que nos trae el software libre e internet.
+

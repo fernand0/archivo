@@ -1,0 +1,29 @@
+Post     : [847]
+Title    : Los programadores y la criptografía
+Date     : 08/10/2014 12:26:03 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/10/08/los-programadores-y-la-criptografia/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : desarrollo, programadores, seguridad
+ 
+ 
+En <a href="http://pilif.github.io/2013/07/why-I-dont-touch-crypto/">why I don't touch crypto</a> explican un par de buenas razones para no tratar de inventar nada relacionado con la criptografía. Un buen recordatorio:
+
+La generación de números (seudo)aleatorios es un problema difícil y hablan
+de un fallo:
+
+<blockquote>
+Last week's issue in the <a href="http://nakedsecurity.sophos.com/2013/07/09/anatomy-of-a-pseudorandom-number-generator-visualising-cryptocats-buggy-prng/">random number generator in Cryptocat</a> is a very good example.
+
+The bug was an off-by-one error in their random number generator. The output of the function was still random numbers, looking at the output would clearly show random numbers. Given that fact, the natural bias for seeing code as being correct is only reinforced.
+</blockquote>
+
+Comprender los conceptos no es suficiente, es muy fácil equivocarse:
+
+<blockquote>
+I'm just plain not good enough. Crypto is a world where understanding the concepts, understanding the math and writing tests just isn't good enough.
+</blockquote>
+

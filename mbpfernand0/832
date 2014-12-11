@@ -1,0 +1,16 @@
+Post     : [832]
+Title    : Sobre las sesiones (más o menos) permanentes
+Date     : 09/09/2014 16:30:49 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/09/09/sobre-las-sesiones-mas-o-menos-permanentes/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : consejos, desarrollo, me, remember, seguridad
+ 
+ 
+En <a href="http://www.troyhunt.com/2013/07/how-to-build-and-how-not-to-build.html">How to build (and how not to build) a secure “remember me” feature </a> Troy Hunt nos da ideas sobre el botoncito que tienen casi todas las aplicaciones web que permite que la próxima vez que volvamos a utilizarlas recuerden toda (o parte) de nuestra información a la hora de autentificarnos en el sistema.
+
+Cosas que se pueden hacer mal, información que no sería necesaria pero que se almacena de alguna forma.... Y algunos ejemplos del 'mundo real' que parece que ya no deberían ser fáciles de encontrar.
+

@@ -1,0 +1,17 @@
+Post     : [824]
+Title    : Expertos en seguridad poco seguros
+Date     : 28/07/2014 23:45:46 CET
+Link     : http://mbpfernand0.wordpress.com/2014/07/29/expertos-en-seguridad-poco-seguros/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : catálogo, fallos, infecciones, seguridad, vulnerabilidades
+ 
+ 
+De la serie 'mi tema es la seguridad pero no soy tan seguro como debería' rescato esta noticia donde se hablaba de la <a href="http://nvd.nist.gov/">National Vulnerabilty Database</a>.  Según cuentan en <a href="http://www.theregister.co.uk/2013/03/14/adobe_coldfusion_vulns_compromise_us_malware_catalog/">Downed US vuln catalog infected for at least TWO MONTHS</a> los servidores estuvieron comprometidos durante al menos dos meses antes de que se detectara el problema.
+
+Es doblemente interesante (y curioso) porque tanto los que gestionan el sitio web como sus visitantes habituales son (o deberían ser) expertos en seguridad.
+
+Ya habíamos hablado del tema de la <a href="http://mbpfernand0.wordpress.com/2011/01/30/seguridad-de-los-productos-relacionados-con-la-seguridad/">Seguridad de los productos relacionados con la seguridad</a>.

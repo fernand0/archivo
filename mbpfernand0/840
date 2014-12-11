@@ -1,0 +1,18 @@
+Post     : [840]
+Title    : Contraseñas en Linux
+Date     : 09/26/2014 13:05:16 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/09/26/contrasenas-en-linux/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : claves, contraseñas, crypto, passwords, seguridad
+ 
+ 
+En <a href="http://blog.sanctum.geek.nz/">Arabesque</a> estuvieron escribiendo una interesante serie sobre diversos aspectos de seguridad para el usuario en Linux (el índice en <a href="http://blog.sanctum.geek.nz/linux-crypto-introduction/">http://blog.sanctum.geek.nz/linux-crypto-introduction/"</a>).
+
+Tal vez volvamos sobre ella pero hoy me gustaría traer aquí el tema de las contraseñas: <a href="http://blog.sanctum.geek.nz/linux-crypto-passwords/">Linux Crypto: Passwords</a> donde nos habla de pass como utilidad para gestionar las claves que utilizamos habitualmente.
+
+Para los aficionados a los programas con interfaz textual puede ser una buena alternativa a otros métodos publicitados frecuentemente.
+

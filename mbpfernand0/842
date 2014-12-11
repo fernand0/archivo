@@ -1,0 +1,88 @@
+Post     : [842]
+Title    : Detección de paso con el sensor de distancia
+Date     : 09/28/2014 22:20:17 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/09/28/deteccion-de-paso-con-el-sensor-de-distancia/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : arduino, pi, proximidad, raspberry, raspi, sensores,, vigilancia
+ 
+ 
+Después del parón del verano volvemos con un proyecto pequeñito. Después de añadir movimiento (<a href="http://mbpfernand0.wordpress.com/2014/06/08/anadiendo-movimiento-servos/">Añadiendo movimiento: servos</a>)  descubrimos que podemos orientar la cámara en una habitación (<a href="http://mbpfernand0.wordpress.com/2014/07/20/una-camara-movil/">Una cámara móvil</a>), pero casi nunca vemos nada interesante (es difícil encontrar el momento adecuado).
+
+Sentía curiosidad por ver cómo funcionaría un sensor de movimiento y decidí comprar un par de HC-SR04, que funcionan con ultrasonidos.
+
+http://instagram.com/p/qJfevTwB9F/
+
+El objetivo es disparar una fotografía cuando alguien pase por delante de la cámara: para ello medimos la distancia al obstáculo que haya enfrente del sensor y cuando cambie tenemos que suponer que hay alguien o algo en la trayectoria.
+
+Tras unas primeras pruebas con la Raspi el resultado no era satisfactorio: se obtienen medidas aproximadas (y relativamente sencillas de filtrar, eliminando los valores desvidados) pero que no resultaban apropiados para lo que teníamos pensado.
+Se puede ver, por ejemplo, un tutorial en <a href="https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi">HC-SR04 Ultrasonic Range Sensor on the Raspberry Pi</a>.
+
+La conexión del sensor a nuestra raspi.
+
+http://instagram.com/p/spwPrRQB1v/
+
+Parece que el problema de precisión tiene que ver con la medición del tiempo (que es lo que se usa para medir la distancia con este tipo de sensores: el tiempo que tarda en ir y volver hasta el obstáculo un frente de ondas sonoras), que no es muy preciso en la Raspberry con su GNU/Linux.
+
+Afortunamdamente, teníamos a mano un Arduino y decidimos probar si era más adecuado. Esto nos permitiría:
+
+- Medir distancias de manera más precisa.
+- Aprender a comunicar la Raspberry y el Arduino.
+
+Y, seguramente, abrir la puerta a nuevos proyectos.
+
+El arduino conectado al sensor:
+
+http://instagram.com/p/tON3DgwB2V/
+
+Siguiendo las pistas de <a href="http://arduinobasics.blogspot.com.au/2012/11/arduinobasics-hc-sr04-ultrasonic-sensor.html"> HC-SR04 Ultrasonic Sensor</a> fue fácil preparar el programita (sketch) de arduino y hacer las conexiones (se puede ver en <a href="https://github.com/fernand0/utils/blob/397d45f087d271d39bda6c877f9b1734f162dc1a/arduino/sketch.ino">sketch.ino</a> en su versión actual, puede haber cambios después).
+
+Efectivamente, la medición era mucho más precisa: de vez en cuando, manteniendo fijo el sistema hay una variación de un centímetro o dos. Pero eso no es un problema cuando tratamos de detectar la presencia de un objeto más o menos grande (como una persona) en la trayectoria porque debería haber una modificación de más de 20 cm.
+
+Ahora había que comunicar el arduino con la Raspberry (para reaprovechar código existente y no tener que empezar de cero en el nuevo aparatito).
+Parece que hay varias formas de comunicarlos: mediante un puerto serie sobre USB (<a href="http://blog.oscarliang.net/connect-raspberry-pi-and-arduino-usb-cable/">Connect Raspberry Pi and Arduino with Serial USB Cable</a>), mediante I2C (<a href="http://blog.oscarliang.net/raspberry-pi-arduino-connected-i2c/">Raspberry Pi and Arduino Connected Using I2C</a>) y mediante GPIO (<a href="http://blog.oscarliang.net/raspberry-pi-and-arduino-connected-serial-gpio/">Raspberry Pi and Arduino Connected Over Serial GPIO</a>).
+Elegí la primera porque me pareció la más sencilla de poner en funcionamiento (aunque no descarto probar las otras).
+
+Lo que envía el arduino se puede leer fácilmente en la Raspberry como una entrada de texto y sólo tenemos que procesar adecuadamente:
+
+[sourcecode language="python" wraplines="false" collapse="false"]
+distAnt=0
+...
+
+while 1:
+distAnt = dist
+dist = int(ser.readline().strip().strip())
+
+if abs(distAnt-dist)&gt;10:
+print "Alert!!"
+[/sourcecode]
+
+Esto es: conservamos la medición anterior (distAnt), obtenemos una nueva (dist = ...) y si la diferencia es mayor que diez, lanzamos una alerta.
+
+Como lo que queríamos hacer era una fotografía justo en ese momento, hemos reutilizado código de <a href="http://mbpfernand0.wordpress.com/2014/05/17/una-camara-en-la-raspberry-pi/">Una cámara en la Raspberry Pi</a> y, siguiendo viejas costumbres, la envíamos por correo (<a href="http://mbpfernand0.wordpress.com/2014/05/25/enviar-una-imagen-por-correo-en-python/">Enviar una imagen por correo en Python</a>).
+
+El código puede verse en <a href="https://github.com/fernand0/utils/blob/397d45f087d271d39bda6c877f9b1734f162dc1a/serialPicture.py">serialPicture.py</a>.
+
+Por la forma de enviar el mensaje esto dejaba el sistema inutilizado mucho tiempo: no podemos evitar el tiempo que consume la cámara (que no es despreciable tampoco) porque no queremos poner más de una; pero sí que podemos evitar la espera de la conexión al servidor de correo, y el envío de la imagen.
+Esto lo conseguimos mediante la creación de un subproceso (ver <a href="https://docs.python.org/2/library/multiprocessing.html">multiprocessing</a>) que se ocupa del envío.
+
+[sourcecode language="python" wraplines="false" collapse="false"]
+camera(name,cam)
+p = Process(target=mail, args=(name,who))
+p.start()
+[/sourcecode]
+
+Esto es, tomamos la foto y lanzamos un proceso hijo que se ocupa del envío.
+No tenía experiencia con esta parte de Python y no estoy seguro de si hace falta terminar el proceso de alguna forma, pero como no hay que hacer sincronizaciones ni esperar a que termine para hacer otras cosas, parece que funciona razonablemente.
+
+Para terminar: ninguno de los procesos es muy rápido; que nadie espere poder utilizar esto como 'trampa' para capturar el paso de un ave volando (o incluso un niño corriendo).
+
+¿Qué podemos hacer ahora?
+Podríamos embarcar el sensor de distancia en uno de nuestros motores (como en <a href="http://mbpfernand0.wordpress.com/2014/07/20/una-camara-movil/">Una cámara móvil</a>) y con ello hacer un 'mapa' de la habitación: se me ocurre que serviría para detectar cambios de otra forma diferente.
+Otra cosa que se me ocurre es que, una vez que alguien o algo ha cruzado la 'barrera' podríamos hacer un barrido con la cámara móvil y tomar varias imágenes (o incluso grabar un vídeo; me está dando pereza, pero es algo que hay que probar).
+Y, por supuesto, escuchar ideas de quien lea esto o buscarlas por ahí.
+Todavía hay otro problema y es que el sensor funciona aunque no haya luz; tal vez podríamos añadir un sensor de luminosidad para evitar el disparo cuando sabemos que no se va a poder tomar una imagen (o, tal vez, iluminar la escena de alguna forma).
+

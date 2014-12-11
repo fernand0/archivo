@@ -1,0 +1,35 @@
+Post     : [827]
+Title    : Sobre paralelismo y concurrencia
+Date     : 02/09/2014 14:00:54 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/09/02/sobre-paralelismo-y-concurrencia/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : concurrencia, desarrollo, paralelismo
+ 
+ 
+Mucha gente no diferencia entre concurrencia y paralelismo, aunque ténicamente tienen sus diferencias, que podrían empezar a divisarse en:
+
+<blockquote>
+Concurrent = Two queues and one coffee machine.
+
+Parallel = Two queues and two coffee machines.
+</blockquote>
+
+Aunque, según el autor la cosa va más allá. Dice, hacia el final:
+
+<blockquote>
+We've discussed differences between parallel, computational systems and
+concurrent, event handling systems. Areas of differences include:
+
+* Determinism: desirable vs impossible
+* Sign of parallel safety: same results vs correct results
+* Parallelism bugs: easy to pinpoint vs impossible to define
+* Queues: implementation detail vs part of the interface
+* Preemption: nearly useless vs nearly essential
+</blockquote>
+
+Me gustó leerlo.
+

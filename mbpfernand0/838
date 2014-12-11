@@ -1,0 +1,16 @@
+Post     : [838]
+Title    : ¿Es fácil de manterner el código de Firefox?
+Date     : 09/24/2014 12:55:59 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/09/24/es-facil-de-manterner-el-codigo-de-firefox/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : desarrollo
+Tags     : cambios, desarrollo, firefox, mantenimiento, programación
+ 
+ 
+Ya hace mucho tiempo de aquellos tiempos en los que se hablaba de lo simple que era Firefox (Mozilla en aquel momento) frente a la complejidad del navegador de Microsoft (recuerden <a href="http://www.spinellis.gr/blog/20031003/index.html">Software Complexity: Open Source vs Microsoft</a>.
+
+Por eso es interesante echarle un vistazo a <a href="http://almossawi.com/firefox/prose/">How maintainable is the Firefox codebase?</a> donde se mostraban varias medidas habituales. Se ve que no está mal del todo, aunque algunos módulos se estarían volviendo más y más complejos.
+

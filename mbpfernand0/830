@@ -1,0 +1,16 @@
+Post     : [830]
+Title    : Estimación de cores desde el navegador
+Date     : 09/04/2014 13:31:54 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/09/04/estimacion-de-cores-desde-el-navegador/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : seguridad
+Tags     : cálculo, datos, estimaciones, números,, privacidad, seguridad
+ 
+ 
+En <a href="http://blog.wg.oftn.org/post/51125082905/core-estimator">navigator.hardwareConcurrency</a> explican una forma de estimar el número de cores del procesador del ordenador del usuario desde el navegador, a la hora de enviarle trabajos de cálculo, si es que tenemos interés en hacerlo.
+
+Curioso.
+
