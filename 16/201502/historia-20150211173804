@@ -1,0 +1,49 @@
+Tener un blog y algunas consideraciones
+<a href="https://www.flickr.com/photos/fernand0/7949645468/" title="Audiencia"><img src="https://farm9.staticflickr.com/8169/7949645468_860fe83900_m.jpg" width="240"  alt="Sillas vacías" style="float:left; margin:5px"></a>
+Traigo hoy un par de lecturas sobre el tema de las bitácoras, su utilidad, consideraciones generales y esas cosas.  
+
+La primera <a href="http://danluu.com/blog-ads/">Is Running Ads on a Programming Blog Worth It?</a> donde el autor le da algunas vueltas al tema de 'monetizar' (toma palabras 'molonas') su página sobre programación (entiendo que podríamos sustituir programación por casi cualquier otra cosa). 
+Aunque no es un análisis muy profundo sí que discute algunas cuestiones que
+me parecieron interesantes.
+
+Sobre los beneficios y los motivos:
+
+<blockquote>
+What do I get out of this blog, anyway? The main benefits I can see are that I've met and regularly correspond with some great people I wouldn't have otherwise met, that I often get good feedback on my ideas, and that every once in a while someone pings me about a job that sounds interesting because they saw a relevant post of mine.
+</blockquote>
+
+Esto es, parece claro que un beneficio son las relaciones que se establecen e incluso recibe ofertas relacionadas con el trabajo.
+
+Y, como conclusión, cree que no vale la pena tener anuncios pero aún así lo va a probar.
+
+La segunda lectura es un poco diferente (aunque también proviene de un desarrollador-bloguero), en el sentido de que trata de analizar las consecuencias de tener un blog de cierto éxito. Entiendo que sus ideas también son generalizables a muchos otros ámbitos y las medidas del sitio favorito que ustedes tengan a bien considerar. 
+
+Se trata de <a href="http://ferrante.pl/frontend/javascript/popularity-driven-development/">Popularity-driven development</a> y, esencialmente, se pregunta si tiene sentido que muchos desarrolladores hagan más caso a los que mantienen una página popular o a los que tienen ciertos buenos parámetros (seguidores en Twitter, en GitHub, ...) estableciéndolos, en la práctica, como referencia a la hora de tomar determinadas decisiones o elegir (en este caso) tecnologías:
+
+Sobre la influencia:
+
+<blockquote>
+I mean it's relatively easy to influence other developers by what you write or say. And people love to have an impact on something. Today we have way more communication channels than we had in 2005 
+</blockquote>
+
+Sobre los motivos para delegar en otros nuestras decisiones:
+
+<blockquote>
+We need to make quick decisions. So we often measure the quality of software by a number of watch/stars at Github, while we don't know why the project gathered so many and who clicked what. We don't know the marketing efforts behind some of the numbers.
+</blockquote>
+
+¿Qué responsabilidad tiene alguien popular? (en estos contextos, se entiende).
+
+<blockquote>
+Another thing related to our social media presence is a responsibility for others. Each day the front-end community welcomes a new member who has a little experience and asks questions like how should I start? what library to use? And more. Unfortunately, when answering these questions, we - as more experienced developers - don't want to leave our comfort zone and understand who asked them and why.
+</blockquote>
+
+Finalmente, sobre la numerología del compartir y los mecanismos que existen para hacerlo. Y que no existen balas de plata.
+
+<blockquote>
+Services like Github and Twitter have certainly improved our lives in a lot of areas. Thanks to them we can share gigantic portions of knowledge every day using an outstanding range of social media options like sharing and liking. These tools helped us understand each other better and learn about different perspectives. However, they also have negative implications. We forget that people are still human beings and they are not a number of followers as well as a popularity can be just one of the factors you can measure software with. Despite the social media revolution in our industry, programs still have bugs and people still make mistakes. Github stars definitely won't fix this.
+</blockquote>
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+blog" rel="tag">blog</a>, <a href="http://delicious.com/fernand0/rei+motivos" rel="tag">motivos</a>, <a href="http://delicious.com/fernand0/rei+dinero" rel="tag">dinero</a>, <a href="http://delicious.com/fernand0/rei+monetizar" rel="tag">monetizar</a>, <a href="http://delicious.com/fernand0/rei+anuncios" rel="tag">anuncios</a>, <a href="http://delicious.com/fernand0/rei+medidas" rel="tag">medidas</a>, <a href="http://delicious.com/fernand0/rei+influencia" rel="tag">influencia</a>, <a href="http://delicious.com/fernand0/rei+numerología" rel="tag">numerología</a>, <a href="http://delicious.com/fernand0/rei+sociedad" rel="tag">sociedad</a>, <a href="http://delicious.com/fernand0/rei+gente" rel="tag">gente</a>, <a href="http://delicious.com/fernand0/rei+constumbres" rel="tag">constumbres</a></p>
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/75308
