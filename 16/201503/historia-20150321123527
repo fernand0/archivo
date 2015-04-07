@@ -1,0 +1,55 @@
+Un par de días con un Ubuntu Phone
+<a href="https://500px.com/photo/102272143/arranc%C3%B3-el-ubuntu-phone-%23unboxing-by-fernando-tricas" title="Ubuntu Phone recién arrancado"><img src="https://drscdn.500px.org/photo/102272143/w%3D280_h%3D280/f52ecac9701cb16f789cef413672f37c?v=7" width="240"  alt="Unboxing Ubuntu Phone" style="float:left; margin:5px"></a>
+Tenía ganas de probar el recién lanzado <a hreF="http://www.ubuntu.com/phone">Ubuntu Phone</a> así que cuando <a href="http://twitter.com/vrruiz">Víctor Ruiz</a> me propuso probar el suyo durante un par de días sólo me hice el remolón lo que la prudencia aconsejaba.
+
+Si el ciclo de vida de mi telefóno hubiera sido otro creo que hubiera encargado este terminal sin pensarlo mucho, a pesar de las limitaciones que ahora veremos. Salvo accidente u otras circunstancias mi teléfono actual (un Moto G, ver <a href="http://fernando.tricas.usaesto.es/">Fernando Tricas - Engranajes</a> para más información sobre otros aparatos) debería durar un añito más o así que será (a lo mejor) un buen momento para que estos teléfonos hayan evolucionado y poder comprarlos en su momento.
+
+La primera impresión: el diseño está muy cuidado; acostumbrados a tanto software libre donde la estética no es lo principal (y no libre, la verdad; salvo las excepciones 'molonas' lo normal es trabajar con programas feos), la gente de Ubuntu ha trabajado este tema y lo que se ve al arrancar causa una buena impresión. 
+En cuanto al hardware, se trata del <a href="http://www.bq.com/gb/ubuntu.html">BQ Aquaris E4.5</a> que tiene un tamaño razonable (no me gustan los teléfonos grandes y este casi lo es) y pesa poco. Por cierto, 'chapeau' para esta empresa que no sólo está haciendo terminales baratos sino que está haciendo apuestas muy interesantes por hacerse un hueco en el mundo mundial. No me gustan del todo los bordes afilados (sobre todo comparando con las redondeces de otros aparatos) pero todo parece correcto. 
+Se trata de un modelo de los que llaman de gama de entrada pero, afortunadamente, la gama baja-media ya no es lo que era y no he notado grandes problemas en ese sentido.
+
+Podemos ver algunas fotografías del 'unboxing':
+
+<!-- Place this tag in your head or just before your close body tag. --> <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script> <!-- Place this tag where you want the widget to render. --> <div class="g-post" data-href="https://plus.google.com/112862240851570159916/posts/X7QhRpoNKYN"></div>
+
+En cuanto al funcionamiento, la utilización está basada en lo que llaman gestos: delizar el dedo hacia la izquierda nos muestra el 'unity' de Ubuntu (un menú), hacia la derecha nos permite ver distintas pantallas (información, aplicaciones, vídeos, música,...), hacia abajo vemos la parte de notificaciones y hacia arriba normalmente nos ofrece opciones de configuración. 
+La configuración se basa en el que creíamos fallecido Ubuntu One y supongo que sirve como respaldo cuando cambiemos de terminal, algo vaya mal y esas cuestiones.
+Tiene una zona de notificaciones un poco primitiva (por ejemplo, no es posible -creo- eliminarlas sin realizar la acción que se supone que se asocia a la notificación) y las acciones que se esperan hoy en día de configuraciones del aparato.
+
+El teléfono en este momento dispone de muy pocas aplicaciones (olvídense del Whatsapp, Instagram, ... por ejemplo).
+La mayoría de las aplicaciones que hay son aplicaciones web (webapps) que consisten en lanzar un navegador restringido (que aunque pueda parecer novedoso y tenga bastante sentido, es algo que ya aquellos teléfonos Nokia utilizaban en algunos casos cuando nadie imaginaba todavía ni el iOS, ni android, ni nada). 
+También tiene un navegador, que nos da acceso a cualquier aplicación web que queramos utilizar y algunas aplicaciones nativas.
+En cierto modo, aquí estaríamos cerca del Firefox OS (que no he probado) y me pregunto si no podrían surgir sinergias entre ambos proyectos.
+
+<a href="https://500px.com/photo/102281955/una-terminal-en-%23ubuntuphone-%23ubuntu-by-fernando-tricas" title="La terminal en Ubuntu Phone"><img src="https://drscdn.500px.org/photo/102281955/w%3D280_h%3D280/268f082f102f4fa23e2b91d58d453376?v=6" width="240"  alt="Diga Unix" style="float:left; margin:5px"></a>
+Y.... ¡Tachán! podemos lanzar una terminal (hay que instalarla, a través de su 'tienda de aplicaciones') que nos da acceso (no se hasta que nivel, no lo he podido probar mucho) a un intérprete de instrucciones totalmente análogo al que podemos encontrar en nuestra sistema Unix favorito: allí debería ser posible instalar programas (por ejemplo, viene con un intérprete de Python).
+Con el problema de que la interfaz es táctil y los teclados no son muy buenos para el tipo de interacción que esperamos en una terminal; supongo que se podrá mejorar la experiencia con un teclado bluetooth.
+
+Sorprendentemente, tampoco tenía instalado por defecto un programa de correo.  Por algún motivo los desarrolladores de Ubuntu consideran que con Gmail (también se puede instalar la webapp para el correo de Yahoo!, por ejemplo) es suficiente. Hay algunos disponibles y he estado probando <a href="https://launchpad.net/dekko">Dekko</a> que tiene un aspecto razonable (aunque no he 'jugado' mucho con él) y permite acceder a una cuenta POP o IMAP normal.  
+También venía con algún juego, pero como no soy muy jugón, no echaré de menos ningún juego en este sistema (bueno, algún solitario, que seguramente ya habrá o no tardará mucho en aparecer).
+
+No voy a hablar mucho del cacareado tema de los 'scopes' porque no han llamado especialmente mi atención: cuando busco información prefiero un lector de RSS (y no es algo que utilice en el teléfono) y cuando busco entretenimiento (o pasar tiempo, mirar puntualmente algo) prefiero Twitter (Flipboard y otros similares nunca han sido para mi). Tenemos, claro aplicaciones web para Twitter, Facebook, e incluso Google+.
+
+No quiero alargarme demasiado así que no diré mucho más; imagino que el problema al que se va a enfrentar este teléfono está claro: hay pocas aplicaciones y faltan algunas que mucha gente considera esenciales (en nuestro entorno, el Whatsapp, a pesar de que se puede utilizar una alternativa bastante razonable, que es Telegram).
+
+¿Lo compraría? Si en este momento necesitara un teléfono nuevo, seguramente sí. Sería una apuesta (otra vez más) por el software libre y su comunidad; seguramente en poco tiempo empezará a producir aplicaciones para estos teléfonos. Las apuestas siempre suponen algún riesgo, claro.
+¿Echaría de menos algo en este momento? 
+Mi impresión es que podría sobrevivir sin tener Instagram. Con este sitio mantengo una relación de amor -por los contactos que tengo allí- y odio (por las limitaciones) ni Apalabrados (que me sirve de distracción algunos ratos).
+No soy de los que echaría mucho de menos el Whatsapp.
+¿Se lo compraría a algún familiar próximo mío? No estoy seguro en este momento: dependería del tipo de cosas que suela hacer y si vamos a ser capaces de encontrar una alternativa o no. Veremos dentro de un año.
+
+Bueno, ¿y como teléfono?
+No lo he probado. 
+Ya lo he dicho más veces pero estos aparatos se siguen llamando teléfonos porque ese es su origen pero para mi no es su utilidad fundamental; no voy a decir que no hable nunca, ni que se pueda prescindir de esta utilidad pero no tenía una microSIM a mano para poder probar esta parte.
+
+Algunas fotos más que he tomado con el teléfono:
+
+<div class="g-post" data-href="https://plus.google.com/112862240851570159916/posts/82iJJGTgMt6"></div>
+
+Por si tienen interés, en <a href="http://www.xataka.com/analisis/ubuntu-for-phones-analisis-tras-un-mes-de-uso">Ubuntu for Phones, análisis tras un mes de uso</a> hay un análisis de Javier Pastor y otro análisis previo <a href="http://www.xataka.com/analisis/asi-es-la-experiencia-ubuntu-en-smartphones-toma-de-contacto-con-el-bq-aquaris-e4-5-ubuntu-edition">Así es la experiencia Ubuntu en smartphones</a>.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+teléfono" rel="tag">teléfono</a>, <a href="http://delicious.com/fernand0/rei+móvil" rel="tag">móvil</a>, <a href="http://delicious.com/fernand0/rei+pruebas" rel="tag">pruebas</a>, <a href="http://delicious.com/fernand0/rei+ubuntu" rel="tag">ubuntu</a>, <a href="http://delicious.com/fernand0/rei+ubuntu phone" rel="tag">ubuntu phone</a></p>
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/75462
