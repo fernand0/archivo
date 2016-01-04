@@ -1,0 +1,44 @@
+Hacer contraseñas interesantes
+<a href="https://www.flickr.com/photos/fernand0/14398983648/" title="Amón"><img src="https://farm3.staticflickr.com/2906/14398983648_5e6523628b_m.jpg" width="240"  alt="Amón" style="float:left; margin:5px"></a>
+En verano nos movemos más, utilizamos sistemas prestados por ahí y nos conectamos a sitios menos confiables. Por este motivo me permito traer una forma de crear contraseñas difíciles e interesantes: ni que decir tiene que si utilizamos el mismo método, sin ninguna variación, estaremos utilizando un método público y publicado: mejor utilizar ideas parecidas, pero no las mismas.
+
+Podíamos leer en <a href="http://www.iap.org.uk/main/passwords/">Passwords</a> los siguientes pasos:
+
+- Primero elegir una secuencia alfanumérica de media docena de caracteres que tienen algún signficado para nosotros pero no están (o no deberían estar) en un diccionario. Por ejemplo, las iniciales y la fecha de nacimiento de un familiar.
+
+mrd310817
+
+- Luego hacemos alguna operación sobre la fecha. Por ejemplo, añadir 30 al número qu erepresenta el día y el mes.
+
+mrd613817
+
+- Lo utilizaremos, a partir de ahora como semilla para otras contraseñas.  Añadimos algo que represente la cuenta que estamos considerando, por ejemplo para la tienda: 'Not On The High Street' tomamos la última letra de cada palabra: 
+
+tneht
+
+- Dividimos el teclado en dos grupos: fila alta (Q - P) y el resto. Las letras que estén en el primer grupo las ponemos en mayúscula, tendremos: 
+
+mRd613817TnEhd
+
+- Finalmente, añadimos un par de caracteres especiales, con alguna regla sobre su posición. Por ejemplo '?' y '/' y 'la letra minúscula de más a la derecha irá seguida de '/' y la mayúscula de más a la derecha irá seguida de '?':
+
+mRd613817TnE?hd/
+
+- Finalmente, añadimos en algún sitio el mes y el año, para poder cambiar la clave cada mes (o acordarnos de cuando la cambiamos la última vez):
+
+mR12d613817TnE?hd/14
+
+Esta sería la contraseña de diciembre de 2014.
+
+Conseguimos una clave de alrededor de 20 caracteres, compleja y que deberíamos ser capaces de reconstruir sin dificultad en caso de que se nos olvide.
+
+En <a href="http://www.slideshare.net/fernand0/seguridad-en-internet-virus-troyanos-y-otras-amenazas-y-precauciones">Seguridad en internet.  Virus, troyanos y otras amenazas y precauciones</a> proponíamos un sistema más simple, pero recordábamos la idea de que las reglas tenemos que inventarlas nosotros. Es importante.  
+La alternativa sería usar un gestor de contraseñas y que las genere él solo. Ni siquiera nos las aprenderemos.
+
+No es la primera vez que hablamos de la importancia de tener buenas contraseñas: <a hreF="http://fernand0.blogalia.com/historias/75474">Consejos sobre contraseñas</a>
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+contraseñas" rel="tag">contraseñas</a>, <a href="http://delicious.com/fernand0/rei+passwords" rel="tag">passwords</a>, <a href="http://delicious.com/fernand0/rei+claves" rel="tag">claves</a>, <a href="http://delicious.com/fernand0/rei+consejos" rel="tag">consejos</a>, <a href="http://delicious.com/fernand0/rei+seguridad" rel="tag">seguridad</a>, <a href="http://delicious.com/fernand0/rei+ideas" rel="tag">ideas</a>, <a href="http://delicious.com/fernand0/rei+métodos" rel="tag">métodos</a>, <a href="http://delicious.com/fernand0/rei+reglas" rel="tag">reglas</a></p>
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/75721

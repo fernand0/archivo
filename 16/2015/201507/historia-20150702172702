@@ -1,0 +1,22 @@
+Sitios diferentes para albergar el contenido de un servidor web
+<a href="in/album-72157626183538839/" title="Aquellos viejos servidores"><img src="https://farm6.staticflickr.com/5298/5543122691_2c698a3646_m.jpg" width="240"  alt="Ordenadores" style="float:left; margin:5px"></a>
+Ya llevamos una temporada experimentando con configuraciones sobre este tema.
+Hubo una época en que se hablaba un poco del tema de albergar CMS (gestores de contenidos) sin bases de datos (lo comentamos de pasada en <a href="http://fernand0.blogalia.com/historias/9269">Bitácoras y correo electrónico</a>, y de hecho tengo un bog gestionado con <a href="https://pyblosxom.github.io/">Pyblosxom</a> que utilizo para temas del trabajo).
+
+Mi más reciente actualización alrededor de ese tema fue crear una blog en gibhub (<a href="http://fernand0.github.io/">fernand0 @ GitHub.io</a>) que además incluye (nuevamente) la ausencia de base de datos: todo se gestiona mediante ficheros de texto, un sistema de control de versiones y algunos programitas (en este caso en Ruby). Alguna cosa hemos ido contando en (<a href="http://fernand0.github.io/tags/meta/">meta</a>).
+Eso también provocó que otras páginas web (ya estáticas) que mantengo por ahí pasasen a estar bajo un sistema de control de versiones, y allí andamos.
+
+La idea me parece interesante porque además de aprender cosas nuevas y pensar formas alternativas de hacer las cosas nos permite ser independientes (hasta cierto punto) de los prestadores de servicios  en la línea que comentábamos en <a href="http://fernand0.blogalia.com/historias/73173">Algunos cambios por aquí</a>) y mantenernos ágiles en esas cosas que no aparecen en nuestro día a día.
+
+Ando fantaseando sobre la idea del servidor web de bolsillo en la línea de <a href="http://fernand0.blogalia.com/historias/75635"> Un servidor en mi bolsillo trasero, en ReVisión</a>, pero también en otras para las que ya empieza a haber propuestas profesionales como la de <a href="http://www.own-mailbox.com/">Own-Mailbox</a> y algún otro proyecto similar.
+
+Por eso me hizo gracia (vaya preámbulo) leer <a href="http://liveblog.co/users/davewiner/2015/05/23/myWebsiteInADropbox.html">My website in a Dropbox</a> donde Dave Winer nos cuenta su configuración para gestionar su sitio web desde una carpeta de Dropbox (que no sería mi configuración favorita, pero desde luego es una configuración posible -y alternativa-).
+Curioso.
+
+<strong>Actualización: 2015-07-02</strong> Guardaba otro enlace relacionado con los gestores de correo personales. Se trata de <a href="https://github.com/mail-in-a-box/mailinabox/blob/master/security.md">Mail-in-a-Box Security Guide</a> aunque no he tenido tiempo de mirarlo aún con calma.  
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+servidores" rel="tag">servidores</a>, <a href="http://delicious.com/fernand0/rei+web" rel="tag">web</a>, <a href="http://delicious.com/fernand0/rei+alternativas" rel="tag">alternativas</a>, <a href="http://delicious.com/fernand0/rei+herramientas" rel="tag">herramientas</a>, <a href="http://delicious.com/fernand0/rei+aprendizaje" rel="tag">aprendizaje</a>, <a href="http://delicious.com/fernand0/rei+gestión" rel="tag">gestión</a>, <a href="http://delicious.com/fernand0/rei+internet" rel="tag">internet</a>, <a href="http://delicious.com/fernand0/rei+presencia" rel="tag">presencia</a></p>
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/75713

@@ -1,0 +1,25 @@
+Fallos informáticos
+<a href="https://www.flickr.com/photos/fernand0/7258103576/" title="Bicho"><img src="https://c1.staticflickr.com/9/8146/7258103576_4af12345e1_m.jpg" width="240"  alt="Bicho" style="float:left; margin:5px"></a>
+Se ha convertido casi en floklore popular: cuando hay un fallo en algo, se le echa la culpa al sistema informático (incluso cuando no sabemos hacer algo) o al ordenador y todo el mundo alza las cejas y la vida sigue.
+En un mundo y en un momento en que nuestra dependencia de los sistemas informáticos es muy grande, eso pasa con cierta frecuencia y se asume con resignación.
+
+A veces esos fallos existen y son reales y por eso me gustó leer <a href="https://medium.com/message/why-the-great-glitch-of-july-8th-should-scare-you-b791002fff03">Why the Great Glitch of July 8th Should Scare You</a> donde nos cuenta como el 8 de julio un fallo informático (parece que real esta vez) provocó la paralización de la bolsa en Nueva York durante un día y algunos fallos más.
+Y de allí pasa a comentar de manera algo tremendista que muchos sistemas informáticos no se han diseñado pensando en los problemas que puede sufrir.
+
+Parece cierto que, en muchos casos, los sistemas no se diseñan pensando en posibles fallos, ataques... Pero, sobre todo, contratiempos:
+
+<blockquote>
+But that is exactly why I'm a lot more worried. The big problem we face isn't coordinated cyber-terrorism, it's that software sucks. Software sucks for many reasons, all of which go deep, are entangled, and expensive to fix.
+</blockquote>
+
+Pocas veces se valora (incluso en proyectos propios) los costes que puede tener cuando algo vaya mal.
+
+<blockquote>
+(Also, this is why a lot of educational technology efforts fail: nobody budgets for maintenance, some parts of the system goes down, and teachers and kids rightfully abandon it. I heard a lot about this "no maintenance money" problem from researchers looking into the one laptop per child project).
+</blockquote>
+
+De hecho, raramente se trata de un argumento de venta (que suele ser más bien: 'todo el mundo usa esto', 'todo el mundo lo hace así').
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+fallos" rel="tag">fallos</a>, <a href="http://delicious.com/fernand0/rei+bugs" rel="tag">bugs</a>, <a href="http://delicious.com/fernand0/rei+informática" rel="tag">informática</a>, <a href="http://delicious.com/fernand0/rei+sistemas" rel="tag">sistemas</a>, <a href="http://delicious.com/fernand0/rei+resistencia" rel="tag">resistencia</a>, <a href="http://delicious.com/fernand0/rei+robustez" rel="tag">robustez</a>, <a href="http://delicious.com/fernand0/rei+diseño" rel="tag">diseño</a>, <a href="http://delicious.com/fernand0/rei+mercado" rel="tag">mercado</a></p>
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/75907
