@@ -1,0 +1,28 @@
+La velocidad de los procesadores
+<a href="https://www.instagram.com/p/BHjol17hGVx/" title="C.H.I.P."><img src="https://scontent.cdninstagram.com/t51.2885-15/e35/13597694_308352186166055_1513547827_n.jpg" width="240"  alt="C.H.I.P." style="float:left; margin:5px"></a>
+En estos tiempos de exhuberancia informática (al menos desde el punto de vista del hardware, con Arduinos, Raspberries, y muchos otros <a href="http://fernand0.github.io/Primeros-Pasos-Con-Chip/">Primeros pasos con el C.H.I.P.</a>) conviene recordar los límites de la física. 
+
+Vivimos tiempos interesantes pero los avances en velocidad ya no son lo que solían: estamos alcanzando el final de la época de validez de la Ley de Moore (recuerden, aproximadamente cada dos años se duplicaría el número de transistores en un microprocesador; algunos lo traducían directamente a velocidad,  que era otra exageración).
+
+Nos recordaban esto hace unas semanas en <a href="http://www.nature.com/news/the-chips-are-down-for-moore-s-law-1.19338">The chips are down for Moore's law</a>. 
+<blockquote>
+Next month, the worldwide semiconductor industry will formally acknowledge what has become increasingly obvious to everyone involved: Moore's law, the principle that has powered the information-technology revolution since the 1960s, is nearing its end.
+</blockquote>
+
+A partir de las escalas que se están alcanzando ahora, cuentan, empiezan a aparecer efectos perturbadores que impiden que todo funcione correctamente:
+
+<blockquote>
+Probably not -- if only because at that scale, electron behaviour will be governed by quantum uncertainties that will make transistors hopelessly unreliable. And despite vigorous research efforts, there is no obvious successor to today's silicon technology.
+</blockquote>
+
+Naturalmente, eso no tiene por qué impedir el progreso: es cuando una línea de pensamiento y acción termina cuando es posible que aparezcan saltos interesantes en otras direcciones.
+
+<blockquote>
+"A Boeing 787 doesn't go any faster than a 707 did in the 1950s -- but they are very different airplanes", with innovations ranging from fully electronic controls to a carbon-fibre fuselage.
+</blockquote>
+
+Luego habla de costes, materiales y otras posibilidades. Definitivamente una lectura interesante para estos días de calor, si tenemos ganas de conocer un poco más de estos temas.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+ley" rel="tag">ley</a>, <a href="http://delicious.com/fernand0/rei+moore" rel="tag">moore</a>, <a href="http://delicious.com/fernand0/rei+procesadores" rel="tag">procesadores</a>, <a href="http://delicious.com/fernand0/rei+transistores" rel="tag">transistores</a>, <a href="http://delicious.com/fernand0/rei+tendencias" rel="tag">tendencias</a>, <a href="http://delicious.com/fernand0/rei+cambios" rel="tag">cambios</a>, <a href="http://delicious.com/fernand0/rei+fin" rel="tag">fin</a>, <a href="http://delicious.com/fernand0/rei+era" rel="tag">era</a></p>
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/76424

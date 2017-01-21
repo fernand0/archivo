@@ -1,0 +1,29 @@
+Novedades en ataques a dispositivos médicos
+<a href="https://goo.gl/photos/m9eciwkDbVgcQdKXA" title="Enchufes"><img src="https://lh3.googleusercontent.com/cIesSjug8q1AIK6Hdk-2VIa8Sf0uOZVOw1Kx3KZ5Gdu3QTIUubQ95HvVSbA7tUf_988XugoCUsqqdExmdmXU5LDxS48rwKGbVjoMoB-0MysF8AV5il8SHloqs-65QI80CjpZUGhQnOgRWYHGdqBa2xtm8N0Eo4qmNExxeOFkgCsxhhKpQbvGL9y7AJEyt1ridMf03UYUZX1iySxm9e3wTtTI5KS19mnS_G2N7pVJ0bZJcW5MON6BRb_1s8HDEHWAof98dOBHLMbIi_2qCfbQNnuh-g3pODPGZ9BiBMo5KxskXj7gJasfpkq5z4MdBwsy3_FbMatm49LbYWpT0lTU3MQMKUQki3s0SagSEgkzWp5yU6-A-wlv_ezNGHzApGkm_8nZKJtVpUoky-dhGzcS5VDmpXwvF4sLh_t5Q1dWZU7ZTf3TaDbh8P8FiZF-4B8X9fMy3Bvn-2ZTH6DOm0L9bve93_7utdomDnZckVaKWPbB1CBX7CE2IBMJu8J1aOaC2Y9KJBRpOjrHDGj2yotb5dyyTEIWwQCCww5f76hWRsbPKoq5zwJhmqRQ0n9G7V-ruelQfYE-pq16mJde4QM1pZ6HPm_lCJM=w1064-h798-no" width="240"  alt="Enchufes" style="float:left; margin:5px"></a> 
+Es un tema que vuelve de vez en cuando y que conviene no olvidar, aunque parece que el foco ha estado en los últimos meses en los coches.
+
+En este caso se trata de una conferencia del <a href="https://events.ccc.de/congress/2015/wiki/Static:Main_Page">Chaos Communications Congress</a> donde se cuenta el análisis que hace una usuaria con ayuda de un especialista para analizar la configuración y las comunicaciones  que puede realizar el aparato que lleva implantado.
+
+En particular, comunicaciones NFC (como la de las tarjetas de crédito y teléfonos que poco a poco vamos teniendo todos en nuestro bolsillo) y otros sistemas que, al final, utilizarían canales de comunicación no seguros para hacer llegar la información a su médico.
+
+Esto podría ser un problema (sobre todo si eres un 'objetivo' de alguien -recordemos el caso de <a href="http://fernand0.blogalia.com/historias/74078">Cheney tiene un marcapasos</a>) pero el mayor inconveniente es que cuando el desarrollo no ha sido cuidadoso en esas cosas, probablemente no lo haya sido en casi nada: compraron un dispositivo para leer los datos del marcapasos que contenía información de otro paciente:
+
+<blockquote>
+Moe told the audience she bought a bedside hub to tinker with from eBay, adding: "It actually contained other patient information." The box she bought is readily available online.
+</blockquote>
+
+Y, naturalmente, no podría corregir los fallos aunque supiera y quisiera.
+
+No estamos hablando sólo de fallos de seguridad, sino también de fallos de funcionamiento:
+
+<blockquote>
+Software flaws are not only security-related; Moe recounts one instance when her pacemaker had to be debugged after it was set to deliver the wrong number of beats, making her nearly collapse after climbing stairs at Covent Garden station.
+
+A series of tests revealed the pacemaker software was misconfigured.
+</blockquote>
+
+No es la primera vez que hablamos del tema, podemos recordar la historia de Karen Sandler en <a href="http://fernand0.blogalia.com/historias/71680">Software libre, medicina y vida</a>.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+medicina" rel="tag">medicina</a>, <a href="http://delicious.com/fernand0/rei+seguridad" rel="tag">seguridad</a>, <a href="http://delicious.com/fernand0/rei+vida" rel="tag">vida</a>, <a href="http://delicious.com/fernand0/rei+ataques" rel="tag">ataques</a>, <a href="http://delicious.com/fernand0/rei+marcapasos" rel="tag">marcapasos</a></p>
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/76336

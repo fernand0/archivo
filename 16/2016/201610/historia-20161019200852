@@ -1,0 +1,37 @@
+Publicaciones científicas, internet y nuevos modelos
+<a href="https://www.flickr.com/photos/fernand0/105750108" title="Típicas actas de un congreso"><img src="https://c1.staticflickr.com/1/19/105750108_7101e76484_m.jpg" width="240"  alt="Típicas actas de un congreso" style="float:left; margin:5px"></a>
+Hoy traemos una nota de principios de año de Nature sobre cómo algunas revistas científicas están creando modelos basados en proyectos existentes (como arXiv) y tratando de sacar partido de sus bondades, añadiéndoles un cierto 'sello' de 'calidad' mediante procedimientos más tradicionales (revisión por pares, proceso editorial,...) terminando los artículos en el mismo lugar donde se publicaron originalmente, pero indexadas por la revista. Se trata de <a href="http://www.nature.com/news/open-journals-that-piggyback-on-arxiv-gather-momentum-1.19102">Open journals that piggyback on arXiv gather momentum</a>.
+
+<blockquote>
+The Open Journal of Astrophysics works in tandem with manuscripts posted on the pre-print server arXiv. Researchers submit their papers from arXiv directly to the journal, which evaluates them by conventional peer review.  Accepted versions of the papers are then re-posted to arXiv and assigned a DOI, and the journal publishes links to them.
+</blockquote>
+
+No sólo eso, sino que también se fijan en GitHub para el proceso de revisión:
+
+<blockquote>
+Development of the software that powers the journal's peer-review system was led by Arfon Smith, chief scientist at the popular code repository GitHub.
+</blockquote>
+
+No se si vale la pena recordar, pero por si acaso lo hago, que GitHub es hoy en día el sitio donde cualquier proyecto que quiera mostrar (y compartir) su código debe estar hoy en día (hablábamos un poco -ahora veo que escribiendo el nombre mal- del sitio en <a href="http://fernand0.blogalia.com/historias/72360">De GitHub a los wikis federados (I)</a>). El software generado está, claro, en el propio sitio: <a href="https://github.com/openjournals/theoj">theoj</a>.
+
+Dicen que se trata de un sistema de revisión abierto para medios digitales con el objetivo de reunir a gente que comente sobre un artículo (o cualquier otra cosa, claro):
+
+<blockquote>
+What is this? In short, it's an open review engine for digital media. The goal is to provide a way for a bunch of people to get together (think editorial board) and make comments on a thing (think academic paper). This thing only needs to have a URL (that's open) to be reviewable.
+</blockquote>
+
+Un ejemplo puede verse en <a href="http://www.theoj.org/">The Open Journal</a>.
+
+El problema, aunque la idea suene sugerente será conseguir gente interesada en publicar en la revista: ya hay revistas prestigiosas donde la gente se siente confortable mostrando su trabajo:
+
+<blockquote>
+... says she, for one, is unlikely to submit her work there. "We have a small number of well established and high quality journals in astronomy that everyone respects," she says.
+</blockquote>
+
+Interesante.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+artículos" rel="tag">artículos</a>, <a href="http://delicious.com/fernand0/rei+journals" rel="tag">journals</a>, <a href="http://delicious.com/fernand0/rei+papers" rel="tag">papers</a>, <a href="http://delicious.com/fernand0/rei+peer review" rel="tag">peer review</a>, <a href="http://delicious.com/fernand0/rei+revisión" rel="tag">revisión</a>, <a href="http://delicious.com/fernand0/rei+pares" rel="tag">pares</a>, <a href="http://delicious.com/fernand0/rei+ciencia" rel="tag">ciencia</a>, <a href="http://delicious.com/fernand0/rei+publicación" rel="tag">publicación</a></p>
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/76602

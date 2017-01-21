@@ -1,0 +1,40 @@
+¿Cuánto duran los programas?
+<a href="https://www.flickr.com/photos/fernand0/5543673508" title="Viejas máquinas"><img src="https://c2.staticflickr.com/6/5139/5543673508_82a437c55d_m.jpg" width="240"  alt="Viejas máquinas" style="float:left; margin:5px"></a>
+Guardé esta nota para comentarla. Y además la guardé para comentarla en esta bitácora, teniendo sitios con un perfil más técnico. Creo que parte del trabajo de los más técnicos es ayudar a otros a comprender por qué y cómo suceden algunas cosas. 
+
+Y por eso me gustó <a href="http://www.pelicancrossing.net/netwars/2014/05/software_is_forever.html">Software is forever</a>. A raíz de la finalización del servicio oficial por parte de Microsoft al sistema operativo Windows XP se comenta sobre el proceso en el que la informática se ha desarrollado hasta nuestros días (y en muchos casos se sigue desarrollando). 
+
+Al principio el hardware evolucionaba muy rápido y casi cambiábamos todo con cada nueva adquisición, que se producía con bastante frecuencia. Eso ha seguido sucediendo después con los teléfonos pero también parece que se va ralentizando. 
+
+La cuestión es que cuando alguien invierte en un producto quiere tener ciertas expectativas de que no va a tener que renovarlo cada poco tiempo:
+
+<blockquote>
+The notable dissenter [...] was Matt Palmer, chair of the Channel Islands Information Security Forum, who argued instead that the industry needs a fundamental rethink: "Very few organizations, small or large, can afford to turn over their software estate on a three-to-five-year basis," he said, going on to ask: "Why are they manufacturing software and only supporting it for a short period?"
+</blockquote>
+
+Es posible que el caso de XP sea el precio que hay que pagar por un diseño en una época de inicio, donde todavía no estaba todo tan consolidado. Sólo podíamos esperar que el futuro nos traería cambios, pero tenemos que pensar las consecuencias cada vez que los hagamos (ya lo he dicho más veces pero es muy ilustrativo ver lo que le sucede a un usario 'básico' cuando cambiamos los botones de sitio en su aplicación favorita):
+
+<blockquote>
+But in the longer term living with old software is where we're going. This is particularly the case in regard to the "Internet of Things" vendors are so eager to build.
+</blockquote>
+
+Al final termina hablando del la nueva penúltima tendencia: el internet pata las cosas y todos esos cacharritos más o menos inteligentes que están terminando conectados a la red y con pocas (o nulas) probabilidades de actualización futura (no por falta de posibilidad, sino por el trabajo necesario por parte de usuarios poco motivados y preparados para hacer estas actualizaciones).
+
+<blockquote>
+- Embedded software designers still assume that only machines will communicate with their devices; they don't plan for malicious humans and therefore tend to think security does not matter.
+- Embedded software designers still think "security by obscurity" works.
+</blockquote>
+
+Hemos visto el caso de los coches con avisos importantes y la industria parece que está reaccionando adecuadamente (eso sí, no esperen que las actualizaciones lleguen a su vehículo viejo). 
+
+Y, nuevamente, habrá que tener en cuenta las expectativas (ya en muchos casos defraudadas con televisiones 'inteligentes'-pero-no-mucho) de los consumidores:
+
+<blockquote>
+People expect to measure the lives of refrigerators, thermostats, cars, or industrial systems in decades, not months or years.  
+</blockquote>
+
+Sobre todo, si hablamos de productos nada baratos.
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+viejo" rel="tag">viejo</a>, <a href="http://delicious.com/fernand0/rei+old" rel="tag">old</a>, <a href="http://delicious.com/fernand0/rei+obsoleto" rel="tag">obsoleto</a>, <a href="http://delicious.com/fernand0/rei+cambios" rel="tag">cambios</a>, <a href="http://delicious.com/fernand0/rei+informática" rel="tag">informática</a>, <a href="http://delicious.com/fernand0/rei+hardware" rel="tag">hardware</a>, <a href="http://delicious.com/fernand0/rei+software" rel="tag">software</a>, <a href="http://delicious.com/fernand0/rei+evolución" rel="tag">evolución</a>, <a href="http://delicious.com/fernand0/rei+actualización" rel="tag">actualización</a></p>
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/76140

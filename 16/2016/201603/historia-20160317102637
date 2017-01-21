@@ -1,0 +1,42 @@
+Jeff Atwood sobre software, comunidades, reputación, ...
+<a href="https://goo.gl/photos/vEGdYgt6a7SBsTHu5" title="Subir"><img src="https://lh3.googleusercontent.com/3sP9cIWkNMmxBEzRPLD8jrmINCjWFHQz7IeRmCOHRTwwm7ehVMCgVgZa5keGyhNOht4YMGyotAbzCPerqqxACwD5EC17Nowy4zTm2pNlgrrIjjC9kFKHaBX-NyBx2PwS5MdBAsu4uX4dv2Uxd7DDtfFf2Ei0itcwryPCc6Pu9_tSyI9XrMaWXFEQaDSL9KjRmHk5P7JL19aGRY-qymduncFDBMxODweNCFuG17Y9G6FXDM5VjnAUepjrsqrXl55ACJfR1jwaAWSFiRkOBDrjFcIMFAwJFRCfaP-1PNcSHTrawccftSh-yIZJ6aRiZxBhALiZfuDcz9zFlvGHh6KneFEPQO4BsG_yAWfforj5yZWzOt3TT6xofhweiw5x406jeNZ6pbpZE_AUU3Nc2CoY6PuYGQS5-a5VtC4YLAJWeJJN21HLDiVGcUUmycjhOrlBsKGhurVAZBn__LZvbDtncCsVDj7MYacivk3qMR3WEPge5t1_WuA3WKTWA5pXLGFJpT0km_-nhpoh9dDC8hMyptaK-Oz1n7d90VVdvw2I7rGzkHoQiFHmJ5TmvG4XbFoi9HQA=w591-h788-no" width="240"  alt="Numeración" style="float:left; margin:5px"></a>
+<a href="http://blog.codinghorror.com/">Jeff Atwood</a> es uno de los creadores (junto con <a href="http://www.joelonsoftware.com/">Joel Spolsky</a>) del sitio <a href="http://stackoverflow.com/">Stack Overflow</a> y alrededor de este, <a href="http://stackexchange.com/">StackExchange</a> que tratan de ser (y lo hacen bastante bien en algunos casos) foros de preguntas y respuestas.  Técnicos en el primer caso, pero luego de muchas otras temáticas.
+
+Hace unos meses se publicaba una entrevista en Slashdot, <a href="https://interviews.slashdot.org/story/15/11/30/1736215/interviews-stack-overflow-co-founder-jeff-atwood-answers-your-questions"> Interviews: Stack Overflow Co-Founder Jeff Atwood Answers Your Questions 78</a> donde se habla de algunas cuestiones ténicas, pero también otras relacionadas con la gestión de comunidades en la red que me pareció interesante comentar aquí.
+
+Guíados por la comunidad, con características de la Wikipedia (actualización de los contenidos), Reddit (votación, karma, ...), Blogs (responsabilidad sobre los contenidos generados por uno) y Videojuegos (puntos, gamificación, ...):
+
+<blockquote>
+The basic concept was to do a 100% community driven Q&A that had elements of:
+
+- Wikipedia (all the articles are always up to date and not dead tombstones from six years ago).
+- Reddit (voting up the good information and voting down the bad information).
+- Blogs (ownership, curation, and responsibility for content that has your name on it).
+- Videogames (the Xbox 360 Achievements system, points, and ways of encouraging and incentivizing positive community behavior that are fun).
+</blockquote>
+
+Y con propiedad colectiva, basada en licencias que hacen que el contenido no sea de los propietarios del sitio, sino de la comunidad.
+
+Con sus pegas, claro: gamificar supone que habrá personas que intenten ganar puntos y posiciones, en lugar de mejorar el sitio o a sí mismos:
+
+<blockquote>
+Even knowing what I already knew, which is that putting a number next to someone's name will cause them to do whatever it takes to make that number go up -- I didn't anticipate how strong this effect would be. But ultimately I agree with it, and I think systems should trend to slightly increasing strictness over time as they grow bigger. Big cities have different problems than small cities, and they need more structure.
+</blockquote>
+
+Habla también sobre la parte ténica, poca gente se fija en que se trata de unos sitios de más alto perfil que está basado en tecnología de Microsoft. Un poco basado por la historia y conocimientos previos de sus desarrolladores, claro:
+
+<blockquote>
+Mostly, C# is what I knew and what I was skilled in -- and I'm a great fan of its primary architect Anders Hejsberg who also created Turbo Pascal and Delphi. Performance was a goal, too, and since C# is a compiled language it's *extremely* fast. I think you can see for yourself that Stack Overflow is absurdly fast. 
+</blockquote>
+
+Con sus pegas y problemas:
+
+<blockquote>
+The only downside of the .NET environment is, honestly, the SQL Server licensing costs which can be quite extreme at scale. There is movement to make .NET more open source.  
+</blockquote>
+
+Esto era casi un anuncio porque recientemente se ha convertido en realidad (<a href="http://radar.oreilly.com/2015/06/net-open-source.html">.NET open source</a> y <a href="https://www.microsoft.com/en/server-cloud/sql-server-on-linux.aspx"> SQL Server on Linux</a>).
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+comunidad" rel="tag">comunidad</a>, <a href="http://delicious.com/fernand0/rei+karma" rel="tag">karma</a>, <a href="http://delicious.com/fernand0/rei+gestión" rel="tag">gestión</a>, <a href="http://delicious.com/fernand0/rei+stackoverflow" rel="tag">stackoverflow</a>, <a href="http://delicious.com/fernand0/rei+stackexchange" rel="tag">stackexchange</a>, <a href="http://delicious.com/fernand0/rei+jeff atwood" rel="tag">jeff atwood</a></p>
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/76229
