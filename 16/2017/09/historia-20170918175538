@@ -1,0 +1,39 @@
+Técnicas de spam y la amenaza de los bots
+<a href="https://www.flickr.com/photos/fernand0/364335519" title="Robots"><img src="https://c1.staticflickr.com/1/25/364335519_2bf589a104_m.jpg" width="240"  alt="Robots" style="float:left; margin:5px"></a>
+En internet sólo hay dos clases de personas: las que ya han enviado spam, y las que en algún momento lo enviarán. Recordemos que la definición de <a href="https://es.wikipedia.org/wiki/Spam">spam</a> o correo basura es esa de 'mensajes no solicitados, no deseados, o con remitente no conocido, habitualmente de tipo publicitario, generalmente enviados en grandes cantidades que perjudican de alguna o varias maneras al receptor' (de la Wikipedia). La forma más leve de perjudicar a alguien es hacerle gastar <u>su</u> tiempo con <u>nuestros</u> intereses. El que esté libre de pecado que tire la primera piedra. Luego están, entre las primeras, las que lo envían de manera más o menos profesional.
+
+Quiero insistir un poco en que es difícil no cometer el pecado: basta con echar un vistazo a nuestro buzón de correo para detectar mensajes que no deberían estar allí. Incluso de personas cercanas, colaboradores, o gente a la que apreciamos realmente.
+Y terminar esta parte del mensaje diciendo: antes de enviar un mensaje, asegurarnos de que el mensaje interesa <u>al receptor</u> y no sólo <u>a nosotros</u>.
+
+Hace unos meses leía <a href="https://howwegettonext.com/how-bots-were-born-from-spam-62f6c621351f">How Bots Were Born From Spam</a> que habla de la variante 'profesional' del tema, sobre todo porque explica cómo evitan los filtros (y cada vez notamos que nos llega más spam) utilizando algunas técnicas curiosas. 
+
+Primero, añadiendo trozos de los mensajes que recibimos diferentes para
+cada mensaje, obtenidos de fuentes legítimas y que hacen la tarea de
+decisión más difícil:
+
+<blockquote>
+... spammers could add legitimate-sounding but nonsensical phrases to the end of their messages, making the job of the filters harder. That technique is called "Bayesian poisoning" and is the origin of spam poetry.
+</blockquote>
+
+En definitiva, 'envenenan' los filtros con palabras que no forman parte del mensaje en sí.
+
+Otra posibilidad es aplicar variaciones a las frases de los mensajes de manera que significan lo mismo pero son diferentes entre sí:
+
+<blockquote>
+Spinning uses variations on phrases in an existing message to create large numbers of semantically identical but distinct messages. 
+</blockquote>
+
+Cuanto más contenido hay en internet, más posibilidades hay de generar estas alternativas. Un caso serían los libros generados automáticamente a partir de contenido que se puede encontrar en la red:
+
+<blockquote>
+In 2010, Amazon opened its eBook store to self-publishing only to be flooded with e-books made automatically by web scrapers. 
+</blockquote>
+
+La amenaza ahora será la de manipular a los bots (como interfaz de comunicación con usuarios) para que entren en el juego de la publicidad engañosa y/o molestosa:
+
+<blockquote>
+Personally, I suspect that with the new emphasis on conversational interfaces, we'll begin to see hybrid spambots: Existing conversational interface systems like Siri and Echo, because they serve up data from third parties, might begin to be manipulated by some bot-equivalent of SEO to respond to certain queries with advertisements.
+</blockquote>
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/77069

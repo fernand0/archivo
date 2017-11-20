@@ -1,0 +1,34 @@
+Ábreme un 'issue' o dame un 'tirón'
+<a href="https://www.instagram.com/p/0D60k7QB9y/" title="Nueva versión"><img src="https://scontent.cdninstagram.com/t51.2885-15/e15/11017604_323998544466192_92014070_n.jpg" width="240"  alt="Nueva versión" style="float:left; margin:5px"></a> 
+Creo que ya lo he contado alguna vez. Mi primer contacto con GitHub fue hace algunos años estaba yo trasteando con WordPress y la publicación mediante <a href="https://es.wikipedia.org/wiki/XML-RPC">XML-RPC</a> y encontré una solución que tenía algún problemita (que no recuerdo). Lo arreglé, le mandé los cambios al desarrollador y me dijo que hiciera un 'fork' (replicar el proyecto y hacer los cambios allí para enviárselos de vuelta) en GitHub. Lo hice y me olvidé un poco (allí sigue, por cierto, el código que dejé de usar hace tiempo).
+Más tarde volví y poco a poco lo he ido usando para diversas cosas. Una de ellas es almacenar un <a hreF="https://github.com/fernand0/archivo/tree/master/16">archivo de este sitio</a>) e incluso <a href="https://github.com/ReVision-Docencia-20/Columnas">escribimos en abierto las columnas para ReVisión</a>.  
+
+El caso es que leía hace poco <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2497204">Introducing Open Collaboration in the Public Sector: The Case of Social Coding on Github</a> que habla de los proyectos (de software,
+principalmente, hablan de programación social -'social coding'-. Pero también documentos, leyes, normativa...) de las administraciones norteamericanas donde se fomenta la mejora de los servicios mediante 'tirones' (pull requests): 
+
+<blockquote>
+The federal government actively encourages open source programmers to improve code using Github's format of pull requests to add improvements to the code contributed by other programmers.  
+</blockquote>
+
+Con esta dinámica, podemos ver cómo se produce colaboración entre diferentes agencias gubernamentales (reutilización y adaptación de código, rectificación de errores) que muestran como las agencias con menos posibles utilizan los recursos generados por las más potentes. De todas formas, parecen prácticas todavía de alcance limitado:
+
+<blockquote>
+The analysis of the social coding process in the U.S. federal government shows how developers collaborate on software code across agencies. While many agencies reuse code already developed in other parts of government to learn from existing innovations, there is less direct contribution to the existing code. 
+</blockquote>
+
+Justo hace un rato leía también como podemos discutir los 'borradores' (drafts) de documentos del <a href="https://www.nist.gov/">National Institute of Standards and Technology</a>. La publicación de estos documentos ya tenía un proceso formal de discusión pública que ahora se puede llevar a cabo también en GitHub (Ejemplo: <a href="https://pages.nist.gov/800-63-3/">Digital Identity Guidelines: Public Comment Period</a>). 
+Se habla del sitio donde más desarrolladores hay (en sintonía con la temática del documento), pero también como una plataforma que permite la implicación de la gente con facilidad, proporciona control de versiones, la transparencia, ....  En concreto, se puede participar (de ahí el título de esta nota) enviando un 'issue' (problema) con ayuda de la plataforma, como cuentan en <a href="https://pages.nist.gov/800-63-3/comment_help.html">Providing Feedback</a>.
+
+Este texto está quedando ya un poco largo. Aunque queda claro que GitHub no es sólo para documentación y por si prefieren el sonido al texto, me permito recomendar <a href="http://zetatesters.com/2017/01/eb-17-sobre-git-escribir-y-autopublicar-con-juan-julian-merelo-extra-ball/">EB 17 Sobre GIT, escribir y autopublicar con Juan Julián Merelo (Extra ball)</a> donde JJ nos cuenta cómo lo utiliza para sus novelas y libros técnicos. 
+
+¿Y por aquí?
+Seguramente hay más iniciativas pero hace unos días descubría como la UJI tiene <a href="http://projectestic.uji.es/">Código abierto en la Universitat Jaume I</a> (y el correspondiente <a href="https://github.com/universitatjaumei">GitHub de la  Universitat Jaume I</a> y seguro que hay más universidades. 
+Modestamente (tanto que ni siquiera se ha anunciado todavía; como este sitio lo lee poca gente me guardarán ustedes el secreto), nosotros hemos empezado con nuestra propia inicativa en forma del <a href="https://gitlab.unizar.es/">Repositorio Gitlab de la Universidad de Zaragoza</a> donde ya empiezan a verse algunos proyectos liberados, tanto personales como institucionales.
+
+Así que ya saben, abran un problema ('issue'), o dennos un tirón ('pull request').
+
+<p class="tags">Etiquetas: <a href="http://delicious.com/fernand0/rei+github" rel="tag">github</a>, <a href="http://delicious.com/fernand0/rei+social" rel="tag">social</a>, <a href="http://delicious.com/fernand0/rei+coding" rel="tag">coding</a>, <a href="http://delicious.com/fernand0/rei+codificación" rel="tag">codificación</a>, <a href="http://delicious.com/fernand0/rei+colaboración" rel="tag">colaboración</a>, <a href="http://delicious.com/fernand0/rei+programas" rel="tag">programas</a>, <a href="http://delicious.com/fernand0/rei+agencias" rel="tag">agencias</a>, <a href="http://delicious.com/fernand0/rei+gobierno" rel="tag">gobierno</a>, <a href="http://delicious.com/fernand0/rei+documentación" rel="tag">documentación</a></p>
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/76834

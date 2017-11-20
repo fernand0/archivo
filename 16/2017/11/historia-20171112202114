@@ -1,0 +1,31 @@
+En la Jornada 'Ciberseguridad: Retos y Oportunidades' de Walqa
+<a href="http://www.ptwalqa.com/detalle-evento/789/semana-de-la-ciencia-2017/" title="Semana de la Ciencia en Walqa"><img src="http://www.ptwalqa.com/Funciones/Miniatura.aspx?ancho=350&archivo=~/fotosbd/06112017165555.jpg" width="240"  alt="Semana de la Ciencia en Walqa" style="float:left; margin:5px"></a>
+A través del <a href="http://i3a.unizar.es/">Instituto de Investigación en Ingeniería de Aragón</a> al que pertenezco me llegó una propuesta para participar en la <a href="http://www.ptwalqa.com/detalle-evento/789/semana-de-la-ciencia-2017/"> Jornada: "Ciberseguridad: Retos y Oportunidades"</a> que organizaba esta semana el Parque Tecnológico Walqa en el marco de su Semana de la Cienca.
+
+Estas intervenciones siempre dan bastante respeto porque no sabes quién va a venir y cuál sería el nivel adecuado de lo que cuentes para que sea de utilidad. Creo, sin embargo, que hay que poner todo el interés por hacerlas porque vivimos en un momento en el que es muy fácil conseguir mensajes confusos  y más o menos interesados, que pueden despistar a la gente.  
+Enfoqué la charla tratando de motivar (serían los retos), dar unos (pocos) consejos y hablar de dónde veo yo algunas tenencias que me parecen interesantes en el mundo de la ciberseguridad (las oportunidades).
+
+
+Se puede ver la presentación que utilicé en:
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/hGyyXM0VVWjJSB" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong><a href="//www.slideshare.net/fernand0/te-puede-pasar-a-ti-tres-consejos-y-algunas-tendencias" title="Te puede pasar a ti. Tres consejos y algunas tendencias" target="_blank">Te puede pasar a ti. Tres consejos y algunas tendencias</a> </strong> from <strong><a href="//www.slideshare.net/fernand0" target="_blank">Fernando Tricas García</a></strong> </div>
+
+La titulé 'Te puede pasar a ti. Tres consejos y algunas tendencias' pero dije claramente que no se trata de si te va a pasar a ti o no, sino de cuándo te va a suceder algún incidente.
+
+Empecé con el experimento que cuentan en <a href="https://www.slideshare.net/elie-bursztein/does-dropping-usb-drives-really-work-blackhat-usa-2016">Does dropping usb drives really work?</a>, que fue presentado en Blackhat USA 2016. Muestra como somos los usuarios cuando nos encontramos un dispositivo USB en la calle (pista: lo metemos en el ordenador. Rápidamente).  
+
+Luego, mostré tres ejemplos de problemas de seguridad ocurridos todos en el mes de octubre recién pasado. El mensaje es doble: sucesos a todos los niveles (desde robo de información hasta efectos en el mundo físico):
+
+<ul> <li>- <a href="http://www.mirror.co.uk/news/uk-news/terror-threat-heathrow-airport-security-11428132">Terror threat as Heathrow Airport security files found dumped in the street</a> (robo/pérdida de información; cercana, porque aparece en el mismo sitio al que pertenece la información)</li> <li>- <a href="http://www.bbc.com/news/technology-41737241">Equifax to be investigated by FCA over data breach</a> (robo de información a través de internet)</li> <li>- <a href="https://www.bleepingcomputer.com/news/security/ddos-attacks-cause-train-delays-across-sweden/">DDoS Attacks Cause Train Delays Across Sweden</a> (la influencia de los sistemas informáticos en el mundo 'real')</li> </ul> 
+
+Luego, los consejos (sólo tres, si alguien quiere más, que pregunte):
+
+	<ul> <li>- Actualizar los sistemas</li> <li>- Hacer copias de seguridad.  Hacerlas bien</li> <li>- Utilizar un gestor de contraseñas. Después del informe que salió este verano sobre el tema que contradice muchos de los consejos habituales sobre 'buenas contraseñas' creo que lo mejor es delegar este trabajo a una aplicación que lo haga correctamente por nosotros (<a href="https://doi.org/10.6028/NIST.SP.800-63b">[PDF] Digital Identity Guidelines.  Authentication and Lifecycle Management</a>).</li>  </ul>
+
+	Finalmente, las oportunidades. Aquí elegí un par de congresos de seguridad que ya tienen una trayectoria y que se preocupan de temas que me parecen relevantes:
+
+	<ul> <li>- <a href="http://econinfosec.org/">Workshop on the Economics of Information Security</a>. Seguridad de la información y economía: lo que cuestan las cosas, lo que cuesta asegurarlas... Y no sólo hablamos de dinero</li> <li>- <a href="http://cups.cs.cmu.edu/soups/">Symposium On Usable Privacy and Security</a>. Los artefactos de seguridad no sólo deben cumplir su objetivo principal; además deben ser cómodos, fáciles de utilizar, convenientes...</li> <li>- Finalmente, hablé de las oportunidades que proporcionan las regulaciones. En mi contexto más próximo podríamos hablar del <a href="https://www.ccn-cert.cni.es/ens.html">Esquema nacional de seguridad</a>, o del 'amenazante' <a href="http://www.agpd.es/portalwebAGPD/temas/reglamento/index-ides-idphp.php">Reglamento General de protección de datos</a>. 
+Pero también de buenas prácticas y estándares más o menos informales, como pueden ser los del proyecto <a href="https://www.owasp.org/">Open Web Application Security Project</a>, que llegaron a aparecer en exigencias de la industria de medios de pago (el caso de <a href="https://www.pcisecuritystandards.org/">PCI</a>, los estándares de la industria de tarjetas de pago</a>).</li> </ul>
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/77122

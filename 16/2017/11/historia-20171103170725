@@ -1,0 +1,20 @@
+Certificados académicos y la cadena de bloques
+<a href="https://www.instagram.com/p/BOo-HmXBc3v/" title="Certificado"><img src="https://scontent-mad1-1.cdninstagram.com/t51.2885-15/e35/15624298_214617245663233_7762885076618051584_n.jpg" width="240"  alt="Certificado" style="float:left; margin:5px"></a>
+Entre las aplicaciones de la cadena de bloques (blockchain) a alguna gente del MIT se le ocurrió (seguro que a más gente, claro, que aquí la gracia no es pensar si se podría hacer, sino llegar a algún tipo de solución) utilizarla para gestionar el sistema de certificaciones académicas. Lo cuenta Juliana Nazaré en <a href="https://medium.com/mit-media-lab/what-we-learned-from-designing-an-academic-certificates-system-on-the-blockchain-34ba5874f196">What we learned from designing an academic certificates system on the blockchain</a> con las decisiones de diseño, las herramientas y el aprendizaje asociado.
+
+Entre los aprendizajes, la complejidad de la gestión de una infraestructura de clave pública:
+
+<blockquote>
+Our system uses public/private key pairs to authenticate an issuer as well as a recipient. While that's a powerful concept, we found it was a bit of a headache to implement in practice. Ideally certificate recipients (such as graduates or workshop participants) would create their own key-pairs and then share their public key with us in order to request a certificate. 
+</blockquote>
+
+Segundo, la cuestión de la privacidad: no todo el mundo quiere que se conozcan sus asusntos, como es natural. Y las soluciones tampoco son triviales:
+
+<blockquote>
+In our current solution, we try to balance obfuscation (making it hard for non-authorized users to find information they shouldn't have access to) with usability so that institutions or learners that lack advanced technical sophistication will not be prevented from using the credentials. 
+</blockquote>
+
+Interesante, pero parece que todavía hace falta concretar algunas cosas para que sea factible.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/77111

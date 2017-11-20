@@ -1,0 +1,28 @@
+Software libre en organizaciones abiertas y aprendizajes
+<a href="https://www.flickr.com/photos/fernand0/5240958208" title="Abierto"><img src="https://c2.staticflickr.com/6/5244/5240958208_97ff30c076_m.jpg" width="240"  alt="Abierto" style="float:left; margin:5px"></a>
+Aunque a algunos nos puede resultar natural, comprendiendo que no puedes abrir siempre todo porque puede tener consecuencias negativas, está bien leer <a href="https://opensource.com/open-organization/16/5/buffer-open-culture"> Why a Buffer developer open sourced his code</a> donde Jordan Morgan nos contaba como la cultura de la compañía (de la que por cierto, hablamos en <a href="http://fernand0.blogalia.com/historias/76817"> La cultura organizativa de Buffer</a>) le ayudó a liberar como software libre su aplicación. 
+
+Empieza preguntándose lo típico, ¿sirve para algo?, ¿y si tiene fallos? ¿Y si la gente piensa que no escribí las partes mejores? ¿y si no hice todo perfecto, por ejemplo trabajando de más por no utilizar las herramientas adecuadas?
+
+<blockquote>
+I wrote, and I didn't write it thinking that the world would one day examine it. Imposter syndrome and doubt quickly crept in. I started asking myself:
+
+- What if this isn't any good?
+- What if there are some mistakes?
+- What if people think I didn't write the best parts (it was based on an existing open source project)
+- What if I missed important shortcuts, like using the right APIs?
+</blockquote>
+
+La conclusión fue rápida, considerando que la empresa le apoyaba en este tema y que liberar el código era lo correcto.
+
+Como uno de los beneficios de esa cultura abierta recibió gratitud y buenos consejos sobre posibles mejoras:
+
+<blockquote>
+That experience directly correlates with the second benefit I derived from open thinking: gratitude. When I posted the open source project I previously mentioned, community reception was very positive. Other developers mentioned some tweaks, made some edits to our readme file--and most of all, they were just thankful we released it!
+</blockquote>
+
+Interesante, vale la pena leerlo.
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/77099

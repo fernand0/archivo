@@ -1,0 +1,34 @@
+Los Chatbot, la comodidad y la privacidad
+<a href="https://www.flickr.com/photos/fernand0/2263849818" title="Un robot"><img src="https://c1.staticflickr.com/3/2414/2263849818_5cd1a9fc13_m.jpg" width="240"  alt="Un robot" style="float:left; margin:5px"></a>
+Si buscas por los sitios 'molones' Chatbot es una de las palabras de moda.
+Como ya decía en <a href="http://fernand0.blogalia.com/historias/76752">Los bots y el servicio de atención al cliente</a> simpatizo con la aproximación. 
+No porque crea que vayan a ser una panacea (o no) sino porque se adaptan bien a mi forma de interactuar con las máquinas (nunca he sido de interfaces gráficas ni esas cosas) y algunos argumentos más que exponía allí.
+
+De todas formas, cada tecnología tiene sus cosas que hay que vigilar y por eso me gustó leer <a href="https://simplysecure.org/blog/chatbots-ux-privacy">Chatbots, UX, and Privacy</a> porque incide en dos temas que nunca tenemos que olvidar.
+
+Por un lado, la facilidad y comodidad de uso, donde se refiere a gente como yo, para los que las interfaces textuales son cómodas y naturales:
+
+<blockquote>
+Textual interfaces work well for some users in some contexts (system administrators and programmers have embraced them for decades!), but that doesn't doesn't mean that they will work everywhere for everything.
+</blockquote>
+
+Y también dice que lo que sustuirá a las apps serán apps mejor hechas, y no robots. Tampoco es que vea a la gente usando apps como locos: de hecho vemos con cierta frecuencia campañas televisivas anunciándolas porque la gente no las instala por sí mismas (el otro día vi en el super del barrio una 'convocatoria' para ayudar a la gente a instalarse el app correspondiente). 
+En muchos casos las apps están pensadas para el proveedor y no para el cliente, claro. Y en ese sentido me interesa más el modelo de bot porque interactuamos con lo que sea a través de un cliente de mensajería que sí que utilizamos habitualmente.
+
+Por otro lado, las cuestiones relacionadas con la privacidad: en estos momentos, donde los bots todavía están aprendiendo, ¿qué garantías podemos tener de que nuestras conversaciones son efímeras, privadas y que sólo se utilizan para nuestros fines?
+Pero, sobre todo, no sabemos qué podemos esperar.
+
+<blockquote>
+The expectation that "secure" chats are read by unknown parties has the potential to change users' mental models of privacy and confuse their understanding of what "secure messaging" means in other contexts.
+</blockquote>
+
+Sin embargo, el autor es optimista porque podrían ayudarnos a comprender que, en realidad, no somos tan anónimos como creemos, y también a recibir mejores notificaciones sobre asuntos que nos afectan en momentos concretos: 
+
+<blockquote>
+Many large service providers send notifications by email when a user's password has been modified or other important account details have changed. A conversational UI could not only be a prompt and friendly way to share this information with users, but could offer users an opportunity to take immediate action if the change was unwanted.
+</blockquote>
+
+A mi me queda la duda: si cuando recibimos esas notificaciones nos resultan molestas e incluso las tenemos silenciadas, no veo cómo recibirlas por nuestro sistema de mensajería favorito mejorará la cosa.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0//historias/77102
