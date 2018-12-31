@@ -1,0 +1,42 @@
+Descubriendo algoritmos sesgados
+<a href="https://www.flickr.com/photos/fernand0/43497914" title="Un verificador de programas..."><img src="https://c1.staticflickr.com/1/25/43497914_abb5dce40e_m.jpg" width="240"  alt="Un verificador de programas..." style="float:left; margin:5px"></a>
+Cuando se informatizan procesos se introducen, de manera casi inevitable, los sesgos de las personas implicadas en los desarrollos: por especificación (o por falta de ella), por diseño, por las pruebas...
+Cuando un proceso es aplicado por personas (que piensen y tomen decisiones, claro), esos sesgos pueden manifestarse y puede que no. Pero con un programa informático, si están en el proceso de alguna forma terminan apareciendo. 
+
+Sobre esto tenemos varias alternativas: impedir la automatización, o asumirla. En este segundo caso podemos ignorar los problemas, o encontrarlos y tratar de resolverlo.s 
+
+En <a href="https://www.fastcompany.com/90137322/is-your-software-secretly-racist-this-new-tool-can-tell">This Breakthrough Tool Detects Racism And Sexism In Software</a> nos hablan de una herramienta que trataría de apoyar en el segundo enfoque: detectar racismo y sexismo en los programas informáticos.
+
+Nos habla de un caso relacionado con el Prime de Amazon y cómo analizaron
+todo tipo de métricas para seleccionar los 'mejores' barrios:
+
+<blockquote>
+Last year, Amazon was figuring out where it should offer free same-day delivery service to reach the greatest number of potential Prime customers. So the company did what you’d expect: It used software to analyze all sorts of undisclosed metrics about each neighborhood, ultimately selecting the “best” based on its calculations.
+</blockquote>
+
+¿El problema? Nunca salían seleccionados barrios negros.
+
+El segundo problema es que es muy difícil estudiar estos sesgos: no se
+puede mirar dentro de algunos de estos algoritmos para ver cómo actúan y en
+qué basan sus decisiones:
+
+<blockquote>
+Amazon’s biased algorithm, like the Justice Department’s, doesn’t just illustrate how pervasive bias is in technology. It also illustrates how difficult it is to study it. We can’t see inside these proprietary “black box” algorithms from the outside. Sometimes even their creators don’t understand the choices they make.
+</blockquote>
+
+La solución propuesta por Alexandra Meliou y Yuriy Brun se basa en la inferencia causal: se trata de cambiar de manera métodica algunos de los parámetros que se incluyen en los análisis (raza, género y otros más complejos) y ver si esos cambios afectan al resultado.
+
+<blockquote>
+By changing specific variables methodically–whether it be race, gender, or something far more abstract–it can spot patterns of prejudice in any web form.
+</blockquote>
+
+Los cambios pueden ser sutiles, a veces intentando evitar los sesgos racistas, introducimos o potenciamos otros diferentes:
+
+<blockquote>
+“Sometimes, trying to not discriminate against a gender actually makes your system discriminate more against something like race. Because you constrain your system not to discriminate against a popular attribute, it forces your system to do things against other attributes.”
+</blockquote>
+
+Interesante.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

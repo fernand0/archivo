@@ -1,0 +1,54 @@
+Blockchain: del código es la ley a la ley es el código
+<a href="https://www.flickr.com/photos/fernand0/8014989646" title="Letras"><img src="https://c1.staticflickr.com/9/8298/8014989646_27d2c04db0_m.jpg" width="240"  alt="Letras" style="float:left; margin:5px"></a>
+Podíamos leer ya hace unos meses <a href="http://firstmonday.org/ojs/index.php/fm/article/view/7113/5657">Blockchain technology as a regulatory technology: From code is law to law is code</a> y la redescubro viendo que subrayé bastantes cosas.
+
+En un mundo cada vez más informatizado nos encontramos más y más veces con situaciones donde el código define cómo se realizan las cosas. Son frases típicas: 'el ordenador me pide esto', o 'eso no está previsto en el sistema' y similares.
+También vemos algunas veces que sucede justamente lo contrario: como se supone que tenemos un programa informático las opciones deberían ser todas, sólo habría que añadirlas o incluirlas. Y tampoco puede ser, claro.
+
+<blockquote>
+..., technical rules can only be implemented into code, and thus necessarily rely on formal algorithms and mathematical models. Regulation by code is therefore always more specific and less flexible than the legal provisions it purports to implement.
+</blockquote>
+
+No sólo sucede eso, sino que la interpretación de la ley (o de las normas,
+los protocolos, los procedimientos, ...) queda muchas veces en manos de los
+diseñadores de los sistemas:
+
+<blockquote>
+ultimately gives software developers and engineers the power to embed their own interpretation of the law into the technical artefacts that they create
+</blockquote>
+
+Desde el momento que blockchain refuerza la tendencia a que todo se convierta en código (aunque sea legal, por la vía de los 'smart contracts') puede conducir a formalizar los procesos legales en formatos más próximos al código, esto es la ley se transforma en código (ejecutable, se entiende).
+
+<blockquote>
+As a result of this tendency, both lawyers and legislators could increasingly be tempted to deliberately draft legal or contractual rules in a way that is much closer to the way technical rules are drafted. Code is Law might therefore lead to law progressively turning into code.
+</blockquote>
+
+Pero, ¿podemos prescindir de todos los otros aspectos que se supone que van
+incluidos en un sistema legal?
+
+<blockquote>
+First of all, laws cannot (or should not) be entirely and exclusively defined through technological processes, as technology cannot replace the democratic debate, which necessarily takes place within the legislative branch.
+</blockquote>
+
+Además, los sistemas legales aseguran la existencia de un conjunto de reglas universales, transparentes que podrían no ser así en una 'regulación por código', según el autor.
+
+<blockquote>
+Besides, the legal system ensures the existence of a public, transparent and explicit set of universal rules, whose legitimacy can easily be put into question.
+</blockquote>
+
+Los sistemas legales también incluyen normas y salvaguardas que no se incluyen en los contratos pero que el sistema judicial tendrá en cuenta en caso de conflicto. Afirma el autor que eso podría ser difícil en el caso de actuaciones automatizadas a través de estos contratos inteligentes.
+
+<blockquote>
+nvalidate the contract or make it non-enforceable, as a result of failure to comply with specific formalities (e.g., mutual consent, consideration, capacity, legality) or due to a vice in the contract (as a result of e.g., unconscionability, undue influence, or coercion). These legal safeguards are generally not incorporated directly into the wordings of the contract, but they are nonetheless accounted for through the judicial system
+</blockquote>
+
+Finalmente, la generalidad de las regulaciones legales a veces se utiliza en previsión de posibles casos no contemplados, pensando en aplicaciones por analogía o similitud, cuando se presentan casos no previstos, pero que son similares a otros ya contemplados en el pasado.
+
+<blockquote>
+Many legal rules are intended to be generic enough to be applicable to a variety of different situations — some of which could not have been foreseen at the time of drafting these rules. Indeed, in order to be sustainable over time, legal rules need to be highly generic.
+</blockquote>
+
+No estoy seguro de que pueda darle toda la razón, pero tampoco quitársela.  Los contratos inteligentes, por su aspecto de automatización nos pueden llevar a situaciones complicadas en las que los humanos tengan, después, dificultades para revertir determinadas acciones y sus consecuencias.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

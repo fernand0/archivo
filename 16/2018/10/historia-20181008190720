@@ -1,0 +1,68 @@
+¿De verdad te importa la privacidad en internet?
+<a href="https://www.flickr.com/photos/fernand0/2442636467" title="Buzón"><img src="https://c1.staticflickr.com/3/2120/2442636467_4f8c7a19d8_m.jpg" width="240"  alt="Buzón" style="float:left; margin:5px"></a>
+Es bastante interesante ver cómo de vez en cuando nos ponemos a atacar a empresas concretas porque son malas para nuestra privacidad, pero a la vez continuamente elegimos las opciones más nocivas para la misma, apenas sin discusión.
+
+A mi me llevan los demonios, por ejemplo, cuando alguien me envía un correo electrónico con 'avisto de lectura' (en realidad, claro, aviso de apertura) pero soy consciente de que hay muchas formas de ver si alguien abrió un correo y la mayoría de la gente las 'consume' despreocupadamente (el ejemplo más sencillo son los correos con html que incluyen imágenes remotas que se cargan -y avisan al que lo envió- cuando se lo permitimos).
+Eso sí, los correos son más bonitos para enviar y para leer.
+Hay que reconocer que como remitente es muy tentador poder saber si nuestro destinatario abrió el correo, y confiar en que eso se corresponda con una lectura (¡atenta!).
+Pero igual es porque mucha gente no sabe lo que está pasando, así que vamos a contar algunas ideas.
+
+Nos lo contaban en <a href="https://www.wired.com/story/how-email-open-tracking-quietly-took-over-the-web/">How Email Open Tracking Quietly Took Over the Web</a>
+
+Por ejemplo, esas mentiras piadosas que nadie dice: 'acabo de ver tu correo, que se me quedó despistado y ...' cuando el receptor sabe perfectamente que lo abrió y no hicimos nada con él.
+
+<blockquote>
+"I just came across this email," began the message, a long overdue reply. But I knew the sender was lying. He’d opened my email nearly six months ago. On a Mac. In Palo Alto. At night.
+
+I knew this because I was running the email tracking service ... which notified me as soon as my message had been opened. It told me where, when, and on what kind of device it was read. 
+</blockquote>
+
+Luego, la numerología: cada día se mueven 269 mil millones de mensajes; esto es,  nos tocan a unos 35 mensajes por persona y por día. De ellos, alrededor del 40% lleva algún tipo de tecnología de seguimiento integrada.
+
+<blockquote>
+There are some 269 billion emails sent and received daily. That’s roughly 35 emails for every person on the planet, every day. Over 40 percent of those emails are tracked, according to a study published last June...  
+</blockquote>
+
+Esto es, de eso 35 mensajes, 14 llevan algún tipo de mecanismo de seguimiento.
+
+Muchos de estos mensajes los envían empresas, organizaciones, .... Pero resulta que cada vez más hay amigos nuestros que lo hacen:
+
+<blockquote>
+But lately, a surprising—and growing—number of tracked emails are being sent not from corporations, but acquaintances. “We have been in touch with users that were tracked by their spouses, business partners, competitors,”
+</blockquote>
+
+Y, naturalmente, todas las empresas más conocidas lo hacen de manera rutinaria:
+
+<blockquote>
+But marketing and online sales—even spammers—are no longer responsible for the bulk of the tracking. "Now, it’s the major tech companies," Seroussi says. "Amazon has been using them a lot, Facebook has been using them. Facebook is the number one tracker besides MailChimp." When Facebook sends you an email notifying you about new activity on your account, "it opens an app in background, and now Facebook knows where you are, the device you’re using, the last picture you’ve taken—they get everything."
+</blockquote>
+
+¿Para qué les sirve a los que lo envían esta información? (No estoy hablando ahora de nuestros 'amigos' pero también podrían, claro): saber a qué hora leemos el correo, por dónde vamos (geolocalización de la ip de consulta) y otras preferencias personales.
+
+<blockquote>
+...  spammers can learn your schedule (“based on the time you check your email”), your itinerary (based on how you check mail at home, on the bus, or so on), and personal preferences (based on where they harvested the email; say, a sports forum, or a music fansite)
+</blockquote>
+
+Desde el punto de vista personal, cuando hacemos eso (¿alguien sabe a qué hora se acuestan y despiertan sus amigos gracias al doble check del WhatsApp? No es el correo, pero nos da una pista fácil de entender por todos) estamos vulnerando las más mínimas normas de cortesía y civilización, también.  
+
+<blockquote>
+That’s when I saw how starkly tracking violates the lightly-coded social norms of email etiquette. I watched close friends read an email and not respond for days. I saw right through every white lie about email (about not receiving it, or it getting stuck in the spam folder). Sure, it’s occasionally nice ...
+</blockquote>
+
+Con el correo es relativamente fácil de evitar: bloquear las imágenes por defecto y saber las consecuencias si, finalmente, decidimos verlas.
+
+<blockquote>
+... “the only surefire solution right now is to block images by default.” That is, turn on image-blocking in your email client, so you can’t receive any images at all.
+</blockquote>
+
+Pero cuidado, porque hay muchas formas de hacer el seguimiento (un color, una fuente de texto, un enlace ...).
+
+Lo peor de todo, en cualquier caso, es que tener información de cuando alguien abre nuestro correo no significa mucho: ¿alguien de ustedes abrió un mensaje que no pudo leer por cualquier motivo? ¿o leyó un correo que después olvidó por alguna circunstancia? ¿o lo abrió alguien a quien se lo redirigió?
+¿Realmente vale la pena lo que conseguimos a cambio del precio que paga internet por ello?
+
+Igual deberíamos repensar un poco esas tecnologías de seguimiento y también la mínima cortesía que le debemos a todas las personas a las que les envíamos un mensaje. Ya de enviar sólo mensajes que realmente puedan interesarles ni hablamos.
+
+¿RGPD? ¿Aviso de cookies? Para morirse de la risa. O algo.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

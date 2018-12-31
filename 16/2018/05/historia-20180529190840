@@ -1,0 +1,37 @@
+Demografía y demoscopía a través de internet
+<a href="https://www.flickr.com/photos/fernand0/423909028" title="Coches"><img src="https://c1.staticflickr.com/1/158/423909028_43c3380655_m.jpg" width="240"  alt="Coches" style="float:left; margin:5px"></a>
+Ya hemos hablado a veces de la demoscopía internetera: en lugar de una encuesta tradicional, vamos a la red. Si somos capaces de mirar en los lugares adecuados, podemos obtener información relevante acerca de determinados grupos de personas, servicios y otras cuestiones.
+
+En esta ocasión le toca a la demografía. En <a href="https://www.technologyreview.com/s/603779/how-google-street-view-images-reveal-the-demographic-makeup-of-the-us/">How Google Street View Images Reveal the Demographic Makeup of the U.S.</a> nos hablan de los mapas de Google, las imágenes que se difunden a través de este servicio y cómo podemos conocer el mundo un poco mejor. Unos investigadores de la Universidad de Stanford utilizaron las imágenes de los mapas (Google Street View) para hacerse una idea de cómo es la gente que vive en algunas zonas de EEUU.
+
+Por ejemplo, los coches que se ven en una determinada calle, como indicador de la raza, ingresos, niveles de educación, ocupación ...
+
+<blockquote>
+The team believes the type of car people own is a strong indicator of their race, income, education levels, occupation, and so on.
+</blockquote>
+
+Clasificaron un total de 22 millones de vehículos, alrededor de un tercio de los que se supone que hay en EEUU en las 200 ciudades seleccionadas para obtener información en un par de semanas (no olvidar que estos procesos realizados por las metodologías tradicionales son mucho más lentos y caros). También sería más lento si la misma tarea la realizaran humanos, claro.
+
+<blockquote>
+In total, they classified some 22 million vehicles, about a third of all vehicles on the road in these cities. And it took their machine about two weeks to do the task at a rate of about 0.2 seconds per vehicle. “A human expert, assuming 10 seconds per image, would take more than 15 years to perform the same task,” say Gebru and co.
+</blockquote>
+
+La pregunta era, a partir de los patrones de los vehículos de una zona determinada ... ¿sería posible predecir los valores demográficos que ya se tienen registrados?
+
+<blockquote>
+The question they wanted to answer was: given the pattern of vehicles in an area, could the algorithm accurately predict the demographics as recorded in the U.S. Census and presidential voting data?
+</blockquote>
+
+La respuesta es, claro, que sí. Dicen los autores: conduciendo 15 minutos por una ciudad se puede predecir si votaron republicano o democráta.
+
+<blockquote>
+“We found that by driving through a city for 15 minutes while counting sedans and pickup trucks, it is possible to reliably determine whether the city voted Democratic or Republican,” say Gebru and co.
+</blockquote>
+
+Ahora no se si la pregunta será si es necesario convencer a la gente para que cambie de vehículo, o establecer algún tipo de programa para conseguirlo, o conseguir que en las zonas donde hay un determinado tipo de vehículos las personas voten como si tuvieran otro tipo diferente.
+
+Es broma.
+O no.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

@@ -1,0 +1,41 @@
+Recomendaciones y empleo
+<a href="https://www.flickr.com/photos/fernand0/3101594797" title="Oferta de empleo en un cartel"><img src="https://c2.staticflickr.com/4/3081/3101594797_c5538944ec_m.jpg" width="240"  alt="Oferta de empleo en un cartel" style="float:left; margin:5px"></a>
+Rescato una entrada sobre la búsqueda de empleo en Stack Overflow, <a href="https://medium.com/@aurelien.gasser/a-dive-into-stack-overflow-jobs-search-62bc6e628f83">A Dive into Stack Overflow Jobs Search</a> que comenta detalles interesantes sobre su sistema de búsqueda de empleo y la interacción de la gente con él.
+
+Señalo, como otras veces, lo que llamó mi atención.
+
+En primer lugar qué es un empleo conveniente para sus usuarios: no se trata
+del tiempo de la oferta, sino también de otros parámetros, como la
+distancia.
+
+<blockquote>
+We now knew two things:
+
+- The age of the job is important
+- The distance between the user and the job is important too
+
+[...]
+Since the number of applications decreases exponentially with distance (not
+linearly) ...
+</blockquote>
+
+Esto es, el número de solicitantes disminuye de manera exponencial con la distancia.
+
+Otros parámetros relevantes para el empleo son la experiencia, sueldo, industria, tipo de trabajo (móvil, web,... )
+
+<blockquote>
+We know there are even more dimensions that might make a job relevant to you, like seniority, salary, industry, developer type (“full stack”, “mobile”) and others.
+</blockquote>
+
+Y, en los tiempos del 'aprendizaje profundo', utilizan un algoritmo genético (todas las técnicas pueden tener utilidad, cada una en su momento) sobre los datos, para determinar qué combinaciones son las adecuadas y como priorizar las ofertas que llegan a las personas interesadas:
+
+<blockquote>
+We were now able to try a new set of weights, and get an almost instantaneous measure of its performance: why not take advantage of it? We developed a genetic algorithm which would try thousands of possible sets of weights, and keep only the best one.
+</blockquote>
+
+Luego habla de cuestiones de implementación, prestaciones, ... Que seguramente son menos relevantes para las (7) personas que leen este sitio.
+
+Acabaron las vacaciones, volvemos al 'ritmo' normal de este sitio.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

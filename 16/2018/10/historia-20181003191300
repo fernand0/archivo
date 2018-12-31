@@ -1,0 +1,28 @@
+Informática, gente y mejorar el mundo
+<a href="https://www.flickr.com/photos/fernand0/18257416332" title="Bichos"><img src="https://c1.staticflickr.com/9/8890/18257416332_fcd7926fd5_m.jpg" width="240"  alt="Bichos" style="float:left; margin:5px"></a>
+A veces, cuando me dejan, le digo a la gente que ser informático va de mejorar el mundo: hacerle la vida más fácil, preocuparnos por sus necesidades, resolverlas en la medida de lo posible, no asustarles, no añadir problemas a los que ya tienen, no permitirles cometer errores...
+
+Por eso viene bien que estas cosas las digan otros, como en <a href="https://medium.com/make-better-software/software-matters-in-the-world-f24d25b255d7">Software Matters in the World</a>.
+
+Hay gente, como Joel Spolsky (no es la primera vez que le nombramos aquí) que lleva tiempo diciéndolo, poner el foco en el factor humano y comportarse de manera ética:
+
+<blockquote>
+While that was happening, our cofounder Joel Spolsky also wrote a lot about the culture of making software. Back then, at the height of the dot-com boom, it was seen as a bit eccentric to put as much focus on the human factors and ethical behavior as our founders did.
+</blockquote>
+
+Los sesgos que puede introducir nuestros desarrollos deberían verse como una gran problema. Poner en riesgo los datos sensibles de la gente, crear aplicaciones que espían a los usuarios, debería considerarse un problema. Y también ayudar a difundiar noticias falsas: 
+
+
+<blockquote>
+What do we mean by “Big Bugs”? Software that exacerbates racial biases in the criminal justice system is a big bug. Security policies that put sensitive data from hundreds of millions of people at risk are a big bug. Apps that secretly spy on users (including, yes, Beyoncé) have big bugs. Undermining trust in legitimate journalism and exacerbating fake news? Yep, that’s a big, big bug.
+</blockquote>
+
+Por lo tanto, nuestro trabajo consiste en conseguir que nuestra página se vea bien en cualquier navegador, pero también que las políticas de datos sean respetuosas con los usuarios. Arreglar un fallo de gsetión de memoria, pero también mejorar la forma en que almancenamos las contraseñas.  Todas estas características, mal llevadas a cabo, deberían considerarse fallos también.
+
+<blockquote>
+Yes, check if your site looks good on an older smartphone, but also be sure that your data policies are respectful of your users. Of course you should address that persistent memory leak, but make time to improve password storage practices as well. [...] focused on the “classic” definition of bugs while shortchanging our role in fixing some of the really Big Bugs.
+</blockquote>
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

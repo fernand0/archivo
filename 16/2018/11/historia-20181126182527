@@ -1,0 +1,47 @@
+Algoritmos, sesgos y decisiones
+<a href="https://www.flickr.com/photos/fernand0/364335519" title="Robots"><img src="https://c1.staticflickr.com/1/25/364335519_2bf589a104_m.jpg" width="240"  alt="Robots" style="float:left; margin:5px"></a>
+Vivimos en un mundo de folklore: la realidad importa menos que las palabras y/o frases que suenan bien en un determinado momento y, casi siempre, sin segundas oportunidades (para reconsiderar nuestras ideas).
+
+Por eso me gustó leer <a href="https://hbr.org/2018/07/want-less-biased-decisions-use-algorithms">Want Less-Biased Decisions? Use Algorithms.</a> donde se defendía justo lo contrario de lo que es fácil de escuchar/ver ahora: los sesgos de los algoritmos y los programas informáticos (que en algunos casos tienen razón, por el simple hecho de haber sido entrenados con datos y decisiones que ya estaban sesgados).
+
+Enlaza a varios de los artículos que han hablado últimamente de los sesgos y se pregunta por las dudas sobre si realmente los algoritmos son opacos, sesgados y sin responsabilidad sobre las decisiones que se adoptan y si deberíamos preocuparnos: 
+
+<blockquote>
+At the heart of this work is the concern that algorithms are often opaque, biased, and unaccountable tools being wielded in the interests of institutional power. So how worried should we be about the modern ascendance of algorithms?
+</blockquote>
+
+Los críticos suelen encontrar casos de mal funcionamento y son bastante interesantes, desde el punto de vista de mejorar y evitar los problemas que cualquier tecnología puede presentar, pero ... Raramente contraponen esos resultados con los que se obtenían sin ayuda tecnológica:
+
+<blockquote>
+But there is a pattern among these critics, which is that they rarely ask how well the systems they analyze would operate without algorithms.
+</blockquote>
+
+Porque, tal vez, la pregunta no debería ser si tienen sesgos o no. Más bien, tal vez, debería ser si hemos mejorado frente a la situación anterior o no, y si lo que obtenemos es más conveniente (o no).  
+
+<blockquote>
+How do the bias and performance of algorithms compare with the status quo? Rather than simply asking whether algorithms are flawed, we should be asking how these flaws compare with those of human beings.
+</blockquote>
+
+A mi se me ocurre la analogía con el coche autónomo, donde últimamente se habla de a quién debería matar en caso de accidente, cuando lo cierto es que con humanos esa decisión raramente existiría.
+
+Lo que hacen es revisar la literatura sobre toma de decisiones algorítmicas y ver los resultados y, aparentemente, los algoritmos tienen menos sesgos y toman decisiones más ajustadas que los humanos.
+
+<blockquote>
+And the existing studies on this topic all have a remarkably similar conclusion: Algorithms are less biased and more accurate than the humans they are replacing.
+</blockquote>
+
+¿De dónde vienen los sesgos? 
+Nuevamente, parece que la responsabilidad es humana: entrenamos a los algoritmos decisores con nuestras decisiones del pasado que son, claro, sesgadas.
+
+<blockquote>
+In each of these case studies, the data scientists did what sounds like an alarming thing: They trained their algorithms on past data that is surely biased by historical prejudices.
+</blockquote>
+
+Esto no significa que debamos tener fe ciega, y asumir los resultados algorítmicos como buenos: hay que vigilar, comparar con el estado actual de cualquier decisión y tener la mente abierta para decidir cuál es la mejor solución (algorítmica, humana, o una mezcla de ambas).
+
+<blockquote>
+This is not an argument for algorithmic absolutism or blind faith in the power of statistics. If we find in some instances that algorithms have an unacceptably high degree of bias in comparison with current decision-making processes, then there is no harm done by following the evidence and maintaining the existing paradigm.
+</blockquote>
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

@@ -1,0 +1,63 @@
+Las contraseñas son para después del verano
+<a href="https://twitter.com/singhlions/status/915918127229046785" title="Contraseñas y ropa interior"><img src="https://pbs.twimg.com/media/DLX-rIlUIAALryX.jpg" width="240" alt="Contraseñas y ropa interior." style="float:left; margin:5px"></a> 
+Por una casualidad se reúnen un enlace que tenía guardado sobre contraseñas y su seguridad, otro que se publicó estos días sobre gestores de contraseñas, y el final de las vacaciones.  
+Sostengo desde hace mucho tiempo que las políticas de modificación obligatoria de contraseñas son contraproducentes, pero también ercomiendo cambiarlas de vez en cuando. 
+Y creo que después de las vacaciones, cuando probablemente hemos incurrido en prácticas de riesgo (WiFis abiertas, desconocidas, de compromiso, ...) igual es un buen momento para cambiarlas y poner unas nuevas.
+
+En este momento, mis consejos se reducen a dos (y luego se sustituyen por otro):
+
+- Más largo es mejor (8 ó 10 caracteres sería lo mínimo en estos momentos).
+- Un poco de complejidad (algún número, mayúsculas, algún símbolo,....).
+
+Sin olvidar que la primera es mucho más importante que la segunda.
+
+Y el consejo de sustitución es: utilicen un gestor de contraseñas, para generarlas aleatoriamente, una diferente para cada sitio, etc.
+Nuevamente el verano (y otros periodos de vacaciones) sería una referencia, en estos momentos de promesas, buenas intenciones...
+
+Sobre este tema el enlace podría ser: <a href="https://www.xataka.com/basics/gestores-contrasenas-que-cuales-populares-como-utilizarlos"> Gestores de Contraseñas: qué son, cuáles son los más importantes y cómo utilizarlos</a>.
+
+El otro enlace, de un experto, Troy Hunt: <a href="https://www.troyhunt.com/passwords-evolved-authentication-guidance-for-the-modern-era/">Passwords Evolved: Authentication Guidance for the Modern Era</a>.
+
+Aunque en algunos momentos es muy técnico y ofrece consejos para desarrolladores (si lo son, leánlo y pásenlo a sus colegas), me gusta recomendar la lectura aquí porque reafirma lo que decía arriba.
+
+Hacer caso a los gobiernos (los formales, claro) y las compañías tecnológicas (las competentes, desde luego). Hay un montón de informes y recomendaciones que leer:
+
+<blockquote>
+ In fact, their recently released Digital Identity Guidelines from only last month (this is SP 800-63 for those interested in the details) were arguably the catalyst for me finally putting this together because there's so much good stuff in there.
+
+ [...]
+
+I'll also be referring to Microsoft's Password Guidance paper from the Identity Protection Team.
+</blockquote>
+
+Más largo es (casi siempre) mejor.
+
+<blockquote>
+Longer is (Usually) Stronger
+</blockquote>
+
+Todos los caracteres son especiales.
+
+<blockquote>
+All Characters Are Special (But You Don't Have to Have Special Characters)
+[...]
+If someone really wants to have a password that's an emoji representation of the first verse of "Let It Go" from Frozen, good on 'em!
+</blockquote>
+
+Utilizar gestores de contraseñas. La única contraseña segura es la que no podemos recordar.
+
+<blockquote>
+Embrace Password Managers
+I've been going on about the value of password managers for a long time now, since early 2011 actually when I wrote about how the only secure password is the one you can’t remember. 
+</blockquote>
+
+Y, como decía, luego ya se mete en otros temas para desarrolladores como permitir copiar y pegar contraseñas (algunos sitios lo prohíben), no obligar a hacer cambios regulares, notificar a los usuarios de comportamientos extraños, etc.
+
+Lo dicho, siempre es un buen momento para mejorar nuestras costumbres higiénicas al fin y al cabo, ya lo decían este verano. Trata a las contraseñas como tu ropa interior: cambiála con frecuencia, no las dejes por ahí, y no las compartas.
+
+<blockquote class="twitter-tweet" data-lang="es"><p lang="en" dir="ltr">Treat your passwords like your underpants 👇🏻 <a href="https://t.co/CUQHFBC9hU">pic.twitter.com/CUQHFBC9hU</a></p>&mdash; Harjinder Singh Kukreja (@SinghLions) <a href="https://twitter.com/SinghLions/status/915918127229046785?ref_src=twsrc%5Etfw">5 de octubre de 2017</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Y disfruten de todas las cosas buenas que nos ofrece la red, claro.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None
