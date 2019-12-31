@@ -1,0 +1,106 @@
+El sesgo de la inteligencia artificial
+<a href="https://www.flickr.com/photos/fernand0/3071583191" title="Fuegos artificiales"><img src="https://live.staticflickr.com/3250/3071583191_82a75ecbf4_b.jpg" width="240"  alt="Fuegos artificiales" style="float:left; margin:5px"></a>
+No es la primera vez que traemos el tema aquí (<a href="http://fernand0.blogalia.com/historias/77657">Algoritmos, sesgos y decisiones</a>) pero siempre está bien traer textos interesantes. En este caso, <a href="https://www.ben-evans.com/benedictevans/2019/4/15/notes-on-ai-bias">Notes on AI Bias</a>.
+
+Lo primero, recordar que el aprendizaje automático ('machine learning') no consiste en fijar un conjunto de reglas y dejar al sistema decidir, sino que el sistema recibe un conjunto de datos, genera un modelo y lo utiliza para tomar las decisiones, lo que proporciona resultado estupendos para algunos problemas:
+
+<blockquote>
+With machine learning, we don’t use hand-written rules to recognise X or Y. Instead, we take a thousand examples of X and a thousand examples of Y, and we get the computer to build a model based on statistical analysis of those examples. Then we can give that model a new data point and it says, with a given degree of accuracy, whether it fits example set X or example set Y. Machine learning uses data to generate a model, rather than a human being writing the model. This produces startlingly good results, particularly for recognition or pattern-finding problems, and this is the reason why the whole tech industry is being remade around machine learning.
+</blockquote>
+
+A veces, esto produce problemas, porque establece relaciones de elementos que aparecen habitualmente en algunas situaciones, pero que no tienen por qué estar presentes ni formar parte de la que estemos considerando. Por ejemplo, si hay hierba en abundancia el sistema puede esperar que en la zona haya ovejas (que puede o no puede tener sentido que estén en una determinada escena).
+
+<blockquote>
+What does that mean in practice? My favorite example is the tendency of image recognition systems to look at a photo of a grassy hill and say ‘sheep’. Most of the pictures that are examples of ‘sheep’ were taken on grassy hills, because that’s where sheep tend to live, and the grass is a lot more prominent in the images than the little white fluffy things, so that’s where the systems place the most weight.
+</blockquote>
+
+Esto es, el sistema identifica que eso pondría estar en la escena (una imagen, en este caso) pero no es capaz de comprenderla y, por lo tanto, decidir correctamente sobre la posibilidad real de que lo que indica ocurra.
+También ocurre que el sistema puede prestar atención a detalles que los humanos no prestarían o, simplemente, ignorarían.
+
+<blockquote>
+But the patterns that it was seeing were not necessarily things that a human being would have noticed, and with some things (vocabulary describing success, perhaps, is something we now know can vary between genders) a human might have struggled to see them even if they were looking for them.
+</blockquote>
+
+En muchos casos, ni siquiera tenemos una distribución de datos equilibrada, sólo tenemos una represetación parcial de la realidad. En este caso se refiere a la posible detección de cáncer de piel con imágenes.
+
+<blockquote>
+... three hypothetical ways it might break:
+
+1. You don’t have an even distribution of people: your photos of skin with different tones is unbalanced, so your system gives false positives or false negatives based on skin pigmentation.
+
+2. Your data contains a prominent and unevenly distributed non-human characteristic with no diagnostic value, and the system trains on that - the ruler in the photo of skin cancer, or the grass in the photo of a flock of sheep. In this case it alters its result if the pixels that we see as a ‘ruler’ (but that it does not) are present.
+
+3. Your data contains some other characteristic that a human cannot see even if they look for it.
+</blockquote>
+
+Esto es, además de no tener una distribución razonable de valores, los valores contienen datos no relevantes (una escala en la foto, que se usar para hacerse una idea del tamaño, o la hierba con un rebaño...). Y también contienen características invisibles o irrelevantes para un humano.  
+
+También puede ocurrir que haya predicciones correctas que no queremos (o no debemos) utilizar; incluso puede ser ilegal tomar decisiones basadas en esos indicadores.
+
+<blockquote>
+Next, so far we’ve been talking about correlations that are false, but there may also be patterns in the data that are entirely accurate and correct predictors, but that you don’t want to use, for ethical, legal or product-based reasons. In some jurisdictions, for example, you are not allowed to give better car insurance rates to women even though women might tend to be safer drivers.
+</blockquote>
+
+Y a veces, ni siquiera es fácil anonimizar los datos para evitar sesgos por este tipo de motivos, porque esos sesgos pueden estar contenidos en datos que, a priori, no nos parecerían sospechosos.
+
+<blockquote>
+One could easily imagine a system that looks at the historical data and learns to associate ‘female’ first names with lower risk, so you would remove the first names from the data - but, [...] there might be other factors that reveal the gender to the system (though of course it would have no concept of gender, or indeed cars), and you might not realise this until the regulator did an ex ante statistical analysis of the quotes you’ve given and fined you.  
+</blockquote>
+
+Por lo tanto, debemos tener en cuenta que los datos que se utilicen para entrenar a los sistemas de inteligencia artificial deben tomarse con el adecuado rigor metodológico (no introducir sesgos), utilizar herramientas para analizar y diagnosticar el comportamiento de los modelos y, como siempre, preparar adecuadamente a las personas relacionadas con estos sistemas (su gestión y uso).  
+
+<blockquote>
+Methodological rigour in the collection and management of the training data
+
+Technical tools to analyse and diagnose the behavior of the model.
+
+Training, education and caution in the deployment of ML in products.
+</blockquote>
+
+La novedad es que el análisis no lo hacen humanos, así que hay que estar atentos y vigilantes a los resultados.
+
+<blockquote>
+The part that’s new, of course, is that the people aren’t doing the statistical analysis directly anymore - it’s being done by machines, that generate models of great complexity and size that are not straightforward to analyse.
+</blockquote>
+
+No es sencillo auditar y comprender los motivos por los que se toma una de estas decisiones:
+
+<blockquote>
+Second, the idea that you can audit and understand decision-making in existing systems or organisations is true in theory but flawed in practice. It is not at all easy to audit how a decision is taken in a large organisation.
+</blockquote>
+
+Se puede comparar el aprendizaje automático con el impacto de las bases de datos relacionales, en el sentido de que estas últimas cambiaron el mundo por la cosas que se podían hacer con ellas. Y también se parecen porque permitían construir modelos basados en suposiciones erróneas o incompletas, contener datos erróneos (y nosotros tomar decisiones basándonos en ellos).
+
+<blockquote>
+In this context, I often compare machine learning to databases, and especially relational databases - a new fundamental technology that changed what was possible in computer science and changed the broader world, that became a commodity that was part of everything, and that we now use all the time without noticing. But databases had problems too, and the problems had the same character: the system could be built on bad assumptions, or bad data, it would be hard to tell, and the people using it would do what the system told them without questioning it.
+</blockquote>
+
+En definitiva, el aprendizaje automático introduce problemas. En algunos casos se parecen a problemas que ya han aparecido en el pasado con otros sistemas que venimos utilizando. Estos problemas podrán ser detectados o no, de manera análoga a otros que ya hemos visto.
+
+<blockquote>
+All of this is to say that ML bias will cause problems, in roughly the same kinds of ways as problems in the past, and will be resolvable and discoverable, or not, to roughly the same degree as they were in the past.
+</blockquote>
+
+Como siempre, los problemas que será más habitual que tengamos no vendrán de un laboratorio de investigación (maligno o no) sino de algo tan sencillo como alguien que no ha configurado correctamente un sistema, o se ha olvidado de considerar algún aspecto relevante, o directamente lo ha utilizado sin muchas consideraciones.
+
+<blockquote>
+Rather, it is a third tier technology contractor or software vendor that bolts together something out of open source components, libraries and tools that it doesn’t really understand and then sells it to an unsophisticated buyer that sees ‘AI’ on the sticker and doesn’t ask the right questions, gives it to minimum-wage employees and tells them to do whatever the ‘AI’ says.
+</blockquote>
+
+El aprendizaje automático puede hacer cualquier cosa para la que pueda ser entrenado, pero en muchos casos no podremos estar seguros de que el resultado es el adecuado (o, al menos, deberemos examinarlo con cuidado).  
+
+<blockquote>
+“Machine Learning can do anything you could train a dog to do - but you’re never totally sure what you trained the dog to do.”
+</blockquote>
+
+Al final, probablemente el término inteligencia artificial no sea útil para hablar de estos temas porque crea la impresión (falsa) de que estamos hablando realmente de inteligencia y, lamentablemente, no es así.
+
+<blockquote>
+I often think that the term ‘artificial intelligence’ is deeply unhelpful in conversations like this. It creates the largely false impression that we have actually created, well, intelligence - that we are somehow on a path to HAL 9000 or Skynet - towards something that actually understands. We aren’t. These are just machines, and it’s much more useful to compare them to, say, a washing machine.
+</blockquote>
+
+Interesante y valioso con todo el ruido que estamos escuchando por ahí afuera.
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

@@ -1,0 +1,25 @@
+Gobiernos, instituciones y software libre
+<a href="https://www.flickr.com/photos/fernand0/3207076975" title="Día del Software libre en Zaragoza. Año 2008."><img src="https://farm4.staticflickr.com/3412/3207076975_d2f2780d16_m.jpg" width="240"  alt="Día del Software libre en Zaragoza. Año 2008." style="float:left; margin:5px"></a>
+Seguimos con iniciativas de compartir desarrollos gubernamentales. 
+Ahora que vamos a entrar en campaña electoral y que con toda seguridad este no será un tema que nadie traiga a primera línea, vale la pena ver que en otros países hay vida alrededor del software libre.
+En este caso se trata del caso de <a href="https://code.gov/">Code.gov</a> la iniciativa para compartir el código de proyectos desarrollados para distintas administraciones en EEUU, que pueden aprovecharse por otros desarrolladores con el objetivo fundamental de no desarrollar las mismas cosas varias veces.
+
+Dice allí:
+
+<blockquote>
+By making source code available for sharing and re-use across Federal agencies, we can avoid duplicative custom software purchases and promote innovation and collaboration across Federal agencies. By opening more of our code to the brightest minds inside and outside of government, we can enable them to work together to ensure that the code is reliable and effective in furthering our national objectives. And we can do all of this while remaining consistent with the Federal Government’s long-standing policy of technology neutrality, through which we seek to ensure that Federal investments in IT are merit-based, improve the performance of our government, and create value for the American people.
+</blockquote>
+
+Nos lo contaban en <a href="https://github.blog/2018-11-09-happy-birthday-codegov/"> Happy second birthday to Code.gov </a> y hablan de alrededor de 4800 proyectos de los que alrededor del 75% estarían alojados en GitHub con contribuyentes como la NASA, la Armada, la Casa Blanca, ... 
+
+Hay código tan diverso como el de simulación y análisis de la resistencia ('resilience') de las redes de abastecimiento de agua, o herramientas para la gestión de transportes y también herramientas de seguridad.
+
+En nuestro contexto alguna cosa hay, la primera que me viene a la cabeza es la <a href="https://www.uji.es/ujiapps/">UJIapps: Aplicatius oberts per a l'entorn universitari</a> y algunas más hay. Entre ellas, nuestro propio <a href="https://gitlab.unizar.es/explore/projects">GitLab</a> donde hemos liberado algunos programas internos y la comunidad universitaria también puede liberar sus propios desarrollos.
+Quedan lejos los días en los que el Ayuntamiento de Zaragoza abanderaba la actividad alrededor de estos temas en nuestra ciudad, aunque queda información y actividad en algunas zonas: <a href="https://www.zaragoza.es/ciudad/sectores/tecnologia/swlibre/zo2.htm"> Proyecto ZO2 | AZLinux</a>.
+No estoy al tanto de que a nivel del Gobierno de España haya un repositorio de este estilo, pero existe <a href="https://www.red.es/redes/es/que-hacemos/fuentes-abiertas-y-soluciones-reutilizables">Fuentes abiertas y soluciones reutilizables</a> donde se dice que "Red.es asesora a Administraciones Públicas en temas relativos a fuentes abiertas y soluciones reutilizables". También recordamos aquellas iniciativas de <a href="http://fernand0.blogalia.com/historias/31259">Software libre en la administración general del estado</a> y aquel <a hreF="http://fernand0.blogalia.com/historias/71096">Decálogo de Granada sobre el Estado del Software Libre en España</a> pero me parece que damos este tema por superado (con nota baja, la verdad).
+Sí que se puede encontrar el código fuente, por ejemplo, de <a href="https://administracionelectronica.gob.es/ctt/clienteafirma/descargas">Autofirma</a>, el cliente de firma electrónica.
+Seguro que hay más.
+¿Alguien conoce algún catálogo?
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

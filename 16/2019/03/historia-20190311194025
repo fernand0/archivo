@@ -1,0 +1,27 @@
+Código (legal) abierto y colaborativo
+<a href="https://www.flickr.com/photos/fernand0/5782150733" title="Código"><img src="https://farm6.staticflickr.com/5223/5782150733_e0c82e05e8_m.jpg" width="240"  alt="Código" style="float:left; margin:5px"></a>
+Otro artículo muy interesante, hablando de cómo se manejan la leyes en Washington DC. 
+En <a href="https://arstechnica.com/tech-policy/2018/11/how-i-changed-the-law-with-a-github-pull-request/">How I changed the law with a GitHub pull request</a> nos cuentan que en el Distrito de Columbia de Washington (la capital de EEUU) han construido la <a href="http://www.openlawlib.org/">Open Law Library</a> como un repositorio abierto de legislación, con el objetivo de publicar en modo abierto las leyes accesibles para todo el mundo.
+
+<blockquote>
+Open Law Library is a 501(c)(3), open-access publisher with a mission to make all official laws freely and openly accessible to governments and their citizens.
+</blockquote>
+
+Salvo por la plataforma para publicar esto no es una novedad puesto que las leyes han de ser públicas, abiertas, conocidas... Aunque no tengo claro que esto sea siempre por allí, puesto que hablan de acceso restringido a algunas leyes basado en los derechos de propiedad intelectual y pagos.
+
+Sin embargo, en Washington llevan esto un paso más allá y utilizan esta herramienta en la fase de preparación, codificación (escribir el código legal) y publicación. 
+
+En estas condiciones, Joshua Tauberer cuenta en el artículo cómo alguien puede detectar un error y aprovecharse de las funcionalidades de GitHub para que sea corregido. En un modelo actual de una organización cualquiera (me lo invento ;) ), alguien tendría un documento 'maestro' almacenado en alguna parte, otra persona lo leería y, en una situación similar, se prepararía para comunicar la lista de erratas/correcciones que la primera persona aceptaría (o no). 
+No sólo eso, sino que podríamos terminar con esos intercambios interminables de documentos en distintos formatos que terminan teniendo nombres como ley_version_final_buena_esta_sí que todos conocemos.
+Cualquiera que haya trabajado con otras personas en un texto del tipo que sea sabe a qué me refiero. Y debería echarle un vistazo a herramientas como estas (git como control de versiones, markdown u otro formato para los textos,...)
+
+Con la ayuda de estas herramientas todo lo que tendría que hacer la persona que propone las modificaciones sería bajarse el documento, modificarlo y someter los cambios para que sean considerados.
+
+En el caso de Washington, tienen <a href="https://github.com/DCCouncil/dc-law-xml">District of Columbia law (statutes and code) in XML format</a> que no sólo es el sitio donde se elaboran y publican las leyes, sino también la fuente autorizada de las mismas (en caso de duda, el texto que sirve es el que hay allí).  
+
+Esto no significa, claro, que la ley pueda modificarse por cualquiera y en cualquier momento, ni que se vaya a prescindir de otros mecanismos que se utilizan en estos casos (expertos, informes, textos preliminares,...).
+
+Pero el uso de formatos abiertos y herramientas podría mostrar ventajas interesantes.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

@@ -1,0 +1,17 @@
+Para desarrollar programas hay que comprender bien el problema y su contexto
+<a href="https://www.flickr.com/photos/fernand0/6295727714" title="Colegio de Médicos"><img src="https://live.staticflickr.com/6119/6295727714_2fe917c068_m.jpg" width="240"  alt="Colegio de Médicos" style="float:left; margin:5px"></a>
+Hace ya unos cuantos años, cuando estudié una introducción a la ingeniería del software recibimos uno de los mejores consejos que se pueden recibir (y que mucha gente no aplica o que no siempre es posible aplicar): observar a las personas que realizaban un determinado trabajo para ver qué cosas necesitaban, cómo las estaban resolviendo en ese momento. Suponiendo que ya utilizaran algún tipo de sistema informático, observar cuándo anotaban algo en alguna parte o necesitaban ayuda 'adicional'.  
+Si se fijan ustedes, es bastante habitual que alguien utilice un programa informático, recabe información de otro diferente y ¡tachán! anote el resultado en un papel para transferirlo adecuadamente: puede ser incompetencia por no saber copiar y pegar pero en muchos casos se trata simplemente de que no es posible realizar la operación de esa forma.
+
+Siempre he pensado que para un informático ver cómo la gente utiliza sus productos podría ser una buena cura de humildad: suposiciones que hemos hecho y soluciones que creemos que son maravillosas que son falsas en el primer caso. Y en el segundo, descubrir que no son tales soluciones o no se comprenden bien.
+
+Por estos motivos me gustó leer <a href="https://www.cnbc.com/2018/12/27/doctors-are-asking-technologists-from-google-to-shadow-them-before-they-build-medical-apps-.html">Doctors are asking Silicon Valley engineers to spend more time in the hospital before building apps</a> donde se habla de cómo un médico de emergencias invita a los informáticos a observar su trabajo con el objetivo de que conozcan mejor el contexto y desarrollen mejores sistemas.  Tiene la parte de lo que el médico les puede enseñar con su actividad. Pero también la de la observación directa, que permitiría desarrollar sugerencias y mejoras que tal vez el médico no sabe que son posibles pero el técnico podría ofrecer.
+
+<blockquote>
+Zane decided one way to bridge the gap was by inviting in developers from companies to see how he works. For now, that involves monitoring how he uses computers and other software tools to document and make decisions, but keeping them out of the operating environment and away from patient information.
+</blockquote>
+
+Interesante.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

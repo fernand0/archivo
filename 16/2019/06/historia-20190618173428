@@ -1,0 +1,39 @@
+Una web de baja tecnología y verde
+<a href="https://www.flickr.com/photos/fernand0/25471593164" title="Verde"><img src="https://live.staticflickr.com/1668/25471593164_ed2d828f92_b.jpg" width="240"  alt="Verde" style="float:left; margin:5px"></a>
+Siempre me he sentido atraído por las soluciones de 'baja tecnología': hoy en día la tendencia en la web es añadir todo a las páginas como si fuera necesario para atraer a nuestros visitantes. Cualquier novedad que los navegadores y los tecnólogos ponen a nuestra disposición debe aparecer en nuestra página web. Aún a costa de convertir la navegación en algo insufrible, si no se hace con las medidas adecuadas.
+
+Por eso me gustó leer <a href="http://gauthierroussilhe.com/en/posts/convert-low-tech">Digital guide to low tech</a> que declara haber creado su página web siguiendo los que llama 'principios de baja tecnología':
+
+<blockquote>
+In March 2019 I put my new website online following "low tech" design principles. I decided to do this because, first, I was impressed by the redesign of solar.lowtechmagazine.com. Their site has become extremely light thanks to a sensible approach.
+</blockquote>
+
+No sólo eso, sino que el rediseño al que aluden (ver <a href="https://solar.lowtechmagazine.com/">LOW←TECH MAGAZINE</a>) también tiene en cuenta el consumo de energía:
+
+<blockquote>
+Furthermore, they thought about energy: their own server is powered by a solar panel and a battery, which means that if the battery is flat and if the weather is bad then the site is no longer in line.
+</blockquote>
+
+Desde el punto de vista del diseño, los principios se basan en aligerar el espacio necesario para el sitio (páginas del tamaño mínimo necesario, sin sobrecargas), elecciones técnicas que utilizan la mínima cantidad de equipamiento posible, dejar exclusivamente el contenido esencial y reducir el resto tanto como sea posible y, claro, documentar el proceso y darle visibilidad.
+
+Como ejemplo, y por concretar, se asignó un 'presupuesto' de 500kb en media para cada página
+
+<blockquote>
+I decided to give me an average budget of 500kb / page
+</blockquote>
+
+Luego aborda también el tema del equipamiento necesario para servir estas páginas, aunque no entra en mucho detalle. Eso sí, llega a sugerir utilizar computadores antiguos y repararlos (no estoy seguro de esto, porque en una de las cosas que la tecnología ha avanzado más es en el consumo de los nuevos equipos, pero no hay que olvidar la componente romática de estas cosas).
+También se plantea la elección de alojamientos 'verdes'.
+
+<blockquote>
+There is one interesting way to provide self-hosting while reducing your carbon footprint: by collecting scrapt computers, repairing them and using them as hosting hardware. <a href="http://lowtech.org/">Lowtech.org</a> proposes extensive documentation on this process.
+</blockquote>
+
+Posteriormente habla de imágenes y vídeos, así como otros elementos de diseño.
+
+¿La conclusión? Una reducción del 'peso' de su sitio en un factor de 10 y una reducción media para las páginas de un tercio.
+
+Curioso.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

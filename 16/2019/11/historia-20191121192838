@@ -1,0 +1,63 @@
+Manifestaciones y tecnología.
+<a href="https://flickr.com/photos/fernand0/32860419295" title="Antenas"><img src="https://live.staticflickr.com/278/32860419295_a37bda2462_m.jpg" width="240"  alt="Antenas" style="float:left; margin:5px"></a>
+Mucho se ha hablado de la influencia de los teléfonos móviles en las 'demostraciones'. Probablmente a todos nos vienen a la cabeza Túnez, y Egipto y también como ahora los que quieren controlar a los manifestantes utilizan técnicas de apagado, o de seguimiento de las personas a través de estas conexiones. 
+
+En <a href="https://www.bbc.com/news/technology-49565587">Hong Kong protesters using Bluetooth Bridgefy app</a> podíamos leer como la misma tecnología permite a los manifestantes evitar estos intentos de censura. En este caso hablan de Bridgefy, que utiliza el Bluetooth para comunicación cercana, sin necesidad de tener acceso a internet:
+
+<blockquote>
+Bridgefy is based on Bluetooth and allows protesters to communicate with each other without internet connection.
+</blockquote>
+
+En un caso como este el rango de comunicación es de menos de 100 metros y la aplicación fue diseñada para sitios donde no era posible utlizar internet fácilmente (a veces, por la propia sobrecarga de los encuentros masivos).
+
+<blockquote>
+The range from phone to phone is within 100m (330ft).
+
+The app was designed by a start-up based in San Francisco and has previously been used in places where wi-fi or traditional networks struggle to work, such as large music or sporting events.
+</blockquote>
+
+Aunque digamos que estas herramientas permiten eludir el seguimiento por parte de las autoridades (además de conseguir la comunicación, claro), esto no tiene por qué suceder (sería sencillo para las autoridades infiltrar antenas y ver la actividad, o ir a los servidores para acceder a los metadatos).
+
+<blockquote>
+Prof Alan Woodward, a computer security expert based at Surrey University, is not convinced such apps are really hidden from the authorities.
+
+"With any peer-to-peer network, if you have the know-how, you can sit at central points of it and monitor which device is talking to which device and this metadata can tell you who is involved in chats.
+
+"And, of course, anyone can join the mesh and it uses Bluetooth, which is not the most secure protocol. The authorities might not be able to listen in quite so easily but I suspect that they will have the means of doing it."
+</blockquote>
+
+
+En la más cercana Cataluña (aunque tan lejos ahora), también está habiendo tecnologías similares. Nos lo contaban en <a href="https://www.wired.co.uk/article/barcelonia-riots-catalonia-protests-news">Catalonia has created a new kind of online activism. Everyone should pay attention</a> donde hablan de la red Tsunami Democràtic.
+
+<blockquote>
+ But the movement encompasses different factions, from long-standing separatist groups ANC (Assemblea Nacional Catalana) and Òmnium, to absolute newcomers. Among the latter is a mysterious digital network called Tsunami Democràtic.
+</blockquote>
+
+En este caso se coordinan a través de Twitter y canales de Telegram y también una app móvil.
+
+<blockquote>
+But the group has another point of difference from others: a new app for coordinating protest activity in the region. Tsunami Democràtic has billed this as an organising tool that promises innovative ways of evading police detection and coordinating actions.
+</blockquote>
+
+La aplicación permite comunicación entre personas, geolocalización y acceso 'validado' por amigos, para asegurarse de que sólo personas 'confiables' tienen acceso.
+
+<blockquote>
+The app is a communication platform that's been designed to organise and mobilise protestors in a secure and efficient way – employing geolocation and friend-to-friend technologies to ensure only trusted members have access.
+</blockquote>
+
+Y también utiliza redes de tipo 'mesh', similares a las de Hong Kong (entre pares y sin necesidad de servidores centrales).
+
+<blockquote>
+The app is built on top of Retroshare – a freely available software used to construct encrypted, friend-to-friend networks (peer-to-peer networks in which users only make contact with people they personally know) to share files or communicate without relying on any central server. “In this mesh, nodes only exchange data with their connected ‘friends’, in order to maintain anonymity between non-friend nodes,” says Cyril Soler, one of Retroshare’s developers.
+</blockquote>
+
+Nada es perfecto, porque este tipo de comunicaciones podrían ser detectables y siempre habrá algunos metadatos que permitirían relacionar personas con la red.
+
+<blockquote>
+“This means that, even if the contents are encrypted, ISPs could potentially build a relationship map of nodes participating in this kind of [friend-to-friend] network.” It’s for this reason that other protest movements, such as the one in Hong Kong, rely on Bluetooth, thus avoiding and ISP's network.
+</blockquote>
+
+La tecnología sigue y seguirá proporcinándonos momentos interesantes.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

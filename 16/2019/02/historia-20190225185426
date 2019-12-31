@@ -1,0 +1,36 @@
+Apps: desarrolla sólo las que necesites
+<a href="https://www.flickr.com/photos/fernand0/29286560364" title="Aplicación turística en el teléfono"><img src="https://c2.staticflickr.com/8/7772/29286560364_78327b7983_m.jpg" width="240"  alt="Aplicación turística en el teléfono" style="float:left; margin:5px"></a>
+Sigo siendo escéptico con respecto al modelo de las aplicaciones para el teléfono. La mayoría son simplemente versiones reducidas de lo que un buen sitio web podría proporcionarnos con el inconveniente de tener que instalarlas, configurarlas, aprender a usarlas, utilizarlas, acordarnos donde está lo que nos interesa cuando llega el momento...  
+No diré que todas son prescindibles porque no sería justo, pero es raro que alguien nos proponga utilizar una aplicación de estas y que terminemos usándola con gusto.
+
+Algunas cosas parecidas piensa David Wheeler y lo contaba en <a href="https://dwheeler.com/blog/2018/10/23/#no-mobile-apps">Do not install or develop mobile apps unless you have to</a>. Empieza diciendo que si vas a instalar un aplicación o a desarrollarla, no lo hagas salvo que sea estrictamente necesario:
+
+<blockquote>
+ If you are thinking about installing another mobile app on your smartphone, or thinking about developing a mobile app, I have a simple recommendation: Don’t do it unless you must do it to get the capability you want. In many cases, using or developing just a web application is the better choice.  
+ </blockquote>
+
+Visto desde el punto de vista de la privacidad, las aplicaciones suelen tener acceso a muchos datos que no necesitamos, pero que son tentadores.
+En ese sentido, el navegador no es perfecto, pero están más pensados para no dar más información de la necesaria.
+
+<blockquote>
+In contrast, web browsers have long had to counter web applications that try to extract data from you. They certainly do not prevent all problems, but they are designed so that they do not give away location, cell phone numbers, or your contact list so easily.
+</blockquote>
+
+También cita argumentos de coste: es caro desarrollarlas, mantenerlas y actualiarlas.
+
+<blockquote>
+And if you’re thinking about developing a mobile app: Don’t do it, at least without seeing if there’s a viable alternative. For many situations, creating mobile applications is a huge waste of money. The United Kingdom essentially banned the development of mobile applications, noting that mobile applications are “very expensive to produce, and they’re very very expensive to maintain because you have to keep updating them when there are software changes.”
+</blockquote>
+
+La única excusa para desarrollarlas sería cuando lo que queremos hacer necesita acceso a los servicios que proporciona el dispositivo, o por cuestiones de velocidad.
+
+<blockquote>
+Of course, there are perfectly valid reasons to create a mobile application (or other kind of native application) for end-users, and that means there are good reasons to install a mobile app. Some applications require access to specialized device services that are not accessible from a web browser, or have speed requirements beyond what a web browser can currently provide.
+</blockquote>
+
+Yo aún iría más allá y diría que no sólo deberías pensar en desarrollar aplicaciones web (el navegador también tiene sus limitaciones) que sean accesibles con el navegador, sino que deberías preocuparte de hacer las correspondientes interfaces (APIs) que permitan a otros desarrollar modos alternativos de acceso: ahora están de moda los 'chatbots', y en el pasado lo estuvieron los lectores de noticias (RSS), pero quién sabe si conseguiremos que la cosa avance para tener nuestros agregadores de información y de acciones, de forma que uno pueda interactuar con una aplicación web con el navegador o con otro tipo de aplicaciones.
+
+Y, claro, hacer útiles esos sitios web alimentándolos con información adecuada, interesante y esas cosas que precupan al que lo visita.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

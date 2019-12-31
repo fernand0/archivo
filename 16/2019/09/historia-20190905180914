@@ -1,0 +1,92 @@
+Redes sociales realmente distribuidas
+<a href="https://www.flickr.com/photos/fernand0/5354267328" title="Red social"><img src="https://live.staticflickr.com/5045/5354267328_844aa87779_b.jpg" width="240"  alt="Red social" style="float:left; margin:5px"></a>
+Me gustó leer <a href="https://runyourown.social/">Run your own social. How to run a small social network site for your friends</a> porque, a pesar de que no veo sencillo lanzar un proyecto como este, da unas cuantas ideas intersantes. Probablemente, si apostáramos por inicativas como estas tendríamos una internet algo más sana.  
+
+El autor tiene una red social para sus 'amigos' (unos 50 en estos momentos) y nos cuenta su experiencia:
+
+<blockquote>
+Since August 2018 I have run a social network site called Friend Camp for about 50 of my friends. I think Friend Camp is a really nice place, and my friends seem to agree that it has enriched our lives. I'd like to see more places like Friend Camp on the internet, and this document is my attempt to provide some practical guidance as to how you might run a social network site like this.
+</blockquote>
+
+Tranquilidad, no se trata de un rollo técnico, el autor nos habla de los problemas relacionados con este tipo de tecnologías que son, claro, sociales. Problemas relacionados con la cultura, valores y poder.
+
+<blockquote>
+This document exists to lay out some general principles of running a small social network site that have worked for me. These principles are related to community building more than they are related to specific technologies. This is because the big problems with social network sites are not technical: the problems are social problems related to things like policy, values, and power.
+</blockquote>
+
+Como siempre, usar la tecnología de las grandes empresas es fácil, pero pagamos un precio por ello.
+
+<blockquote>
+This is my pitch to you: using big social media sites is easy, but you pay a steep price for it. You should consider running your own site, which is harder, but can be extremely rewarding.
+</blockquote>
+
+Para una red como la que propone, no es necesario un sistema informático muy complejo.
+
+<blockquote>
+But a small social network site doesn't need a huge complex network of computers. One computer can be enough.
+</blockquote>
+
+Si hablamos de una red de amigos, es posible distribuir los costes entre todos:
+
+<blockquote>
+For example, Friend Camp costs about $30 a month to run, it experiences about 10 minutes of down time each week, and it takes about 2 hours a week of my own time to maintain.
+...
+The site is funded by campers who can afford to throw a few bucks a month at a Patreon that I run just for us. It's a small price to pay for a nice place to talk to friends on the internet.
+</blockquote>
+
+Algunas personas estarán echando de menos el tamaño de una gran red social como Facebook. Como nos dice el autor, esto se resuelve mediante sistemas de federación: podemos conectar nuestra red con otras, cambiando el paradigma de una gran red social gestionada y controlada por una sola empresa, compuesta de miles (millones) de personas por unos cuantos miles de redes gestionadas de forma autónoma.
+
+<blockquote>
+You might ask: how can one small computer replace something as huge as Facebook in my life? Well, the reason is that you control this one computer for your site, and then that computer talks to thousands of other computers, which gives you access to literally millions of people and organizations and videos and all sorts of other things. So what this does is replace thousands of computers owned by a single company with thousands of computers owned by thousands of different people.
+</blockquote>
+
+Al final, la motivación es muy simple: mejorar la vida de 50 personas sin empeorar la vida de nadie parece un buen objetivo en la vida.
+
+<blockquote>
+If I make software that makes the lives of 50 people much nicer, and it makes 0 people more miserable, then on the balance I think I'm doing better than a lot of programmers in the world.
+</blockquote>
+
+Podemos llevar la vida de una red social, dedicándonos a intercambiar información o lo que queramos con los demás, desvirtualizarnos cuando proceda...
+
+<blockquote>
+Campers visit each other when we travel, even if we've never met in person before. We correspond with each other about what we're making for dinner and trade recipes. They're the kind of mundane interactions that you probably don't want to have with perfect strangers but you cherish in a group of people you care about.
+</blockquote>
+
+Y, como dice, el coste es más o menos el mismo que el de realizar cualquier otra actividad con grupos de gente:
+
+<blockquote>
+In other words, the costs of running a small social network site end up being more or less the costs of starting, well, anything involving other people.
+</blockquote>
+
+Algunos consejos incluirían la idea de mantenerse pequeño:
+
+<blockquote>
+Keep it small
+
+It is absolutely necessary to have no more than 50 to 100 active users who log in to your online community.
+</blockquote>
+
+Evidentemente, hay una cierta centralización, al depender de un administrador del sitio. Necesaria, porque mucha gente no querrá/podrá administrar un nodo de esta red.
+
+<blockquote>
+The existence of a server and an administrator implies some local form of centralization. I think this is necessary because most people don't want to run their own network node ...
+</blockquote>
+
+Para evitar los problemas de este tipo, sería interesante tener  (y serían muy valiosos) mecanismos para salir de una red y entrar en otra, que es algo que ahora mismo no está disponible.  
+
+<blockquote>
+People need to be able to jump ship and migrate their accounts, seamlessly and wholly, to other servers. We do not have a good technical solution for this yet.
+</blockquote>
+
+Por si alguien tiene interés, el sistema que usa es una modificación de <a href="https://joinmastodon.org/">Mastodon</a> que es software libre y cualquiera puede instalar y desacargar.
+
+<blockquote>
+Friend Camp is a modification of a program called Mastodon—I'll get into the specifics later, but I want to say right away that I did not create 99.999% of the software and I'm grateful for the work of the Mastodon authors and contributors.
+</blockquote>
+
+Conforme iba leyendo me iba acordando de este sitio, Blogalia, que fue una proto-red social (entonces lo que se usaban eran los blogs) y en el que unas cuantas personas seguimos gracias a la generosidad y el trabajo de <a href="https://twitter.com/vrruiz">@vrruiz</a>, que nunca nos ha pedido nada a cambio.
+
+Como segunda idea, llevo ya una temporada probando Mastodon en un servidor público (<a href="https://mastodon.social/@fernand0">@fernando@mastodon.social</a> que no tiene las buenas características de una comunidad pequeña, pero que puede darnos una idea de lo que estamos hablando, aunque sea desde el punto de vista de la funcionalidad básica.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

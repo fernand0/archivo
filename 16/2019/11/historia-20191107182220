@@ -1,0 +1,47 @@
+Compartir: dar, pero también recibir. Internet como mercado.
+<a href="https://www.flickr.com/photos/fernand0/3080149639" title="Mercado"><img src="https://live.staticflickr.com/3020/3080149639_b9f8cb843d_m.jpg" width="240"  alt="Mercado" style="float:left; margin:5px"></a>
+Llevo regular el ver que en nuestro entorno la idea de compartir parece que se aplica más a la idea de poder tomar el trabajo de otros que el de poner algo del nuestro para mejorar los recursos comunes. Un ejemplo es la Wikipedia, que creo que no está al nivel que le correspondería por importancia de nuestro idioma y tamaño de la comunidad, pero también en los mapas de Google, donde no siempre los comentarios son para ayudar. 
+A lo mejor estoy equivocado y sólo es mi impresión.
+
+En todo caso, me gustó leer <a hef="https://medium.com/@jbackus/private-bittorrent-trackers-are-markets-1d3cc3c9bacd">Private BitTorrent trackers are markets</a> donde se habla de las redes P2P cerradas, donde es necesario ser un 'buen ciudadano' para poder permanecer allí. Fundamentalmente, la idea es que para conservar el acceso debemos tener una buena tasa entre bajada de datos y subida (esto es, que no somos unos aprovechados).
+
+<blockquote>
+Private trackers require you to maintain an upload/download ratio; if you only download and don’t give back to the community then you’ll be banned within a week
+</blockquote>
+
+Pero también es verdad que alguien no tiene porque estar siempre en buena disposición para contribuir, así que aparecen conceptos más sofisticados, como son los 'préstamos': puedes quedarte un tiempo sin haber contribuido, pero tendrás que recuperarlo de alguna forma y otros conceptos similares.
+
+<blockquote>
+Private trackers don’t ban users immediately if their ratio goes below 0.25. Almost all new users will start by downloading content and they need time to upload to other users.
+</blockquote>
+
+Lo que se intercambia tiene un 'precio' (relacionado con su tamaño) y todos los bytes tienen el mismo. Sin embargo, no es igual de fácil 'recuperar' el coste para todos los ficheros (porque hay unos más atractivos que otros y que será más fácil que otros quieran bajar).
+
+<blockquote>
+A file’s price is defined by its size. You’re spending credits for every byte you download. All files on a private tracker have the same price per byte.
+
+Files vary in their “resale value”,...
+</blockquote>
+
+Aunque empezaba este comentario en modo negativo, lo cierto es que hay gente muy generosa, que mantiene su tasa por encima de lo necesario, a veces mediante gamificación (insignias, señales de prestigio, ...), como una forma de 'ahorro' (¿qué pasaría si en el futuro me interesan ficheros menos valiosos?)
+
+<blockquote>
+Users with higher ratios are basically marked as the upper class of the community and they’re rewarded with additional perks. Users also grow their wealth within the system for peace of mind; you never know if the files you download in the future will be popular,...
+</blockquote>
+
+Lo nuevo vale más que lo viejo.
+
+<blockquote>
+Brand new files are the best bet for a user that wants to make sure they can upload to other users and preserve their upload buffer.
+</blockquote>
+
+Las desigualdades en el acceso también se manifiestan en cómo los usuarios se tienen que comportar: si alguien tiene una conexión lenta, tal vez tenga que compensar esta lentitud poniendo el fichero a disposición de otras personas durante más tiempo.  
+
+<blockquote>
+Users with slower internet will have a harder time maintaining a ratio since they upload alongside other users with more bandwidth in order to share a fixed amount of data. This difference in earning potential shows up in the data. Lower earning users with slow internet connections seed files for longer to compensate.
+</blockquote>
+
+Lectura interesante.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

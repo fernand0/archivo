@@ -1,0 +1,29 @@
+Demoscopía tecnológica: Un gobierno que tome decisiones basadas en datos
+<a href="https://flickr.com/photos/fernand0/32860419295" title="Antenas"><img src="https://live.staticflickr.com/278/32860419295_a37bda2462_m.jpg" width="240"  alt="Antenas" style="float:left; margin:5px"></a>
+Hoy hemos visto un gran revuelo (en Twitter lo he visto yo) porque se anunciaba que <a href="https://elpais.com/economia/2019/10/28/actualidad/1572295148_688318.html">El INE seguirá la pista de los móviles de toda España durante ocho días</a>.  
+El experimento se basaría en seguir la localización de los teléfonos móviles para derminar flujos de movimiento, actividad y otros parámetros que pueden ser interesantes.  
+
+En esta bitácora ya hemos hablado algunas veces (desde hace años) de iniciativas como esta: ¿para qué quieres hacer encuestas o imaginar cómo es la realidad cuando puedes acceder a datos 'de verdad' sobre muchos parámetros de las ciudades y los ciudadanos? 
+Sirvan de ejemplo <a href="http://fernand0.blogalia.com/historias/77419">Demografía y demoscopía a través de internet</a>, <a href="http://fernand0.blogalia.com/historias/75318">Demoscopía sexual</a>, <a href="http://fernand0.blogalia.com/historias/61903">Demoscopia digital, ¿qué hacías mientras juraba Obama?</a>, aunque seguro que hay más.
+
+El caso es que se alude a nuestra intimidad, al gran hermano y a toda una serie de argumentos difíciles de comprender: esos datos están ya en poder de las operadoras. Ellas  son las que se los proporcionarían a los gobiernos de manera anonimizada; antes de que nadie diga nada, los obtienen porque nuestro teléfono se conecta con las antenas para obtener el tan deseado acceso a la red correspondiente. Los conservan por requerimiento legal (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-2007-18243">Ley 25/2007, de 18 de octubre, de conservación de datos relativos a las comunicaciones electrónicas y a las redes públicas de comunicaciones</a>); cuando alguien se pierde, o se comete un delito, creo que todos vemos con cierta satisfacción cómo esos datos se proporcionan a la policía para mejorar la información de que disponen.  
+
+Pero no sólo están esos datos, cualquier dispositivo móvil instala aplicaciones que siguen nuestros movimientos (y analizan, e informan sobre ellos) y la mayoría de las personas hacemos poco para evitarlo. Esta información la gestionan empresas cuyo fin último desconocemos y que nos ofrecen algún tipo de servicio que nos resulta conveniente o atractivo (<a href="https://www.theverge.com/2019/7/8/20686514/android-covert-channel-permissions-data-collection-imei-ssid-location">Thousands of Android apps can track your phone — even if you deny permissions</a>).  
+
+También hay otras formas en que las empresas y organismos variados pueden seguirnos, gracias a las antenas que incorporan nuestros teléfonos (Wifi, <a href="http://neuromobilemarketing.com/blog/wifitracking-la-nueva-moda-en-retail-y-centros-comerciales/">Wifitracking la nueva moda en retail y centros comerciales</a>; Bluetooth, <a href="https://www.xatakamovil.com/movil-y-sociedad/asi-te-vigilan-las-tiendas-siguiendo-a-tu-telefono-movil"> Así te vigilan las tiendas: "siguiendo" a tu teléfono móvil</a>), y no podemos olvidar las omnipresentes cámaras.  
+
+Podemos imaginar las cosas malas que queramos, pero parece claro que el Instituto Nacional de Estadística está dispuesto a explorar un nuevo tipo de encuestas, que serían las que se pueden hacer cuando los datos se obtienen por nuestras acciones (agregadas, anonimizadas). 
+A lo mejor se podría haber hecho un sistema basado en el consentimiento para recopilar esos datos (aunque podemos recordar esa ley que habla de la <a href="https://www.ine.es/colencine/colencine_obligatoriedad_encuestas.htm">Obligatoriedad</a> de responder a determinadas encuestas) pero su validez estadística no hubiera sido la misma. 
+Hace años recuerdo haber participado en una plataforma de geolocalización que recopilaba tus datos y cada vez que alguien los pedía tenías que autorizar el uso; creo que no llegó a ningún sitio, ¿alguien la recuerda?
+
+Tampoco será muy novedoso, una búsqueda rápida nos permite encontrar artículos académicos como <a href="https://pdfs.semanticscholar.org/ab66/f5bcea5ca7adc638342958206262007f8afd.pdf">[PDF] Mobile Landscapes: using location data from cell phones for urban analysis</A> o <a href="https://ieeexplore.ieee.org/abstract/document/6068482">Participatory Sensing: Crowdsourcing Data from Mobile Smartphones in Urban Spaces</a> (probablemente no accesible de forma gratuita). 
+Ambos tienen ya unos años.
+Modestamente, en <a href="https://www.slideshare.net/fernand0/datos-internet"> Datos e internet</a> contábamos algunas posibilidades ya en 2010.  
+Finalmente, conviene recordar la iniciativa del BBVA sobre datos de las transacciones realizadas con tarjetas de crédito que ofrecían como mecanimos para 'mejorar las decisiones de tu negocio y el conocimiento de tus clientes', <a href="https://www.bbvaapimarket.com/products/paystats">PlayStats</a>.  
+
+Ya lo decía Miguel de Unamuno (devuelto estos días a la popularidad por una película del cineasta Alejandro Amenábar), ¡que inventen ellos!: ¿vamos a dejar que sean las empresas y otros organismos los que desarrollen estas cosas porque cuando lo hacen entidades gubernamentales está mal? ¿Uno de estos organismos no puede tratar de mejorar sus estudios e informaciones con herramientas de uso habitual por parte de estas empresas? 
+
+Luz y taquígrafos con las metodologías, los resultados y los objetivos y veamos si, gracias a esta información que ya está disponible, podemos mejorar algunas infraestructuras, o caminos o la vida de los ciudadanos.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

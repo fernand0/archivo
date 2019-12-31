@@ -1,0 +1,38 @@
+¿Para qué quieres tu web? ¿Para comunicar o para impresionar?
+<a href="https://www.flickr.com/photos/fernand0/28210150178" title="Herramientas de comunicación"><img src="https://live.staticflickr.com/961/28210150178_b5683c377c_m.jpg" width="240"  alt="Herramientas de comunicación" style="float:left; margin:5px"></a>
+Ya he leído algunas entradas por ahí, que hemos comentado en la bitácora más técnica (<a hreF="http://fernand0.github.io/cabeceras-http/">Cabeceras más humanas para la web</a>). Sin embargo es un tema que debería preocuparnos a todos; y parece que nos cuesta: ya en los tiempos de geocities (uno de los primeros servicios en proporcionar una forma de sencilla de crear nuestra propia página web) lo habitual era que la gente quisiera tener muchas cosas moviéndose, mucho de todo y eso provocaba -claro- páginas pesadas y lentas.  
+
+En <a hreF="https://timkadlec.com/remembers/2019-01-09-the-ethics-of-performance/">The Ethics of Web Performance</a> abordan el tema desde el punto de vista de la ética. Cuando nuestro sitio web utiliza muchos recursos (en la red o en el dispositivo de visualización) no sólo proporcionamos una mala experiencia a la mayoría de los usuarios (lentitud ...) sino que podemos estar dejando fuera a aquellos que tienen menos recursos.
+
+<blockquote>
+Poor performance can, and does, lead to exclusion. This point is extremely well documented by now, but warrants repeating. Sites that use an excess of resources, whether on the network or on the device, don’t just cause slow experiences, but can leave entire groups of people out.
+</blockquote>
+
+Cada vez hay más diferencia entre lo que puede gestionar una conexión de rede potente frente a una más simple proveniente de un proveedor de telefonía sencillito o una conexión vía satélite.
+
+<blockquote>
+Similarly, there is a growing gap between what a top of the line network connection can handle and what someone with a poor mobile connection or satellite connection can handle.
+</blockquote>
+
+En Youtube hicieron una prueba simplificando los requisitos (<a hreF="https://blog.chriszacharias.com/page-weight-matters"> Page Weight Matters</a>) y de pronto empezaron a recibir un montón de nuevos usuarios provenientes de áreas con peor conectividad.
+
+<blockquote>
+The YouTube feather story—where they improved performance and saw an influx of new users from areas with poor connectivity who could, for the first time, actually use the site—is well documented by now.
+</blockquote>
+
+Esta obsesión por sobrecargarlo todo también tiene efectos en los dispositivos que adquiere la gente que se los puede permitir, y en su obsolescencia.  
+
+<blockquote>
+Poor performance can also result in actually reducing the life-span of the devices we do have, even if we are able and willing to suffer through the slowness. Anything that is taxing on the processor (JavaScript, high-resolution images, heavy layout costs) is going to be taxing on the battery as well, causing wear and tear to the device.
+</blockquote>
+
+De esta forma, las decisiones técnicas (o no) parece que tienen algunas consecuencias más allá de lo técnico.
+
+<blockquote>
+When you look at the evidence, it’s hard to see one could argue performance doesn’t have ethical ramifications.
+</blockquote>
+
+Seguramente quien diseña un sitio sin pensar en las prestaciones piensa que nos molesta un poco pero que vale la pena (o a lo mejor ni lo piensa). Pero podemos ver cómo, en realidad, cualquier decisión excluye a un grupo de gente en una herramienta que está pensada como medio para comunicarse.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None
