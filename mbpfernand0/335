@@ -1,0 +1,16 @@
+Post     : [335]
+Title    : Sobre las cookies
+Date     : 12/03/2010 15:54:08 GMT
+Link     : http://mbpfernand0.wordpress.com/2010/12/03/sobre-las-cookies/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : protocolos seguridad
+Tags     : cookies, internet, navegación, protocolos, seguridad, web
+ 
+ 
+En <a href="http://lcamtuf.blogspot.com/2010/10/http-cookies-or-how-not-to-design.html">HTTP cookies, or how not to design protocols</a> un repaso histórico de la evolución de las especificaciones relativas a las cookies, ese mecanismo que utilizan los navegadores para que sea posible desarrollar aplicaciones web al añadir al protocolo HTTP la posibilidad de gestionar el estado, y por lo tanto relacionar entre sí varias peticiones consecutivas de páginas web.
+
+Se centra en los problemas que las diferentes versiones de la especificación han podido causar.
+

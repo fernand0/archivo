@@ -1,0 +1,87 @@
+Post     : [38]
+Title    : Firing a camera when somebody is around
+Date     : 09/28/2014 22:16:41 UTC
+Link     : http://makingfernand0.wordpress.com/2014/09/28/firing-a-camera-when-somebody-is-around/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Sin categoría
+Tags     : arduino, pi, proximity, raspberry, raspi, sensors, vigilance
+ 
+ 
+After the summer break we are returning with a small project. We added movement to our camera (<a href="http://makingfernand0.wordpress.com/2014/06/08/adding-movement-servos/">Adding movement: servos</a>) and with this we were able to change the orientation of the camera in the room (<a href="http://makingfernand0.wordpress.com/2014/07/20/a-mobile-camera/">A mobile camera</a>) but we weren't able to see interesting things most of the time (it is difficult to find the adequate moments).
+
+I was curious about proximity sensors, so I decided to give them a try buying a couple of HC-SR04, which work with ultrasounds.
+
+http://instagram.com/p/qJfevTwB9F/
+
+The objective is to take a picture when somebody/something is passing in front of the camera: for this we are measuring the distance to the obstacle in front of the sensor and when a change is observed we can suppose that there is something there.
+
+I did some experiments with the Raspi but the results were unsatisfactory: measures are not accurate (it is easy to filter out the bad ones) and this is not adequate for our purposes.
+
+Just in case, you can check an example in <a href="https://www.modmypi.com/blog/hc-sr04-ultrasonic-range-sensor-on-the-raspberry-pi">HC-SR04 Ultrasonic Range Sensor on the Raspberry Pi</a>.
+
+The connections:
+
+http://instagram.com/p/spwPrRQB1v/
+
+The problems seem to be related to the fact that the raspi is not very good at real time and minor variations in time measurement can appear (with these sensors we are measuring the time that some sound pulses take to go and return until they find some obstacle).
+
+Since we had an Arduino we decided to check if it was more adequate. This would allow us:
+
+- More accurate measures.
+- Learning the way to communicate the Raspberry Pi and the Arduino.
+
+Of course, this will open the door for new experiments.
+
+The connections with the Arduino:
+
+http://instagram.com/p/tON3DgwB2V/
+
+Following <a href="http://arduinobasics.blogspot.com.au/2012/11/arduinobasics-hc-sr04-ultrasonic-sensor.html">HC-SR04 Ultrasonic Sensor</a>  it has been quite easy to prepare the Arduino sketch and to connect the sensor (the code is available at <a href="https://github.com/fernand0/utils/blob/397d45f087d271d39bda6c877f9b1734f162dc1a/arduino/sketch.ino">sketch.ino</a> in its current format, there can be some changes in the future).
+
+We found that the measures were more accurate: sometimes there can be a difference of one or two centimeters, but this is not a problem when we are trying to detect something passing because in this case there should be a difference of 20cms or more.
+
+Now we needed a way to communicate the Arduino with the Raspberry (in order to reuse some previous code).
+
+Arduino sends text that can be easily read and processed at the Raspberry.
+There seem to be several ways to do the communication: a serial port over USB (<a href="http://blog.oscarliang.net/connect-raspberry-pi-and-arduino-usb-cable/">Connect Raspberry Pi and Arduino with Serial USB Cable</a>), using I2C (<a href="http://blog.oscarliang.net/raspberry-pi-arduino-connected-i2c/">Raspberry Pi and Arduino Connected Using I2C</a>) and by means of GPIO (<a href="http://blog.oscarliang.net/raspberry-pi-and-arduino-connected-serial-gpio/">Raspberry Pi and Arduino Connected Over Serial GPIO</a>).
+I chose the first one but I should experiment with the others in the near future.
+
+[sourcecode language="python" wraplines="false" collapse="false"]
+distAnt=0
+...
+
+while 1:
+distAnt = dist
+dist = int(ser.readline().strip().strip())
+
+if abs(distAnt-dist)&gt;10:
+print "Alert!!"
+[/sourcecode]
+
+That is: we are storing the previous measurement (distAnt), we obtain a new one (dist = ... ) and we activate an alert if there is a difference greater than 10 cms.
+
+Since we wanted to take a picture, we have reused some code that can be seen at: <a href="http://makingfernand0.wordpress.com/2014/05/25/a-camera-for-my-raspberry-pi/">A camera for my Raspberry Pi</a> and, following previous ideas, we'll send it by email (<a href="http://makingfernand0.wordpress.com/2014/06/03/sending-an-image-by-mail-in-python/">Sending an image by mail in Python</a>).
+
+The code can be seen at <a href="https://github.com/fernand0/utils/blob/397d45f087d271d39bda6c877f9b1734f162dc1a/serialPicture.py">serialPicture.py</a>.
+
+There was a problem: we are establishing directly the connection with the mail server in order to send the image. We cannot avoid the time consumed by the camera (which is not negligible); but we can avoid waiting for the mail sending.
+For this we are creating a subprocess (see <a href="https://docs.python.org/2/library/multiprocessing.html">multiprocessing</a>) which does this part of the work.
+
+[sourcecode language="python" wraplines="false" collapse="false"]
+camera(name,cam)
+p = Process(target=mail, args=(name,who))
+p.start()
+[/sourcecode]
+
+That is, we take the picture and  then we are launching a new process that will perform the sending. Since I had no previous experience with parallel coding in Python I'm not sure if some process cleaning/ending is needed.  No sychronization nor waiting for the process to finish is needed, so all seems to be working well.
+
+Some final remarks: none of these processes is really fast; nobody should expect to use this code as a 'trap' for taking pictures of a flying bird (even a child running won't be captured).
+
+What can we do now?
+We could mount the sensor over one of our servos (as in <a href="http://makingfernand0.wordpress.com/2014/07/20/a-mobile-camera/">A mobile camera</a>) and with this we can construct a map of the room; this should be a different way to detect changes. When something gets noticed we can scan the space with the camera taking several pictures (or even recording a video; I've being avoiding the video until now, but for sure in the future we will try).
+Of course, we could have some suggestions or questions here, or see some ideas out there.
+There is another remark and it is that the sensor will work even when not enough light is available to take the picture; maybe we could add a light sensor to avoid firing the camera (or, perhaps, illuminate the scene when we are taking a picture).
+

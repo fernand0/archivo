@@ -1,0 +1,36 @@
+Post     : [852]
+Title    : Fin de la tercera etapa
+Date     : 11/24/2014 14:40:52 UTC
+Link     : http://mbpfernand0.wordpress.com/2014/11/24/fin-de-la-tercera-etapa/
+Permalink: 
+Author   : 6680974
+Comments : 1
+Pings    : 1
+Categs   : Uncategorized
+Tags     : blog,, cambios, futuro,, meta,
+ 
+ 
+Esta bitácora empezó en el año 2009 como continuación de otras previas, como contábamos en <a href="http://mbpfernand0.wordpress.com/2009/02/11/tercera-etapa/">Tercera Etapa</a>. Por algún motivo nunca he terminado de sentirme confortable aquí.
+Es tiempo de hacer pruebas nuevas y nos movemos a otro lugar.  Copio aquí el post que lo explica en mi nuevo sitio, <a href="http://fernand0.github.io/Cuarta-Etapa/">Cuarta etapa</a>:
+
+
+<blockquote>
+Repito aquí una historia ya contada unas cuantas veces, a la que le vamos añadiendo matices y novedades.
+
+Copio de <a href="http://mbpfernand0.wordpress.com/2009/02/11/tercera-etapa/">Tercera Etapa</a>:
+
+"
+Esta bitácora nació allá por el 2001 en forma de [MiBarrapunto](http://barrapunto.com/articles/01/04/23/2033238.shtml): se trataba de un invento que hicieron los creadores de [BarraPunto](http://www.barrapunto.com/) para permitir a los usuarios tener su propia sección con algunas ideas que ya me gustaría ver en alguna plataforma ahora, pero que no cuajaron por problemas de escalabilidad del programa y falta de recursos en aquel momento para mejorarlo (destacable, la promiscuidad absoluta: cualquiera podía tomar una entrada cualquiera del sitio -en particular, de otros usuarios- y reformarla o simplemente republicarla en su propia página).
+
+Parte de esas ideas se han establecido en [GitHub](http://github.com/), donde el código puede copiarse, transformarse y reenviarse al autor original o a otros con herramientas bastante accesibles.
+"
+
+Con ese espíritu empecé a subir los contenidos de algunos de mis sitios a GitHub: <a href="https://github.com/fernand0/archivo">Archivo bitácoras fernando</a> para posteriormente descubrir que GitHub permitía publicar <a href="https://pages.github.com/">Páginas personales y para los proyectos</a> y el sistema que las gestiona, <a href="http://jekyllrb.com/">Jekyll</a>, que también permite gestionar un blog: nuestra página estaría albergada en el sistema con las mismas características de gestión del código fuente de los programas: fork permitido, copiar, pegar, modificar y reutilizar.  Todavía no es tan fácil como era en la época de BarraPunto, pero aquí lo tenemos. Y aquí estamos.
+
+No creo que la mayoría de la gente vaya a utilizar esto, y tampoco creo que nadie vaya a reutilizar estos contenidos. Pero siento que encaja bien con mi forma de trabajar y publicar (editar en local, subir al sitio y publicar) así que vamos a probar. Desde este momento, la bitácora anterior queda congelada y seguimos por aquí.
+
+Bienvenidos a la cuarta etapa. Proximamente algo más de información sobre cómo gestionar un sitio aquí e ir resolviendo las carencia que aún tenemos (ya hay RSS, las categorías y las etiquetas no funcionan aún).
+</blockquote>
+
+Les espero en <a href="http://fernand0.github.io/">fernand0.github.io</a>.
+
