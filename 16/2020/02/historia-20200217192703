@@ -1,0 +1,58 @@
+¿Por qué pasan las cosas malas que pasan en internet?
+<a href="https://www.flickr.com/photos/fernand0/16309986462/" title="Araña "><img src="//live.staticflickr.com/7488/16309986462_c85bfa7b1e.jpg" alt="Araña " width="240" style="float:left; margin:5px"></a>
+En realidad sólo hablaremos del dinero, pueden ocurrir otras cosas malas a las que no haremos referencia.
+En las últimas semanas estamos viendo un gran aumento en el número de correos engañosos que recibimos: el 'phishing' vuelve a estar de moda como herramienta para, ejem, hacernos la puñeta.
+Y claro, la tentación es echarle la culpa a los usuarios, pero en nuestro día a día vemos como usuarios de perfil (tecnológico) alto caen: algo falla que no es tan fácil que nos demos cuenta. Es cierto que la velocidad de nuestro día a día nos impide vigilar: estamos acostumbrados a sacarnos cosas de encima, lo más rápido que podamos, para poder dedicarnos a lo que sea que queríamos dedicarnos. 
+Pero hay más factores. Y de eso hablaba Troy Hunt en <a href="https://www.troyhunt.com/when-bank-communication-is-indistinguishable-from-phishing-attacks/">When Bank Communication is Indistinguishable from Phishing Attacks</a>. 
+Porque, reconozcámoslo: las empresas, las organizaciones, los ministerios y todo el mundo comunicamos bastante mal, así que la gente se acostumbra a eso y entonces vienen los malos.
+
+Es cierto que los bancos ponen interés en formarnos para que no caigamos en trampas:
+
+<blockquote>
+... really want to avoid their customers falling victim to phishing scams? And how they put a heap of effort into education to warn folks about the hallmarks of phishing scams? And how banks are the shining beacons of light when it comes to demonstrating security best practices?
+</blockquote>
+
+Porque claro, ellos nunca enviarían un mensaje que pueda parecer un mensaje de phising (recordatorio para despistados: esos mensajes que se hacen pasar por alguien y cuyo objetivo es que pinchemos en algún enlace para proporcionar nuestras credenciales; o que las mandemos de alguna forma).
+
+<blockquote>
+So... banks will never do things that look like a phish?
+</blockquote>
+
+Siempre nos dicen que un mensaje será sospechoso si contiene errores gramaticales pero... ¿Seguro que nuestro banco no los hace?
+Hunt nos muestra un mensaje de un cierto banco donde se dice:
+
+<blockquote>
+Can sent from an unknown sender
+
+[...]
+
+Spelling or grammatical errors
+</blockquote>
+
+Ejem. Pues eso. ¿'Can sent from...'?
+
+Otro consejo habitual es el de no pinchar en enlaces de los correos pero, nuevamente, nos llegan continuamente mensajes de: 'instale nuestra app', 'pinche aquí para resonder a...', etc., etc.
+Y nos muestra un caso real donde nos piden justamente eso: pinchar en un enlace para instalar un aplicación.
+Para añadir dolor, un enlace que dirige a una dirección 'misteriosa' que no es la del banco, ni la de la tienda de aplicaciones (que hay que medirlo todo, que lo han dicho los de marquetin).
+
+<blockquote>
+The problem should already be obvious - they're sending an email with a link and asking customers to click it and install the thing at the other end of that link. Isn't this what NAB was warning us about - "download of data"? Tell you what, let's do that super tricky ninja thing of very carefully holding the finger down on the link then inspecting the URL it goes to:
+
+[...]
+Yeah, nah. Not. Legit. Not only is it an insecure URL, WTF is mkt6508.com?! But hey, YOLO, ...
+
+[...]
+
+Oh yeah, that's totally legit! At best it's Adobe Analytics, ...
+</blockquote>
+
+O sea, que no, que no podemos fiarnos de que los bancos actúen como dicen que hay que actuar.
+Pero claro, eso nos acostumbra a hacer las cosas que no debemos y eso terminará metiéndonos en problemas.
+
+<blockquote>
+So no, you can't trust banks to communicate in ways that don't appear suspicious. Unfortunately, where this leaves us is that we need to throw a bunch of the intentional bank comms into the same junk folder as the outright malicious phishing attacks because very often, they're simply indistinguishable from each other.
+</blockquote>
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

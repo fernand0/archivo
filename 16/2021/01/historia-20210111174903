@@ -1,0 +1,66 @@
+Algunas ideas sobre identidad digital descentralizada
+<a href="https://www.flickr.com/photos/fernand0/5775959696/in/photolist-5GGxXM-4cTqza-9rSQhU-9NpiA1" title="Mis nuevas tarjetas. Moo + about.me "><img src="//live.staticflickr.com/2728/5775959696_d4c429ed32.jpg" alt="Mis nuevas tarjetas. Moo + about.me " width="240" style="float:left; margin:5px"></a>
+Durante la pandemia hemos perdido muchos miedos digitales. Parece que el uso hace la costumbre y de ahí nace la confianza. No obstante, hay temas que no terminan de estar bien resueltos por nadie y uno de ellos es saber con quién estamos 'hablando' realmente en un momento determinado. En <a href="https://www.windley.com/archives/2020/08/authentic_digital_relationships.shtml">Authentic Digital Relationships</a> Phil Windley habla del tema de la identidad digital.
+
+Se empieza hablando de los sistemas de identidad que denomina administrativos (<em>Administrative Identity Systems</em>) que son los que van ligados a algún sistema de transacciones (una tienda, un proveedor de servicios, ...). Crean y gestionan la identidad  como una necesidad para cubrir sus objetivos y tienen algunos problemas. Por un lado, hacen que proliferen los sistemas de identificación (uno por sitio).
+
+<blockquote>
+So everyone built an identity system and thus began my and your journey to collecting thousands of identifiers as the Web expanded and every single site needed it's own way to know things about us. 
+</blockquote>
+
+El segundo problema es que esta identidad pone a su gestor en el centro y todo pasa por (y depende de) él (o ello).
+
+<blockquote>
+... create a relationship between the organization operating the identity system and the people who are their customers, citizens, partners, and so on. They are, federation notwithstanding, largely self contained and put the administrator at the center ...
+</blockquote>
+
+Son de alguien, cerrados y tienen el objetivo que tengan las personas propietarias y no los de sus usuarios. Por supuesto, en cualquier momento podemos quedarnos sin esa identidad.
+
+<blockquote>
+Administrative identity systems are owned. They are closed. They are run for the purposes of their owners, not the purposes of the people or things being administered. [...] You could lose your account without recourse. 
+</blockquote>
+
+Por otro lado, existen los sistemas soberanos de gestión de la identidad (<em>Self-sovereign identity (SSI) systems</em>).
+
+Se trata de sistemas entre pares donde cada persona es propietaria y responsable de la gestión de su identidad. Ya no se depende de un proveedor administrativo y se descentraliza el problema.
+
+<blockquote>
+ather than provisioning identifiers and accounts in an administrative system where the power imbalance assures that one party to the relationship can dictate the terms of the interaction, SSI is founded on peer relationships that are co-provisioned by the exchange of decentralized identifiers. 
+</blockquote>
+
+Es necesario acordar los protocolos, que permitan la interoperabilidad entre servicios, las reglas para las interacciones permitidas, etc.
+
+<blockquote>
+Protocols are the foundation of interoperability and allow for scale. Protocols describe the rules for a set of interactions, specifying the kinds of interactions that can happen without being overly prescriptive about their nature or content. 
+</blockquote>
+
+Ya existen muchos experiencias del 'mundo real' digitalizadas, pero lo que necesitamos son experiencias digitalizadas que respeten la dignidad humana y no nos dejen en manos de empresas y sus intereses.
+
+<blockquote>
+Many real-world experiences have been successfully digitized, but the resulting intermediation opens us to exploitation despite the conveniences. We need digitized experiences that respect human dignity and don't leave us open to being exploited for some company's advantage.
+</blockquote>
+
+Esto no significa que lo que nos proporcionan las empresas sea siempre malo. Proporcionan valor al facilitar las transacciones, un entorno de confianza que nos ahorran el esfuerzo de determinar si alguien es aceptable para nosotros o no (por lo menos sabemos que es aceptable para la plataforma, que ya es un principio).
+
+<blockquote>
+Platforms provide several things that make them valuable to participants: a means of discovering relevant service providers, a system to facilitate the transaction, and a trust framework to help participants make the leap over the trust gap...
+</blockquote>
+
+Si se eliminan los intermediarios también se reducen los costes de participar en el mercado y permite la innovación de los participantes.
+
+<blockquote>
+Building markets without intermediaries greatly reduces the cost of participating in the market and frees participants to innovate.
+</blockquote>
+
+Sin embargo, no es sencillo, ya ha habido intentos que no han llegado demasiado lejos.
+
+<blockquote>
+Time and again, various people have tried to create decentralized marketplaces or social networks only to fail to gain traction. These systems fail because they are not based on a firm foundation that allows people to act in relationships with sovereign authority in systems mediated through protocol rather than companies.
+</blockquote>
+
+No soy muy optimista con todo esto: requiere un esfuerzo personal que poca gente está dispuesta a asumir con beneficios poco tangibles (al menos, al principio) y con dificultades técnicas que no son salvables para todo el mundo.
+
+Hace tiempo que tenemos piezas para gestionar algunas cuestiones y no terminan de imponerse quedándose en la marginalidad. Podemos recordar aquí aquella entrada de la <a href="http://fernand0.blogalia.com/historias/77989">Redes sociales realmente distribuidas</a> y las dificultades que se planteaban allí y ver cómo en estos días se está hablando de diversas 'disidencias' de las redes centralizadas por motivo de la clausura de la cuenta de Donald Trump en las redes mayoritarias y un cierto (tímido) trasvase de algunos usuarios a soluciones de este tipo (pero, a su vez, centralizadas para la mayoría).
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

@@ -1,0 +1,45 @@
+Un API personal para gestionar mis datos
+<a href="https://www.flickr.com/photos/fernand0/4102698183/" title="Paloma Llaneza. Mis datos son míos #ebe09 "><img src="//live.staticflickr.com/2544/4102698183_48edde6833.jpg" alt="Paloma Llaneza. Mis datos son míos #ebe09 " width="240" style="float:left; margin:5px"></a>
+En <a href="https://blog.webb.page/2019/a-personal-api">A personal API</a> se habla del tema de cómo gestionar nuestros datos y poder ponerlos a disposición de otras personas (incluso a través de los sistemas habituales) conservando nuestro control sobre ellos (al menos, en la parte que nosotros controlemos).
+
+
+Empieza hablando de cómo hoy en día es posible tener un servidor personal por 5 dólares al mes (yo tengo uno que me cuesta 3 euros) que podría utilizar como agregador/centralizador de su actividad en la red.
+
+<blockquote>
+what if one had a personal API sitting on a $5/month VPS (virtual private server) and interfaced with it for nearly everything they do online?
+</blockquote>
+
+Se trata de poder enviar a donde nos parezca oportuno las actualizaciones que queramos.
+
+<blockquote>
+My personal API sends out update requests to the platforms it is connected to and updates my bio section when I publish the relevant changes to my API.
+</blockquote>
+
+Por lo tanto, hay que organizar los módulos necesarios por objetivo y utilidad. Los de utilidad permiten a los de objetivos alcanzar sus objetivos de recuperar/modicar/almacenar datos
+
+<blockquote>
+Modules come in two types: purpose and utility. Utility modules allow the purpose modules to do their thing, like retrieving/modifying/storing data
+</blockquote>
+
+Y los de objetivos se encargarían de gestionar nuetros medios preferidos
+
+<blockquote>
+Purpose modules can be anything you think of and the examples I listed could be your personal Medium, ...
+</blockquote>
+
+Todo esto tiene que ver con algo de lo que ya hemos hablado, ser el propietario de nuestros datos y no perder la interacción con el resto del mundo.
+
+<blockquote>
+While I understand I also think it is incredibly important to claim your space on the Internet. We're all digital sharecroppers so why not tend to our own space on the 'Net?
+</blockquote>
+
+Y, claro, estaría bien poder compartir de manera sencilla los ficheros que tengamos.
+
+<blockquote>
+Y'know what would be nice? Having an easy way to share any files that you're hosting. Although, you may not want to expose your personal API server to the public....
+</blockquote>
+
+Un poco técnico. Interesante. 
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

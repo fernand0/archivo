@@ -1,0 +1,35 @@
+Los datos de localización de las personas, su recopilación y por qué debe preocuparnos
+<a href="https://www.flickr.com/photos/fernand0/3025260151/" title="Marbella "><img src="//live.staticflickr.com/3295/3025260151_86957d1da3.jpg" alt="Marbella " width="240" style="float:left; margin:5px"></a>
+A veces parece que nos preocupa que alguien en concreto haga un seguimiento de nuestra posición, gracias a nuestro teléfono. Dejando de lado las empresas que la conocen por motivos del propio servicio (las operadoras), resulta que hay muchísimas empresas más que hacen ese seguimiento. Tampoco se si tenemos que volvernos locos porque no es que nos sigan a nostros en particular, sino que tratan de 'encajarnos' en grupos a los que ofrecer determinados anuncios, y algún otro servicio.
+
+En <a href="https://www.nytimes.com/interactive/2019/12/19/opinion/location-tracking-cell-phone.html">Twelve Million Phones, One Dataset, Zero Privacy</a> hablaban justamente de eso:
+
+<blockquote>
+Every minute of every day, everywhere on the planet, dozens of companies — largely unregulated, little scrutinized — are logging the movements of tens of millions of people with mobile phones and storing the information in gigantic data files.
+</blockquote>
+
+Sin embargo, el nivel de datos que recopilan es bastante amplio.
+
+<blockquote>
+After spending months sifting through the data, tracking the movements of people across the country and speaking with dozens of data companies, technologists, lawyers and academics who study this field, we feel the same sense of alarm. In the cities that the data file covers, it tracks people from nearly every neighborhood and block, whether they live in mobile homes in Alexandria, Va., or luxury towers in Manhattan.
+</blockquote>
+
+Como decíamos arriba, los datos son anónimos, se guardan de forma segura y hemos autorizado la recopilación de datos (dando permiso al instalarnos alguna aplicación).
+
+<blockquote>
+The companies that collect all this information on your movements justify their business on the basis of three claims: People consent to be tracked, the data is anonymous and the data is secure.
+</blockquote>
+
+Sin embargo, cuando alguien guarda datos de localización el paso de obtener la información de quién es alguna persona concreta tampoco es demasiado complicado (desanonimizar, lo llaman). Basta con a localización de nuestra casa, la oficina o cualquier sitio que el 'atacante' pueda tener 'controlado':
+
+<blockquote>
+In most cases, ascertaining a home location and an office location was enough to identify a person. Consider your daily commute: Would any other smartphone travel directly between your house and your office every day?
+</blockquote>
+
+En el enlace se pueden leer algunos casos de estas 'desanonimizaciones'.
+Tampoco hay que olvidar la posibilidad de ataques informáticos, que consiguierna acceso a más datos.
+
+Interesante. Puede que te asuste.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

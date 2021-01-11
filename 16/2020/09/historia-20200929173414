@@ -1,0 +1,84 @@
+¿Cómo nos engañan los malos?
+<a href="https://www.flickr.com/photos/fernand0/1464221377/" title="Príncipe Felipe. Engaño visual "><img src="//live.staticflickr.com/1325/1464221377_791839a61d.jpg" alt="Príncipe Felipe. Engaño visual " width="240" style="float:left; margin:5px"></a>
+Solemos culpabilizar a la gente cuando le engañan en internet. Lo cierto es que caer en algunas trampas es bastante fácil y que nos pueden pillar con la guardia baja. De un intento de engaño nos hablan en <a href="https://jeffreyladish.com/anatomy-of-a-rental-phishing-scam/">
+Anatomy of a rental phishing scam 🎣</a>. Es un poco más técnico de lo habitual, pero puede ser interesante.
+
+Los intentos de engaño pueden ser muy convincentes y no tienen por qué estar mal escritos como suelen decirnos:
+
+<blockquote>
+I’m writing this to illustrate that the best phishing attacks will look very convincing. Often people are told to watch out for poor grammar and formatting to protect against phishing.
+</blockquote>
+
+Se trata de un proceso de alquiler, a través del conocido sitio (al menos en EEUU craiglist).
+Primero recibe un mensaje del propietario proponiendo cambiar el canal de comunicación (en lugar del sistema interno del sitio, pasar al correo electrónico):
+
+<blockquote>
+I get a text from the landlord telling me to contact him at “davidgrinde@engineers-hibernia-chevron.ca”. You might think this would have seemed odd to me, but honestly the rental search involved lots of ridiculousness about phone number and emails and runarounds.
+</blockquote>
+
+Luego, parece que no tiene muy buena conexión:
+
+<blockquote>
+The fact that the landlord says he is away most of the time seemed a little unusual, but not by that much. Plenty of the landlords I contacted in this search lived far away.
+</blockquote>
+
+Finalmente, le redirigió a Airbnb como método de pago y de referencia. Con muchas fotos del presunto propietario para causar mejor impresión.
+
+<blockquote>
+The first red flag was “So we’ll keep our communication to email if that’s ok with you”. The second was the weirdness about Airbnb. Why would they want me to pay through Airbnb? The third was the excessive amount of pictures to convince me this was a real person. If they were in fact a real person, why were they trying so hard to convince me?
+</blockquote>
+
+Insisten en que le busquen en este sitio y no  les encuntra, así que pide ayuda:
+
+<blockquote>
+But wait, I couldn’t find their place on Airbnb. So I asked for the link again…
+</blockquote>
+
+Y entonces recibe un enlace directo a un sitio de Airbnb, que no era de Airbnb (un enlace engañoso).
+Con reseñas, buenas calificaciones y todo eso.
+
+Lo que llama la atención en este caso es que el inglés era bueno, los correos parecían muy profesionales, y el sitio con el phishing tenía el aspecto perfectamente correcto:
+
+<blockquote>
+The phishing team—and given the work involved and the level of polish I bet it was a team—ran a pretty tight operation. Their English was perfect, their emails looked professional, and their phishing site looked identical the original Airbnb site. 
+</blockquote>
+
+También los trucos sicológicos: dejan información incompleta para que tengamos que preguntar, de forma que no sospechamos de que nos estén intentando engañar:
+
+<blockquote>
+I’m even more impressed by their subtle psychological tricks. Each step of the way, they left out information which required me to ask for something if I wanted to proceed. It’s a lot easier to be on your guard when others are asking you for things. When you’re the one doing the asking, it’s even harder to say something when things look strange, because you may already feel like you’re being a burden on their time.
+</blockquote>
+
+Añaden un sitio 'de confianza', como Airbnb para alejar nuestras sospechas:
+
+<blockquote>
+Finally, using Airbnb as the phishing site was clever, because it gave the impression of a trusted middleman. I was genuinely thrown off at first, because I couldn’t figure out how they were planning to steal my financial information. 
+</blockquote>
+
+El primer consejo sencillo, recordar fijarse bien en los enlaces que nos proporcionan:
+
+<blockquote>
+When engaging with strangers online, always check the source of their links! 
+</blockquote>
+
+Recordar que la dirección de envío del correo es fácil de falsear:
+
+<blockquote>
+Remember sender email addresses can be spoofed and domain names may not be what they appear! 
+</blockquote>
+
+Busquemos señales de que nos estan intentando engañar:
+
+<blockquote>
+Look for signs that someone is toying with you. Does it seem like they’re trying to convince you that they’re real? Are they projecting a sense of urgency?
+</blockquote>
+
+Utiliza la red y sus posibilidades para tratar de verificar la identidad de la otra persona:
+
+<blockquote>
+Use multiple channels to verify someone’s identity. The first red flag here was the scammer saying they could only interact by email. 
+</blockquote>
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

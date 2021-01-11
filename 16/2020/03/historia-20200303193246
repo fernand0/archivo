@@ -1,0 +1,34 @@
+¿Programar o resolver problemas?
+<a href="https://www.flickr.com/photos/fernand0/3330634730/" title="Escalera al río "><img src="//live.staticflickr.com/3386/3330634730_5bd1e9560b.jpg" alt="Escalera al río " width="240" style="float:left; margin:5px"></a>
+No es la primera vez que manifiesto mis dudas sobre si todo el mundo tiene que aprender a programar o no. Tengo claro, sin embargo, que cuanto mejor comprendamos el mundo, mejor nos irá. Y hoy en día una parte muy importante del mundo va en forma de programa informático. También es verdad que hay muchos informáticos (nos soprenderíamos de la cantidad) que no programan jamás así que, seguramente, basta con una comprensión diferente de estas tecnologías.
+
+Por eso me gustó leer <a href="https://daedtech.com/dont-learn-to-code-learn-to-automate/">Don’t Learn to Code — Learn to Automate</a> donde ya desde el título el matiz es evidente.
+
+Como decía arriba, no se trata de programar para resolver nuestros problemas pero sí de saber lo que se puede programar y cómo mejorarían nuestras actividades con eso. Esto es, reconocer los casos en los que la automatización podría beneficiarnos:
+
+<blockquote>
+Or, if not how to do it themselves, at least how to recognize things that could be automated and have meaningful discussions about whether the effort is worth it or not.
+</blockquote>
+
+Describe un ejemplo (interesante o no, según cada uno considere) y concluye avisando de que, al final, se trata de realizar un análisis del problema que queremos resolver:
+
+<blockquote>
+The talent for which I’m advocating — the talent of savvy automation — involves an assessment ...
+</blockquote>
+
+Resume luego que se trata de: identificar alguna tarea tediosa y repetitiva, investigar si existe alguna solución disponible para poder utilizarla, y también ser capaz de determinar si desarrollarla nosotros (¿encargarla?) puede tener sentido desde el punto de vista ¡ay! del coste-beneficio.
+
+<blockquote>
+Okay, so that was a little hokey, but I’d like to point some things out here. First up was identification of a crappy task and the recognition of an automation candidate. [...] After that came a sequence of questions contemplating the possibility that there might be an existing solution, that coming up with a new one might not be worth it, or that coming up with a new one might be time consuming enough as to offset any gains. 
+</blockquote>
+
+Y termina diciendo que los programadores quieren programar pero programar no es la meta, cuando lo que queremos es resolver un problema.
+
+<blockquote>
+Coders like to code, but writing code ought not to be a first class goal when there are problems to be solved.
+</blockquote>
+
+Lectura interesante.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None
