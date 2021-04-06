@@ -1,0 +1,69 @@
+Sobre gustos, redes y el futuro de internet.
+<a href="https://www.flickr.com/photos/fernand0/2277485317/" title="Libro: El Poder de las Redes "><img src="//live.staticflickr.com/2008/2277485317_067464f8c7.jpg" alt="Libro: El Poder de las Redes " width="240" style="float:left; margin:5px"></a>
+En internet navegamos nosotros. Es cierto que los distintos sitios utilizan estrategias encaminadas a que 'permanezcamos' el mayor tiempo posible allí y para ello van mostrándonos lo que 'creen' que más nos gustará para seguir allí. Pero lo hacen en base a nuestras decisiones del pasado. No es la primera vez que lo decimos pero si tomamos la opción activa de darle me gusta a lo que queremos ver e ignorar lo que no, navegaremos mucho más a gusto.
+Sin embargo, también es cierto que el algoritmo puede ayudarnos a descubrir cosas interesantes, una vez que 'sepa' lo que nos gusta, así que vale la pena trabajar un poco en ello.
+Y hay empresas que están sacando partido de ello y ganándoles la partida a otras que estaban allí antes, explorando vías diferentes.
+
+En <a href="https://www.eugenewei.com/blog/2020/8/3/tiktok-and-the-sorting-hat">TikTok and the Sorting Hat</a> hablaban del tema desde el punto de vista de esta red social (que sólo conozco a través de los ecos que aparecen en otros sitios, porque no estoy dado de alta).
+
+Nos habla de que TikTok ha evolucionado (y muchas de estas redes también) hacia lo que podríamos llamar una red de entretenimiento: ya no seguimos a nuestros amigos y ni siquiera conocemos a la gente a la que seguimos:
+
+<blockquote>
+TikTok is less a pure social network, the type focused on social capital, than an entertainment network. I don’t socialize with people on TikTok, I barely know any of them. It consists of a network of people connected to each other, but they are connected for a distinct reason, for creators to reach viewers with their short videos.
+</blockquote>
+
+En las redes sociales tradicionales, nuestros intereses venían ligados a las personas con las que nos relacionábamos.
+Si no seguimos a nadie, ¿cómo se construye el grafo de intereses adecuado a nuestros gustos?
+
+<blockquote>
+But what if there was a way to build an interest graph for you without you having to follow anyone? What if you could skip the long and painstaking intermediate step of assembling a social graph and just jump directly to the interest graph? And what if that could be done really quickly and cheaply at scale, across millions of users? And what if the algorithm that pulled this off could also adjust to your evolving tastes in near real-time, without you having to actively tune it?
+</blockquote>
+
+De hecho, si lo piensan, esta es una de las fuentes de insatisfacción de redes como Twitter: al principio es difícil sacar partido porque no tenemos construido nuestro grafo social (y también es cierto que ahora nos ayudan con los temas y listas para seguir).
+El problema de relacionar un grafo de intereses con el grafo social es interesante, debido a nuestra propia diversidad: a algunos amigos les pueden gustar mis tuits sobre software libre, pero a otros les pueden gustar las imágenes u otros temas diferentes. Y a mi me gustan todos ellos.
+De hecho, si nos fijamos, las cuentas más exitosos suelen ser algunas muy enfocadas y con pocas 'distracciones'.
+
+<blockquote>
+The problem with approximating an interest graph with a social graph is that social graphs have negative network effects that kick in at scale. Take a social network like Twitter: the one-way follow graph structure is well-suited to interest graph construction, but the problem is that you’re rarely interested in everything from any single person you follow.
+</blockquote>
+
+Por lo tanto, TikTok proporciona a los creadores herramientas, una audiencia que puede aumentar de manera casi infinita. A la gente 'normal' le proporciona una fuenta también casi infinita de entretenimiento, que además se acerca cada vez más a lo que nos gusta ver.
+
+<blockquote>
+... they provide creators on one side with unmatched video creation tools coupled with potential super-scaled distribution, and viewers on the other side with an endless stream of entertainment that gets more personalized with time.
+</blockquote>
+
+Todo ello, eso sí, desde China. Esto es algo que preocupa en EEUU donde se ha reducido al mínimo la fricción para todos estos productos de la web, asumiendo que siempre iban a estar bajo control 'amigo'.
+
+<blockquote>
+In doing so, TikTok, with a product team and infrastructure mostly located in China, came out of left field and became a player in the attention marketplace on the same playing fields around the world as giants like Facebook, Instagram, Snapchat, YouTube, and Netflix. Not quite a Cinderella story...maybe a Mulan story?
+
+TikTok didn't just break out in America. It became unbelievably popular in India and in the Middle East, more countries whose cultures and language were foreign to the Chinese Bytedance product teams. Imagine an algorithm so clever it enables its builders to treat another market and culture as a complete black box. 
+</blockquote>
+
+Y todo ello sin necesidad de comprender la cultura (no olvidemos que para todo el mundo cuesta un esfuerzo -que muchas veces no llegamos a realizar-) comprender las necesidades de otras culturas.
+
+<blockquote>
+I don’t think the Chinese product teams I’ve met in recent years in China are much further ahead than the ones I met in 2011 when it comes to understanding foreign cultures like America. But what the Bytedance algorithm did was it abstracted that problem away.
+</blockquote>
+
+Pero claro, esto permite que se puedan hacer cosas similares con otros negocios, y no sólo con el entretenimiento. Y ahbla del caso de <a href="https://www.douyin.com/">Douyin</a>, como una plataforma de vídeos, pero con enfoques más diversos (video comercio electrónico).
+
+<blockquote>
+Douyin already visualizes much of this future for us with its much broader diversity of videos and revenue models. In China, video e-commerce is light years ahead of where it is in the U.S. (for a variety of reasons, but none that aren’t surmountable; a topic, again, for another piece). Whereas TikTok can still feel, to me, like a pure entertainment time-killer, Douyin, which I track on a separate phone I keep just to run Chinese apps for research purposes, feels like much more than that. It feels like a realization of short video as a broad use case platform.
+</blockquote>
+
+Instagram, mientras tanto, está decidiendo si es una red social de relaciones, de contenido, o un híbrido. Con sus problemas, porque cuántas más opciones más complicado es todo para la gente que entra al sitio.
+
+<blockquote>
+Instagram is some strange hybrid mix of social and interest graph, and now it’s also a jumble of formats, with a Stories feed relegated to a top bar in the app while the more stagnant and less active original feed continues to run vertically as the default. [...] But they seem to have punted on making any hard decisions for so long now that the app is just a Frankenstein of feeds and formats and functions spread across a somewhat confused constellation of apps.
+</blockquote>
+
+Muy interesante: el futuro del entretenimiento en internet, pero también del comercio y cómo las empresas que no son de EEUU empiezan a precupar por allí. Y sin necesidad de entender nada.
+
+<blockquote>
+"No," he said. "None of us can read any of it."
+</blockquote>
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

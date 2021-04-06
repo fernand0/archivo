@@ -1,0 +1,45 @@
+Correo y espionaje comercial
+<a href="https://www.flickr.com/photos/fernand0/46881014721/" title="Edificio de Correos y Telégrafos "><img src="//live.staticflickr.com/4820/46881014721_7b8d17221d.jpg" alt="Edificio de Correos y Telégrafos " width="240" style="float:left; margin:5px"></a>
+Los lectores de correo llevan habitualmente desactivada la carga de imágenes. El motivo es bien sencillo y lo que intentan es proteger nuestra intimidad: si en un correo hay una imagen remota incrustada esto permite al alojador de la misma saber que hemos abierto el correo y cuando (hay algunas limitaciones, porque puede ser que nuestro anti-virus compruebe la imagen y alguna otra 'diablura' más, pero se utilizan mucho para eso). No solo se puede hacer con imágenes, pero es un esquema habitual.
+Como casi siempre, una característica que parece agradable y útil puede ser perjudicial para nosotros.
+
+En <a href="https://missiveapp.com/blog/life-and-death-of-read-tracking">The Life and Death of Email Read Tracking</a> nos cuentan como Missive decidió dejar de usar esos trucos.
+
+<blockquote>
+This week we sunsetted read receipts from Missive. This will cost us a lot, so here is why we did it.
+
+Read tracking is magical. You know instantly when your recipients open your sent emails. This brings incredible power and can be beneficial in many legitimate business scenarios. It’s really popular.
+</blockquote>
+
+Los motivos no son solo de privacidad sino también por el mal uso y porque no siempre funcionaba bien.
+
+<blockquote>
+In the most extreme cases, we saw first hand how it was misused and weaponized to abuse people. And on the more innocuous and potentially useful scenarios, how unreliable it could be, which could in the end give a false sense of control to our users. A technology that works 70% of the time is a bad one.
+</blockquote>
+
+Es una herramienta, nos dicen, útil desde el punto de vista comercial: si alguien vuelve a abrir un correo que le remitimos hace meses, podríamos aprovechar para llamarle, por ejemplo.
+
+<blockquote>
+You send an email to a prospect, that person quickly follows up saying they are not interested, but 3 months later, they reopen that same email, you get a live read notification, you instantly take your phone and follow up. You win.
+</blockquote>
+
+Pero, como decíamos arriba, hay problemas: alguien puede leer el correo bloqueando las imágenes y eso no significa que no le interese lo que le decimos. O no leer el correo y que algo la haya descargado igualmente.
+
+<blockquote>
+    The recipient may read an email without triggering a read receipt if the images were blocked/not downloaded. Many email clients have built counter-measures to block them by default, rendering them less and less accurate.
+
+    The recipient may not read the email and still trigger a read receipt if the email server downloaded and cached the image in advance. A lot of web-based email clients will do this.
+</blockquote>
+
+El uso negativo también sería posible: enviamos un correo y observamos qué sucede con él (¿se abre muchas veces? ¿se re-envía a otras cuentas?, ... )
+
+<blockquote>
+Now, if the love letter author inserted a pixel tracker, they can know every single time you did go back to that email, and read it again and again. Not cool.
+</blockquote>
+
+En resumen, una tecnología que funciona mal (o no muy bien), que tiene aspectos desagradables e incluso de dudosa legalidad.
+
+Como mañana es el día de la Internet segura, sirva esta entrada para recordarlo: salvo que no nos importe mucho (y creánme, casi siempre nos puede importar) lo mejor es no activar el visionado de imágenes de nuestros correos o, al menos, hacerlo ocasionalmente para ver alguno y luego desactivarlo
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

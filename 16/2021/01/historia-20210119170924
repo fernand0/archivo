@@ -1,0 +1,74 @@
+Los PDFs y la web
+<a href="https://www.flickr.com/photos/fernand0/8014983745/" title="Museo Pedagógico de Aragón. Imprenta "><img src="//live.staticflickr.com/8308/8014983745_17b9b2c5c1.jpg" alt="Museo Pedagógico de Aragón. Imprenta " width="240" style="float:left; margin:5px"></a>
+En la web moderna (con los avisos, publicidad, javascript, ...) casi nos relaja encontrar un PDF para leer algo con calma. Se puede imprimir, o llevar en una tableta y leerlo en cualquier momento, sin preocuparse de quién lo generó ni cómo.
+Es cierto que los navegadores se han empeñado en 'apropiarse' del formato y abrilos en sus propias pestañas, que a veces es ... molesto.
+
+Sin embargo, los documentos en PDF tienen sus limitaciones (sobre todo cuando están mal hechos). De eso nos hablaban en <a href="https://www.nngroup.com/articles/pdf-unfit-for-human-consumption/">PDF: Still Unfit for Human Consumption, 20 Years Later</a>.
+
+Esencialmente, los usuarios se pierden:
+
+<blockquote>
+Research spanning 20 years proves PDFs are problematic for online reading. Yet they’re still prevalent and users continue to get lost in them. They’re unpleasant to read and navigate and remain unfit for digital-content display.
+</blockquote>
+
+Los problemas.
+
+Lineales y limitantes. Típicamente se generan a partir de formatos que se crearon para ser impresos y es raro que los autores tengan en cuenta la accesiblidad, por ejemplo.
+
+<blockquote>
+1. Linear and limiting. PDF files are typically converted from documents that were planned for print or created in print-focused software platforms. When creating PDFs in these tools, it’s unlikely that authors will follow proper guidelines for web writing or accessibility.
+</blockquote>
+
+Mala experiencia de uso. No son como una página web normal y sacan al usuario del contexto habitual dentro del navegador.
+
+<blockquote>
+2. Jarring user experience. PDFs look completely different from typical web pages. They take users out of a familiar context and into one that is outdated and clunky.
+</blockquote>
+
+Cargan despacio. 
+
+<blockquote>
+3. Slow to load.
+</blockquote>
+
+Cargados de 'pelusa'. Esto es, el lenguaje escrito dirigido a imprirse suele inducir a sus autores a no preocuparse de la longitud, ni de ir más directos al asunto.
+
+<blockquote>
+4. Stuffed with fluff. PDFs tend to lack real substance, compared to regular web pages.
+</blockquote>
+
+Provocan desorientación. No siguen los estándares de navegación.
+
+<blockquote>
+5. Cause disorientation. Because PDFs aren’t web pages, they don’t show a standard navigation like a website would. 
+</blockquote>
+
+Moles de contenido innavegables. La mayoría de PDFs no tienen mecanismos de navegación interna.
+
+<blockquote>
+6. Unnavigable content masses. Most PDF files have no internal navigation
+</blockquote>
+
+Tamaño pensado para la página y no para la pantalla. 
+
+<blockquote>
+7. Sized for paper, not screens. PDF layouts are often optimized for a printed sheet of paper, which never aligns with the size and scale of the user's browser window.
+</blockquote>
+
+Esto es especialmente molesto si uno tiene que leer con el teléfono. ¿He oído a alguien lo de documentos a dos columnas?
+
+A los usuarios no les gusta. 
+
+<blockquote>
+Users Strongly Dislike PDFs
+</blockquote>
+
+La recomendación es: si quieres colgar un PDF, hazlo en una página de entrada. Allí puedes resumir los puntos e ideas fundamentales.
+
+<blockquote>
+Gateway pages are web pages that summarize the key points and critical information from a PDF, and then they offer users the option to download the full PDF without having to open it in a browser window, where it’s unfit for consumption.
+</blockquote>
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None
