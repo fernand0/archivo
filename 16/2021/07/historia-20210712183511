@@ -1,0 +1,85 @@
+Nuevas herramientas, innovación y trabajo realizado.
+<a href="https://www.flickr.com/photos/fernand0/4169172862/" title="Juguete nuevo "><img src="//live.staticflickr.com/2555/4169172862_40dcb5da99.jpg" alt="Juguete nuevo " width="240" style="float:left; margin:5px"></a>
+A veces cuando estamos tratando de solucionar un problema lo convertimos en una especie de 'carrera armamentística': que tenga tal, y además cual y por qué no probar esa otra cosa que vimos el otro día en un foro, con lo que convertimos la gestión de la cosa en un reto en sí mismo. Sobre todo para las personas que, al principio, querían resolver su problema.
+
+De eso habla (más o menos, por lo menos desde el punto de vista de la tecnología) <a hreF="https://mcfunley.com/choose-boring-technology">Choose Boring Technology</a>.
+
+Empieza diciendo que la capacidad de innovar que podemos tener disponible es limitada y que, tal vez, deberíamos ser cuidadosos sobre dónde gastamos nuestros 'puntos' disponibles de innovación.
+
+<blockquote>
+Let’s say every company gets about three innovation tokens. You can spend these however you want, but the supply is fixed for a long while. ... the general tendency is to overestimate the contents of your wallet.
+</blockquote>
+
+Por lo tanto, cuando decidimos utilizar determinada tecnología innovadora estamos gastando parte de nuestra capacidad en ella, y deberíamos ser cuidadosos de no exceder nuestra 'disponibilidad'.
+
+<blockquote>
+If you choose to write your website in NodeJS, you just spent one of your innovation tokens. If you choose to use MongoDB, you just spent one of your innovation tokens. If you choose to use service discovery tech that’s existed for a year or less, you just spent one of your innovation tokens. If you choose to write your own database, oh god, you’re in trouble.
+</blockquote>
+
+Por supuesto, todavía puede ser peor y es dedicar nuestro presupesto de innovación a algo que ni siquiera está alineado con nuestras necesidades.
+
+<blockquote>
+Any of those choices might be sensible if you’re a javascript consultancy, or a database company. But you’re probably not. [...] In that context, devoting any of your limited attention to innovating ssh is an excellent way to fail.
+</blockquote>
+
+Aburrido no es malo. Sólo es algo que conocemos, manejamos bien y nos sacará del problema sin complicarnos la vida. Por supuesto, también hay tecnología aburrida y mala, eso está fuera de discusión.
+
+<blockquote>
+“Boring” should not be conflated with “bad.” There is technology out there that is both boring and bad [2]. You should not use any of that. But there are many choices of technology that are boring and good, or at least good enough. 
+</blockquote>
+
+La parte buena de este aburrimiento es que se conocen bien las capacidades, los límites y lo que se puede esperar.
+
+<blockquote>
+The nice thing about boringness (so constrained) is that the capabilities of these things are well understood. But more importantly, their failure modes are well understood. 
+</blockquote>
+
+Luego cita al <a href="https://en.wikipedia.org/w/index.php?title=Donald_Rumsfeld&oldid=1033258690">recientemente fallecido Donald Rumsfeld</a> y su teoría de los desconocidos desconocidos. Un desconocido conocido podría ser algo como: no sabemos qué sucederá con la base de datos si se alcanza el 100% de consumo de la CPU. Un desconocido desconocido podría ser algo como: ¿a quién se le iba a ocurrir que podría pasar esto haciendo esto otro?
+
+<blockquote>
+    A known unknown is something like: we don’t know what happens when this database hits 100% CPU.
+
+    An unknown unknown is something like: geez it didn’t even occur to us that writing stats would cause GC pauses.
+</blockquote>
+
+Y claro, cuando hablamos de tecnologías muy novedosas estamos hablando de tecnologías que tienen un número de desconocidos desconocidos mucho mayor.
+
+<blockquote>
+Both sets are typically non-empty, even for tech that’s existed for decades. But for shiny new technology the magnitude of unknown unknowns is significantly larger, and this is important.
+</blockquote>
+
+Añadir tecnología (o novedad) tiene un coste y hay que pensar en el beneficio que se obtiene por usarla, porque igual no es suficiente.
+
+<blockquote>
+Adding technology to your company comes with a cost. As an abstract statement this is obvious: if we’re already using Ruby, adding Python to the mix doesn’t feel sensible because the resulting complexity would outweigh Python’s marginal utility. 
+</blockquote>
+
+Nuestro trabajo, al final, es establecer una relación entre los problemas del negocio de forma que la solución añada la menor complicación posible.
+
+<blockquote>
+Your function in a nutshell is to map business problems onto a solution space that involves choices of software. If the choices of software were truly without baggage, you could indeed pick a whole mess of locally-the-best tools for your assortment of problems.
+</blockquote>
+
+Esto no quiere decir que no haya que elegir tecnología nueva o, en definitiva, innovación. Pero valdrá la pena hacerlo de forma controlada y analizando bien los riesgos.
+
+<blockquote>
+Taking this reasoning to its reductio ad absurdum would mean picking Java, and then trying to implement a website without using anything else at all. And that would be crazy. You need some means to add things to your toolbox.
+</blockquote>
+
+Un buen ejercicio puede ser pensar si podríamos resolver el problema sin añadir nada nuevo. No se trata de inventar problemas para utilizar una determinada innovación.
+
+<blockquote>
+One of the most worthwhile exercises I recommend here is to consider how you would solve your immediate problem without adding anything new. First, posing this question should detect the situation where the “problem” is that someone really wants to use the technology. 
+</blockquote>
+
+Las innovaciones deberían ser aditivas, en el sentido de que nos permitan resolver problemas que no teníamos resueltos aún. Y podrían ser sustitutivas, en el caso de que nos permitan  reemplazar a otras. Pero teniendo en cuenta el proceso de migración, cambio ... 
+
+<blockquote>
+New technology choices might be purely additive (for example: “we don’t have caching yet, so let’s add memcached”). But they might also overlap or replace things you are already using. If that’s the case, you should set clear expectations about migrating old functionality to the new system. 
+</blockquote>
+
+Me gustó mucho leerlo y creo que deja claras unas cuantas ideas.
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

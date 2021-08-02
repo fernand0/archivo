@@ -1,0 +1,46 @@
+Mi experiencia con Revue: publicando una lista de enlaces cada día.
+<a href="https://www.flickr.com/photos/fernand0/48737698728/" title="Portada Real Casa de Correos "><img src="//live.staticflickr.com/65535/48737698728_25b68180f2.jpg" alt="Portada Real Casa de Correos " width="240" style="float:left; margin:5px"></a>
+Llevo tiempo compartiendo enlaces en diversas redes sociales y tenía la idea de publicar un resumen diario de esos enlaces. Como siempre, la idea es que tal vez alguien pueda encontrar más cómoda esa forma de recibir la información.
+Es un 'ejercicio' de programación chulo para el que ya tendría las piezas básicas (puesto que las estoy utilizando para publicar esos enlaces), pero la pereza ganaba.
+
+El caso es que TWitter anunció la compra de Revue (<a href="https://blog.twitter.com/en_us/topics/company/2021/making-twitter-a-better-home-for-writers.html">Making Twitter a better home for writers</a>), un sistema para hacer boletines (lo que ahora llaman <em>newletters</em>) y me decidí a probar.
+
+Un asunto no menor que resolvía, por ejemplo, era el apartado del diseño: viene con algunos prediseñados y si alguien es poco exigente como yo, encontrará alguno que le sirva.
+Ahora que vamos a llegar a la edición 100 de este boletín, quería compartir aquí la experiencia.
+
+Tengo que decir que antes le había echado algún vistazo rápido a algunos competidores, sin terminar de decidirme a empezar: MailChimp y Substack, uno 'clásico' y uno más reciente. Me pareció que tenía que trabajar demasiado para obtener el resultado que yo quería.
+
+Con Revue, una parte del proceso se simplifica: se puede decidir de qué fuentes (Twitter, Instagram, Facebook, RSs, ....) tomar la información y nos aparecerán como disponibles las entradas publicadas en esas fuentes para utilizarlas en nuestro boletín. También hay una extensión para el navegador que nos permite mandar enlaces a ese listado de fuentes y cuenta con un API que permite hacer más o menos lo que uno sea capaz de hacer con las fuentes que le parezcan más oportunas (aunque hay una buena lista preconfigurada, que haría esto más o menos innecesario).
+
+En mi caso decidí utilizar el API para enviarle directamente los tuits publicados (y sólo esos). 
+Esto se hace automáticamente al final del día y el proceso luego es asignarles una categoría (de las que he ido definiendo a lo largo de estas 100 ediciones) más tarde por la noche, o por la mañana.
+Esto se puede hacer de manera cómoda, seleccionado con el ratón y moviendo el elemento a la posición que queramos que aparezca, de manera sencilla en un ordenador de escritorio normal y de forma algo menos cómoda (pero perfectamente usable, es la que yo utilizo) en el teléfono móvil.
+Finalmente, el sistema permite publicar un aviso en Twitter, en LinkedIn y en Facebook. Y también publicarlo como entrada en Medium (Por ejemplo, la <a href="https://medium.com/@fernand0/daily-newsletter-of-fernand0-issue-99-299b5eefd1ff">edición 99</a>). También está disponible en el propio sitio de Revue (<a href="https://www.getrevue.co/profile/fernand0/issues/daily-newsletter-of-fernand0-issue-99-614355">edición 99</a>). 
+Además enviará por correo a las personas que se hayan suscrito un correo que contiene lo que hayamos escrito.
+
+Algunas ideas sobre el proceso.
+
+- Publicar un boletín siempre me ha parecido una heroicidad: escribir cada número y enviarlo parece un trabajo suficientemente grande como para pensárselo un poco. En este caso, lo que iba a enviar está listo y la herramienta me ha quitado la pereza a la hora de prepararlo. 
+Hasta ahora no he fallado ningún día, pero es algo que terminará sucediendo, supongo. Si Revue permitiera automatizar la categorización todavía sería más fácil, aunque me pregunto en base a qué podría automatizar esa parte.
+
+- Conseguir suscriptores también es una tarea interesante: yo decidí no dar la lata más de lo necesario, así que trato de enviar el boletín temprano (antes de las 8, típicamente) de forma que se mis seguidores lo ven en Twitter y en LinkedIn pero cuando la mayoría todavía no están mirando. Estuve haciendo algunas pruebas publicándolo a diferentes horas, pero no di con una más adecuada. Supongo que estos motivos son suficientes para que no haya muchos suscriptores (media docena).
+Prueba no conseguida.
+
+- Elegí un número fijo de categorías, basándome en la experiencia de los primeros días. Todos los días añado un par de fotografías. Casi todos los días tengo enlaces sobre Internet, programación y seguridad. Muchos días tengo sobre aprendizaje y Universidad. Hay otros temas como música y trenes que tienen entradas de vez en cuando. Finalmente, tengo un apartado de 'otros' donde encaja cualquier cosa que no haya sabido clasificar.
+
+¿Vale la pena tener un boletín casi sin suscriptores y que nos lleva algo de trabajo preparar?
+Como decía arriba se trataba de una idea que quería probar así que hay cosas que no sabía y que hasta que no empecé no he podido conocer.
+Queda un archivo (al menos en mi correo y en el de las personas suscritas) de los enlaces publicados: en estos tiempos en los que cualquier proveedor puede decidir echarte de la red sin muchas contemplaciones, tener un registro de lo que alguna vez pusiste puede tener alguna utilidad en el futuro (o no, quién sabe; lo cierto es que tengo más archivo pero este es un 'archivo-resumen').
+
+Este sistema me parece mejor que los que utilizan otras personas, que usan servicios más orientados a su supervivencia que la de tu boletín. En este sentido, Revue me ha parecido bastante neutro y amistoso: para mi y para las personas que se suscriben.
+Naturalmente, nada le impide 'espiar' a los usuarios y mandar estadísticas diciendo los usuarios que lo abrieron, si pincharon o no en los enlaces... 
+
+Si quieren leer una revisión más profesional, en <a href="https://www.genbeta.com/web/como-crear-newsletter-gratis-revue-nuevo-servicio-twitter-que-puede-ser-mejor-que-usar-mailchimp">Cómo crear una newsletter gratis con Revue, el nuevo servicio de Twitter, y por qué puede ser mejor que usar Mailchimp</a>.
+
+Finalmente, si alguien quiere echar un vistazo al perfil en <a href="https://www.getrevue.co/profile/fernand0/">Daily newsletter of Fernand0</a> y apuntarse, no lo duden. Si se cansan hay un botón (abajo) para borrarse o me avisan y procederemos sin problema al borrado.
+
+¿Planes?
+Tradicionalmente los servicios de envío del contenido del blog por correo han tenido cierto éxito. Es posible que en algún momento me decida a dar el paso con este sitio y facilitar la recepción del contenido por correo cuando se produzca. Veremos.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

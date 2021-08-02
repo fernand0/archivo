@@ -1,0 +1,32 @@
+De éxodos digitales, otros que no y prescriptores que ya veremos si lo son
+<a href="https://www.flickr.com/photos/fernand0/29957689056/" title="Escudos "><img src="//live.staticflickr.com/5553/29957689056_dc4fe3cf3c.jpg" alt="Escudos " width="240" style="float:left; margin:5px"></a>
+Me ha impresionado el movimiento que ha habido en las últimas semanas con muchas comunidades abandonando la red de IRC freenode para crear una nueva, <a href="https://libera.chat/">Libera.Chat</a> y que de forma casi unánime (no tengo cifras para respaldar esto, pero unos cuantos proyectos de software libre han desplazado sus canales de comunicación allí y lo han comunicado de manera oficial. Ver, por ejemplo: <a href="https://www.vice.com/en/article/pkbgvg/major-internet-projects-are-leaving-freenode-after-korean-prince-takeover">Major Internet Projects Are Leaving Freenode After Korean Prince ‘Takeover’</a>). 
+
+Todo ocurrió cuando los operadores de la red (o un número de ellos) decidieron cabandonar ante la adquisición de freenode por parte de Andrew Lee y su nuevo estilo de gobernanza, <a href="https://www.kline.sh/">freenode now belongs to Andrew Lee, and I'm leaving for a new network.</a>.
+Como digo, rápidamente empezaron a surgir comunicados y movimientos abandonando la vieja freenode y trasladándose a la nueva red.
+
+¿IRC? Estarán preguntándose algunas personas ahora. Bueno, lo cierto es que un buen número de proyectos siguen coordinándose a través de estas redes (y otros mecanismos) y parece claro que no es un sistema que vaya a ser abandonado proximamente, como dicen en <a href="https://hackaday.com/2021/05/22/irc-will-never-die/">IRC Will Never Die</a>. A pesar de sus inconvenientes:
+
+<blockquote>
+IRC is fun for hackers, but if you want a user-friendly GUI client, you ridiculously many to choose from. There are even no-install web clients if you just want to dip your toes in. Heck, you could install your own server in an hour or so.
+</blockquote>
+
+Contrasta, sin embargo con el 'intento' de trasladar la actividad que ha habido entre el público más generalista. Desde hace unos meses venimos observando una cierta migración de WhatsApp a Telegram (con entrada de mucha gente en esta segunda red) con varios 'motivos': las elecciones en EEUU y las 'sospechas' de censura de WhatsApp, pero también porque WhatsApp es de Facebook y anunciaron un cambio en las condiciones legales, que provocó cierto ruido (<a href="https://www.enriquedans.com/2021/01/whatsapp-sus-terminos-de-servicio-y-sus-problemas-de-comunicacion.html">WhatsApp, sus términos de servicio, y sus problemas de comunicación</a>).
+
+¿Resultado en este caso? Prácticamente nulo: es cierto que hemos visto venir a un montón de usuarios nuevos a Telegram que, aparentemente, no han conseguido trasladar su actividad real a esta nueva red por lo mismo que muchos seguimos usando WhatsApp en nuestro día a día: allí están nuestros contactos y no es tan fácil moverlos como se mueve a los hackers.
+
+Mientras tanto, la <a href="https://blog.segu-info.com.ar/2021/05/ue-anuncia-que-deja-de-utilizar.html">UE anuncia que deja de utilizar #WhatsApp como medio de comunicación oficial</a> que tal vez pueda ejercer de mejor prescriptor sobre los mecanismos de comunicación que nos convienen (siempre que la UE tuviera algún tipo de liderazgo y expliara estas cosas bien para que las entendamos todos porque hasta ahora parece más bien una huida hacia adelante, puesto que no hemos visto -creo- ningún análisis ni documento oficial que recomiende este cambio por algún motivo serio).
+Podemos imaginar dos escenarios: uno en el que la UE se toma en serio estas cosa y empiezan a comunicarse con el resto de europeos mediante estos canales y eso hace que se vayan difundiendo e implantando poco a poco. Un segundo escenario similar a lo que sucede con la firma digital en España: es casi inevitable para relacionarse con la administración, pero las empresas no la asumen para utilizarla con sus clientes, ni las personas la utilizamos entre nosotros.
+
+En <a href="https://www.politico.eu/article/eu-commission-to-staff-switch-to-signal-messaging-app/"> EU Commission to staff: Switch to Signal messaging app</a> hablan de una recomendación para comunicarse con gente externa.
+
+<blockquote>
+The use of Signal was mainly recommended for communications between staff and people outside the institution. The move to use the application shows that the Commission is working on improving its security policies.
+</blockquote>
+
+Así que en esas estamos: el ambiente de los usuarios 'avanzados-intermedios' es de cambio, los demás están despistados. Tal vez, la Unión Europea podría empezar a enviar mensajes pontenes sobre tecnología, en lugar de teorizar sobre 'nubes europeas' y otras mandangas difícilmente alcanzables, con el estado actual de la cosa. 
+
+Finalmente, también nos queda la duda sobre si realmente la Unión Europea debe promover que sus empleados utilicen la mensajería instantánea como una herramienta de trabajo (a lo mejor inevitable, eso es así) o centrarse en otras herramientas que manejan mejor el flujo de información y permiten gestionarla de manera más eficaz.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

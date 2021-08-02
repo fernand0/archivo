@@ -1,0 +1,35 @@
+Las cookies y los sitios
+<a href="https://www.flickr.com/photos/fernand0/28210158628/" title="En la fábrica de galletas "><img src="//live.staticflickr.com/830/28210158628_c1965f026c.jpg" alt="En la fábrica de galletas " width="240" style="float:left; margin:5px"></a>
+Vaya por delante que las cookies (o algo parecido) son necesarias, si queremos mantener en la web el modelo de aplicación: es necesario algún mecanismo para manter el estado y, por ejemplo, cuando nos identificamos que el sistema sepa que estamos identificados, o cuando guardamos un borrador que se pueda asociar a nosotros (vale, hay formas de evitarlo también, pero no son habituales).
+
+Sin embargo, llevamos unos meses en los que es tendencia prescindir de las de seguimiento. Aquí lo dijimos en el aniversario, <a href="http://fernand0.blogalia.com/historias/78327">Diecinueve</a> y hemos ido encontrando algún caso más.
+En realidad, como decíamos allí, quitamos las que podemos quitar pero de manera inevitable están las de Blogalia, alguna imagen o sitio externo que se incruste...
+
+Por un lado, Julen lo decía en <a href="https://www.consultorartesano.com/2020/12/un-blog-sin-cookies-ya-ves-que-somos-rarunos.html">Un blog sin cookies, ya ves que somos rarunos</a>.
+
+<blockquote>
+Yo reinvindico el placer de escribir, de expresarme mediante la palabra. Se trata de obligarme cada mañana a reflexionar sobre algo que llama mi atención. A partir de ahí tienes la absoluta libertad de darme una patada en el culo y apartarme de tu camino o dedicar unos minutos a leerlo. Lo puedes hacer en diagonal, con más tranquilidad o hasta con la intención de quizá dejar un comentario. Es tu decisión. Haz lo que quieras.
+</blockquote>
+
+Y también:
+
+<blockquote>
+No quiero saber quién eres a través de estos medios. Así de simple. Por eso, aunque te suene a que a este tío se le ha ido la olla, aquí no hay cookies.
+</blockquote>
+
+Poco después podíamos leer en <a href="https://github.blog/2020-12-17-no-cookie-for-you/">No cookie for you</a>. Aquí hablan de quitar el faldón obligatorio (y tan molesto) de sus blogs por un simple motivo, que es el de no enviar 'cookies'. En su caso es más sencillo porque no hay sistema de comentarios, ni de identificación, ni nada de eso, al tratarse de páginas estáticas generadas mediante otra forma de publiación (que me gusta mucho, la verdad).
+
+<blockquote>
+At GitHub, we want to protect developer privacy, and we find cookie banners quite irritating, so we decided to look for a solution. After a brief search, we found one: just don’t use any non-essential cookies. Pretty simple, really. 🤔
+</blockquote>
+
+GitHub va un poco más allá y renuncia a las cookies que no sean para el propio servicio, en su sitio para los desarrolladores. Parece una tendencia.
+
+<blockquote>
+We are also committing that going forward, we will only use cookies that are required for us to serve GitHub.com. 
+</blockquote>
+
+Mientras tanto, Google anda inventando sus 'diabluras' para poder decir que ellos tampoco usan cookies más que para lo imprescindible. Ya veremos.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None
