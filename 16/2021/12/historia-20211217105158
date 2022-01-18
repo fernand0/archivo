@@ -1,0 +1,45 @@
+En Consumidor Global hablando sobre bots
+<a href="https://www.consumidorglobal.com/noticias/noticias-servicios/amenaza-debate-publico-bot-twitter_1508_102.html"><img src="https://i.imgur.com/wfeatsV.png" alt="En Consumidor Global" width="240" style="float:left; margin:5px"></a>
+Hace unas semanas me contactó Juan Manuel Del Olmo Piera con unas preguntas sobre bots (fundamentalmente de Twitter). El resultado se publicó en <a href="https://www.consumidorglobal.com/noticias/noticias-servicios/amenaza-debate-publico-bot-twitter_1508_102.html">¿Amenaza para el debate público o frikada de Twitter? Así funcionan los 'bots'</a>. 
+También aparecen las opiniones de otras personas.
+
+Reproduzco a continuación mis respuestas, por completitud.
+
+Sobre ¿cómo se crea un bot?
+
+<blockquote>
+Twitter permite su creación a través de los mecanismos que tiene establecidos para ello. Igual que muchas otras empresas, consideran que puede ser beneficioso permitir a terceros hacer programas sobre su plataforma. Esto permite, por ejemplo, programar clientes alternativos, o publicar automáticamente tuits informativos (es el uso más frecuentemente podemos ver, cuando un sitio web nos avisa de que ha publicado nuevo contenido).
+Por lo tanto, la forma de crearlo es acceder a la plataforma de <a href="https://developer.twitter.com/">desarrollo de Twitter</a>  y hacer un programa informático para gestionar la actividad que deseemos que se desarrolle.
+En este sentido, lo que hacen las empresas y los partidos se podría enmarcar en dos tipos de actividades: publicar información de su interés en sus cuentas de Twitter o en las de estos bots, que conseguirían que sus mensajes tengan más alcance. También pueden programar respuestas y acciones ante determinados mensajes, seguir a otros usuarios en la esperanza de que el seguimiento sea recíproco, y muchas de las acciones que se pueden hacer con las aplicaciones oficiales de Twitter. Ni que decir tiene que esto se puede hacer no sólo con Twitter, sino también con otras redes sociales.
+Probablemente, la parte más manual de este proceso es el registro de estos usuarios que luego serán utilizados como bots.
+</blockquote>
+
+Sobre el coste económico de crearlos y su uso para marcar agenda.
+
+<blockquote>
+No tengo información de ese tipo pero si queremos ahorrarnos el trabajo de crear los usuarios y programar la actividad de nuestros bots es posible acceder a diversas agencias que harán el trabajo por nosotros. El precio será variado, desde unos pocos euros por una red de mala calidad, con identificadores 'raros' para los bots y poco historial de acción (lo que permitiría identificarlos más fácilmente) a lo que nos queramos gastar por cuentas mejor desarrolladas, con perfiles de actividad con una cierta apariencia de realismo  (identificadores, fotos de perfil, cierta sensación de realismo,...).
+Marcar agenda es sencillo por la propia naturaleza humana:  si recibimos mensajes que sintonizan con nuestras propias creencias es bastante fácil que bajemos la guardia e interactuemos con esos mensajes (retuits, redifusión de la información, ...).
+</blockquote>
+
+Sobre las granjas de bots.
+
+<blockquote>
+Existen, claro. Algunas están disponibles para alquilar al que las quiera contratar en un momento determinado y otras propiedad de agencias que ofrecen sus servicios a quien los pueda querer comprar.
+Una búsqueda rápida en la web nos lleva a un servicio como https://fametricks.com/ o https://www.viralitystore.com/ y otras, que permiten ganar seguidores en redes sociales.
+No digo que este sea el caso porque no las conozco, pero este podría ser un mecanismo que estas granjas utilizan para que sus bots, a su vez, tengan seguidores 'de verdad' y sea más difícil de distinguirlos como tales.
+</blockquote>
+
+Sobre la posibilidad de combatirlos y la polarización de opiniones.
+
+<blockquote>
+Es una pregunta compleja. Es posible que Twitter pudiera hacer algo más de lo que hace contra este tipo de actividad, pero no parece que les preocupe tanto.
+Recientemente han lanzado la iniciativa <a href="https://twitter.com/TwitterSupport/status/1436073604173770754">#goodbots</a>  donde pretenden identificar la actividad automatizada diferenciándola en sus servicios con etiqutas.
+Ya veremos qué efectividad puede tener.
+
+Combatir la polarización de opiniones pasa de manera inevitable por la formación y la concienciación: tanto del público en general como de los 'usuarios' de este tipo de estrategia. Ya hemos visto cómo en algunos casos este tipo de técnicas 'publicitarias' se vuelven contra los que las utilizaron primero. También valdría la pena que se alcanzara algún tipo de acuerdo para no recurrir a estos mecanismo, pero eso no impediría que terceros con intereses utilizaran las herramientas. También sería bueno que los medios tradicionales no entraran en la difusión de rumores o en los debates donde sólo se busca esto.
+</blockquote>
+
+Publicado originalmente en <a href="http://webdiis.unizar.es/~ftricas/blog/enlosmedios/2021-11-27-10-45.html">En Consumidor Global, hablando sobre bots</a>.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

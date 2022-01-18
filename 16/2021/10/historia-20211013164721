@@ -1,0 +1,17 @@
+En Aragón Radio hablando del fallo de Facebook, Instagram y WhatsApp
+<a href="https://www.flickr.com/photos/fernand0/1853829397/" title="eFindex: Enredados "><img src="//live.staticflickr.com/2204/1853829397_2fe702c8ba.jpg" alt="eFindex: Enredados " width="240" style="float:left; margin:5px"></a>
+
+El día 4 de febrero hubo un fallo en determinadas configuraciones de Facebook que afectaron al servicio de la red social, y también a Instagram y WhatsApp. Con este motivo contactaron desde Aragón Radio con el I3A y me llamaron para hablar un ratito sobre lo (que sabemos de lo) sucedido.
+
+Lo han publicado en <a href="https://www.cartv.es/aragonradio/podcast/emision/por-que-se-produjo-la-caida-mundial-de-whastapp-instagram-y-facebook">¿Por qué se produjo la caída mundial de Whastapp, Instagram y Facebook?</a>. Se trata de una intervención en directo y con poca información todavía, pero no parece que lo que se va sabiendo cambie mucho las cosas.
+
+Lo he archivado también en <a href="https://www.ivoox.com/entrevista-aragon-radio-sobre-caida-de-audios-mp3_rf_76360082_1.html">Entrevista en Aragón Radio sobre la caída de servicios de Facebook</a>.
+
+Esencialmente parece que se trataba de un fallo en la actualización de las rutas del BGP (Border Gateway Protocol) que son los mapas que permiten interconectar redes y que sea posible dirigir los paquetes de información a los sitios adecuados. 
+
+Para completar la información se puede leer la información de la propia empresa, en <a href="https://engineering.fb.com/2021/10/05/networking-traffic/outage-details/">More details about the October 4 outage</a> y la de otro de los grandes 'centralizadores' de información en la red, CloudFare, <a href="https://blog.cloudflare.com/october-2021-facebook-outage/">Understanding How Facebook Disappeared from the Internet</a>.
+
+Entrada publicada originalmente en <a href="http://webdiis.unizar.es/~ftricas/blog/enlosmedios/2021-10-05-09-00.html">En Aragón Radio hablando del fallo de Facebook, Instagram y WhatsApp</a>.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

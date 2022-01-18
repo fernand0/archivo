@@ -1,0 +1,79 @@
+Blockchain, registros, realidad y exactitud
+<a href="https://www.flickr.com/photos/fernand0/27802095304/" title="Dinero "><img src="http://live.staticflickr.com/8447/27802095304_02cd235c0e.jpg" alt="Dinero " width="240" style="float:left; margin:5px"></a>
+No soy un gran simpatizante de la cadena de bloques (blockchain) y su aplicación a las actividades de nuestro día a día, como registro. Veo dificultades en que esa aplicación aporte algo más que lo que aportan otros modos de registro más 'tradicionales' y el coste no estoy seguro de que se compense (aunque puedo defender que, en algunos casos, este tipo de tecnologías puedan actuar como catalizadores de ciertos cambios que permitan avanzar; cambios que de otro modo tal vez no se producirían).
+
+Por eso me gustó leer <a href="https://www.coindesk.com/enterprise-blockchain-doesnt-work-because-its-about-the-real-world/">Enterprise Blockchain Fails Because It's About the Real World</a>, donde se analiza la realidad que registra una cadena de bloques, la realidad que podemos querer registrar y las dificultades de conciliación en unos casos y otros.
+
+Un registro tiene sentido cuando sirve de memoria de hechos reales, esto es, hechos indpendientes del propio registro. Un certificado de nacimiento refleja un hcho real, nuestro nacimiento, independiente completamente del documento, y este es el motivo por el que puede ser impreciso (o completamente erróneo).
+
+<blockquote>
+ But this is a funny kind of "record." Most records memorialize real facts, facts that are independent of the records themselves. Take your birth certificate. It records a real event, your birth, which exists apart from the certificate. This is why it is possible for your birth certificate to be inaccurate. It could simply get the facts wrong about when and where you were born.
+</blockquote>
+
+Sin embargo, la cadena de bloques (blockchain) registra con absoluta precisión los bitcoins que cada persona tiene. Y esta información no es indisociable, los bitcoins que alguien tiene dependen completamente de lo que diga la blockchain.
+
+<blockquote>
+The blockchain records everyone's bitcoin holdings, but those holdings are not independent of the blockchain. Quite the opposite: How much BTC you hold depends entirely on what the blockchain says. 
+</blockquote>
+
+Por lo tanto, llamar a la blockchain un registro de los bitcoins que se poseen es inexacto. Sería más preciso decir que la blockchain indica cuántos bitcoins tiene cada poseedor. Lo que dice, es.
+
+<blockquote>
+So calling the blockchain a record of people's bitcoin holdings is misleading. There are no real facts, existing independently of the blockchain, about how much bitcoin everyone holds. Instead, it's better to say the blockchain just dictates how much bitcoin everyone holds. What it says, goes.
+</blockquote>
+
+Por lo tanto, si queremos utilizar una blockchain como un registro, tenemos dos tipos de informaciones: las que está casi absolutamente garantizado que la información es cierta (como bitcoin), y las que no (los certificados de nacimiento).
+
+<blockquote>
+So we have two big groups of applications of blockchain technology: the ones in which the blockchain is nearly guaranteed to be accurate, like Bitcoin; and the ones in which it is not, like birth certificates.  
+</blockquote>
+
+Los nacimientos son un hecho real del mundo. Podríamos diseñar una blockchain para registrar estos eventos, pero seguirán siendo independientes de la blockchain misma. Y esto hace posible que haya errores.
+
+<blockquote>
+birth certificates. Births are real events in the world. We can design a blockchain to record those events, but the events themselves are independent of the blockchain....  it is possible for the blockchain to be inaccurate.
+</blockquote>
+
+Por supuesto, y por el mismo motivo que blockchain es beneficiosa para el caso del bitcoin (es muy difícil manipular las transacciones), también será difícil para otro tipo de registros. Pero, en este segudo caso, nada garantiza que lo registrado se corresponda con la realidad.
+
+<blockquote>
+Of course, just as it is very hard for anyone to tamper with the transaction statements that make up the Bitcoin blockchain, it will be very hard for anyone to alter your birth records once they have been added to the birth certificate blockchain. But that does nothing to ensure those records were accurate in the first place.
+</blockquote>
+
+Lo mismo podría decirse de otros registros: ¿dónde están mis mercancías? ¿he sido vacunado?
+
+Esto no significa que el uso sea exclusivo para los casos donde la información está claramente integrada en la cadena de bloques. Pero hacen falta pasos extra para estar seguros de que la información introducida es la correcta. También podría haber casos en los que esa exactitud no sea tan importante, nos dice.
+
+<blockquote>
+Some non-accurate applications can still deliver accuracy, if they're supplemented by something else. For example, if we have some way to ensure that birth certificates are accurate when they're added to the blockchain, we can be sure they will remain so - even though the blockchain _on its own_ doesn't guarantee their accuracy. And maybe there are non- accurate applications where accuracy is unimportant or where the concept of accuracy just doesn't apply
+</blockquote>
+
+Hasta hace no mucho las únicas aplicaciones donde estas propiedades se cumplían eran las criptomonedas aunque recientemente han aparecido los NFT (tokens no fungibles, non-fungible tokens): allí nuevamente la posesión del 'token' está íntimamente ligada la blockchain (no así el objeto objeto de la 'compra', diría yo).
+
+<blockquote>
+For a long time, the only accurate applications were to cryptocurrency. But that is changing. The current non-fungible token (NFT) boom is a prime example. [...] His holding that NFT depends entirely on the blockchain saying he does. The blockchain dictates who holds which NFTs.
+</blockquote>
+
+Y en esta línea propone la idea de utilizar este tipo de sistemas para registros de la propiedad intelectual o incluso propiedades reales. Como decíamos arriba los 'objetos' en sí no están en la blockchain, pero la gestión de quién es el propietario, sí.
+
+<blockquote>
+What other accurate applications are there? We might try to extend the example of NFTs to the ownership of intellectual property like copyrights and trademarks, or even real property like land and houses. Of course, a house exists independently of any blockchain, but not necessarily from the fact that you own the house.
+</blockquote>
+
+Otra sería el voto, donde una jurisdicción podría reconocer una cadena de bloques, en lugar de un conjunto de papeletas que permitieran un conteo preciso.
+
+<blockquote>
+... perhaps a more viable, accurate application is to voting. A jurisdiction [...] could recognize a blockchain, as opposed to a paper ballot, as the final word on what votes were cast. It could be guaranteed to give an accurate vote count.
+</blockquote>
+
+Y termina diciendo, el precio de la exactitud es la falta de realidad: el valor de su aplicación a las criptomonedas es que no son 'reales' (otra cosa es el valor que alguien quiera darles en sus transacciones). Si las empresas utilizan la cadena de bloques en sus actividades del 'mundo real' tendrán que asumir las consecuencias de lo que representa la blockchain frente a la realidad.
+
+<blockquote>
+The price of accuracy is unreality. The Bitcoin blockchain is accurate only because what it "records" isn't real: Bitcoin holdings are shadows cast by the blockchain itself. Enterprise blockchains reach beyond these shadows into the real world, but in doing so they abandon the surety that is the technology's distinctive promise.
+</blockquote>
+
+En definitiva, una lectura interesante para centrar un poco las dificultades y descubrir -una vez más- que no existe la bala de plata y que cualquier decisión que tomemos tendrá sus consecuencias.
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

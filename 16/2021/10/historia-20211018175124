@@ -1,0 +1,101 @@
+Trabajo en remoto. El caso de GitLab.
+<a href="https://www.flickr.com/photos/fernand0/1324275396/" title="Buscando un hueco para reuniones "><img src="https://live.staticflickr.com/1235/1324275396_1a9af0e9ef.jpg" alt="Buscando un hueco para reuniones " width="240" style="float:left; margin:5px"></a>
+El trabajo en remoto nos vino impuesto durante las primeras etapas de la pandemia. Las cosas han mejorado pero todavía está el debate presente y vivimos las tensiones entre las personas que no ven el trabajo presencial como una opción nunca más y otras las que creen que es (casi) la única forma de trabajar.
+
+En <a href="https://blog.dropbox.com/topics/work-culture/what-you-can--and-can-t--learn-from-gitlab-about-remote-work">What you can (and can’t) learn from GitLab about remote work</a> hablan del teletrabajo (o trabajo en remoto) y del caso de una empresa que ya tiene experiencia en el tema, GitLab.
+
+Para los jefes es uno de los retos más importantes. Se trata de estructurar el trabajo desde cualquier sitio, diseñar las reglas, procesos y procedimientos.
+
+<blockquote>
+For CEOs and upper management, remote work is the biggest organizational challenge many have ever faced. How do you structure a work-from-anywhere company to succeed? What rules do you need to set down? What processes and procedures must be established? 
+</blockquote>
+
+Lo primero, hay que empezar a pensar en asíncrono: tener que coordinarse en tiempo real con frecuencia puede ralentizar los proyectos.
+
+<blockquote>
+1. Think async
+
+We’ve all endured one: The hour-long Zoom that everyone groans could’ve been handled in email instead. Having to communicate in real time too often slows projects and wears on workers.
+</blockquote>
+
+La asincronía es una prueba de la confianza (enfrentada a los riesgos): se trata de fijar objetvios, evitar la microgestión y dejar que las personas resuelvan los problemas y alcancen esos objetivos. Cada una en su momento de trabajar, no necesariamente a la vez que otras personas.
+
+<blockquote>
+Going async is a test in trust over risk for managers from top to bottom. It’s one thing to keep yourself from micromanaging your direct reports. It’s another to declare each company milestone as a destination, then take your hands off the wheel and believe everyone will get there on time without working the same hours.
+</blockquote>
+
+Una forma en que GitLab afronta eso es cambios mínimos: esto es,  la mínima unidad de trabajo que se puede enviar para revisar, aprobar o utilizar por otras personas, de forma que el flujo de trabajo pueda continuar.
+
+<blockquote>
+GitLab encourages workers to break their own tasks down further into what’s called the minimum viable change. That is, do the least amount of work on a thing necessary to submit it for review, approval or use by whoever needs it, then pass it along. 
+</blockquote>
+
+Las reuniones se desaconsejan de manera activa, a menos que se atasque alguna situación de forma que sea necesaria la reunión para avanzar.
+
+<blockquote>
+Meetings are actively discouraged, unless “we go back and forth three times, then it’s time for a video sync call.”
+</blockquote>
+
+Segundo, la automatización, en el sentido de evitar que alguien pueda necesitar a otra persona para poder avanzar en su trabajo.
+
+<blockquote>
+2. Automate everything
+
+Automation doesn’t mean replacing Earth’s humans with robots. But at least for regular steps in workflow, look for and try to remove points where one human worker needs to get another one involved to move things forward.
+</blockquote>
+
+Un ejemplo son las herramientas de recopilación de información: cuadros de mando, estadísticas, estados, avisos.... disponibles para todo el mundo, sin necesidad de que alguien se las comunique. 
+
+<blockquote>
+Automated reporting on company metrics is one of the most powerful tools for keeping a distributed company on track. Dashboard tools replace weekly status write-ups and go-around-the-room meetings with onscreen stats, statuses, and problem notifications that anyone (provided they’re given access) can check anytime.  </blockquote>
+
+Y además proporcionan visibilidad de la situación a los jefes y al resto de la organización.
+
+<blockquote>
+Not only does your manager know what’s up (or down), but people in other parts of the company ...
+</blockquote>
+
+Por ejemplo, en GitLab se puede automatizar que determinadas acciones se publiquen en un canal de Slack cuando hay cambios, comentarios, ...
+
+<blockquote>
+GitLab’s software can be set up to post to Slack automatically when there are changes, comments, or other events about which your faraway teammates might not remember to tell you.
+</blockquote>
+
+La tercera es documentarlo todo. Esto es, cuando alguien necesita algo y no encuentra la información puede escribirla y que esté a disposición de todo el mundo. Cuando alguien tiene una duda es bastante probable que encuentre la solución allí. 
+
+<blockquote>
+3. Document everything
+
+Just as important as keeping communications async, GitLab pushes to keep them public within the company, so that others can find and learn from them. 
+</blockquote>
+
+Sin embargo, no se trata de un recurso libre y a disposición de todo el mundo sin más. Es necesario que alguien se responsabilice de aceptar cambios, revisarlos (igual que se hace con el código) para garantizar que la calidad es suficientemente buena.
+
+<blockquote>
+The handbook isn’t a free-for-all wiki. Each section has someone who maintains it and reviews requests for changes, just as programmers do with source code, before allowing them to be incorporated.
+</blockquote>
+
+Pero las herramientas no son lo que importa, lo que importa es qué información está disponible para quien la pueda necesitar.
+
+<blockquote>
+What matters isn’t which tools, but that important information is available to whoever needs it from wherever, whenever.
+</blockquote>
+
+Y, claro, esto es una tarea crítica: documentar y mantener actualizada la documentación porque esto permite a la gente trabajar.
+
+<blockquote>
+Choudhury agrees that documenting practices and keeping them up to date is critical to keeping an async team in harmony and on track. 
+</blockquote>
+
+También es importante tomar notas. Aunque las reuniones se graban (para poder ver qué se dijo si alguien no pudo asistir), se le da mucha importancia a escribir los resultados de las reuniones y tomar notas.
+
+<blockquote>
+The handbook tells attendees to take written notes as well: “A surefire way to waste time in a meeting is to avoid writing anything down.” You’re expected to write down the results of any real time conversation about work.
+</blockquote>
+
+Muy interesante.
+
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

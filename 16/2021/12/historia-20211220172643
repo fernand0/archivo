@@ -1,0 +1,34 @@
+Licencias éticas en el mundo del software libre.
+<a href="https://www.flickr.com/photos/fernand0/51748003787/" title="Mecanismo "><img src="//live.staticflickr.com/65535/51748003787_63bd7c82bc.jpg" alt="Mecanismo " width="240" style="float:left; margin:5px"></a>
+Leía hace unos meses sobre el tema del movimiento de software ético <a href="https://www.zdnet.com/article/ethical-source-movement-opens-new-open-source-organization/">Ethical-source movement opens new open-source organization</a> donde la idea parece ser limitar alguna de las libertades del software libre.
+Concretamente la '0', que es la que dice que se debe permitir el uso para cualquier cometido que se desee:
+
+<blockquote>
+the freedom to run the program as you wish, for any purpose.
+</blockquote>
+
+Dicen que el software libre se utiliza en muchos contextos y que eso provoca que se esté utilizando para espionaje, racismo y otros abusos:
+
+<blockquote>
+... open source has become ubiquitous, and is now being leveraged by bad actors for mass surveillance, racist policing, and other human rights abuses all over the world.
+</blockquote>
+
+También es verdad que existen licencias que tienen en cuenta estos aspectos, como la <a href="https://firstdonoharm.dev/">licencia hipocrática</a>. En ella se añaden claúsulas sobre los derechos humanos, según la definición de la 'Declaración Universal de los Derechos Humanos de las Naciones Unidas'. 
+Prohíben que el producto lo use cualquier persona o entidad para cualquier sistema, actividades u otros usos que violen cualquiera de los derechos humanos.
+
+<blockquote>
+The Software shall not be used by any person or entity for any systems, activities, or other uses that violate any Human Rights Laws. 
+</blockquote>
+
+No estoy seguro del todo de que esto tenga que ver con la ética, pero soy un simple visitante en estos temas. Tengo claro que alguien que no respeta los derechos humanos tendrá bastante facilidad para no respetar tampoco estas restricciones. Quién sabe.
+
+La conclusión parece ser que es complicado, porque este tipo de restricciones atacarían directamente, como decíamos arriba, a la primera libertad, pero tal vez haya formas de tratar el tema.
+
+<blockquote>
+In return, most open-source leaders and lawyers don't see a place for ethical-source in the free software and open-source licensing world.  
+</blockquote>
+
+Seguro que es interesante debatir estos temas y valioso, pero me preocupa mucho que queramos poner más ética y regulación en los productos de software que en el resto, porque no se si eso ayudará mucho y, sin embargo, puede suponer un freno en algunos contextos.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

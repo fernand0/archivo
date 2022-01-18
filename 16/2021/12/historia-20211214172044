@@ -1,0 +1,72 @@
+La UE y el desarrollo de programas para sus ciudadanos
+<a href="https://www.flickr.com/photos/fernand0/3216579082/" title="Día del Software Libre. Globos "><img src="//live.staticflickr.com/3338/3216579082_08402a611a.jpg" alt="Día del Software Libre. Globos " width="240" style="float:left; margin:5px"></a>
+Seguimos europeos.
+Europa tiene un problema con los programas: apenas tiene desarrollos locales y terminamos utilizando herramientas extranjeras (fundamentalmente de EEUU) para algo que puede se tan importante. Recordemos los problemas que estamos experimentando ahora con los suministros de mercancías y otros elementos básicos que hemos dejado de fabricar porque eran más baratos por 'ahí fuera'.
+En <a href="https://berthub.eu/articles/posts/europes-software-problem/">Europe's Software Problem</a> hablan del problema, con algunos puntos intersantes.
+En la entrada anterior hablábamos de la recomendación de sistemas de mensajería (<a href="http://fernand0.blogalia.com/historias/78483">La UE y los sistemas de mensajería.</a>), que no parece haber tenido demasiada extensión (o, al menos, influiencia fuera del círculo del propio funcionariado de la UE).
+
+Se centra en los sistemas de mensajería, pero creo que todo es aplicable en sentidos más amplios.
+Vivimos en un mundo de datos, y se dice con frecuencia eso de que los datos son el nuevo petróleo. Pero por estos lares los datos no solo no son, sino que se pueden considerar basura tóxica, según nos dice el autor.
+
+<blockquote>
+ ... "Data is the new oil" does not translate well into German, French or Spanish.
+
+In addition, with the GDPR, [NIS (2) Directive][7] & other regulations, data in Europe is definitely more "the new toxic waste". It is in any case not a business plan.
+</blockquote>
+
+Las regulaciones europeas, nos gusta decir, protegen muy bien a la ciudadanía. Yo no estoy muy de acuerdo con eso porque, al final, la ciudadanía elige los servicios que le apetecen; si en Europa algo no es posible, probablemente lo sea en otra parte y la querida Europa es probable que no pueda hacer mucho para hacer cumplir su regulación en otras partes.
+
+<blockquote>
+hrough various kinds of regulations it has been attempted to make transferring data to countries with inadequate privacy regimes illegal. Both in theory and practice this has not worked. US stuff simply is more inviting to use - as it should be, money is being made by us using it.
+</blockquote>
+
+Sin embargo, sí que habría una batalla que se podría ganar, tal vez.  Hace no tanto los servicios eran mucho más interoperables entre sí, lo que permitía a los proyectos más locales competir o, al menos, intentarlo.  
+
+<blockquote>
+In earlier times, software (and communications) were far more interoperable than today. This made it possible for projects from different countries and companies to interoperate, which allowed for some competition. You could at least attempt to (re)join the party. 
+</blockquote>
+
+Esto nos ha conducido a utilizar sistemas de comunicación privativos (incluyendo el sentido de exclusivos, esto es, que excluyen).
+
+<blockquote>
+So all communications are now on proprietary or exclusionary platforms - it is for example getting hard to deliver email from your own mail infrastructure without ending up in a spam folder over at Gmail.
+</blockquote>
+
+Y, claro, no podemos volvernos locos: si queremos que la gente en Europa utilice servicios europeos, tenemos que proporcionarle servicios de calidad excelente, de forma grauita. O al menos, digo yo, suficientemente buenos.
+Talento hay, muchas veces trabajando para esas empresas norteamericanas.
+
+<blockquote>
+If Europe wants to have its citizens (and companies) rely significantly on European-operated software, it has no choice but to develop better software, and to also offer that for free. The good news is: we have the talent. Tens of thousands of Europeans work for US tech companies, often from Europe even.
+</blockquote>
+
+No debería ser un problema de dinero, porque las cantidades implicadas no son inabarcables en un contexto europeo.
+
+<blockquote>
+The amounts of money involved in software development are trivial on an EU- wide scale. The EU spends several billions every year on worthy infrastructure projects ...
+</blockquote>
+
+Pero no necesitamos los programas al estilo que nos suelen mostrar nuestros gobiernos, sino aplicaciones atractivas y que deseemos usar.
+
+<blockquote>
+ It will still
+cost real money though - we don't need "government-grade" or typical clunky open source software, we need very compelling apps and services that can compete on quality.
+</blockquote>
+
+Esto no significa que no deban ser aplicaciones de software libre, o que no se deban construir sobre este tipo de soluciones.
+
+<blockquote>
+Note that such solutions might well be open source, and are almost guaranteed to be built on top of existing open source products. 
+</blockquote>
+
+Un ejemplo reciente podrían ser las aplicaciones relacionadas con la COVID (nota mía: de poco éxito de uso, pero eso ya sería por motivos diferentes) que han demostrado que se podían financiar y hacer desarrollos comunes. 
+
+<blockquote>
+With enough political will however, it should be possible to find structures
+to fund European programmers to write compelling software for Europeans. Some
+of the recent Corona App programs may prove instructive.
+</blockquote>
+
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None
