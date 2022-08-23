@@ -1,0 +1,32 @@
+La web independiente y lo que puede frenar a muchas personas
+<a href="https://flickr.com/photos/fernand0/55618148/" title="Portátiles "><img src="//live.staticflickr.com/27/55618148_48de499ca8.jpg" alt="Portátiles " class="img-responsive img-centered"></a>
+Hace unas semanas ya hablábamos de la 'indie web' en <a href="http://fernand0.blogalia.com/historias/78515">POSSE, PESOS, PESETAS: tu contribución a la red y diversas formas de manejarla</a>. Se sigue hablando (no mucho) de ella y en esta ocasión traemos <a href="https://www.miriamsuzanne.com/2022/06/04/indiweb/">Am I on the IndieWeb Yet?</a> que trae un poco de realidad a todo este asunto.
+
+Se manifiesta simpatizante de la cosa (ser propietario de los datos, disponer de un espacio para jugar y experimentar, compartir contenido en formatos abiertos, microformatos, ...)
+
+<blockquote>
+I’m really into the IndieWeb, or the ideas behind it. I like to own my data, I like a space to play and experiment, I like the idea of syndicating content to be read/experienced in a variety of formats. I love microformats, and RSS feeds, and… wait… how do webmentions work?
+</blockquote>
+
+Pero, claro, por muy simpatizante que seas tienes que estar dispuesto (dispuesta, ella) a invertir un esfuerzo y, además, no está claro que hacerlo vaya a resolver el problema.
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Personal sites are wonderful. But they can be a lot of work to set up &amp; maintain. Also: personal solutions don&#39;t solve the problem of building networks &amp; public digital spaces.<br><br>If we want &#39;personal sites&#39; to be an answer to social platforms, we have a lot of work to do.</p>&mdash; Mia (@TerribleMia) <a href="https://twitter.com/TerribleMia/status/1519404061711224833?ref_src=twsrc%5Etfw">April 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+Asi que se declara escéptica.
+
+<blockquote>
+At the core, I’m skeptical about treating “public space” issues as a matter of personal responsibility.
+</blockquote>
+
+Y después del trabajo, tampoco está claro que lo hayamos hecho bien, así que el trabajo no está terminado.
+
+<blockquote>
+And I’m not always sure I have it set up right? Validators flag the style attribute (setting custom props in some content), or embedded iframes (for audio/video), or scripts (usually for embedding content). How much should I worry about these issues? Do I need to run my content through a tool like sanitize-html, and if so, how strict should it be? I often have similar questions when setting up microformats, and trying to match the needs of the format to the needs of my content.
+</blockquote>
+
+Interesante. No todos estamos dispuestos a hacer estos esfuerzos y, a lo mejor, habría que pensar en soluciones para la gente corriente.
+
+Por si hay alguna persona interesada en explorar esto de la IndieWeb, una lista de recursos en <a href="https://book.micro.blog/">Indie Microblogging</a>.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

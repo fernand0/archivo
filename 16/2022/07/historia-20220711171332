@@ -1,0 +1,120 @@
+Los algoritmos, los sesgos y analizar con cuidado para no equivocarse.
+<a href="https://flickr.com/photos/fernand0/51648337875/" title="Castro de Santa Tecla "><img src="//live.staticflickr.com/65535/51648337875_5b6356f444.jpg" alt="Castro de Santa Tecla " class="img-responsive img-centered"></a>
+Llevamos ya una (un poco larga) temporada echándole la culpa al algoritmo (el otro día en unas infames noticias hablaban -todavía- del logaritmo). 
+Es como si de pronto, nos hubiéramos vuelto idiotas y fuéramos a aceptar lo que el algoritmo diga sin posibilidad de recurso (que no digo que en algunos casos no sea así) o como si el humano al cargo hasta hace nada no pudiera meter la pata, o tuviera sus propios sesgos, que aplicaba con poco cuestionamiento (incluso con, ahora, añoranza de aquello).
+
+Por eso vale la pena leer textos como <a href="https://philosophicaldisquisitions.blogspot.com/2022/04/how-can-algorithms-be-biased.html">How Can Algorithms Be Biased?</a> que profundiza un poco en estos temas y nos puede ayudar a centrar el tiro.
+
+Por un lado, nos recuerda, hay sesgos morales (o moralizados) y otros que no lo son. 
+
+<blockquote>
+One of the biggest sources of confusion in the debate about algorithmic bias is the fact that people use the term ‘bias’ in moralised and non-moralised ways.
+</blockquote>
+
+Cualquier algoritmo se diseña pensando en conseguir un objetivo, y en ese sentido su trabajo es seleccionar unos ciertos resultados a partir de los datos de entrada. Ciertamente, parece que tienen sesgo, orientado a alcanzar una determinada solución.
+
+<blockquote>
+Let’s start with the non-moralised sense. All algorithms are designed with a purpose in mind. [...] In each case, there is a set of possible outcomes among which the algorithm can select, but it favours a particular subset of outcomes because those match better with some goal or value (usefulness, speed etc).
+
+In this sense it is true to say that most, if not all, algorithms are inherently biased. They are designed to be.
+</blockquote>
+
+En este sentido parece útil que tengan ese sesgo, que les permite alcanzar una solución. No sólo eso, no parece que sea moralmente reprobable que esto sea así.
+
+<blockquote>
+But there is nothing necessarily morally problematic about this inherent bias. Indeed, in some cases it is morally desirable (though this depends on the purpose of the algorithm). 
+</blockquote>
+
+Si pensamos en los aspectos morales, es posible que algunos algoritmos, con estos mismos sesgos tiendan a obtener resultados que tienen un impacto injusto en determinadas personas o poblaciones.
+
+<blockquote>
+How does this contrast with the moralised sense of ‘bias’? Well, although all algorithms favour certain kinds of output, sometimes they will systematically favour outputs that have an unfair impact on a certain people or populations.
+</blockquote>
+
+Por lo tanto, nos dice, son necesarios dos requisitos para que un algoritmo sea considerado sesgado en este segundo aspecto, el moral.
+
+Por un lado, que el sesgo sea sistemático: de manera consistente y predecible favorece a una determinada población. Incluso si este efecto es indirecto.
+
+<blockquote>
+    Systematic output: The algorithm must systematically (consistently and predictably) favour one population/group over another, even if it this effect is only indirect.
+</blockquote>
+
+por otro lado, un efecto injusto: trata a algunos grupos o poblaciones de manera diferente por razones moralmente arbitrarias o ilegítimas.
+
+<blockquote>
+    Unfair effect: The net effect of the algorithm must be to treat populations/groups differently for morally arbitrary or illegitimate reasons
+</blockquote>
+
+Sin olvidar que el sesgo podría ser temporal, por alguna razón accidental; y por eso se dice que debe ser sistemático.
+
+<blockquote>
+The systematicity condition is there in order to rule out algorithms that might be biased, on occasions, for purely accidental reasons, but not on a repeated basis. 
+</blockquote>
+
+Pero sí que es cierto que el efecto puede ser indirecto (por ejemplo, si valora especialmente el nivel educativo lo tendrá en cuenta perfectamente, pero podría afectar a poblaciones que no tienen el acceso a la educación tan fácil como otras.
+
+<blockquote>
+Furthermore, when I say that the systematic effect on one population may be ‘indirect’ what I mean is that the algorithm itself may not be overtly or obviously biased against a certain population, but nevertheless affects them disproportionately. For example, a hiring algorithm that focused on years spent in formal education might seem perfectly legitimate on its face, with no obvious bias against certain populations, but its practical effect might be rather different. It could be that certain ethnic minorities spend less time in formal education (for a variety of reasons) and hence the hiring algorithm disproportionately disfavours them.
+</blockquote>
+
+Cuando tenemos en cuenta la moral un algoritmo sesgado es dañino. Rompe una norma moral, produce un tratamiento injusto y posiblemente viola derechos.
+
+<blockquote>
+One last point before we move on. In the moralised sense, a biased algorithm is harmful. It breaches a moral norm, results in unfair treatment, and possibly violates rights.
+</blockquote>
+
+Pero hay muchas formas de daño moral que no deben contar como relevantes en estos sesgos: un sistema algorítmico que produce accidentes en determinadas condiciones, podría estar mal diseñado, pero no sería sesgado en el sentido que nos interesa, porque afectaría de la misma forma a todos los pasajeros (al menos en principio) independientemente de su pertenencia a un determinado grupo.
+
+<blockquote>
+But there are many forms of morally harmful AI that would not count as biased in the relevant sense. For instance, an algorithmic system for piloting an airplane might result in crashes in certain weather conditions (perhaps in a systematic way), but this would not count as a biased algorithm. Why not? Because, presumably, the crashes would affect all populations (passengers) equally. It is only when there is some unfair treatment of populations/groups that there is bias in the moralised sense.
+</blockquote>
+
+El sesgo algoritmico puede tener tres posibles causas.
+
+Sesgo preexistente. Esto es, el algoritmo hereda un comportamiento que ya se producía antes. De manera explícita o implícita.
+
+<blockquote>
+Preexisting bias: The computer system takes on a bias that already exists in society or social institutions, or in the attitudes, beliefs and practices of the people creating it. This can be for explicit, conscious reasons or due to the operation of more implicit factors.
+</blockquote>
+
+Sesgo técnico. Existe alguna restricción técnica que hace que los resultados resulten sesgados. Bien por restricciones de la propia máquina (mostrar ciertos resultados en una pantalla, por ejemplo) o de los programas (se traducen de manera inadecuada las difusas motivaciones que son necesarias para tomar una decisión).
+
+<blockquote>
+Technical bias: The computer system is technically constrained in some way and this results in some biased output or effect. This can arise from hardware constraints (e.g. the way in which algorithmic recommendations have to be displayed to human users on screens with limited space) or problems in software design (e.g. how you translate fuzzy human values and goals into precise quantifiable targets).
+</blockquote>
+
+Finalmente, pueden existir sesgos emergentes, debidos a la implantación del propio sistema (algo tan simple como usar un conjunto de normas en una cultura diferente).
+
+<blokcquote>
+    Emergent bias: Once the system is deployed, something happens that gives rise to a biased effect, either because of new knowledge or changed context of use (e.g. a system used in a culture with a very different set of values).
+</blockquote>
+
+Nos cuenta un ejemplo de un sistema que favorecía a las aerolíneas estadounidenses porque favorecía conectar vuelos del mismo operador y eso favorecía a las que estaban implantadas allí y excluía a las extranjeras, que no operaban esos vuelos domésticos.
+O el ejemplo de la pantalla, si sólo se pueden mostrar los cinco primeros resultados, estar entre estos va a ser una ventaja por cómo nos comportaremos los humanos.
+
+En el tema del sesgo previo todavía podemos profundizar más, puesto que puede ocultar un rango amplio de causas subyacentes.
+
+Pero a lo mejor es más útil pensar en el proceso: el desarrollo, diseño, y despliegue de un sistema algorítmico. La toma de decisiones, la especificación...
+
+<blockquote>
+we think instead about the process of developing, designing and deploying an algorithmic system. They call this the ‘pipeline’. It starts with the decision to use an algorithmic system to assist (or replace) a human decision-maker. At this stage you have to specify the problem that you want the system to solve. Once that is done, you have to design the system, translating the abstract human values and goals into a precise and quantifiable machine language. 
+</blockquote>
+
+Y después, todavía hay un par de procesos relevantes más, la recolección de datos y su procesado; y el modelado y validación. Finalmente, se implantará de alguna forma y comenzará a afectar al mundo real.
+
+<blockquote>
+This phase is typically divided into two separate processes: (i) data collection and processing and (ii) modelling and validation. Then, finally, you have to deploy the system in the real world, where it starts to interact with human users and institutions.
+</blockquote>
+
+El sesgo puede aparecer en cualquiera de las fases del proceso: especificación del problema (¿identificamos bien los resultados que queremos obtener?), el modelado y la validación (¿qué criterios nos hacen aceptar una solución?), el despliegue (¿están alineadas las respuestas con lo que esperan sus usuarios/beneficiarios/perjudicados?).
+
+<blockquote>
+Bias can arise at each stage in the process.
+</blockquote>
+
+Muy interesante.
+
+Para terminar, pensemos en el poblado de la foto, diseñado por y para unos determinados habitantes (sin sistemas informáticos por enmedio): ¿podríamos vivir adecuadamente allí? Y no hablo de las comodidades sino de tamaño de los huecos, alturas, ... Evidentemente hay un sesgo y el 'sistema' no estaba mal diseñado, sólo era el adecuado (o lo mejor que se podían permitir) para los habitantes de aquel momento.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

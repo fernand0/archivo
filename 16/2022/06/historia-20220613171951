@@ -1,0 +1,28 @@
+En el suplemento Tercer Milenio de Heraldo de Aragón, hablando de Ciberseguridad
+<a href="https://www.heraldo.es/noticias/sociedad/2022/06/07/ciberseguridad-un-reto-permanente-1579851.html" title="eFindex: Enredados "><img src="https://i.imgur.com/YsxN0e7.jpg" alt="En Tercer Milenio " width="240" style="float:left; margin:5px"></a>
+Nos contactó Pilar Perla, la coordinadora del suplemento de Heraldo de Aragón sobre Ciencia y Tecnología para hablar de Ciberseguridad.
+
+Se puede ver una parte en <a href="https://www.heraldo.es/noticias/sociedad/2022/06/07/ciberseguridad-un-reto-permanente-1579851.html">Ciberseguridad, un reto permanente</a> que escribimos a cuatro manos con José Félix Muñoz Soro.
+
+Además, escribí un texto más cortito basado en el que anunciaba hace unos días <a href="http://fernand0.blogalia.com/historias/78539">En Ronda Somontanto dando algunos consejos de ciberseguridad</a>. Lo reproduzco a continuación por si es de interés para alguien:
+
+<blockquote>
+Consejos de ciberseguridad para pequeñas organizaciones
+
+Constantemente se publican datos sobre ciberataques, fraudes en línea y también información diversa sobre los riesgos a los que nos enfrentamos en la red. Un informe reciente de Arkose Lab (una las innumerables consultoras de ciberseguridad) afirmaba que el 80% de los ataques de intento de acceso a sistemas empresariales utilizaban credenciales que habían sido robadas en algún ataque previo. Esto es, los atacantes habían conseguido contraseñas a través de algún servicio o sistema sobre el que no tenemos control e intentaban utilizarlas en nuestros sistemas. Una amplia mayoría son ataques automatizados donde no hay intervención humana; esto tiene dos consecuencias: primero, el objetivo no está seleccionado a priori, sino que los atacantes tratan de obtener resultados donde sea posible, y segundo, casi nunca se trata de ataques muy sofisticados. En nuestro entorno, durante los últimos años los ataques de los que más oímos hablar son los intentos de secuestro de información (‘ransomware’).
+
+La conclusión es que cualquiera puede verse afectado por uno de estos ataques y que podríamos protegernos con un poco de esfuerzo.
+
+En todo caso, este no pretende ser un mensaje para asustar a nadie, sino un recordatorio para que nos pongamos (o continuemos) con la tarea de proteger nuestros recursos digitales. La mayoría de los ataques informáticos se basan en tratar de sacar provecho de vulnerabilidades que son conocidas y tienen solución. Nunca hay que perder de vista que la misión fundamental de las empresas es cumplir los objetivos para los que fueron creadas (fabricar, distribuir, vender, prestar servicios…), pero tampoco podemos obviar que si un ciberataque dejara sin funcionar los sistemas informáticos necesarios para realizar estas tareas, no podríamos cumplirlos.
+
+Entre las acciones que deberíamos realizar, probablemente sería una buena idea realizar un inventario de nuestros activos digitales y analizar su estado desde el punto de vista de la seguridad informática: cómo se conectan unos con otros, estudiar la visibilidad que un atacante (externo ¿e interno?) podría tener de nuestra información y qué consecuencias tendría para nuestro negocio la falta de disponibilidad de un recurso…; sin olvidar revisar nuestra política de copias de seguridad, para asegurarnos de que podríamos volver a poner todo en funcionamiento tras un incidente (y en cuánto tiempo; no hay nada más desagradable que descubrir que nuestras copias de seguridad no sirven o que no podemos restaurarlas suficientemente rápido).
+
+En otro informe reciente, esta vez de Accenture, se nos recordaba la actitud correcta para enfrentarse al problema. No se trata de tener tanto miedo que nos impida realizar nuestro trabajo por culpa de las medidas de seguridad (‘obstaculizadores del negocio’), ni tampoco despreocuparnos tanto que cualquier ataque pueda terminar afectándonos de manera grave (‘los vulnerables’). Los ‘ciberdefensores’, nos dicen, tratan de lograr un equilibrio entre ciberresiliencia y objetivos empresariales.
+
+Por lo tanto, debemos reconsiderar nuestra estrategia de protección. Siempre en línea con los objetivos de nuestra organización (no hay una solución única para todos), con un análisis de riesgos y de la propia situación: no se puede pasar de 0 a 100 en un instante. Y sin olvidar que la seguridad es un proceso y depende de cuál sea nuestro lugar en el camino deberemos realizar unas acciones u otras.
+</blockquote>
+
+Nota publicada originalmente en <a href="http://webdiis.unizar.es/~ftricas/blog/enlosmedios/2022-06-07-09-00.html">En el suplemento Tercer Milenio de Heraldo de Aragón, hablando de Ciberseguridad</a>.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

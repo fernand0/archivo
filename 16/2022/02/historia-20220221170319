@@ -1,0 +1,59 @@
+Sitios web de baja tecnología y bajo consumo
+<a href="https://flickr.com/photos/fernand0/28782059/" title="Atardecer pesado "><img src="//live.staticflickr.com/21/28782059_8c19807399.jpg" alt="Atardecer pesado " width="240" style="float:left; margin:5px"></a>
+En <a href="https://solar.lowtechmagazine.com/2018/09/how-to-build-a-lowtech-website.html">How to Build a Low-tech Website?</a> un texto interesante. No estoy seguro de si 'baja tecnología' describe bien la cosa, porque más bien nos hablan del consumo eléctrico.
+
+Es cierto que reducir las 'prestaciones' de un sitio ayuda a reducir el consumo y aquí lo consiguen y, además, alimentan la energía mediante generación solar.
+Aunque eso signifique que el sitio se apague cuando no hay suficiente sol.
+
+<blockquote>
+Our new web design addresses both these issues. Thanks to a low-tech web design, we managed to decrease the average page size of the blog by a factor of five compared to the old design – all while making the website visually more attractive (and mobile-friendly). Secondly, our new website runs 100% on solar power, not just in words, but in reality: it has its own energy storage and will go off-line during longer periods of cloudy weather.
+</blockquote>
+
+¿Cómo lo hacen?
+El sitio es estático (no hay base de datos, ni se ejecutan programas para generar el contenido, por ejemplo):
+
+<blockquote>
+One of the fundamental choices we made was to build a static website. Most of today’s websites use server side programming languages that generate the website on the fly by querying a database. This means that every time someone visits a web page, it is generated on demand.
+</blockquote>
+
+A mi me parece muy sugerente la idea de los sitios estáticos y varias de las páginas web que he tenido que hacer últimamante se generan así (una vez, se publican y los usuarios ven esta versión estática).
+Pero lo cierto es que no es tan fácil encontrar ayuda para hacerlo, porque muchos administradores ya están acostumbrados a sus soluciones basadas en CMSs dinámeicos (¿he oído WordPress?) y prefieren no pensar mucho más.
+
+También reducen el tamaño de las imágenes, esencialmente, reduciendo el número de colores y explorando los formatos utilizados.
+
+<blockquote>
+Instead, we chose to apply an obsolete image compression technique called “dithering”. The number of colours in an image, combined with its file format and resolution, contributes to the size of an image. Thus, instead of using full-colour high-resolution images, we chose to convert all images to black and white, with four levels of grey in-between.
+</blockquote>
+
+Otras fuentes de ahorro vienen de no utilizar un logotipo, no cargar fuentes de texto especiales (lo que significa que cada usuario lo verá según las fuentes de su propio navegador).
+
+<blockquote>
+All resources loaded, including typefaces and logos, are an additional request to the server, requiring storage space and energy use. Therefore, our new website does not load a custom typeface and removes the font-family declaration, meaning that visitors will see the default typeface of their browser. 
+</blockquote>
+
+Finalmente, eliminan las cookies, seguimiento por parte de terceros, anuncios y todas esas tecnologías que cargarían la página.
+
+<blockquote>
+Web analysis software such as Google Analytics records what happens on a website — which pages are most viewed, where visitors come from, and so on. These services are popular because few people host their own website. However, exchanging these data between the server and the computer of the webmaster generates extra data traffic and thus energy use.
+</blockquote>
+
+Como decíamos arriba, si generas tu propia energía y tienes una pequeña batería para cuando eso falla, es posible que el sitio se apague de vez en cuanod.
+
+<blockquote>
+However, during cloudy days, especially in winter, daily energy production could be as low as 4 hours x 10 watts = 40 watt-hours per day, while the server requires beteen 24 and 60 Wh per day. The battery storage is roughly 40 Wh, taking into account 30% of charging and 33% depth-or-discharge (the solar charge controller shuts the system down when battery voltage drops to 12V).
+</blockquote>
+
+Como consecuencia, hay mejores y peores horas para visitar el sitio.
+Las indican en el color del fondo, la cabecera (donde muestran la hora, el aspecto del cielo, ...).
+
+<blockquote>
+A battery meter provides crucial information because it may tell the visitor that the blog is about to go down — or that it’s “safe” to read it. The design features a background colour that indicates the capacity of the solar-charged battery that powers the website server. A decreasing height indicates that night has fallen or that the weather is bad.
+</blockquote>
+
+¿Y tú? ¿Ya has pensado en utilizar sitios de baja tecnología e intentar reducir el consumo de tu sitio web?
+
+Justo el otro día podíamos leer también que hay lenguajes de programación más eficientes y menos, de la mano de Amazon: <a href="https://aws.amazon.com/es/blogs/opensource/sustainability-with-rust/">Sustainability with Rust</a>.
+
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None

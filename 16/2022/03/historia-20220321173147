@@ -1,0 +1,60 @@
+Cuanto más larga, mejor.
+<a href="https://flickr.com/photos/fernand0/6186853984/" title="Letras "><img src="//live.staticflickr.com/6162/6186853984_197165b70f.jpg" alt="Letras " width="240" style="float:left; margin:5px"></a>
+Hablamos de contraseñas. Llevamos unas semanas recibiendo recomendaciones de cambiar nuestras contraseñas y también consejos de lo más variados sobre qué hacer para que sean de suficiente calidad. Para mi la referencia sigue siendo un artículo que ya tiene unos añitos, pero que lo explica todo bastante bien <a href="https://kilthub.cmu.edu/articles/journal_contribution/Measuring_Password_Guessability_for_an_Entire_University_CMU-CyLab-13-013_/6467963">Measuring Password Guessability for an Entire University</a>.
+En resumen viene a decir que es mejor tener contraseñas largas y complejas, pero no de cualquier forma (porque tenemos tendencia a poner la complejidad en determinados sitios: mayúsculas al principio, símbolos y números al final).
+
+<blockquote>
+We also confirm patterns previously held as folk wisdom: passwords with more digits, symbols, and uppercase letters are harder to crack, but adding them in predictable places is less effective.
+</blockquote>
+
+Y que es mala idea dar consejos de complejidad, porque se ven como una molestia, y no como una protección.
+
+<blockquote>
+Our analysis suggests it would be useful to find policies that would be less annoying to users and that would discourage users from complying with the policy in predictable ways.
+</blockquote>
+
+Al final, igual es bueno tener contraseñas más largas y menos complejas:
+
+<blockquote>
+... for example, reducing the number of required character classes but requiring longer passwords, prohibiting special characters at the beginning or end of the password, or changing the dictionary check to permit dictionary words with symbols or digits in the middle.
+</blockquote>
+
+Este último punto se ve reforzado por un artículo que referencia a Ross Bevington, un ingeniero de Microsoft en <a href="https://therecord.media/attackers-dont-bother-brute-forcing-long-passwords-microsoft-engineer-says/">Attackers don't bother brute-forcing long passwords, Microsoft engineer says</a>.
+
+Salvo que vaya a por nosotros por algún motivo, un atacante no necesita nuestra clave, sino que necesita la clave que pueda conseguir antes en un sistema: o bien, tantas claves como sea capaz de conseguir de tantos sistemas como pueda. La rapidez es importante.
+
+Y tiene buenos datos, nada menos que 25 millones de ataques de fuerza bruta contra servidores SSH detectados por la red de sensores de Microsoft.
+
+<blockquote>
+"I analysed the credentials entered from over >25 million brute force attacks
+against SSH. This is around 30 days of data in Microsoft's sensor network,"
+</blockquote>
+
+El 77% de los intentos utilizaban contraseñas entre 1 y 7 caracteres y sólo iban más allá de 10 caracteres en un 6% de los casos.
+
+<blockquote>
+"77% of attempts used a password between 1 and 7 characters. A password over
+10 characters was only seen in 6% of cases,"
+</blockquote>
+
+También afirma que solamente un 7% de los intentos con fuerza bruta contenían algún caracter especial, un 39% tenían números y ninguno contenía un espacio en blanco.
+
+<blockquote>
+Bevington says that only 7% of the brute-force attempts he analyzed in the
+sample data included a special character. In addition, 39% actually had at
+least one number, and none of the brute-force attempts used passwords that
+included white space.
+</blockquote>
+
+Se puede leer en <a href="https://www.linkedin.com/posts/ross-bevington-854440152_i-analysed-the-credentials-entered-from-over-activity-6842405845427359744-VF_S/">Ross Bevington’s Post</a>.
+
+Así que, si han llegado hasta aquí: la contraseña, cuanto más larga mejor. Algún caracter especial en sitios no predecibles 
+
+Se puede leer en <a href="https://www.linkedin.com/posts/ross-bevington-854440152_i-analysed-the-credentials-entered-from-over-activity-6842405845427359744-VF_S/">Ross Bevington’s Post</a>.
+
+Así que, si han llegado hasta aquí: la contraseña, cuanto más larga mejor. Algún caracter especial en sitios no predecibles (ni al rpincipio ni al final) también ayudará.
+ 
+Pero seguramente lo mejor será utilizar un gestor de contraseñas, que mejorará mucho la variedad y la calidad de las mismas.
+
+ Dónde:Reflexiones e Irreflexiones
+ URL:http://fernand0.blogalia.com//historias/None
